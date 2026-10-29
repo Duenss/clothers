@@ -335,8 +335,16 @@ emotes = [i for i in items if i["categoria"] == "EMOTES"]
 print(len(emotes), emotes[0]["name"], emotes[0]["itemID"], emotes[0]["image"])
 ```
 
-Abre `gallery.html` en el navegador para buscar por nombre, ID, icon ID, tipo,
-rareza, tag o categoria.
+Para abrir el visor, sirve la carpeta con un servidor local (el navegador bloquea
+`fetch` sobre `file://`):
+
+```bash
+python -m http.server 8000
+# http://localhost:8000/gallery.html
+```
+
+Busca por nombre, item ID, icon ID, tipo, rareza, tag o categoria, y copia el ID
+con un clic.
 
 ## Notas
 
