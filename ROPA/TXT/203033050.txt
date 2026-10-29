@@ -1,0 +1,8 @@
+ITEM ID: 203033050
+ICON ID: Icon_avatar_cos_top_foolsdinosauria
+NOMBRE: 2D_Dino_draft
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033050.png

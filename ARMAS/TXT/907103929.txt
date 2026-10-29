@@ -1,0 +1,8 @@
+ITEM ID: 907103929
+ICON ID: Icon_Sickle_Scarlet
+NOMBRE: Scythe - Scorpio
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103929.png

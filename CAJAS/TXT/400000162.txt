@@ -1,0 +1,8 @@
+ITEM ID: 400000162
+ICON ID: Icon_face_female_sc_Bodyguard
+NOMBRE: Nikita's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to Receive Memory Fragment (Nikita)
+IMAGEN: CAJAS/imagenes/400000162.png

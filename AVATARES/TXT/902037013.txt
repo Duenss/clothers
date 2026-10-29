@@ -1,0 +1,8 @@
+ITEM ID: 902037013
+ICON ID: Icon_face_FFWS_BR2
+NOMBRE: Vivo Keyd Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037013.png

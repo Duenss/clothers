@@ -1,0 +1,8 @@
+ITEM ID: 801000293
+ICON ID: Icon_exchange_Camel_Coin
+NOMBRE: Camel Coin
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Pay your debt.
+IMAGEN: CAJAS/imagenes/801000293.png

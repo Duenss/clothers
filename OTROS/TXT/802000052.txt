@@ -1,0 +1,8 @@
+ITEM ID: 802000052
+ICON ID: FF_Lottery_TopCriminal_Royale_Voucher
+NOMBRE: Top Criminal Royale Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Top Criminal event
+IMAGEN: OTROS/imagenes/802000052.png

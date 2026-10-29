@@ -1,0 +1,8 @@
+ITEM ID: 904055006
+ICON ID: Icon_Bag_MAF26
+NOMBRE: Backpack - Moon Cake
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904055006.png

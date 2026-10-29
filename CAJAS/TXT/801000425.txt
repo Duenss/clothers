@@ -1,0 +1,8 @@
+ITEM ID: 801000425
+ICON ID: Icon_exchange_ob21_camel
+NOMBRE: Camel Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: For your journey across the desert
+IMAGEN: CAJAS/imagenes/801000425.png

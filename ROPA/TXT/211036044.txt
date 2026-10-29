@@ -1,0 +1,8 @@
+ITEM ID: 211036044
+ICON ID: Icon_avatar_cos_hair_potentia_01
+NOMBRE: Pacific Breeze (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036044.png

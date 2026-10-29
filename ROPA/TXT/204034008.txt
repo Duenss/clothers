@@ -1,0 +1,8 @@
+ITEM ID: 204034008
+ICON ID: Icon_avatar_male_cos_bottom_festival_pk
+NOMBRE: Legend Unfold (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034008.png

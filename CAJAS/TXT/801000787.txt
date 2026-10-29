@@ -1,0 +1,8 @@
+ITEM ID: 801000787
+ICON ID: Icon_exchange_ob25_special_blueprint_b
+NOMBRE: Special Blueprint B
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Go get your secret weapon
+IMAGEN: CAJAS/imagenes/801000787.png

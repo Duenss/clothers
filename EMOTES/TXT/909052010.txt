@@ -1,0 +1,8 @@
+ITEM ID: 909052010
+ICON ID: Icon_Emote_Buggy_Tpose
+NOMBRE: T-pose
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909052010.png

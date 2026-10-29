@@ -1,0 +1,8 @@
+ITEM ID: 801001416
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Tet Vibe
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tet Holiday in Vietnam
+IMAGEN: CAJAS/imagenes/801001416.png

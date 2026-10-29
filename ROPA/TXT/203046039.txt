@@ -1,0 +1,8 @@
+ITEM ID: 203046039
+ICON ID: Icon_avatar_cos_top_ffws_sf02
+NOMBRE: FFWS 2024 GF - E1 Sports (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046039.png

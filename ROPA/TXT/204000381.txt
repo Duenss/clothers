@@ -1,0 +1,8 @@
+ITEM ID: 204000381
+ICON ID: Icon_avatar_male_bottom_cos_scientist
+NOMBRE: Lab Giant (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000381.png

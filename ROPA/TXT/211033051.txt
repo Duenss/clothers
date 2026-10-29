@@ -1,0 +1,8 @@
+ITEM ID: 211033051
+ICON ID: Icon_avatar_male_cos_accessory_fastbreaking22
+NOMBRE: Timbered Blooms (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033051.png

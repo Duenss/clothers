@@ -1,0 +1,8 @@
+ITEM ID: 921054027
+ICON ID: FF_UI_Voiceitem_US54B
+NOMBRE: Hit them with the chair!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: The Wrestling is here! voice pack
+IMAGEN: MUSICA/imagenes/921054027.png

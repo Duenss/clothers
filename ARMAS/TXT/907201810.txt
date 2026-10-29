@@ -1,0 +1,8 @@
+ITEM ID: 907201810
+ICON ID: Icon_M4A1_Halloweenbat
+NOMBRE: M4A1 - Deadly Bat
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201810.png

@@ -1,0 +1,8 @@
+ITEM ID: 203048030
+ICON ID: Icon_avatar_cos_top_waterfest25
+NOMBRE: Sea Foam (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048030.png

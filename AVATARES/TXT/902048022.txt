@@ -1,0 +1,8 @@
+ITEM ID: 902048022
+ICON ID: Icon_face_LW_ID25_01
+NOMBRE: LW-Ranked Gold Wolf Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048022.png

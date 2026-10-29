@@ -1,0 +1,8 @@
+ITEM ID: 211047044
+ICON ID: Icon_avatar_male_cos_accessory_nb_black
+NOMBRE: Sasuke Headwear
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047044.png

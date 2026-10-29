@@ -1,0 +1,8 @@
+ITEM ID: 801000537
+ICON ID: Icon_exchange_ob23_gasoline_tank
+NOMBRE: Printer Fuel
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: In Boost page, fuel can be added to Money Printer to speed it up. During event, Money Printer Fuel can be found in maps of all modes.
+IMAGEN: CAJAS/imagenes/801000537.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001175
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Terror Monster Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001175.png

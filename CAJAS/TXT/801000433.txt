@@ -1,0 +1,8 @@
+ITEM ID: 801000433
+ICON ID: Icon_exchange_ob21_cannon
+NOMBRE: Cannon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: As loud as it needs to be
+IMAGEN: CAJAS/imagenes/801000433.png

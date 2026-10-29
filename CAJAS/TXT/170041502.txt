@@ -1,0 +1,8 @@
+ITEM ID: 170041502
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Balloon Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Choose Wisely
+IMAGEN: CAJAS/imagenes/170041502.png

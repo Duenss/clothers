@@ -1,0 +1,8 @@
+ITEM ID: 801047530
+ICON ID: Icon_exchange_2NYT_th_47
+NOMBRE: 2025 New Year Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047530.png

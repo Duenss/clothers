@@ -1,0 +1,8 @@
+ITEM ID: 400000818
+ICON ID: Icon_box_3
+NOMBRE: Easter Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Ready to get lucky?
+IMAGEN: ROPA/imagenes/400000818.png

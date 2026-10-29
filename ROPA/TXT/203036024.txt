@@ -1,0 +1,8 @@
+ITEM ID: 203036024
+ICON ID: Icon_avatar_male_cos_top_vn_playoffs
+NOMBRE: Iron Hero (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036024.png

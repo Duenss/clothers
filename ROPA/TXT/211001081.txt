@@ -1,0 +1,8 @@
+ITEM ID: 211001081
+ICON ID: Icon_avatar_male_cos_hair_blackmystery
+NOMBRE: Cloaked Knight (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001081.png

@@ -1,0 +1,8 @@
+ITEM ID: 900000015
+ICON ID: FF_UI_Emote_Collection_BAN
+NOMBRE: Default - No Animation
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Equip to display special effects during matchmaking, on profile page, and in MVP announcements
+IMAGEN: OTROS/imagenes/900000015.png

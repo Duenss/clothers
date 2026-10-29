@@ -1,0 +1,8 @@
+ITEM ID: 211034070
+ICON ID: Icon_avatar_male_cos_accessory_madbionic
+NOMBRE: Magma Bionicon (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034070.png

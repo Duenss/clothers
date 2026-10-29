@@ -1,0 +1,8 @@
+ITEM ID: 211047042
+ICON ID: Icon_avatar_male_cos_hair_brrapper_47_head
+NOMBRE: Salt Dread Style (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047042.png

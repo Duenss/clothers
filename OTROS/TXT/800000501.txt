@@ -1,0 +1,8 @@
+ITEM ID: 800000501
+ICON ID: Icon_WSM_AK47_EvilDragon
+NOMBRE: AK47 - Blue Flame Draco Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the AK47 skins. Obtained from events or buy directly from store
+IMAGEN: OTROS/imagenes/800000501.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104238
+ICON ID: Icon_Pan_Voltage_Free
+NOMBRE: Pan - S37 Exclusive: Electro
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104238.png

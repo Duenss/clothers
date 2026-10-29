@@ -1,0 +1,8 @@
+ITEM ID: 801000304
+ICON ID: Icon_exchange_yellow_skull
+NOMBRE: Yellow Skull
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000304.png

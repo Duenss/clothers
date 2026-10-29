@@ -1,0 +1,8 @@
+ITEM ID: 203000103
+ICON ID: Icon_Avatar_MALE_TSHIRT_SONGKRAN
+NOMBRE: Wet Songkran T-shirt (Male)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000103.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000432
+ICON ID: Icon_exchange_ob21_date
+NOMBRE: Date Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Just the right type of sweet
+IMAGEN: CAJAS/imagenes/801000432.png

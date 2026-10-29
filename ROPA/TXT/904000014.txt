@@ -1,0 +1,8 @@
+ITEM ID: 904000014
+ICON ID: Icon_Bag_royalty1_03
+NOMBRE: Backpack - Aegis
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000014.png

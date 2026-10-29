@@ -1,0 +1,8 @@
+ITEM ID: 907104121
+ICON ID: Icon_GlooShield_Inkpainting
+NOMBRE: Gloo Wall - Ink Screen
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104121.png

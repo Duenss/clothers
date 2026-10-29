@@ -1,0 +1,8 @@
+ITEM ID: 214050009
+ICON ID: Icon_avatar_cos_headadditive_easterrabbit25_fp
+NOMBRE: Galactic Bunny Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214050009.png

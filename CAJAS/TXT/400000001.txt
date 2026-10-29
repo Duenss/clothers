@@ -1,0 +1,8 @@
+ITEM ID: 400000001
+ICON ID: Icon_box_1
+NOMBRE: Bronze Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Obtain new Avatar/Loadout items.
+IMAGEN: CAJAS/imagenes/400000001.png

@@ -1,0 +1,8 @@
+ITEM ID: 211042010
+ICON ID: Icon_avatar_male_cos_hair_theboy_blue
+NOMBRE: Frostfire Polar (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042010.png

@@ -1,0 +1,8 @@
+ITEM ID: 400033107
+ICON ID: Icon_box_3
+NOMBRE: Flaxen Megacypher Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Contains Flaxen Megacypher and all it's pieces
+IMAGEN: ROPA/imagenes/400033107.png

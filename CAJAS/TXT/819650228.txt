@@ -1,0 +1,8 @@
+ITEM ID: 819650228
+ICON ID: FF_Lottery_UniversalRing_Token
+NOMBRE: Ring Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Voucher for Ring events
+IMAGEN: CAJAS/imagenes/819650228.png

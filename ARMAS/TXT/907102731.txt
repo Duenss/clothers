@@ -1,0 +1,8 @@
+ITEM ID: 907102731
+ICON ID: Icon_AN94_FFChar_S21
+NOMBRE: AN94 - S21 Exclusive: Hayato "Firebrand"
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102731.png

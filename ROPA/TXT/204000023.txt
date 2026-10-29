@@ -1,0 +1,8 @@
+ITEM ID: 204000023
+ICON ID: Icon_avatar_jeans_diy_005
+NOMBRE: Jeans (Gaze)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000023.png

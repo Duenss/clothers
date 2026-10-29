@@ -1,0 +1,8 @@
+ITEM ID: 801001006
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Purple Arcade Controller Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001006.png

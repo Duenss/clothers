@@ -1,0 +1,8 @@
+ITEM ID: 400036157
+ICON ID: Icon_box_Sukro_ID_36
+NOMBRE: Sukro Limited Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Congratulations! Use the Sukro Limited Box and get more fun!
+IMAGEN: CAJAS/imagenes/400036157.png

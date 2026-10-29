@@ -1,0 +1,8 @@
+ITEM ID: 203054028
+ICON ID: Icon_avatar_male_cos_top_ninth_orange
+NOMBRE: Flowing Fracture (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054028.png

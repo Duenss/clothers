@@ -1,0 +1,8 @@
+ITEM ID: 902000183
+ICON ID: Icon_face_16_Water
+NOMBRE: Water
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000183.png

@@ -1,0 +1,8 @@
+ITEM ID: 908027007
+ICON ID: Icon_slot_SUV_Truckart
+NOMBRE: Pickup Truck - Fancy Ride
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908027007.png

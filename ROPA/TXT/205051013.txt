@@ -1,0 +1,8 @@
+ITEM ID: 205051013
+ICON ID: Icon_avatar_male_cos_shoe_bathtub
+NOMBRE: Bubble Trouble (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051013.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001062
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda Pickup Truck Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Plan Bermuda Pickup Truck and Plan Bermuda Tokens
+IMAGEN: ROPA/imagenes/400001062.png

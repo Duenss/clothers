@@ -1,0 +1,8 @@
+ITEM ID: 801050506
+ICON ID: Icon_exchange_fgt_id_50
+NOMBRE: FFWS GF Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050506.png

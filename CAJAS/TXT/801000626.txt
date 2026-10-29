@@ -1,0 +1,8 @@
+ITEM ID: 801000626
+ICON ID: Icon_exchange_ob24_FFIC_Gold_Token
+NOMBRE: FFIC Gold Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: FFIC Gold Token
+IMAGEN: CAJAS/imagenes/801000626.png

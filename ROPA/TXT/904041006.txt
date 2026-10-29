@@ -1,0 +1,8 @@
+ITEM ID: 904041006
+ICON ID: Icon_Bag_Ninja
+NOMBRE: Backpack - Flashing Wings
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041006.png

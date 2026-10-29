@@ -1,0 +1,8 @@
+ITEM ID: 904054011
+ICON ID: Icon_Bag_CSRank38
+NOMBRE: Backpack - Crisp Red
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ROPA/imagenes/904054011.png

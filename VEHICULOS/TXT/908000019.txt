@@ -1,0 +1,8 @@
+ITEM ID: 908000019
+ICON ID: Icon_slot_Jeep_Royalguard
+NOMBRE: Jeep - Forsaken Creed
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000019.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105043
+ICON ID: Icon_Baseballbat_FeatherDuster_VN
+NOMBRE: Bat - Feather Duster
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105043.png

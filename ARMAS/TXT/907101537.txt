@@ -1,0 +1,8 @@
+ITEM ID: 907101537
+ICON ID: Icon_M79_Machinegirl
+NOMBRE: M79 - Mechanical
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101537.png

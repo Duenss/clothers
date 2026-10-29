@@ -1,0 +1,8 @@
+ITEM ID: 211035009
+ICON ID: Icon_avatar_female_cos_hair_deepseasharks
+NOMBRE: Megafin Taunter (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035009.png

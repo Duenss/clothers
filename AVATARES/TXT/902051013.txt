@@ -1,0 +1,8 @@
+ITEM ID: 902051013
+ICON ID: Icon_face_Sugarskull25
+NOMBRE: Grim Night Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051013.png

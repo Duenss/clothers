@@ -1,0 +1,8 @@
+ITEM ID: 902042009
+ICON ID: Icon_face_Rank37_B
+NOMBRE: BR-Ranked S37 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042009.png

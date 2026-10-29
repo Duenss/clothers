@@ -1,0 +1,8 @@
+ITEM ID: 700000083
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Glutton Special Crate
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Maxim's exclusive set!
+IMAGEN: ROPA/imagenes/700000083.png

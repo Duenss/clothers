@@ -1,0 +1,8 @@
+ITEM ID: 700000632
+ICON ID: Icon_EAP_Bundle_package
+NOMBRE: Voucher Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Get vouchers to have a good journey in Free Fire!
+IMAGEN: ROPA/imagenes/700000632.png

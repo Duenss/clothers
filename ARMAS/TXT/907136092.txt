@@ -1,0 +1,8 @@
+ITEM ID: 907136092
+ICON ID: Icon_Fist_Lightfest22
+NOMBRE: Fist - Claws of Fury
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136092.png

@@ -1,0 +1,8 @@
+ITEM ID: 913034009
+ICON ID: FF_UI_Vault_Music_MUID
+NOMBRE: Isyana #BattleInStyle
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: By Indonesian DIVA to boost your gameplay experience
+IMAGEN: MUSICA/imagenes/913034009.png

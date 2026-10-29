@@ -1,0 +1,8 @@
+ITEM ID: 211050093
+ICON ID: Icon_avatar_male_cos_accessory_2nbct_hurt
+NOMBRE: Pain Tendo Headwear
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050093.png

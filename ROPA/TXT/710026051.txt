@@ -1,0 +1,8 @@
+ITEM ID: 710026051
+ICON ID: Icon_bundle_GoldenDragon_26
+NOMBRE: Zapping Dreki Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB26
+DESCRIPCION: Open to receive the Zapping Dreki set
+IMAGEN: ROPA/imagenes/710026051.png

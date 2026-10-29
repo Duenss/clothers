@@ -1,0 +1,8 @@
+ITEM ID: 400046021
+ICON ID: Icon_box_BP_S20_Microwaves_46
+NOMBRE: BP S23 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046021.png

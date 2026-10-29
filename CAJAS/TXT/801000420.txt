@@ -1,0 +1,8 @@
+ITEM ID: 801000420
+ICON ID: Icon_exchange_ob21_love_destiny
+NOMBRE: Love & Destiny
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: I would travel a thousand years just to see you...
+IMAGEN: CAJAS/imagenes/801000420.png

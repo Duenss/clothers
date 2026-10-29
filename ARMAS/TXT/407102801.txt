@@ -1,0 +1,8 @@
+ITEM ID: 407102801
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Street Fighter (AWM) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive a random gun skin (AWM) from the Street Fighter weapon set.
+IMAGEN: ARMAS/imagenes/407102801.png

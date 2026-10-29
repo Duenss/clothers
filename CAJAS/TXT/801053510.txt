@@ -1,0 +1,8 @@
+ITEM ID: 801053510
+ICON ID: Icon_exchange_oceant_us_sac_53
+NOMBRE: Ocean Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053510.png

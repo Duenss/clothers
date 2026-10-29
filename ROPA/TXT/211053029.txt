@@ -1,0 +1,8 @@
+ITEM ID: 211053029
+ICON ID: Icon_avatar_male_cos_accessory_festivalme_25
+NOMBRE: Cyber Invader (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053029.png

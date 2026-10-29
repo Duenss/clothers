@@ -1,0 +1,8 @@
+ITEM ID: 910040002
+ICON ID: Pin_Small_Traphiphop22
+NOMBRE: Chromatic T.R.A.P. Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910040002.png

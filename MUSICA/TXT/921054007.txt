@@ -1,0 +1,8 @@
+ITEM ID: 921054007
+ICON ID: FF_UI_Voiceitem_Bloodmoon26Female
+NOMBRE: We are destined to be together!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The Scarlet Whisperer voice pack
+IMAGEN: MUSICA/imagenes/921054007.png

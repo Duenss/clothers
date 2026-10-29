@@ -1,0 +1,8 @@
+ITEM ID: 914048001
+ICON ID: FF_UI_Transform_icon_CityHero_Transform
+NOMBRE: Midnight Ace Look Changer
+TIPO: Look Changer
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914048001.png

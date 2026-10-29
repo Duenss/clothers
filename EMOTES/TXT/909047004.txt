@@ -1,0 +1,8 @@
+ITEM ID: 909047004
+ICON ID: Icon_Emote_Angelic_Move
+NOMBRE: Flutter Dash
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047004.png

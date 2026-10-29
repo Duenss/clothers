@@ -1,0 +1,8 @@
+ITEM ID: 205044027
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Dual Guardian (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

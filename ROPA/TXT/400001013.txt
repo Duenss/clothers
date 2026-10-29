@@ -1,0 +1,8 @@
+ITEM ID: 400001013
+ICON ID: Icon_box_3
+NOMBRE: 3rd Anniversary Purple Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400001013.png

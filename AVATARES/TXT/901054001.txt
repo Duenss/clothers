@@ -1,0 +1,8 @@
+ITEM ID: 901054001
+ICON ID: Icon_callsign_storebg_Ninth_Free
+NOMBRE: 9th Anniversary Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901054001.png

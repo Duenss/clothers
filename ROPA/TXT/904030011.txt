@@ -1,0 +1,8 @@
+ITEM ID: 904030011
+ICON ID: Icon_Bag_Poison
+NOMBRE: Backpack - Venom
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030011.png

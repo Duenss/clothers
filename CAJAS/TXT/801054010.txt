@@ -1,0 +1,8 @@
+ITEM ID: 801054010
+ICON ID: Icon_exchange_fb2bundletoken_54
+NOMBRE: BLUE LOCK Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054010.png

@@ -1,0 +1,8 @@
+ITEM ID: 929005302
+ICON ID: Icon_Photostickeritem_Bluetears_02
+NOMBRE: Sea Turtle Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Sea Turtle Sticker
+IMAGEN: AVATARES/imagenes/929005302.png

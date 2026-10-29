@@ -1,0 +1,8 @@
+ITEM ID: 904000026
+ICON ID: Icon_Bag_8bit_EP2_03
+NOMBRE: Backpack - Free Fire Console
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000026.png

@@ -1,0 +1,8 @@
+ITEM ID: 400053033
+ICON ID: Icon_box_FbEvent2_53
+NOMBRE: Fire Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053033.png

@@ -1,0 +1,8 @@
+ITEM ID: 902055032
+ICON ID: Icon_face_Scorpio26
+NOMBRE: Stellar Scorpions Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902055032.png

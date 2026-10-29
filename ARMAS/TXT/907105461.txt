@@ -1,0 +1,8 @@
+ITEM ID: 907105461
+ICON ID: Icon_GlooShield_CSRank38
+NOMBRE: Gloo Wall - S38 Exclusive: Crisp
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105461.png

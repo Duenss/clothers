@@ -1,0 +1,8 @@
+ITEM ID: 407102904
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cosmic Teleportia Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Open to receive a random gun skin from the Cosmic Teleportia weapon set
+IMAGEN: ARMAS/imagenes/407102904.png

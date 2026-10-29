@@ -1,0 +1,8 @@
+ITEM ID: 911003701
+ICON ID: Icon_Mounts_FFWS2022
+NOMBRE: Cosmic Drachen
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911003701.png

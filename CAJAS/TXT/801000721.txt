@@ -1,0 +1,8 @@
+ITEM ID: 801000721
+ICON ID: Icon_exchange_ob25_freezing_shard
+NOMBRE: Freezing Shard
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: It's a little cold over here, right?
+IMAGEN: CAJAS/imagenes/801000721.png

@@ -1,0 +1,8 @@
+ITEM ID: 913047011
+ICON ID: FF_UI_Vault_Music_NB
+NOMBRE: Naruto Main Theme
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: The collaboration music of Free Fire x NARUTO SHIPPUDEN
+IMAGEN: MUSICA/imagenes/913047011.png

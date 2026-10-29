@@ -1,0 +1,8 @@
+ITEM ID: 205047006
+ICON ID: Icon_avatar_cos_shoe_aurora_black
+NOMBRE: Aurora Shade (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205047006.png

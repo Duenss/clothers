@@ -1,0 +1,8 @@
+ITEM ID: 904026005
+ICON ID: Icon_Bag_Cobra_ONE
+NOMBRE: Backpack - Legendary Cobra
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904026005.png

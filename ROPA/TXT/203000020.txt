@@ -1,0 +1,8 @@
+ITEM ID: 203000020
+ICON ID: Icon_avatar_tshirt_camo_005
+NOMBRE: T-shirt (Camouflage)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000020.png

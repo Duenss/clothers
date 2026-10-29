@@ -1,0 +1,8 @@
+ITEM ID: 211035031
+ICON ID: Icon_avatar_male_cos_hair_digitaluniverse2
+NOMBRE: Passion Reuniter (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035031.png

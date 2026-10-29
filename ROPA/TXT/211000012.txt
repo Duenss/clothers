@@ -1,0 +1,8 @@
+ITEM ID: 211000012
+ICON ID: Icon_avatar_female_sc_racergirl_hair_002
+NOMBRE: Racequeen Cap
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000012.png

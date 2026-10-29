@@ -1,0 +1,8 @@
+ITEM ID: 400028115
+ICON ID: Icon_box_3
+NOMBRE: Dr. Beanie Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Contains pet Dr. Beanie and many other rewards
+IMAGEN: ROPA/imagenes/400028115.png

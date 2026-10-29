@@ -1,0 +1,8 @@
+ITEM ID: 907102505
+ICON ID: Icon_Pan_Winterfest2020
+NOMBRE: Pan - Winterlands 2020
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102505.png

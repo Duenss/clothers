@@ -1,0 +1,8 @@
+ITEM ID: 906036006
+ICON ID: Icon_Avatar_Surfboard_Policeman
+NOMBRE: Skyboard - Fabled Netherworld
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906036006.png

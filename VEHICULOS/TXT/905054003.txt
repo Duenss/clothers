@@ -1,0 +1,8 @@
+ITEM ID: 905054003
+ICON ID: Icon_Avatar_PARACHUTE_Ninth
+NOMBRE: Parachute - 9th Anniversary
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905054003.png

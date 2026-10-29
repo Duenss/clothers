@@ -1,0 +1,8 @@
+ITEM ID: 907103716
+ICON ID: Icon_M1216_Monster
+NOMBRE: Trogon - Violet Fear
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103716.png

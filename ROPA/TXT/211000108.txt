@@ -1,0 +1,8 @@
+ITEM ID: 211000108
+ICON ID: Icon_avatar_accessory_cos_8bit_B
+NOMBRE: Gamer's Eyes
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000108.png

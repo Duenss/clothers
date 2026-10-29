@@ -1,0 +1,8 @@
+ITEM ID: 909039009
+ICON ID: Icon_Emote_Rollerskating
+NOMBRE: Grace On Wheels
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909039009.png

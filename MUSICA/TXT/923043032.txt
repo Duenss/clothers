@@ -1,0 +1,8 @@
+ITEM ID: 923043032
+ICON ID: FF_UI_Voiceitem_KOUKI43
+NOMBRE: I need Med Kits (Kouki)
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Happy 2024 Lunar New Year, your Kouki is coming!
+IMAGEN: MUSICA/imagenes/923043032.png

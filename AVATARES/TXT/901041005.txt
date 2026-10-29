@@ -1,0 +1,8 @@
+ITEM ID: 901041005
+ICON ID: Icon_callsign_storebg_Inkpainting
+NOMBRE: Ink Stroke Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901041005.png

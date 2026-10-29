@@ -1,0 +1,8 @@
+ITEM ID: 801000780
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Winter
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Token of winter
+IMAGEN: CAJAS/imagenes/801000780.png

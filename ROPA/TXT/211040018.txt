@@ -1,0 +1,8 @@
+ITEM ID: 211040018
+ICON ID: Icon_avatar_female_cos_hair_kwave
+NOMBRE: Pop Vedette (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040018.png

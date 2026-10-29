@@ -1,0 +1,8 @@
+ITEM ID: 907104613
+ICON ID: Icon_Superheat_Gun_Yinyang24
+NOMBRE: PLASMA - Aura of Chaos
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104613.png

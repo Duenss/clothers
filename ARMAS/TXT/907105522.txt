@@ -1,0 +1,8 @@
+ITEM ID: 907105522
+ICON ID: Icon_Machete_Cat26
+NOMBRE: Parang - Kittensitter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105522.png

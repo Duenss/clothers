@@ -1,0 +1,8 @@
+ITEM ID: 400042538
+ICON ID: Icon_box_Mr_Waggor_30D_ID_42
+NOMBRE: Gillette Costume Bottom
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: GILLETTE x FREE FIRE
+IMAGEN: CAJAS/imagenes/400042538.png

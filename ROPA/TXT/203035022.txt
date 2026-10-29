@@ -1,0 +1,8 @@
+ITEM ID: 203035022
+ICON ID: Icon_avatar_male_cos_top_digitaluniverse2
+NOMBRE: Passion Reuniter (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035022.png

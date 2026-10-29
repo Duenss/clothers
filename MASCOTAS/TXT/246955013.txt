@@ -1,0 +1,8 @@
+ITEM ID: 246955013
+ICON ID: Pet_Spark3_Face_EmojiGlass_Yellow
+NOMBRE: Yellow Cute Goggles
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Yellow Cute Goggles
+IMAGEN: MASCOTAS/imagenes/246955013.png

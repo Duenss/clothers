@@ -1,0 +1,8 @@
+ITEM ID: 205039015
+ICON ID: Icon_avatar_cos_shoe_kwave
+NOMBRE: Pop Host (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039015.png

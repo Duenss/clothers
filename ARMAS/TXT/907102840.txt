@@ -1,0 +1,8 @@
+ITEM ID: 907102840
+ICON ID: Icon_GlooShield_Fallwinter
+NOMBRE: Gloo Wall - Sauce Swagger
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102840.png

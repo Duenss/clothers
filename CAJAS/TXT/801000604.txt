@@ -1,0 +1,8 @@
+ITEM ID: 801000604
+ICON ID: Icon_exchange_ob24_white_hexagon
+NOMBRE: White Hexagon
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000604.png

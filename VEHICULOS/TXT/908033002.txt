@@ -1,0 +1,8 @@
+ITEM ID: 908033002
+ICON ID: Icon_slot_TUTU_Chess
+NOMBRE: Tuk Tuk - Checkered King
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908033002.png

@@ -1,0 +1,8 @@
+ITEM ID: 906027004
+ICON ID: Icon_Avatar_Surfboard_FFWS2021
+NOMBRE: Skyboard - FFWS 2021
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906027004.png

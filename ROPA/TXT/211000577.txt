@@ -1,0 +1,8 @@
+ITEM ID: 211000577
+ICON ID: Icon_avatar_accessory_cos_bandana_5
+NOMBRE: Jaws Bandana
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000577.png

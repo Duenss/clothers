@@ -1,0 +1,8 @@
+ITEM ID: 907103831
+ICON ID: Icon_M14_Mullet
+NOMBRE: M14 - Defier's Anthem
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103831.png

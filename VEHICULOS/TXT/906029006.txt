@@ -1,0 +1,8 @@
+ITEM ID: 906029006
+ICON ID: Icon_Avatar_Surfboard_BRninja
+NOMBRE: Skyboard - Nocturnal Assassin
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906029006.png

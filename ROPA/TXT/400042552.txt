@@ -1,0 +1,8 @@
+ITEM ID: 400042552
+ICON ID: Icon_box_3
+NOMBRE: Cool Avatar Banner Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Update your banner with the new one
+IMAGEN: ROPA/imagenes/400042552.png

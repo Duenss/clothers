@@ -1,0 +1,8 @@
+ITEM ID: 904040003
+ICON ID: Icon_Bag_Traphiphop22_Red
+NOMBRE: Backpack - T.R.A.P. Chromaburn
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904040003.png

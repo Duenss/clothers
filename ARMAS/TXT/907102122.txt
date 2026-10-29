@@ -1,0 +1,8 @@
+ITEM ID: 907102122
+ICON ID: Icon_Pan_Volcano
+NOMBRE: Pan - Volcanic Fury
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102122.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030099
+ICON ID: Icon_box_3
+NOMBRE: CBF Yellow Ball Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: IP Collab - CBF
+IMAGEN: ROPA/imagenes/400030099.png

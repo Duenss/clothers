@@ -1,0 +1,8 @@
+ITEM ID: 400026019
+ICON ID: Icon_box_3
+NOMBRE: Golden Egg Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Happy Egg Day 2021
+IMAGEN: ROPA/imagenes/400026019.png

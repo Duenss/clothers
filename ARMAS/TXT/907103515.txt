@@ -1,0 +1,8 @@
+ITEM ID: 907103515
+ICON ID: Icon_HealingSniper_Digitaluniverse
+NOMBRE: Heal Sniper - Sterling Futurnetic
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103515.png

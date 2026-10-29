@@ -1,0 +1,8 @@
+ITEM ID: 407104603
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Eternal Enigma (SVD + Mini Uzi) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Open to receive a random gun skin (SVD + Mini Uzi) from the Eternal Enigma weapon set
+IMAGEN: ARMAS/imagenes/407104603.png

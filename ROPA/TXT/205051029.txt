@@ -1,0 +1,8 @@
+ITEM ID: 205051029
+ICON ID: Icon_avatar_male_cos_shoe_th_kol25_orange
+NOMBRE: HEARTROCKER (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051029.png

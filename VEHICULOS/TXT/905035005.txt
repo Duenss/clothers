@@ -1,0 +1,8 @@
+ITEM ID: 905035005
+ICON ID: Icon_Avatar_PARACHUTE_Light_Darkness
+NOMBRE: Parachute - Crowned Bones
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905035005.png

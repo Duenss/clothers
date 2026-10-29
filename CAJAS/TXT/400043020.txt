@@ -1,0 +1,8 @@
+ITEM ID: 400043020
+ICON ID: Icon_box_BP_S15_Token_43
+NOMBRE: BP S15 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400043020.png

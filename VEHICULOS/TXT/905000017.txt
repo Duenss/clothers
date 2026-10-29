@@ -1,0 +1,8 @@
+ITEM ID: 905000017
+ICON ID: Icon_Avatar_PARACHUTE_SHARK
+NOMBRE: Parachute - Bloodlust
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000017.png

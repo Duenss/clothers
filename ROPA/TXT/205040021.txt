@@ -1,0 +1,8 @@
+ITEM ID: 205040021
+ICON ID: Icon_avatar_cos_shoe_farmer
+NOMBRE: Sunset Explorer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205040021.png

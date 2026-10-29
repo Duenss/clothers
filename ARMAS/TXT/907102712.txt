@@ -1,0 +1,8 @@
+ITEM ID: 907102712
+ICON ID: Icon_M1887_Boxer
+NOMBRE: M1887 - Hand of Hope
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102712.png

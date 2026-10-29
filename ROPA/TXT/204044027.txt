@@ -1,0 +1,8 @@
+ITEM ID: 204044027
+ICON ID: Icon_avatar_male_cos_bottom_collage
+NOMBRE: Street Strokes (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044027.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102602
+ICON ID: Icon_Thompson_Vampirebat
+NOMBRE: Thompson- Bloodwing City
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102602.png

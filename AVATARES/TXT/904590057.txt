@@ -1,0 +1,8 @@
+ITEM ID: 904590057
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Dawnshot Artist
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "Ultra Dawnshot" achievement
+IMAGEN: AVATARES/imagenes/904590057.png

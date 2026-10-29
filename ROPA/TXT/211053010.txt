@@ -1,0 +1,8 @@
+ITEM ID: 211053010
+ICON ID: Icon_avatar_female_cos_hair_sketch
+NOMBRE: Sculpted Elegance (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053010.png

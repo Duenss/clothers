@@ -1,0 +1,8 @@
+ITEM ID: 908000001
+ICON ID: Icon_slot_Jeep_MadMax
+NOMBRE: Road Rager
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000001.png

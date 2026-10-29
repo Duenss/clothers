@@ -1,0 +1,8 @@
+ITEM ID: 205053009
+ICON ID: Icon_avatar_cos_shoe_eclipse_moon
+NOMBRE: Lunar Eclipse (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053009.png

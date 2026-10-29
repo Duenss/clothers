@@ -1,0 +1,8 @@
+ITEM ID: 907103319
+ICON ID: Icon_MINI_Waterfest22
+NOMBRE: AC80 - Rave Skater
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103319.png

@@ -1,0 +1,8 @@
+ITEM ID: 904031010
+ICON ID: Icon_Bag_Origami
+NOMBRE: Backpack - Wrapped Feathers
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031010.png

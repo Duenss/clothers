@@ -1,0 +1,8 @@
+ITEM ID: 907103224
+ICON ID: Icon_Katana_Luchalibre2
+NOMBRE: Katana - Green Edge
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103224.png

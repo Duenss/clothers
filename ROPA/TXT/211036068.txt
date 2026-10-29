@@ -1,0 +1,8 @@
+ITEM ID: 211036068
+ICON ID: Icon_avatar_cos_accessory_shibawear
+NOMBRE: Chaotic Puppy (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036068.png

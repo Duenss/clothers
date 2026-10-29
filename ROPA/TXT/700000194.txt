@@ -1,0 +1,8 @@
+ITEM ID: 700000194
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Pumpkin Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Pumpkin Warrior set.
+IMAGEN: ROPA/imagenes/700000194.png

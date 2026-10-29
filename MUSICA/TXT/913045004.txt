@@ -1,0 +1,8 @@
+ITEM ID: 913045004
+ICON ID: FF_UI_Vault_Music_Waterfest24
+NOMBRE: Wanna Battle Draft 7.4
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: Songkran Free Fire Fun Fair, Wanna Battle?!
+IMAGEN: MUSICA/imagenes/913045004.png

@@ -1,0 +1,8 @@
+ITEM ID: 921046018
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Tumse na ho payega
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Bolly Boli Voice Pack
+IMAGEN: MUSICA/imagenes/921046018.png

@@ -1,0 +1,8 @@
+ITEM ID: 921050044
+ICON ID: FF_UI_Voiceitem_DIWALI50
+NOMBRE: The movie isn't over yet, my friend
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bolly Boli: Part 2
+IMAGEN: MUSICA/imagenes/921050044.png

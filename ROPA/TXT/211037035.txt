@@ -1,0 +1,8 @@
+ITEM ID: 211037035
+ICON ID: Icon_avatar_male_cos_accessory_firedragon
+NOMBRE: Scorching Beast (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037035.png

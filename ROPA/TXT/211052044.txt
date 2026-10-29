@@ -1,0 +1,8 @@
+ITEM ID: 211052044
+ICON ID: Icon_avatar_cos_accessory_fastbreaking_treasure001
+NOMBRE: Treasure Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052044.png

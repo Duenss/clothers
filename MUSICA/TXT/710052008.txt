@@ -1,0 +1,8 @@
+ITEM ID: 710052008
+ICON ID: FF_UI_Voiceitem_IIV_03
+NOMBRE: Ryomen Sukuna Voice Pack
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Ryomen Sukuna Voice Pack
+IMAGEN: MUSICA/imagenes/710052008.png

@@ -1,0 +1,8 @@
+ITEM ID: 770000023
+ICON ID: Icon_box_3
+NOMBRE: Daily Bonus Reward
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Vector - Hawk Wing
+IMAGEN: ROPA/imagenes/770000023.png

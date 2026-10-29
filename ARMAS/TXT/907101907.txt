@@ -1,0 +1,8 @@
+ITEM ID: 907101907
+ICON ID: Icon_AN94_Park
+NOMBRE: AN94 - Carnival Carnage
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101907.png

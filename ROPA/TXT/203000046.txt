@@ -1,0 +1,8 @@
+ITEM ID: 203000046
+ICON ID: Icon_avatar_shirt_plaid_2
+NOMBRE: Programmers' Favorite (Red)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000046.png

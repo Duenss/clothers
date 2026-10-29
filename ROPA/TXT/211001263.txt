@@ -1,0 +1,8 @@
+ITEM ID: 211001263
+ICON ID: Icon_avatar_male_cos_accessory_thagent
+NOMBRE: Night Scouter (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001263.png

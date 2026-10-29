@@ -1,0 +1,8 @@
+ITEM ID: 907105554
+ICON ID: Icon_GlooShield_MAF26
+NOMBRE: Gloo Wall - Cheering Lion
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105554.png

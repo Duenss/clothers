@@ -1,0 +1,8 @@
+ITEM ID: 907104433
+ICON ID: Icon_Fragment_Grenade
+NOMBRE: Grenade - Daybreaker
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104433.png

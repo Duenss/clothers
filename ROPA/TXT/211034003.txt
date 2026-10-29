@@ -1,0 +1,8 @@
+ITEM ID: 211034003
+ICON ID: Icon_avatar_cos_hair_rhythmgirl_02
+NOMBRE: Diva Dreadlocks
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034003.png

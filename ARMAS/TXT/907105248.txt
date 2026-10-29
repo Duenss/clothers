@@ -1,0 +1,8 @@
+ITEM ID: 907105248
+ICON ID: Icon_GlooShield_Pisces
+NOMBRE: Gloo Wall - Rippling Wonder
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105248.png

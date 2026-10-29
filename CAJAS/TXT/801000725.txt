@@ -1,0 +1,8 @@
+ITEM ID: 801000725
+ICON ID: Icon_exchange_ob25_flashy_sphere
+NOMBRE: Flashy Sphere
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: A nice decoration to have around!
+IMAGEN: CAJAS/imagenes/801000725.png

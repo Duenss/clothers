@@ -1,0 +1,8 @@
+ITEM ID: 170038007
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Facepaint Choice Box
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170038007.png

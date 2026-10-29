@@ -1,0 +1,8 @@
+ITEM ID: 801001543
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: White Chocolate Kurma
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Satisfy your sweet tooth.
+IMAGEN: CAJAS/imagenes/801001543.png

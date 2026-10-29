@@ -1,0 +1,8 @@
+ITEM ID: 819670213
+ICON ID: FF_Lottery_JJKTW_Voucher_52_1
+NOMBRE: Sukuna Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/819670213.png

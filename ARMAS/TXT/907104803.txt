@@ -1,0 +1,8 @@
+ITEM ID: 907104803
+ICON ID: Icon_M14_Firefly
+NOMBRE: M14 - Firefly Chaser
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104803.png

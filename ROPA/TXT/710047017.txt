@@ -1,0 +1,8 @@
+ITEM ID: 710047017
+ICON ID: Icon_bundle_female_VNnewyear25_47
+NOMBRE: Prosperous Year Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710047017.png

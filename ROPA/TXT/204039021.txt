@@ -1,0 +1,8 @@
+ITEM ID: 204039021
+ICON ID: Icon_avatar_male_cos_bottom_growth
+NOMBRE: Rune Enchanter (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039021.png

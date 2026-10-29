@@ -1,0 +1,8 @@
+ITEM ID: 211051008
+ICON ID: Icon_avatar_cos_accessory_dreamland_nightmare
+NOMBRE: Nightmare (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051008.png

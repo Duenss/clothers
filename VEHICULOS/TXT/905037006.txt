@@ -1,0 +1,8 @@
+ITEM ID: 905037006
+ICON ID: Icon_Avatar_PARACHUTE_Emoji
+NOMBRE: Parachute - Evil Emoji
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905037006.png

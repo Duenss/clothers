@@ -1,0 +1,8 @@
+ITEM ID: 211043040
+ICON ID: Icon_avatar_male_cos_accessory_waterfest24_01
+NOMBRE: Deep Aqua (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043040.png

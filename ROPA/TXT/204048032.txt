@@ -1,0 +1,8 @@
+ITEM ID: 204048032
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Shadow Force (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

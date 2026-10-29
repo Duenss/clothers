@@ -1,0 +1,8 @@
+ITEM ID: 907105205
+ICON ID: Icon_ThrowingKnife_IIV_CT_Rose
+NOMBRE: Dagger - Cursed Nails
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105205.png

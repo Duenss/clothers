@@ -1,0 +1,8 @@
+ITEM ID: 904037002
+ICON ID: Icon_Bag_FFWS2022
+NOMBRE: Backpack - Galaxy Vanquish
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037002.png

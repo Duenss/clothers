@@ -1,0 +1,8 @@
+ITEM ID: 801000772
+ICON ID: Icon_exchange_ob25_volcanic_fury
+NOMBRE: Volcanic Fury Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Fury is just the beginning
+IMAGEN: CAJAS/imagenes/801000772.png

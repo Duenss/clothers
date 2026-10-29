@@ -1,0 +1,8 @@
+ITEM ID: 801001849
+ICON ID: FF_UI_Exchange_HuntingGround
+NOMBRE: Talent Points
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Use to enhance your Talents in Zombie Hunt mode.
+IMAGEN: CAJAS/imagenes/801001849.png

@@ -1,0 +1,8 @@
+ITEM ID: 908055007
+ICON ID: Icon_slot_Horse_Owlranger
+NOMBRE: Horse - Owl Hoofs
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908055007.png

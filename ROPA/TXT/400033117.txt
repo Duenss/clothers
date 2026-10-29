@@ -1,0 +1,8 @@
+ITEM ID: 400033117
+ICON ID: Icon_box_3
+NOMBRE: Zasil Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Pet Zasil and many other rewards
+IMAGEN: ROPA/imagenes/400033117.png

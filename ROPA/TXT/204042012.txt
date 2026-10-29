@@ -1,0 +1,8 @@
+ITEM ID: 204042012
+ICON ID: Icon_avatar_male_cos_bottom_lightfest23
+NOMBRE: Manic Maharaja (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042012.png

@@ -1,0 +1,8 @@
+ITEM ID: 909054020
+ICON ID: Icon_Emote_Ninth_Groupmove
+NOMBRE: Anniversary Parade
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054020.png

@@ -1,0 +1,8 @@
+ITEM ID: 400050084
+ICON ID: Icon_box_WkEvent1_50
+NOMBRE: Trouble Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050084.png

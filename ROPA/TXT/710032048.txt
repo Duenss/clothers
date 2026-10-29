@@ -1,0 +1,8 @@
+ITEM ID: 710032048
+ICON ID: Icon_box_3
+NOMBRE: Scrolls of Azure Badge Bundle (50)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Contains Scrolls of Azure Badge x50
+IMAGEN: ROPA/imagenes/710032048.png

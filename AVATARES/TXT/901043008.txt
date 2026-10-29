@@ -1,0 +1,8 @@
+ITEM ID: 901043008
+ICON ID: Icon_callsign_storebg_Aprilfool24
+NOMBRE: Emperor's New Banner
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901043008.png

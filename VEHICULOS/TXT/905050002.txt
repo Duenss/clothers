@@ -1,0 +1,8 @@
+ITEM ID: 905050002
+ICON ID: Icon_Avatar_PARACHUTE_VA
+NOMBRE: Parachute - Trouble Night
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905050002.png

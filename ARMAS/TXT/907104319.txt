@@ -1,0 +1,8 @@
+ITEM ID: 907104319
+ICON ID: Icon_ChargeShot_Rank38
+NOMBRE: Charge Buster - S38 Exclusive: Ribbit
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104319.png

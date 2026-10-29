@@ -1,0 +1,8 @@
+ITEM ID: 102000054
+ICON ID: Icon_face_male_head_sc_Dreamlandboy
+NOMBRE: Nero
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A miraculous survivor of a brutal freeze, who gained the power to shape dreams on his last legs. All-powerful in the dreamspace, he acts solitarily and stays untraceable in the waking world.
+IMAGEN: PERSONAJES/imagenes/102000054.png

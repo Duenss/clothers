@@ -1,0 +1,8 @@
+ITEM ID: 908048009
+ICON ID: Icon_slot_Motobike_Rainforest_Free
+NOMBRE: Motorbike - Tropical Dasher
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048009.png

@@ -1,0 +1,8 @@
+ITEM ID: 905048006
+ICON ID: Icon_Avatar_PARACHUTE_RMCO
+NOMBRE: Parachute - realme
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905048006.png

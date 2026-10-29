@@ -1,0 +1,8 @@
+ITEM ID: 710027048
+ICON ID: Icon_bundle_Prize_FFWS2021_27
+NOMBRE: FFWS 2021 Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to receive exclusive rewards
+IMAGEN: ROPA/imagenes/710027048.png

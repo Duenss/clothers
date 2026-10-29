@@ -1,0 +1,8 @@
+ITEM ID: 205046025
+ICON ID: Icon_avatar_male_cos_shoe_sportswear_bw
+NOMBRE: Aero Flex (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046025.png

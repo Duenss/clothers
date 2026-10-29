@@ -1,0 +1,8 @@
+ITEM ID: 203046024
+ICON ID: Icon_avatar_female_cos_top_glooworld
+NOMBRE: Gloo Sploosh (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046024.png

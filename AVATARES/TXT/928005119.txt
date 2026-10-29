@@ -1,0 +1,8 @@
+ITEM ID: 928005119
+ICON ID: Icon_GroupPhoto_Snowballfight_icon
+NOMBRE: Snowball Fight
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Snowball Fight
+IMAGEN: AVATARES/imagenes/928005119.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037019
+ICON ID: Icon_avatar_male_cos_hair_toughguy
+NOMBRE: Cannibal Havoc (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037019.png

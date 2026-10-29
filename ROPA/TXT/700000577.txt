@@ -1,0 +1,8 @@
+ITEM ID: 700000577
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Beaston Package
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Beaston, the Blazing Beaston pet skin, and other rewards!
+IMAGEN: ROPA/imagenes/700000577.png

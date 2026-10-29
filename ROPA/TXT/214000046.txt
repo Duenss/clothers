@@ -1,0 +1,8 @@
+ITEM ID: 214000046
+ICON ID: Icon_avatar_headadditive_cos_fp_clown
+NOMBRE: The Clown (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000046.png

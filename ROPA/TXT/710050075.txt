@@ -1,0 +1,8 @@
+ITEM ID: 710050075
+ICON ID: Icon_bundle_Green_Flame_Draco_M1014_2_50
+NOMBRE: Green Flame Draco (M1014) Token Exchange Crate
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710050075.png

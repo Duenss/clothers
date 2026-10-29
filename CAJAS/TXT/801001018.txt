@@ -1,0 +1,8 @@
+ITEM ID: 801001018
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Basketball Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Let's see those dribbling skills!
+IMAGEN: CAJAS/imagenes/801001018.png

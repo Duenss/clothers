@@ -1,0 +1,8 @@
+ITEM ID: 904000013
+ICON ID: Icon_Bag_Wasteland_EP2_03
+NOMBRE: Backpack - Void Mask
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000013.png

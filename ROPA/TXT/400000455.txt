@@ -1,0 +1,8 @@
+ITEM ID: 400000455
+ICON ID: Icon_box_3
+NOMBRE: Thunder Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Thunder Box
+IMAGEN: ROPA/imagenes/400000455.png

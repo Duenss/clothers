@@ -1,0 +1,8 @@
+ITEM ID: 905028003
+ICON ID: Icon_Avatar_PARACHUTE_Fallwinter
+NOMBRE: Parachute - Hip Hop Street
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905028003.png

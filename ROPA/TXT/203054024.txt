@@ -1,0 +1,8 @@
+ITEM ID: 203054024
+ICON ID: Icon_avatar_male_cos_top_metamorphosis
+NOMBRE: Electro Morphosis (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054024.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000147
+ICON ID: Icon_exchange_Flaming
+NOMBRE: Mark of Flames
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000147.png

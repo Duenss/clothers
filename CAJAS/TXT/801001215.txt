@@ -1,0 +1,8 @@
+ITEM ID: 801001215
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lion Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: A symbol of strength
+IMAGEN: CAJAS/imagenes/801001215.png

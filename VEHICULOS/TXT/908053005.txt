@@ -1,0 +1,8 @@
+ITEM ID: 908053005
+ICON ID: Icon_slot_Motobike_Gemini25
+NOMBRE: Motorbike - Shining Twinstars
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908053005.png

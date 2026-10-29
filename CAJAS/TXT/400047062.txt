@@ -1,0 +1,8 @@
+ITEM ID: 400047062
+ICON ID: Icon_box_Mr_Waggor_30D_ID_42
+NOMBRE: Gillette Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047062.png

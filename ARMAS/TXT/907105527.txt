@@ -1,0 +1,8 @@
+ITEM ID: 907105527
+ICON ID: Icon_Machete_Scorpio26
+NOMBRE: Parang - Scorpio Sting
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105527.png

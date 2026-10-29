@@ -1,0 +1,8 @@
+ITEM ID: 203000203
+ICON ID: Icon_avatar_undershirt_annual6
+NOMBRE: 6-month Anniversary
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000203.png

@@ -1,0 +1,8 @@
+ITEM ID: 909000074
+ICON ID: Icon_Emote_Cobra_Bicycle
+NOMBRE: The Biker
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000074.png

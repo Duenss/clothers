@@ -1,0 +1,8 @@
+ITEM ID: 801001539
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Untuk Semua Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Celebrate Free Fire For All!
+IMAGEN: CAJAS/imagenes/801001539.png

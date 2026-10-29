@@ -1,0 +1,8 @@
+ITEM ID: 203037058
+ICON ID: Icon_avatar_male_cos_top_ffws2022_purple
+NOMBRE: Mauve Konqueror (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037058.png

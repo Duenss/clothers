@@ -1,0 +1,8 @@
+ITEM ID: 205055014
+ICON ID: Icon_avatar_female_cos_shoe_blackdress26
+NOMBRE: Cosmic Empress (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055014.png

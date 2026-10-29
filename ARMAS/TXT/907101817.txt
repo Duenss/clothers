@@ -1,0 +1,8 @@
+ITEM ID: 907101817
+ICON ID: Icon_UMP_Geisha
+NOMBRE: UMP - Art of War
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB18
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101817.png

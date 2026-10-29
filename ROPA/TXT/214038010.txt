@@ -1,0 +1,8 @@
+ITEM ID: 214038010
+ICON ID: Icon_avatar_male_cos_headadditive_pk_beard
+NOMBRE: Chin Curtain
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214038010.png

@@ -1,0 +1,8 @@
+ITEM ID: 400050001
+ICON ID: Icon_box_GunM60_50
+NOMBRE: Akatsuki Theme (M60) Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050001.png

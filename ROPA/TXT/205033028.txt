@@ -1,0 +1,8 @@
+ITEM ID: 205033028
+ICON ID: Icon_avatar_female_cos_shoe_ffunit2
+NOMBRE: Shadowess Astray (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033028.png

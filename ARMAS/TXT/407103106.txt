@@ -1,0 +1,8 @@
+ITEM ID: 407103106
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Moonlight Ballad (Kingfisher + Desert Eagle) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Open to receive a random gun skin (Kingfisher + Desert Eagle) from the Moonlight Ballad weapon set
+IMAGEN: ARMAS/imagenes/407103106.png

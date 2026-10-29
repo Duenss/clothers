@@ -1,0 +1,8 @@
+ITEM ID: 203048010
+ICON ID: Icon_avatar_cos_top_rainforest_snake
+NOMBRE: Tropical Fangs (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048010.png

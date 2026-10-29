@@ -1,0 +1,8 @@
+ITEM ID: 808000003
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Top Criminal
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Top Criminal Set
+IMAGEN: OTROS/imagenes/808000003.png

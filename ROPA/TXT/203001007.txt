@@ -1,0 +1,8 @@
+ITEM ID: 203001007
+ICON ID: Icon_avatar_top_cos_tracksuits
+NOMBRE: Punkster Runner (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001007.png

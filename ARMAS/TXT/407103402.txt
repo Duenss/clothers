@@ -1,0 +1,8 @@
+ITEM ID: 407103402
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Hybrid Explosion (Thompson + Desert Eagle) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Open to receive a random gun skin (Thompson + Desert Eagle) from the Hybrid Explosion weapon set
+IMAGEN: ARMAS/imagenes/407103402.png

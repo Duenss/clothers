@@ -1,0 +1,8 @@
+ITEM ID: 710027041
+ICON ID: Icon_bundle_Gamer_27
+NOMBRE: Gamer Moony Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: Open to receive Moony and the Gamer Moony skin
+IMAGEN: ROPA/imagenes/710027041.png

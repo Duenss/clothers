@@ -1,0 +1,8 @@
+ITEM ID: 801047525
+ICON ID: Icon_exchange_ABO_vn_47
+NOMBRE: Apricot Blossom
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047525.png

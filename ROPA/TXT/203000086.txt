@@ -1,0 +1,8 @@
+ITEM ID: 203000086
+ICON ID: Icon_avatar_tshirt_oreo_purple
+NOMBRE: Cookie Purple
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000086.png

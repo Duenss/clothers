@@ -1,0 +1,8 @@
+ITEM ID: 801001522
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Idol Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Idol Token
+IMAGEN: CAJAS/imagenes/801001522.png

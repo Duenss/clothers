@@ -1,0 +1,8 @@
+ITEM ID: 203038022
+ICON ID: Icon_avatar_female_cos_top_elder_white
+NOMBRE: Serpent Kami (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038022.png

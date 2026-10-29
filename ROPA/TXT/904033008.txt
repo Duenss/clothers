@@ -1,0 +1,8 @@
+ITEM ID: 904033008
+ICON ID: Icon_Bag_Fastbreaking22_2
+NOMBRE: Backpack - Green Power
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033008.png

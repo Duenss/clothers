@@ -1,0 +1,8 @@
+ITEM ID: 400032049
+ICON ID: Icon_box_3
+NOMBRE: FFL Gold Box 2022
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400032049.png

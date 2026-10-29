@@ -1,0 +1,8 @@
+ITEM ID: 400036170
+ICON ID: Icon_box_3
+NOMBRE: Cool Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive cool looks!
+IMAGEN: ROPA/imagenes/400036170.png

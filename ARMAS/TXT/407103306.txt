@@ -1,0 +1,8 @@
+ITEM ID: 407103306
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Frenzy Bunny (Charge Buster + Mini Uzi) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive a random gun skin (Charge Buster + Mini Uzi) from the Frenzy Bunny weapon set
+IMAGEN: ARMAS/imagenes/407103306.png

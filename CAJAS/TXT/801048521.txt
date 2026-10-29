@@ -1,0 +1,8 @@
+ITEM ID: 801048521
+ICON ID: Icon_exchange_GET_us-es_48
+NOMBRE: Golden Egg Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048521.png

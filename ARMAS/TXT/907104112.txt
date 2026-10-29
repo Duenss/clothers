@@ -1,0 +1,8 @@
+ITEM ID: 907104112
+ICON ID: Icon_Baseballbat_Sword_PK
+NOMBRE: Bat - Imperial Club
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104112.png

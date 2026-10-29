@@ -1,0 +1,8 @@
+ITEM ID: 907103009
+ICON ID: Icon_AR15_Elaphe
+NOMBRE: Kingfisher - Sunscale Serpent
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103009.png

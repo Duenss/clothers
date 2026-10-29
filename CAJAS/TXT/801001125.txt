@@ -1,0 +1,8 @@
+ITEM ID: 801001125
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Tiger Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Hear me roar!
+IMAGEN: CAJAS/imagenes/801001125.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001031
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Windmill Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Xayne Supply Pack Token
+IMAGEN: CAJAS/imagenes/801001031.png

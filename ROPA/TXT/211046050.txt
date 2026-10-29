@@ -1,0 +1,8 @@
+ITEM ID: 211046050
+ICON ID: Icon_avatar_male_cos_hair_th_jp
+NOMBRE: Street Savvy (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046050.png

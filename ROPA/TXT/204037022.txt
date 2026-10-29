@@ -1,0 +1,8 @@
+ITEM ID: 204037022
+ICON ID: Icon_avatar_male_cos_bottom_hooligan
+NOMBRE: Candid Casuals (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037022.png

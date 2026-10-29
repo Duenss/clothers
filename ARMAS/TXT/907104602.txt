@@ -1,0 +1,8 @@
+ITEM ID: 907104602
+ICON ID: Icon_MP40_Microwaves
+NOMBRE: MP40 - Robust Combust
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104602.png

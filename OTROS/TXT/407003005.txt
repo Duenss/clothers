@@ -1,0 +1,8 @@
+ITEM ID: 407003005
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Royal Warrior (AC80 + SCAR) Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin (AC80 + SCAR) from the Royal Warrior weapon set
+IMAGEN: OTROS/imagenes/407003005.png

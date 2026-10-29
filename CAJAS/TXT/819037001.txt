@@ -1,0 +1,8 @@
+ITEM ID: 819037001
+ICON ID: FF_UI_VFX_BP_02
+NOMBRE: Gun-switch Effect (Fumes On Fire)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: When you equip a Fumes On Fire theme mask, switching guns will display this special effect.
+IMAGEN: CAJAS/imagenes/819037001.png

@@ -1,0 +1,8 @@
+ITEM ID: 170035010
+ICON ID: Icon_OptionalBundle_Grenade
+NOMBRE: Grenade Choice Box
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ARMAS/imagenes/170035010.png

@@ -1,0 +1,8 @@
+ITEM ID: 905590098
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Ninja Returns
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: If you previously joined Nine Tails Strikes or Epic Ninja Trials, join the returning Nine Tails Strikes event to claim the exclusive title for returning ninjas!
+IMAGEN: AVATARES/imagenes/905590098.png

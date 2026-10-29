@@ -1,0 +1,8 @@
+ITEM ID: 211052003
+ICON ID: Icon_avatar_male_cos_accessory_iiv_ct_white
+NOMBRE: Satoru Gojo's Blindfold
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052003.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000660
+ICON ID: Icon_exchange_ob24_Silver_FFIM_Token
+NOMBRE: Silver FFIM Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Those who tried hard
+IMAGEN: CAJAS/imagenes/801000660.png

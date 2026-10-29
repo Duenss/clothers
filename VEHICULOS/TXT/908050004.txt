@@ -1,0 +1,8 @@
+ITEM ID: 908050004
+ICON ID: Icon_slot_MonsterTruck_Dunelord
+NOMBRE: Monster Truck - King of Desert
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050004.png

@@ -1,0 +1,8 @@
+ITEM ID: 203001177
+ICON ID: Icon_avatar_top_cos_thchampion
+NOMBRE: TH Championship T-Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001177.png

@@ -1,0 +1,8 @@
+ITEM ID: 214054002
+ICON ID: Icon_avatar_cos_headadditive_ninth_mask
+NOMBRE: Fractured Glow (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214054002.png

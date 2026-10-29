@@ -1,0 +1,8 @@
+ITEM ID: 400000601
+ICON ID: Icon_box_3
+NOMBRE: Pirate's Treasure
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Pirate's treasure. If you can escape with it, you will receive special rewards.
+IMAGEN: ROPA/imagenes/400000601.png

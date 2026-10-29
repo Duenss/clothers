@@ -1,0 +1,8 @@
+ITEM ID: 907092603
+ICON ID: Icon_MP40_Cobra2
+NOMBRE: MP40 - Predatory Cobra
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907092603.png

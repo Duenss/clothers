@@ -1,0 +1,8 @@
+ITEM ID: 204038004
+ICON ID: Icon_avatar_male_cos_bottom_swallow
+NOMBRE: Plated Wanderlust (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038004.png

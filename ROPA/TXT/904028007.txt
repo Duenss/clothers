@@ -1,0 +1,8 @@
+ITEM ID: 904028007
+ICON ID: Icon_Bag_Sutorito
+NOMBRE: Backpack - Ryu
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904028007.png

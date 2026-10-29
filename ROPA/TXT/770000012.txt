@@ -1,0 +1,8 @@
+ITEM ID: 770000012
+ICON ID: Icon_box_3
+NOMBRE: Daily Bonus Reward
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: P90 - Xtreme Adventure
+IMAGEN: ROPA/imagenes/770000012.png

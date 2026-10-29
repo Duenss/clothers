@@ -1,0 +1,8 @@
+ITEM ID: 907103933
+ICON ID: Icon_Katana_Waterfest23
+NOMBRE: Katana - Tidal Waves
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103933.png

@@ -1,0 +1,8 @@
+ITEM ID: 214048002
+ICON ID: Icon_avatar_cos_headadditive_rainforest_parrot
+NOMBRE: Tropical Plumes (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214048002.png

@@ -1,0 +1,8 @@
+ITEM ID: 211047037
+ICON ID: Icon_avatar_cos_accessory_winterfest25_mask
+NOMBRE: Frosty Band
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047037.png

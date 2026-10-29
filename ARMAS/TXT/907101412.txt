@@ -1,0 +1,8 @@
+ITEM ID: 907101412
+ICON ID: Icon_M1014_Shark
+NOMBRE: M1014 - Shark Attack
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101412.png

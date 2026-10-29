@@ -1,0 +1,8 @@
+ITEM ID: 801001013
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Football Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Test your stamina on the pitch
+IMAGEN: CAJAS/imagenes/801001013.png

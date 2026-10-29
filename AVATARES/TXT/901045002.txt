@@ -1,0 +1,8 @@
+ITEM ID: 901045002
+ICON ID: Icon_callsign_storebg_Leo_01
+NOMBRE: Majestic Roar Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901045002.png

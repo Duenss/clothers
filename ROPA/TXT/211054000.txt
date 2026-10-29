@@ -1,0 +1,8 @@
+ITEM ID: 211054000
+ICON ID: Icon_avatar_male_cos_accessory_esports_mvp
+NOMBRE: Thunderborn MVP (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054000.png

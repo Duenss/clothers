@@ -1,0 +1,8 @@
+ITEM ID: 801001472
+ICON ID: Icon_box_newplayer
+NOMBRE: Gold Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Gold Pieces to unlock the Gold Card
+IMAGEN: CAJAS/imagenes/801001472.png

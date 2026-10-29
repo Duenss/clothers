@@ -1,0 +1,8 @@
+ITEM ID: 211054010
+ICON ID: Icon_avatar_male_cos_accessory_ninth
+NOMBRE: Ember Fracture (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054010.png

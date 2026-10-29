@@ -1,0 +1,8 @@
+ITEM ID: 720029047
+ICON ID: Icon_box_3
+NOMBRE: Quantic Unknown Badge Bundle (20)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Quantic Unknown Badge x20
+IMAGEN: ROPA/imagenes/720029047.png

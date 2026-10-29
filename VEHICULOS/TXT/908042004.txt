@@ -1,0 +1,8 @@
+ITEM ID: 908042004
+ICON ID: Icon_slot_Motobike_Jumpsuit_Ghosts
+NOMBRE: Motorbike - Top Criminal (Ghost)
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042004.png

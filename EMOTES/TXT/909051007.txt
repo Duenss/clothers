@@ -1,0 +1,8 @@
+ITEM ID: 909051007
+ICON ID: Icon_Emote_Meme8
+NOMBRE: Finger Guns
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051007.png

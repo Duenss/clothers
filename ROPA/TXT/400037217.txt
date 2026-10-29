@@ -1,0 +1,8 @@
+ITEM ID: 400037217
+ICON ID: Icon_box_3
+NOMBRE: Beach Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400037217.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103858
+ICON ID: Icon_USP45_DMX
+NOMBRE: USP-2 - Ebony & Ivory
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103858.png

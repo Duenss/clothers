@@ -1,0 +1,8 @@
+ITEM ID: 906046002
+ICON ID: Icon_Avatar_Surfboard_Microwaves
+NOMBRE: Skyboard - Superheat Combustion
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906046002.png

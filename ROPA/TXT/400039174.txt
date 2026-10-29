@@ -1,0 +1,8 @@
+ITEM ID: 400039174
+ICON ID: Icon_box_3
+NOMBRE: Animal Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Go wild and go crazy with the new style
+IMAGEN: ROPA/imagenes/400039174.png

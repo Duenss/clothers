@@ -1,0 +1,8 @@
+ITEM ID: 211037069
+ICON ID: Icon_avatar_male_cos_hair_ffws2022_purple
+NOMBRE: Mauve Konqueror (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037069.png

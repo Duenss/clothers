@@ -1,0 +1,8 @@
+ITEM ID: 801047522
+ICON ID: Icon_exchange_ELT_vn_47
+NOMBRE: Envelope Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047522.png

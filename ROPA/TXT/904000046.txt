@@ -1,0 +1,8 @@
+ITEM ID: 904000046
+ICON ID: Icon_Bag_Bombsquad_02
+NOMBRE: Backpack - Dangerous Explosive
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000046.png

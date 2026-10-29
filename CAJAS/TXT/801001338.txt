@@ -1,0 +1,8 @@
+ITEM ID: 801001338
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: ICE Flake
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001338.png

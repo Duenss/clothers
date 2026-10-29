@@ -1,0 +1,8 @@
+ITEM ID: 904034004
+ICON ID: Icon_Bag_Kongfu_FP
+NOMBRE: Backpack - Angry Cook
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034004.png

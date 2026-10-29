@@ -1,0 +1,8 @@
+ITEM ID: 211001162
+ICON ID: Icon_avatar_cos_hair_poison_helmet
+NOMBRE: Carnage Helmet
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001162.png

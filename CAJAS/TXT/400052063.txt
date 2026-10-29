@@ -1,0 +1,8 @@
+ITEM ID: 400052063
+ICON ID: Icon_box_CoaEvent2_52
+NOMBRE: Beat Fiesta Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052063.png

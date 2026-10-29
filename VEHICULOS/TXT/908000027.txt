@@ -1,0 +1,8 @@
+ITEM ID: 908000027
+ICON ID: Icon_slot_Jeep_Impermanence
+NOMBRE: Jeep - Endless Oblivion
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000027.png

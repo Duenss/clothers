@@ -1,0 +1,8 @@
+ITEM ID: 400000067
+ICON ID: Icon_box_3
+NOMBRE: Enhanced MP5 Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a 1D, 3D or 7D MP5 skin with refined attributes.
+IMAGEN: ROPA/imagenes/400000067.png

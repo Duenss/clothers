@@ -1,0 +1,8 @@
+ITEM ID: 400030107
+ICON ID: Icon_box_3
+NOMBRE: FFIC Chest
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Free Fire India Championship 2021 Fall Chest
+IMAGEN: ROPA/imagenes/400030107.png

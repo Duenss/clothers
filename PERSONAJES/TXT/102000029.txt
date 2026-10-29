@@ -1,0 +1,8 @@
+ITEM ID: 102000029
+ICON ID: Icon_face_male_head_sc_StreetBeat
+NOMBRE: D-bee
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: D-bee is a music maker and streetdancer.
+IMAGEN: PERSONAJES/imagenes/102000029.png

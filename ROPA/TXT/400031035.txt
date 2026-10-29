@@ -1,0 +1,8 @@
+ITEM ID: 400031035
+ICON ID: Icon_box_3
+NOMBRE: Friend's Memory Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: I enjoy the time with you, my friend.
+IMAGEN: ROPA/imagenes/400031035.png

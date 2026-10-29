@@ -1,0 +1,8 @@
+ITEM ID: 170041503
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Kemerdekaan Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Choose Wisely
+IMAGEN: CAJAS/imagenes/170041503.png

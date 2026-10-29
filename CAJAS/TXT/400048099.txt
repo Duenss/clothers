@@ -1,0 +1,8 @@
+ITEM ID: 400048099
+ICON ID: Icon_box_Create_Sys_BOX3_48
+NOMBRE: Artifact Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048099.png

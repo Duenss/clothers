@@ -1,0 +1,8 @@
+ITEM ID: 908052007
+ICON ID: Icon_slot_Motobike_Fastbreaking_Treasure
+NOMBRE: Motorbike - Treasure Chaser
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052007.png

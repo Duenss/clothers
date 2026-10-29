@@ -1,0 +1,8 @@
+ITEM ID: 211053005
+ICON ID: Icon_avatar_cos_accessory_sh_black
+NOMBRE: Sogo's Eye Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053005.png

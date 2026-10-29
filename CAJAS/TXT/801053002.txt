@@ -1,0 +1,8 @@
+ITEM ID: 801053002
+ICON ID: Icon_exchange_btet2_53
+NOMBRE: Azure Seashell
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053002.png

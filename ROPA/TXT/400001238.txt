@@ -1,0 +1,8 @@
+ITEM ID: 400001238
+ICON ID: Icon_box_3
+NOMBRE: CELEB BOX 2
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Celebrities secret was kept here
+IMAGEN: ROPA/imagenes/400001238.png

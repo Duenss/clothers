@@ -1,0 +1,8 @@
+ITEM ID: 400000075
+ICON ID: Icon_box_highlevel_red
+NOMBRE: Super Value Hamper
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random prize from a specific pool of items
+IMAGEN: CAJAS/imagenes/400000075.png

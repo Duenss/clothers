@@ -1,0 +1,8 @@
+ITEM ID: 204041029
+ICON ID: Icon_avatar_cos_bottom_esports_th
+NOMBRE: FFTC The Pro (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041029.png

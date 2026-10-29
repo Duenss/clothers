@@ -1,0 +1,8 @@
+ITEM ID: 204038027
+ICON ID: Icon_avatar_cos_bottom_goal_pants
+NOMBRE: Achiever City Shorts
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038027.png

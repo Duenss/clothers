@@ -1,0 +1,8 @@
+ITEM ID: 211053025
+ICON ID: Icon_avatar_cos_accessory_magical
+NOMBRE: Battle Sweetheart (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053025.png

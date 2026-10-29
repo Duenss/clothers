@@ -1,0 +1,8 @@
+ITEM ID: 905028005
+ICON ID: Icon_Avatar_PARACHUTE_Sutorito
+NOMBRE: Parachute - Street Fighter
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905028005.png

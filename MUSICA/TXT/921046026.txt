@@ -1,0 +1,8 @@
+ITEM ID: 921046026
+ICON ID: FF_UI_Voiceitem_IHPopular
+NOMBRE: Tere Bass Ki Baat Nahi
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: From the FFM community, for the FFM community!
+IMAGEN: MUSICA/imagenes/921046026.png

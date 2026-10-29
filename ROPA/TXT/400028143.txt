@@ -1,0 +1,8 @@
+ITEM ID: 400028143
+ICON ID: Icon_box_3
+NOMBRE: Dazzling Star Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Box Made in CIS
+IMAGEN: ROPA/imagenes/400028143.png

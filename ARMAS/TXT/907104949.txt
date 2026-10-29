@@ -1,0 +1,8 @@
+ITEM ID: 907104949
+ICON ID: Icon_GlooShield_Eighth_Free
+NOMBRE: Gloo Wall - 8th Anniversary
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104949.png

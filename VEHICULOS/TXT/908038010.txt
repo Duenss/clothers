@@ -1,0 +1,8 @@
+ITEM ID: 908038010
+ICON ID: Icon_slot_Motobike_DMX
+NOMBRE: Cavaliere R
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908038010.png

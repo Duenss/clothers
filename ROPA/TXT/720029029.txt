@@ -1,0 +1,8 @@
+ITEM ID: 720029029
+ICON ID: Icon_bundle_male_Brninja_29
+NOMBRE: Metallic Swordmaster Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/720029029.png

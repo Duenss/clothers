@@ -1,0 +1,8 @@
+ITEM ID: 907101913
+ICON ID: Icon_AWM_Taggercrew
+NOMBRE: AWM - Tagger's Revolt
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101913.png

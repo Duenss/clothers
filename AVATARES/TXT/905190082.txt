@@ -1,0 +1,8 @@
+ITEM ID: 905190082
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: BR Dominator
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "BR Supremacy" achievement
+IMAGEN: AVATARES/imagenes/905190082.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000209
+ICON ID: Icon_avatar_male_jacket_thaiboxer
+NOMBRE: Avenger's Fists (Jacket)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000209.png

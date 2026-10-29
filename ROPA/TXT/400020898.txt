@@ -1,0 +1,8 @@
+ITEM ID: 400020898
+ICON ID: Icon_box_3
+NOMBRE: Father's Day Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB20
+DESCRIPCION: Best Dad I love you!
+IMAGEN: ROPA/imagenes/400020898.png

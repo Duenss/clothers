@@ -1,0 +1,8 @@
+ITEM ID: 902054009
+ICON ID: Icon_face_Rank52
+NOMBRE: BR-Ranked S52 Master Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054009.png

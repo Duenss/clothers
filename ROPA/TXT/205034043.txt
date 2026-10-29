@@ -1,0 +1,8 @@
+ITEM ID: 205034043
+ICON ID: Icon_avatar_cos_shoe_duckslippers
+NOMBRE: Ducky Sandals
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205034043.png

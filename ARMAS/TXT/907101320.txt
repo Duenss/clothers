@@ -1,0 +1,8 @@
+ITEM ID: 907101320
+ICON ID: Icon_Grenade_CNY
+NOMBRE: Red Sparklers
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB13
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101320.png

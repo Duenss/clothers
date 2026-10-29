@@ -1,0 +1,8 @@
+ITEM ID: 211040026
+ICON ID: Icon_avatar_male_cos_hair_fashionist2
+NOMBRE: Matrix Boi (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040026.png

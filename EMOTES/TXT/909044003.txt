@@ -1,0 +1,8 @@
+ITEM ID: 909044003
+ICON ID: Icon_Emote_Dopamine
+NOMBRE: Basket Rafting
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044003.png

@@ -1,0 +1,8 @@
+ITEM ID: 710028058
+ICON ID: FF_Icon_sc_Detective
+NOMBRE: Clu
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Clu is a modern day private detective.
+IMAGEN: ROPA/imagenes/710028058.png

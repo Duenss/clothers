@@ -1,0 +1,8 @@
+ITEM ID: 905000007
+ICON ID: Icon_Avatar_Parachute_Sakura_EP
+NOMBRE: Parachute - Plum Blossom
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000007.png

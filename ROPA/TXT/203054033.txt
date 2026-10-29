@@ -1,0 +1,8 @@
+ITEM ID: 203054033
+ICON ID: Icon_avatar_cos_top_festival_music_tshirt
+NOMBRE: Groovy Crop Top
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054033.png

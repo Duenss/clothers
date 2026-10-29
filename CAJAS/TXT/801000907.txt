@@ -1,0 +1,8 @@
+ITEM ID: 801000907
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Burnout Skeleton Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Burnout
+IMAGEN: CAJAS/imagenes/801000907.png

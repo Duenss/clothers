@@ -1,0 +1,8 @@
+ITEM ID: 204051015
+ICON ID: Icon_avatar_male_cos_bottom_urbancyber
+NOMBRE: Cyber Operator (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051015.png

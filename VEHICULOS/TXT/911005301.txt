@@ -1,0 +1,8 @@
+ITEM ID: 911005301
+ICON ID: Icon_Mounts_flymove_Bluetears
+NOMBRE: Skydive - Undersea Spectacle
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005301.png

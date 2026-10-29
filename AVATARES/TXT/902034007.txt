@@ -1,0 +1,8 @@
+ITEM ID: 902034007
+ICON ID: Icon_face_Rampage4_01
+NOMBRE: Rampage Solar Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034007.png

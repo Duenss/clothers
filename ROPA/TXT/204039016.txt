@@ -1,0 +1,8 @@
+ITEM ID: 204039016
+ICON ID: Icon_avatar_cos_bottom_pineapple
+NOMBRE: Pineapple Spree (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039016.png

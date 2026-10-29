@@ -1,0 +1,8 @@
+ITEM ID: 801000409
+ICON ID: Icon_exchange_ob21_pet
+NOMBRE: Pet
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Hi! Master!
+IMAGEN: CAJAS/imagenes/801000409.png

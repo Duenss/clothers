@@ -1,0 +1,8 @@
+ITEM ID: 908000032
+ICON ID: Icon_slot_Motobike_FS_Bounty
+NOMBRE: Motorbike - Cyber Bounty Hunter
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000032.png

@@ -1,0 +1,8 @@
+ITEM ID: 909041008
+ICON ID: Icon_Emote_Sugarskull23
+NOMBRE: Bony Fumes
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041008.png

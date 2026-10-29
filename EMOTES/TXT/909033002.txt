@@ -1,0 +1,8 @@
+ITEM ID: 909033002
+ICON ID: Icon_Emote_Goldenwings
+NOMBRE: Golden Feather
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909033002.png

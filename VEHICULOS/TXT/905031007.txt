@@ -1,0 +1,8 @@
+ITEM ID: 905031007
+ICON ID: Icon_Avatar_PARACHUTE_Jumpsuit2
+NOMBRE: Parachute - Team Heist
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905031007.png

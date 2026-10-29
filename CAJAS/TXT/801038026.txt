@@ -1,0 +1,8 @@
+ITEM ID: 801038026
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Chef's Special Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038026.png

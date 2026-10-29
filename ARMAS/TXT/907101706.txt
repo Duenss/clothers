@@ -1,0 +1,8 @@
+ITEM ID: 907101706
+ICON ID: Icon_MP5_Vampire
+NOMBRE: MP5 - Vampire
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB17
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101706.png

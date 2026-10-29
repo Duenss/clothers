@@ -1,0 +1,8 @@
+ITEM ID: 902046011
+ICON ID: Icon_face_CSRank27_01
+NOMBRE: CS-Ranked S27 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046011.png

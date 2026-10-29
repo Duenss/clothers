@@ -1,0 +1,8 @@
+ITEM ID: 801044537
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Card Token 2
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044537.png

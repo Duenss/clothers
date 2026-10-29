@@ -1,0 +1,8 @@
+ITEM ID: 902000221
+ICON ID: Icon_face_Franken
+NOMBRE: The Green Giant
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000221.png

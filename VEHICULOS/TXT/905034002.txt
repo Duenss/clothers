@@ -1,0 +1,8 @@
+ITEM ID: 905034002
+ICON ID: Icon_Avatar_PARACHUTE_BIS
+NOMBRE: Parachute - Digi Smiley
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905034002.png

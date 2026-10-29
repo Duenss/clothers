@@ -1,0 +1,8 @@
+ITEM ID: 901041006
+ICON ID: Icon_callsign_storebg_Ninja
+NOMBRE: Fiery Flash Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901041006.png

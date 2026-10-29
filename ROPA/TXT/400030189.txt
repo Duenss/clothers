@@ -1,0 +1,8 @@
+ITEM ID: 400030189
+ICON ID: Icon_box_3
+NOMBRE: Persia Prowess Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Persia Prowess and all it's pieces
+IMAGEN: ROPA/imagenes/400030189.png

@@ -1,0 +1,8 @@
+ITEM ID: 205000774
+ICON ID: Icon_avatar_male_cos_shoe_booyahday21_yellow
+NOMBRE: Alpha Flameborn (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000774.png

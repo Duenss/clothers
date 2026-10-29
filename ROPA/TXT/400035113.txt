@@ -1,0 +1,8 @@
+ITEM ID: 400035113
+ICON ID: Icon_box_3
+NOMBRE: Mythos Four Emote Loot Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Contains Mythos Four Emote and other items
+IMAGEN: ROPA/imagenes/400035113.png

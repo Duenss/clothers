@@ -1,0 +1,8 @@
+ITEM ID: 906030003
+ICON ID: Icon_Avatar_Surfboard_Lightfest
+NOMBRE: Skyboard - Light Surfer
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906030003.png

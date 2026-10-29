@@ -1,0 +1,8 @@
+ITEM ID: 801000123
+ICON ID: Icon_exchange_Trophy_Glory
+NOMBRE: Trophy of Glory
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000123.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104607
+ICON ID: Icon_Thompson_Tiger_Machine
+NOMBRE: Thompson - Cyber Claws
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104607.png

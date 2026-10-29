@@ -1,0 +1,8 @@
+ITEM ID: 170035004
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Style Capsule (Purple) Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170035004.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000387
+ICON ID: Icon_exchange_ob21_mother_day_card
+NOMBRE: Mother's Day Card
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Mother's day
+IMAGEN: CAJAS/imagenes/801000387.png

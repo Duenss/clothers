@@ -1,0 +1,8 @@
+ITEM ID: 913034006
+ICON ID: FF_UI_Vault_Music_MUBR
+NOMBRE: Gathering my Squad
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Anitta feat. Free Fire hit song
+IMAGEN: MUSICA/imagenes/913034006.png

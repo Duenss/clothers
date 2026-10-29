@@ -1,0 +1,8 @@
+ITEM ID: 801052018
+ICON ID: Icon_exchange_cet3_52
+NOMBRE: Panther
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052018.png

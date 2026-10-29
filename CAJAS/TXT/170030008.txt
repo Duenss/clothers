@@ -1,0 +1,8 @@
+ITEM ID: 170030008
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Loot Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Choose wisely
+IMAGEN: CAJAS/imagenes/170030008.png

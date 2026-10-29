@@ -1,0 +1,8 @@
+ITEM ID: 801000315
+ICON ID: Icon_exchange_ro_boli
+NOMBRE: RO Poring
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000315.png

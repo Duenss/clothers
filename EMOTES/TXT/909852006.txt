@@ -1,0 +1,8 @@
+ITEM ID: 909852006
+ICON ID: FF_UI_Vault_Icon_FinishMove_Fastbreaking_Treasure
+NOMBRE: Lost in Sand
+TIPO: Finishing Move
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909852006.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103201
+ICON ID: Icon_USP45_Steamwarrior
+NOMBRE: USP - Copper Light
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103201.png

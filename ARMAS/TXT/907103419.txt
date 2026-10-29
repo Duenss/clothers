@@ -1,0 +1,8 @@
+ITEM ID: 907103419
+ICON ID: Icon_M14_Clashgold_S13
+NOMBRE: The Golden M14
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103419.png

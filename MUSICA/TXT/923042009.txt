@@ -1,0 +1,8 @@
+ITEM ID: 923042009
+ICON ID: FF_UI_Voiceitem_RANK43
+NOMBRE: Respect!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Express your emotions!
+IMAGEN: MUSICA/imagenes/923042009.png

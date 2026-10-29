@@ -1,0 +1,8 @@
+ITEM ID: 203034032
+ICON ID: Icon_avatar_male_cos_top_barocco
+NOMBRE: Lord Baroque (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034032.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104649
+ICON ID: Icon_GlooShield_Sugarskull24
+NOMBRE: Gloo Wall - Bony Rattles
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104649.png

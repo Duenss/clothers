@@ -1,0 +1,8 @@
+ITEM ID: 204052005
+ICON ID: Icon_avatar_male_cos_bottom_iiv_ct_king_white
+NOMBRE: Ryomen Sukuna White Robe Bottom
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052005.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000999
+ICON ID: Icon_box_3
+NOMBRE: Jersey Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Soccer Craze!
+IMAGEN: ROPA/imagenes/400000999.png

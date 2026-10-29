@@ -1,0 +1,8 @@
+ITEM ID: 400029075
+ICON ID: Icon_box_3
+NOMBRE: Ultimate Merdeka Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Independence is earned
+IMAGEN: ROPA/imagenes/400029075.png

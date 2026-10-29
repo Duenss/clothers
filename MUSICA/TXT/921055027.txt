@@ -1,0 +1,8 @@
+ITEM ID: 921055027
+ICON ID: FF_UI_Voiceitem_Halloween26
+NOMBRE: Who's there?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: The Unseen voice pack
+IMAGEN: MUSICA/imagenes/921055027.png

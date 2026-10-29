@@ -1,0 +1,8 @@
+ITEM ID: 211001023
+ICON ID: Icon_avatar_male_hair_cos_schoolgang
+NOMBRE: Scorching Academy (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001023.png

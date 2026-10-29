@@ -1,0 +1,8 @@
+ITEM ID: 203034025
+ICON ID: Icon_avatar_male_cos_top_kuma
+NOMBRE: Boss Tweed (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034025.png

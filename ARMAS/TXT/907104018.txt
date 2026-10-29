@@ -1,0 +1,8 @@
+ITEM ID: 907104018
+ICON ID: Icon_M24_Fashionist2
+NOMBRE: M24 - Poppin' Griddin'
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104018.png

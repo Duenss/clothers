@@ -1,0 +1,8 @@
+ITEM ID: 214045004
+ICON ID: Icon_avatar_female_cos_headadditive_gangster_white
+NOMBRE: Thunderous Blanc (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214045004.png

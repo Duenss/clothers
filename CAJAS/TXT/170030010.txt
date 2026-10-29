@@ -1,0 +1,8 @@
+ITEM ID: 170030010
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: SMG Evo Gun Token Pack
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Choose an item from this box!
+IMAGEN: CAJAS/imagenes/170030010.png

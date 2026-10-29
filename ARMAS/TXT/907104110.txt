@@ -1,0 +1,8 @@
+ITEM ID: 907104110
+ICON ID: Icon_Katana_Inkpainting
+NOMBRE: Katana - Ink Stain
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104110.png

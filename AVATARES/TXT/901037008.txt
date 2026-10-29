@@ -1,0 +1,8 @@
+ITEM ID: 901037008
+ICON ID: Icon_callsign_storebg_CSRank16_03
+NOMBRE: CS-Ranked S16 Platinum Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901037008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000378
+ICON ID: Icon_box_3
+NOMBRE: Argentina Revolution day Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Argentina Revolution day Loot Crate
+IMAGEN: ROPA/imagenes/400000378.png

@@ -1,0 +1,8 @@
+ITEM ID: 203001123
+ICON ID: Icon_avatar_female_top_cos_cybernobility
+NOMBRE: MAX Raychaser (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001123.png

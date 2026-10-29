@@ -1,0 +1,8 @@
+ITEM ID: 909034001
+ICON ID: Icon_Emote_Rampage4_Book
+NOMBRE: Chronicle of the Sword
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909034001.png

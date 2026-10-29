@@ -1,0 +1,8 @@
+ITEM ID: 801000998
+ICON ID: Icon_exchange_ob28_whiteshark
+NOMBRE: Finstooth Mini Uzi Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB28
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000998.png

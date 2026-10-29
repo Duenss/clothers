@@ -1,0 +1,8 @@
+ITEM ID: 801050010
+ICON ID: Icon_exchange_pmb_50
+NOMBRE: Bamboo Bandit Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050010.png

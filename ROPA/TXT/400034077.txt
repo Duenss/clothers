@@ -1,0 +1,8 @@
+ITEM ID: 400034077
+ICON ID: Icon_box_3
+NOMBRE: Timbered Charmer (Galaxy) Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Timbered Charmer (Galaxy) and all its pieces
+IMAGEN: ROPA/imagenes/400034077.png

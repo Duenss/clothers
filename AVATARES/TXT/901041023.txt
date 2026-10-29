@@ -1,0 +1,8 @@
+ITEM ID: 901041023
+ICON ID: Icon_callsign_storebg_ME20
+NOMBRE: CS-Ranked S20 Match Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901041023.png

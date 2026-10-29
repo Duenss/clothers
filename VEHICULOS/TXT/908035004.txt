@@ -1,0 +1,8 @@
+ITEM ID: 908035004
+ICON ID: Icon_slot_MonsterTruck_Digitaluniverse
+NOMBRE: Monster Truck - 5th Anniversary
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035004.png

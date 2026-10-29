@@ -1,0 +1,8 @@
+ITEM ID: 203048034
+ICON ID: Icon_avatar_cos_top_fastbreaking25
+NOMBRE: Linen Shirt
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048034.png

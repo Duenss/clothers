@@ -1,0 +1,8 @@
+ITEM ID: 907103722
+ICON ID: Icon_Pan_Winterfest22
+NOMBRE: Subzero Fryer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103722.png

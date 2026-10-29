@@ -1,0 +1,8 @@
+ITEM ID: 903049010
+ICON ID: Icon_Deadloot_Club
+NOMBRE: Loot Box - Neon Club
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903049010.png

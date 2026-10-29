@@ -1,0 +1,8 @@
+ITEM ID: 929005506
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_06
+NOMBRE: Rock Lee Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Rock Lee Sticker
+IMAGEN: AVATARES/imagenes/929005506.png

@@ -1,0 +1,8 @@
+ITEM ID: 211041032
+ICON ID: Icon_avatar_male_cos_accessory_sugarskull23_neon
+NOMBRE: Glowing Memory (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041032.png

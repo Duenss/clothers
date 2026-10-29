@@ -1,0 +1,8 @@
+ITEM ID: 211001041
+ICON ID: Icon_avatar_male_accessory_cos_bluedrink
+NOMBRE: B'lue Wave (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001041.png

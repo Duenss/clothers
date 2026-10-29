@@ -1,0 +1,8 @@
+ITEM ID: 801000949
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Cherry Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: What could it truly mean?
+IMAGEN: CAJAS/imagenes/801000949.png

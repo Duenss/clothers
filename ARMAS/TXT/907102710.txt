@@ -1,0 +1,8 @@
+ITEM ID: 907102710
+ICON ID: Icon_UMP45_Cardboard_Zebra
+NOMBRE: UMP - Zebra Papercut
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102710.png

@@ -1,0 +1,8 @@
+ITEM ID: 400034089
+ICON ID: Icon_box_3
+NOMBRE: Vector Hypercore Blues Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Vector Hypercore Blues
+IMAGEN: ROPA/imagenes/400034089.png

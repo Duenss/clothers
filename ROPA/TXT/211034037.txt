@@ -1,0 +1,8 @@
+ITEM ID: 211034037
+ICON ID: Icon_avatar_male_cos_hair_kongfu_hw
+NOMBRE: Crimson Knifemaster - Fire (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034037.png

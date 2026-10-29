@@ -1,0 +1,8 @@
+ITEM ID: 913049006
+ICON ID: FF_UI_Vault_Music_LULLABY49
+NOMBRE: Dreams on Fire
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: The Sleepcoat theme song
+IMAGEN: MUSICA/imagenes/913049006.png

@@ -1,0 +1,8 @@
+ITEM ID: 801050009
+ICON ID: Icon_exchange_nbwf_50
+NOMBRE: Galaxy Fist Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050009.png

@@ -1,0 +1,8 @@
+ITEM ID: 906000089
+ICON ID: Icon_Avatar_Surfboard_Nuclear_B
+NOMBRE: Skyboard - Radioactive
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000089.png

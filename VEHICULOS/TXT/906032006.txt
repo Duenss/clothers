@@ -1,0 +1,8 @@
+ITEM ID: 906032006
+ICON ID: Icon_Avatar_Surfboard_TRbullet
+NOMBRE: Skyboard - Scoped-In
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906032006.png

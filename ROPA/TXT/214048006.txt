@@ -1,0 +1,8 @@
+ITEM ID: 214048006
+ICON ID: Icon_avatar_cos_headadditive_ninja_mask01
+NOMBRE: Malachite Ninja (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214048006.png

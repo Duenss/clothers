@@ -1,0 +1,8 @@
+ITEM ID: 211041001
+ICON ID: Icon_avatar_female_cos_hair_fisherman
+NOMBRE: The Reel Deal (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041001.png

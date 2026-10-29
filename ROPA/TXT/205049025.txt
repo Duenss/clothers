@@ -1,0 +1,8 @@
+ITEM ID: 205049025
+ICON ID: Icon_avatar_cos_shoe_jersey_th
+NOMBRE: Super Striker (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049025.png

@@ -1,0 +1,8 @@
+ITEM ID: 801049010
+ICON ID: Icon_exchange_Club_49
+NOMBRE: Neon Glow Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049010.png

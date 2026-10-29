@@ -1,0 +1,8 @@
+ITEM ID: 211001138
+ICON ID: Icon_avatar_cos_hair_guerrilla
+NOMBRE: Gray Ambush (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001138.png

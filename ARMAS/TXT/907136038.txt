@@ -1,0 +1,8 @@
+ITEM ID: 907136038
+ICON ID: Icon_M1014_Shiba_Pw
+NOMBRE: M1014 - Dog At Hand
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136038.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104520
+ICON ID: Icon_Thompson_Leo
+NOMBRE: Thompson - S26 Exclusive: Leo
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104520.png

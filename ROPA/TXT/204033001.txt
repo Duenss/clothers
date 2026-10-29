@@ -1,0 +1,8 @@
+ITEM ID: 204033001
+ICON ID: Icon_avatar_male_cos_bottom_ffws03
+NOMBRE: Haven Warrior (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033001.png

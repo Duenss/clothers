@@ -1,0 +1,8 @@
+ITEM ID: 211040052
+ICON ID: Icon_avatar_cos_hair_pkhair
+NOMBRE: Minty Sponge Wig
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040052.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000743
+ICON ID: Icon_avatar_male_cos_goliath_b
+NOMBRE: Armored Titan
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000743.png

@@ -1,0 +1,8 @@
+ITEM ID: 400031134
+ICON ID: Icon_box_3
+NOMBRE: Booyah Box 49
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Especially for you
+IMAGEN: ROPA/imagenes/400031134.png

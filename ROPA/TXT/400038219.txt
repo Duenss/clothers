@@ -1,0 +1,8 @@
+ITEM ID: 400038219
+ICON ID: Icon_box_3
+NOMBRE: Sphere Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: You can get what you want
+IMAGEN: ROPA/imagenes/400038219.png

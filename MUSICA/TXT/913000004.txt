@@ -1,0 +1,8 @@
+ITEM ID: 913000004
+ICON ID: FF_UI_Vault_Music_SquadBEATz
+NOMBRE: SQUAD BEATz
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Lobby music of SQUAD BEATz
+IMAGEN: MUSICA/imagenes/913000004.png

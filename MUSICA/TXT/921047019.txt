@@ -1,0 +1,8 @@
+ITEM ID: 921047019
+ICON ID: FF_UI_Voiceitem_BD47
+NOMBRE: Amar bhul hoyeche!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Appreciating teammates
+IMAGEN: MUSICA/imagenes/921047019.png

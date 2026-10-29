@@ -1,0 +1,8 @@
+ITEM ID: 907100096
+ICON ID: Icon_slot_P90
+NOMBRE: Unknown
+TIPO: Weapon Skins
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100096.png

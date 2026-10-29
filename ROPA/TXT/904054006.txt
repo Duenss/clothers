@@ -1,0 +1,8 @@
+ITEM ID: 904054006
+ICON ID: Icon_Bag_Apple_GR_Blue
+NOMBRE: Backpack - Crisp Green
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904054006.png

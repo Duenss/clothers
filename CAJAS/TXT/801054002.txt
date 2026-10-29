@@ -1,0 +1,8 @@
+ITEM ID: 801054002
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Yellow Shard
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054002.png

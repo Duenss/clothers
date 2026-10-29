@@ -1,0 +1,8 @@
+ITEM ID: 929005503
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_03
+NOMBRE: Kakashi Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Kakashi Sticker
+IMAGEN: AVATARES/imagenes/929005503.png

@@ -1,0 +1,8 @@
+ITEM ID: 211054022
+ICON ID: Icon_avatar_male_cos_hair_us_depend26
+NOMBRE: Captain of Justice (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054022.png

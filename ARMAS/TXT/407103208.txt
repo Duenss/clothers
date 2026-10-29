@@ -1,0 +1,8 @@
+ITEM ID: 407103208
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Brassy Core (Kord) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive a random gun skin (Kord) from the Brassy Core weapon set
+IMAGEN: ARMAS/imagenes/407103208.png

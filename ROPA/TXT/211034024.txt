@@ -1,0 +1,8 @@
+ITEM ID: 211034024
+ICON ID: Icon_avatar_female_cos_hair_kuma
+NOMBRE: Boss Posh (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034024.png

@@ -1,0 +1,8 @@
+ITEM ID: 203050090
+ICON ID: Icon_avatar_male_cos_top_2nbct_bro
+NOMBRE: Itachi Top
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050090.png

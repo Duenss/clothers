@@ -1,0 +1,8 @@
+ITEM ID: 203055006
+ICON ID: Icon_avatar_male_cos_top_scorpio26
+NOMBRE: Scorpio Sting (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055006.png

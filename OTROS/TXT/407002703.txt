@@ -1,0 +1,8 @@
+ITEM ID: 407002703
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Mr. Nutcracker Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Mr. Nutcracker weapon set
+IMAGEN: OTROS/imagenes/407002703.png

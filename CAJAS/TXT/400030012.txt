@@ -1,0 +1,8 @@
+ITEM ID: 400030012
+ICON ID: Icon_face_male_sc_Playboy
+NOMBRE: Joseph's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: GREEN (Uncommon)
+TAG: OB30
+DESCRIPCION: Open to Receive Memory Fragment (Joseph)
+IMAGEN: CAJAS/imagenes/400030012.png

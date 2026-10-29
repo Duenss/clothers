@@ -1,0 +1,8 @@
+ITEM ID: 400032105
+ICON ID: Icon_box_3
+NOMBRE: Fortune Koi Bundle Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Contains Fortune Koi Bundle
+IMAGEN: ROPA/imagenes/400032105.png

@@ -1,0 +1,8 @@
+ITEM ID: 205042011
+ICON ID: Icon_avatar_female_cos_shoe_smudge
+NOMBRE: Feline Fatale (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205042011.png

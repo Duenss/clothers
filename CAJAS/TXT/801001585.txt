@@ -1,0 +1,8 @@
+ITEM ID: 801001585
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Shell Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Look what the waves brought us!
+IMAGEN: CAJAS/imagenes/801001585.png

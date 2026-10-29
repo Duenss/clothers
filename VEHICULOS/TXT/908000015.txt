@@ -1,0 +1,8 @@
+ITEM ID: 908000015
+ICON ID: Icon_slot_Motobike_Cowboymk2
+NOMBRE: Modern Cowboy
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000015.png

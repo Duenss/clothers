@@ -1,0 +1,8 @@
+ITEM ID: 801043510
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Holi Hai Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801043510.png

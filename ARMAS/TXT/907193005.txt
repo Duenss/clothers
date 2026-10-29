@@ -1,0 +1,8 @@
+ITEM ID: 907193005
+ICON ID: Icon_UMP45_Booyahday212
+NOMBRE: UMP - BOOYAH DAY 2021
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907193005.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101901
+ICON ID: Icon_M79_Traphiphop
+NOMBRE: M79 - Swagger Ownage
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101901.png

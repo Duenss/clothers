@@ -1,0 +1,8 @@
+ITEM ID: 903031006
+ICON ID: Icon_Deadloot_Alienpilot
+NOMBRE: Loot Box - Rocketeer
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903031006.png

@@ -1,0 +1,8 @@
+ITEM ID: 904049005
+ICON ID: Icon_Bag_Monogram
+NOMBRE: Backpack - Pochette
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049005.png

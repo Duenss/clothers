@@ -1,0 +1,8 @@
+ITEM ID: 400031141
+ICON ID: Icon_box_3
+NOMBRE: ICE Matryoshka Doll Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to get amazing rewards
+IMAGEN: ROPA/imagenes/400031141.png

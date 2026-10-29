@@ -1,0 +1,8 @@
+ITEM ID: 801000562
+ICON ID: Icon_exchange_ob23_camouflage_paint
+NOMBRE: Camouflage Paint
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000562.png

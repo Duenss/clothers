@@ -1,0 +1,8 @@
+ITEM ID: 407103107
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cyan Fear (MAC10) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive a random gun skin (MAC10) from the Cyan Fear weapon set
+IMAGEN: ARMAS/imagenes/407103107.png

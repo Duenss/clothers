@@ -1,0 +1,8 @@
+ITEM ID: 902000312
+ICON ID: Icon_face_Sushikiller_FP
+NOMBRE: Octopus
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000312.png

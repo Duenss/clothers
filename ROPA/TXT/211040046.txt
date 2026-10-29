@@ -1,0 +1,8 @@
+ITEM ID: 211040046
+ICON ID: Icon_avatar_male_cos_hair_fishbone
+NOMBRE: Ocean Depths (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040046.png

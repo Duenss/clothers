@@ -1,0 +1,8 @@
+ITEM ID: 907102328
+ICON ID: Icon_GlooShield_Jumpsuit
+NOMBRE: Gloo Wall - Plan Bermuda
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102328.png

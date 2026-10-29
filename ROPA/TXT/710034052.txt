@@ -1,0 +1,8 @@
+ITEM ID: 710034052
+ICON ID: Icon_bundle_Kongfu10_32
+NOMBRE: The Kung-Foodies Badge Bundle (10)
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains The Kung-Foodies Badge x10
+IMAGEN: ROPA/imagenes/710034052.png

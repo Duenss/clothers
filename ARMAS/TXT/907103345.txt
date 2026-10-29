@@ -1,0 +1,8 @@
+ITEM ID: 907103345
+ICON ID: Icon_FoolsDinosauria_Grenade
+NOMBRE: Grenade - Baby Dino
+TIPO: Grenade Skin
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103345.png

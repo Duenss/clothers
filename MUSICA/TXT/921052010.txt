@@ -1,0 +1,8 @@
+ITEM ID: 921052010
+ICON ID: FF_UI_Voiceitem_IIV_03
+NOMBRE: You just keep trying.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Ryomen Sukuna Voice Pack
+IMAGEN: MUSICA/imagenes/921052010.png

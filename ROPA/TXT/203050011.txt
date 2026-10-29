@@ -1,0 +1,8 @@
+ITEM ID: 203050011
+ICON ID: Icon_avatar_cos_top_easterrabbit_2025
+NOMBRE: Galactic Bunny (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050011.png

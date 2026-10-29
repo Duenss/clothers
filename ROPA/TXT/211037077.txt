@@ -1,0 +1,8 @@
+ITEM ID: 211037077
+ICON ID: Icon_avatar_cos_hair_brsoccer_green
+NOMBRE: 100% Winner Bandana
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037077.png

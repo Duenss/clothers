@@ -1,0 +1,8 @@
+ITEM ID: 204055000
+ICON ID: Icon_avatar_male_cos_bottom_wb_boy
+NOMBRE: Ben Tennyson Bottom
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055000.png

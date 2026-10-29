@@ -1,0 +1,8 @@
+ITEM ID: 907102827
+ICON ID: Icon_SKS_FFChar_S23
+NOMBRE: SKS - S23 Exclusive: Andrew "the Fierce"
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102827.png

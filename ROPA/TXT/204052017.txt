@@ -1,0 +1,8 @@
+ITEM ID: 204052017
+ICON ID: Icon_avatar_cos_bottom_aprilfool26
+NOMBRE: Quackman (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052017.png

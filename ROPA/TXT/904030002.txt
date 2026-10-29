@@ -1,0 +1,8 @@
+ITEM ID: 904030002
+ICON ID: Icon_Bag_Sugarskull21
+NOMBRE: Backpack - Goldrim King
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030002.png

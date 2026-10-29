@@ -1,0 +1,8 @@
+ITEM ID: 400000699
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: The Punishers Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Punishers weapon set.
+IMAGEN: CAJAS/imagenes/400000699.png

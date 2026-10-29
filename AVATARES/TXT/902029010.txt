@@ -1,0 +1,8 @@
+ITEM ID: 902029010
+ICON ID: Icon_face_male_head_sc_MusicBro_Q_B
+NOMBRE: Thiva Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029010.png

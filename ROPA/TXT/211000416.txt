@@ -1,0 +1,8 @@
+ITEM ID: 211000416
+ICON ID: Icon_male_piratemk2
+NOMBRE: Unknown
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000416.png

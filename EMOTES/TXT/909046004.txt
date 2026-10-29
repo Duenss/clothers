@@ -1,0 +1,8 @@
+ITEM ID: 909046004
+ICON ID: Icon_Emote_Drinkcola
+NOMBRE: Cheers to Victory!
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046004.png

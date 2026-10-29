@@ -1,0 +1,8 @@
+ITEM ID: 400027098
+ICON ID: Icon_box_3
+NOMBRE: Black Rose Rocker Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Black Rose Rocker and all its pieces
+IMAGEN: ROPA/imagenes/400027098.png

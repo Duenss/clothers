@@ -1,0 +1,8 @@
+ITEM ID: 801001119
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: The Squad Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: The Team of Death
+IMAGEN: CAJAS/imagenes/801001119.png

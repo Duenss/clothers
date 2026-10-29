@@ -1,0 +1,8 @@
+ITEM ID: 921049004
+ICON ID: FF_UI_Voiceitem_BR49
+NOMBRE: What's up guys, are you afraid? Let rush in, let's go!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: LOUD Voice Pack
+IMAGEN: MUSICA/imagenes/921049004.png

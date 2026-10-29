@@ -1,0 +1,8 @@
+ITEM ID: 907104050
+ICON ID: Icon_GlooShield_Darkskeleton
+NOMBRE: Gloo Wall - Midnight Breathkeeper
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104050.png

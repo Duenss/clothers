@@ -1,0 +1,8 @@
+ITEM ID: 907100095
+ICON ID: Icon_slot_M14
+NOMBRE: Unknown
+TIPO: Weapon Skins
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100095.png

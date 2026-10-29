@@ -1,0 +1,8 @@
+ITEM ID: 407105404
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Dimensional Bruiser (XM8 + Desert Eagle) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Open to receive a random gun skin (XM8 + Desert Eagle) from the Dimensional Bruiser set
+IMAGEN: ARMAS/imagenes/407105404.png

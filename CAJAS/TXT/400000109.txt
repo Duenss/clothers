@@ -1,0 +1,8 @@
+ITEM ID: 400000109
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Unknown
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/400000109.png

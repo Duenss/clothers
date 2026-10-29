@@ -1,0 +1,8 @@
+ITEM ID: 203041032
+ICON ID: Icon_avatar_cos_top_slime_tshirt
+NOMBRE: Slimy Sleeveless Zip Up
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041032.png

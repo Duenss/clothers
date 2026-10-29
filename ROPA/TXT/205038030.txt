@@ -1,0 +1,8 @@
+ITEM ID: 205038030
+ICON ID: Icon_avatar_cos_shoe_mo_01
+NOMBRE: Essential Sneakers
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038030.png

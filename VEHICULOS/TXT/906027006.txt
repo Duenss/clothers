@@ -1,0 +1,8 @@
+ITEM ID: 906027006
+ICON ID: Icon_Avatar_Surfboard_VNdrink
+NOMBRE: Skyboard - YoMost
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906027006.png

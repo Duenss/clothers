@@ -1,0 +1,8 @@
+ITEM ID: 203038013
+ICON ID: Icon_avatar_male_cos_top_valentine23
+NOMBRE: Sweetie Villain (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038013.png

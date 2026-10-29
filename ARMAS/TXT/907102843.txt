@@ -1,0 +1,8 @@
+ITEM ID: 907102843
+ICON ID: Icon_GlooShield_Supercar_A
+NOMBRE: Gloo Wall - Victory Charge
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102843.png

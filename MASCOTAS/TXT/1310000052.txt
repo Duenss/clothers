@@ -1,0 +1,8 @@
+ITEM ID: 1310000052
+ICON ID: Icon_Pet_Pinkfox
+NOMBRE: Pet Skin: Red Fox
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Is it dye? Or blood?
+IMAGEN: MASCOTAS/imagenes/1310000052.png

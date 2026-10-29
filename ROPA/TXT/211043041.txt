@@ -1,0 +1,8 @@
+ITEM ID: 211043041
+ICON ID: Icon_avatar_male_cos_hair_waterfest24_01
+NOMBRE: Deep Aqua (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043041.png

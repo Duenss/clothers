@@ -1,0 +1,8 @@
+ITEM ID: 922044002
+ICON ID: UI_Icon_SkillSkin_Villain
+NOMBRE: Skill Skin: Crimson Crush
+TIPO: Skill Skins
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922044002.png

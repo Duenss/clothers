@@ -1,0 +1,8 @@
+ITEM ID: 211033016
+ICON ID: Icon_avatar_cos_hair_raincoat
+NOMBRE: Raindoll (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033016.png

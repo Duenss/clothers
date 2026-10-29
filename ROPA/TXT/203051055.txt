@@ -1,0 +1,8 @@
+ITEM ID: 203051055
+ICON ID: Icon_avatar_male_cos_top_th_kol25_orange
+NOMBRE: HEARTROCKER (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051055.png

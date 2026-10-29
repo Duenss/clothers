@@ -1,0 +1,8 @@
+ITEM ID: 101000025
+ICON ID: Icon_face_female_head_sc_Crazygirl
+NOMBRE: Iris
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Iris is a deaf, tech-modded assassin who had a large hand in shaping the city she lives in.
+IMAGEN: PERSONAJES/imagenes/101000025.png

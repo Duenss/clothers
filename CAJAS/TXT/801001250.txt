@@ -1,0 +1,8 @@
+ITEM ID: 801001250
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Heroes Rising Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: And in the darkest hour heroes shall rise
+IMAGEN: CAJAS/imagenes/801001250.png

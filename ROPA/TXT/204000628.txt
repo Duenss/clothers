@@ -1,0 +1,8 @@
+ITEM ID: 204000628
+ICON ID: Icon_avatar_male_bottom_cos_musicfall_A
+NOMBRE: Stereo Sprinter (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000628.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102924
+ICON ID: Icon_AN94_Clashgold_S8
+NOMBRE: The Golden AN94
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102924.png

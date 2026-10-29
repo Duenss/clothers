@@ -1,0 +1,8 @@
+ITEM ID: 907103846
+ICON ID: Icon_GlooShield_PK_Green
+NOMBRE: Gloo Wall - Meadow
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103846.png

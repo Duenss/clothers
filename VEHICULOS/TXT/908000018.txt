@@ -1,0 +1,8 @@
+ITEM ID: 908000018
+ICON ID: Icon_slot_Motobike_Fashionfox
+NOMBRE: Motorbike - Fabled Foxes
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000018.png

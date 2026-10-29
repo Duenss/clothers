@@ -1,0 +1,8 @@
+ITEM ID: 710000174
+ICON ID: Icon_elk
+NOMBRE: Winter Elk Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000174.png

@@ -1,0 +1,8 @@
+ITEM ID: 908035009
+ICON ID: Icon_slot_Motobike_Riders
+NOMBRE: Motorbike - Limelite
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035009.png

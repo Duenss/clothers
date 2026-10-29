@@ -1,0 +1,8 @@
+ITEM ID: 400041153
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M14 Burning Lily Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive a M14 Burning Lily Skin
+IMAGEN: CAJAS/imagenes/400041153.png

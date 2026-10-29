@@ -1,0 +1,8 @@
+ITEM ID: 214054000
+ICON ID: Icon_avatar_female_cos_headadditive_apple_gr
+NOMBRE: Crisp Red (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214054000.png

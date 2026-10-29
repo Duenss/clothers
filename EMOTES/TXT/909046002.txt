@@ -1,0 +1,8 @@
+ITEM ID: 909046002
+ICON ID: Icon_Emote_Booyahday24
+NOMBRE: Who's the Booyah Champ!
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046002.png

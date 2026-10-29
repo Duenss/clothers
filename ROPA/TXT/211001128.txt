@@ -1,0 +1,8 @@
+ITEM ID: 211001128
+ICON ID: Icon_avatar_male_cos_hair_chinatown
+NOMBRE: Dragon Master (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001128.png

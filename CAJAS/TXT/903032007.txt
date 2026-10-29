@@ -1,0 +1,8 @@
+ITEM ID: 903032007
+ICON ID: Icon_Deadloot_Steamwarrior_Pre
+NOMBRE: Loot Box - Chimney Engine
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903032007.png

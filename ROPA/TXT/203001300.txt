@@ -1,0 +1,8 @@
+ITEM ID: 203001300
+ICON ID: Icon_avatar_top_cos_mejersey_18r
+NOMBRE: No. 18 Maroon Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001300.png

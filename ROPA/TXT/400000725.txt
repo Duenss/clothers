@@ -1,0 +1,8 @@
+ITEM ID: 400000725
+ICON ID: Icon_box_3
+NOMBRE: Sakura Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Spring is here!
+IMAGEN: ROPA/imagenes/400000725.png

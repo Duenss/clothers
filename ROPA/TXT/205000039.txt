@@ -1,0 +1,8 @@
+ITEM ID: 205000039
+ICON ID: Icon_avatar_male_shoe_cos_hoodshirt_black
+NOMBRE: Cool Activewear (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000039.png

@@ -1,0 +1,8 @@
+ITEM ID: 904035015
+ICON ID: Icon_Bag_Digitaluniverse
+NOMBRE: Backpack - Sterling Star
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035015.png

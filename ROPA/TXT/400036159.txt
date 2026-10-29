@@ -1,0 +1,8 @@
+ITEM ID: 400036159
+ICON ID: Icon_box_3
+NOMBRE: Pet Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains the pet Fang and many other rewards
+IMAGEN: ROPA/imagenes/400036159.png

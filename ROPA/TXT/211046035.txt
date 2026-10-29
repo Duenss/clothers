@@ -1,0 +1,8 @@
+ITEM ID: 211046035
+ICON ID: Icon_avatar_male_cos_hair_dreadlocks
+NOMBRE: Shadow Prowler (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046035.png

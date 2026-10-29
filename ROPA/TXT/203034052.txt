@@ -1,0 +1,8 @@
+ITEM ID: 203034052
+ICON ID: Icon_avatar_male_cos_top_rampage4_fire
+NOMBRE: Mars Warclasher (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034052.png

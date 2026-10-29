@@ -1,0 +1,8 @@
+ITEM ID: 203053019
+ICON ID: Icon_avatar_male_cos_top_y2k_plush
+NOMBRE: Cheeky Plush (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053019.png

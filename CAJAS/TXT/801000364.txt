@@ -1,0 +1,8 @@
+ITEM ID: 801000364
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Prime Token B
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Can be used to exchange for rewards
+IMAGEN: CAJAS/imagenes/801000364.png

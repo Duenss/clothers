@@ -1,0 +1,8 @@
+ITEM ID: 203046029
+ICON ID: Icon_avatar_male_cos_top_csrank27
+NOMBRE: CS-Ranked S27 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046029.png

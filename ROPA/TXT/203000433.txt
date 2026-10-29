@@ -1,0 +1,8 @@
+ITEM ID: 203000433
+ICON ID: Icon_avatar_jacket_HUAWEI_Y6
+NOMBRE: HUAWEI Y6
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000433.png

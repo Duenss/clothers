@@ -1,0 +1,8 @@
+ITEM ID: 907104241
+ICON ID: Icon_XM8_Zombie23
+NOMBRE: XM8 - Zombie Attack
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104241.png

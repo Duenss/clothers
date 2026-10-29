@@ -1,0 +1,8 @@
+ITEM ID: 929005404
+ICON ID: Icon_Photostickeritem_FB2_01
+NOMBRE: Isagi Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Isagi Sticker
+IMAGEN: AVATARES/imagenes/929005404.png

@@ -1,0 +1,8 @@
+ITEM ID: 400028144
+ICON ID: Icon_box_3
+NOMBRE: Fabulous Star Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Box Made in CIS
+IMAGEN: ROPA/imagenes/400028144.png

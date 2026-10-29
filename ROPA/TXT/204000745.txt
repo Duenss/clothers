@@ -1,0 +1,8 @@
+ITEM ID: 204000745
+ICON ID: Icon_avatar_bottom_cos_shinobi_blue
+NOMBRE: Killspark Freeze (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000745.png

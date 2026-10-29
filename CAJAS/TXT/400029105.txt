@@ -1,0 +1,8 @@
+ITEM ID: 400029105
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Choose wisely
+IMAGEN: CAJAS/imagenes/400029105.png

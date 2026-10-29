@@ -1,0 +1,8 @@
+ITEM ID: 907001625
+ICON ID: Icon_MP5_Llenn
+NOMBRE: MP5 - Pink Devil
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001625.png

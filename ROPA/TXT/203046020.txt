@@ -1,0 +1,8 @@
+ITEM ID: 203046020
+ICON ID: Icon_avatar_cos_top_loyfest
+NOMBRE: Loy Lotus (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046020.png

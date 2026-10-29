@@ -1,0 +1,8 @@
+ITEM ID: 907105466
+ICON ID: Icon_Machete_SEA26
+NOMBRE: Parang - SEA Fall 2026
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105466.png

@@ -1,0 +1,8 @@
+ITEM ID: 203049036
+ICON ID: Icon_avatar_cos_top_ffws_spring25
+NOMBRE: FFWS 2025 Spring (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049036.png

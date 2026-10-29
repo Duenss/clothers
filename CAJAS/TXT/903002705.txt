@@ -1,0 +1,8 @@
+ITEM ID: 903002705
+ICON ID: Icon_Deadloot_Nutcracker
+NOMBRE: Loot Box - Wooden Horse
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002705.png

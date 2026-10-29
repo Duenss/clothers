@@ -1,0 +1,8 @@
+ITEM ID: 921054028
+ICON ID: FF_UI_Voiceitem_US54B
+NOMBRE: This is wrestling!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: The Wrestling is here! voice pack
+IMAGEN: MUSICA/imagenes/921054028.png

@@ -1,0 +1,8 @@
+ITEM ID: 203046053
+ICON ID: Icon_avatar_cos_top_ffws_sf16
+NOMBRE: FFWS 2024 GF - RRQ Kazu (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046053.png

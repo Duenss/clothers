@@ -1,0 +1,8 @@
+ITEM ID: 170037019
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Fumes On Fire Choice Crate
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170037019.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000858
+ICON ID: Icon_bundle_Chrono_25
+NOMBRE: Chrono Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exclusive Chrono gifts
+IMAGEN: ROPA/imagenes/710000858.png

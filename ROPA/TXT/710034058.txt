@@ -1,0 +1,8 @@
+ITEM ID: 710034058
+ICON ID: FF_Icon_sc_bodyguard_deluxe
+NOMBRE: Nikita's Undercover Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Contains Nikita character, Nikita's outfit, and 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710034058.png

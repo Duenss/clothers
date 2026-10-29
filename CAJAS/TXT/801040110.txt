@@ -1,0 +1,8 @@
+ITEM ID: 801040110
+ICON ID: FF_UI_SixthB_03_StikcerItem10
+NOMBRE: Bonfire
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: This bonfire can provide a safe place for you and your friends when encountering danger and can also be used to speed up your HP recovery. It is a symbol of your camaraderie.
+IMAGEN: CAJAS/imagenes/801040110.png

@@ -1,0 +1,8 @@
+ITEM ID: 211001179
+ICON ID: Icon_avatar_cos_accessory_guerrilla
+NOMBRE: Gray Ambush (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001179.png

@@ -1,0 +1,8 @@
+ITEM ID: 902031016
+ICON ID: Icon_face_LoneWolf_06
+NOMBRE: Lone Wolf Ranked Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031016.png

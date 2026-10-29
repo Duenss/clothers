@@ -1,0 +1,8 @@
+ITEM ID: 902040024
+ICON ID: Icon_face_CSRank20_A
+NOMBRE: CS-Ranked S20 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040024.png

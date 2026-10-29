@@ -1,0 +1,8 @@
+ITEM ID: 801049515
+ICON ID: Icon_exchange_TLT_ind&sg&bd_49
+NOMBRE: Thala Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Exchange for exclusive rewards in the Thala event!
+IMAGEN: CAJAS/imagenes/801049515.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105212
+ICON ID: Icon_BM94_Gold26
+NOMBRE: M82B - Golden Dominance
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105212.png

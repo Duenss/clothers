@@ -1,0 +1,8 @@
+ITEM ID: 710040145
+ICON ID: Icon_box_Room_card_US_ES_36
+NOMBRE: Room Card Box
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710040145.png

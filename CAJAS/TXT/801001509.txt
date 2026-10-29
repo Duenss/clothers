@@ -1,0 +1,8 @@
+ITEM ID: 801001509
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Flower Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Women's Day
+IMAGEN: CAJAS/imagenes/801001509.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000828
+ICON ID: Icon_box_3
+NOMBRE: White Tiger
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Symbol of West
+IMAGEN: ROPA/imagenes/400000828.png

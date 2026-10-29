@@ -1,0 +1,8 @@
+ITEM ID: 205037035
+ICON ID: Icon_avatar_male_cos_shoe_cricket_red
+NOMBRE: Eminent Cricketer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037035.png

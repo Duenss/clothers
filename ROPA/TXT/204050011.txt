@@ -1,0 +1,8 @@
+ITEM ID: 204050011
+ICON ID: Icon_avatar_cos_bottom_easterrabbit_2025
+NOMBRE: Galactic Bunny (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050011.png

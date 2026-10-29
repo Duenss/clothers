@@ -1,0 +1,8 @@
+ITEM ID: 900000012
+ICON ID: FF_UI_Pin_Currency
+NOMBRE: Default - No Pin
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Show off your achievements! Displays on the bottom left of avatar or after nickname
+IMAGEN: OTROS/imagenes/900000012.png

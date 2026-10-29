@@ -1,0 +1,8 @@
+ITEM ID: 400001263
+ICON ID: Icon_box_3
+NOMBRE: Top Pastry Chef Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Top Pastry Chef and all its pieces
+IMAGEN: ROPA/imagenes/400001263.png

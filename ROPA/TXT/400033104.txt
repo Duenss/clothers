@@ -1,0 +1,8 @@
+ITEM ID: 400033104
+ICON ID: Icon_box_3
+NOMBRE: Golden Sunrise Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Golden Sunrise and all it's pieces
+IMAGEN: ROPA/imagenes/400033104.png

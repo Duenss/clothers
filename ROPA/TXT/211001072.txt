@@ -1,0 +1,8 @@
+ITEM ID: 211001072
+ICON ID: Icon_avatar_male_cos_hair_mocomonth
+NOMBRE: Phantom Microzark (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001072.png

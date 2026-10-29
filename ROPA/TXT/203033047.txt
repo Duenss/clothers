@@ -1,0 +1,8 @@
+ITEM ID: 203033047
+ICON ID: Icon_avatar_cos_top_blackhole
+NOMBRE: The Doppler Shift Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033047.png

@@ -1,0 +1,8 @@
+ITEM ID: 801042003
+ICON ID: Icon_exchange_Jumpsuit_Ghosts_42
+NOMBRE: Top Criminal (Ghost) Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801042003.png

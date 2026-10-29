@@ -1,0 +1,8 @@
+ITEM ID: 214036004
+ICON ID: Icon_avatar_male_cos_headadditive_halloween22
+NOMBRE: Duke of Terrorville (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214036004.png

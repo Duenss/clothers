@@ -1,0 +1,8 @@
+ITEM ID: 205000409
+ICON ID: Icon_avatar_male_shoe_cos_assassin2019
+NOMBRE: Assassin Cross (Male) (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000409.png

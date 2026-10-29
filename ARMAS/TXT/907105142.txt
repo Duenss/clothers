@@ -1,0 +1,8 @@
+ITEM ID: 907105142
+ICON ID: Icon_GlooShield_Dreamland
+NOMBRE: Gloo Wall - Dreamkeeper
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105142.png

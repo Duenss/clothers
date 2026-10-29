@@ -1,0 +1,8 @@
+ITEM ID: 205000016
+ICON ID: Icon_avatar_male_suit_shoes_001_2
+NOMBRE: Yellow Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000016.png

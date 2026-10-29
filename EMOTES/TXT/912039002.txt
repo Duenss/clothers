@@ -1,0 +1,8 @@
+ITEM ID: 912039002
+ICON ID: Icon_GroupAnim_Scarlet
+NOMBRE: Incubated Beast
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912039002.png

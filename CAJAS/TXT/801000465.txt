@@ -1,0 +1,8 @@
+ITEM ID: 801000465
+ICON ID: Icon_exchange_ob22_knight_flag_red
+NOMBRE: Red Flag
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000465.png

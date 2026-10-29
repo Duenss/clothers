@@ -1,0 +1,8 @@
+ITEM ID: 203054041
+ICON ID: Icon_avatar_male_cos_top_id_idol54
+NOMBRE: Street Swagger (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054041.png

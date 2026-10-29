@@ -1,0 +1,8 @@
+ITEM ID: 211039057
+ICON ID: Icon_avatar_cos_accessory_scarlet_mask
+NOMBRE: Scorpio Bandana
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039057.png

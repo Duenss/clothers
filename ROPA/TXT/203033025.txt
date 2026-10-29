@@ -1,0 +1,8 @@
+ITEM ID: 203033025
+ICON ID: Icon_avatar_male_cos_top_waterfest22
+NOMBRE: Rave Skater (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033025.png

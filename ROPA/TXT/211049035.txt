@@ -1,0 +1,8 @@
+ITEM ID: 211049035
+ICON ID: Icon_avatar_female_cos_hair_vn_ocean
+NOMBRE: Briny Ocean (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049035.png

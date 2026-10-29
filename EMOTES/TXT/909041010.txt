@@ -1,0 +1,8 @@
+ITEM ID: 909041010
+ICON ID: Icon_Emote_Rabbit
+NOMBRE: Whac-A-Cotton
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041010.png

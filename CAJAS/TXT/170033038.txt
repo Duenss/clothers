@@ -1,0 +1,8 @@
+ITEM ID: 170033038
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Easter Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Happy Easter!
+IMAGEN: CAJAS/imagenes/170033038.png

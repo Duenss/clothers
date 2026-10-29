@@ -1,0 +1,8 @@
+ITEM ID: 904051005
+ICON ID: Icon_Bag_Ghost25_Blue
+NOMBRE: Backpack - Spookster
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051005.png

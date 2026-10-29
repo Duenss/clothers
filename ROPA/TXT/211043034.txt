@@ -1,0 +1,8 @@
+ITEM ID: 211043034
+ICON ID: Icon_avatar_male_cos_accessory_racer
+NOMBRE: Turbo Racer (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043034.png

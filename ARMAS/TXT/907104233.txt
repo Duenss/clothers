@@ -1,0 +1,8 @@
+ITEM ID: 907104233
+ICON ID: Icon_Pan_Dinosaursuit
+NOMBRE: Pan - Lazy Dino
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104233.png

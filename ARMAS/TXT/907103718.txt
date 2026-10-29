@@ -1,0 +1,8 @@
+ITEM ID: 907103718
+ICON ID: Icon_UMP45_Rank32
+NOMBRE: UMP - S32 Exclusive: Shirou
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103718.png

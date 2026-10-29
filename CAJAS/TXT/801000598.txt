@@ -1,0 +1,8 @@
+ITEM ID: 801000598
+ICON ID: Icon_exchange_ob231_heist_lucky_coin
+NOMBRE: Heist Lucky Coin
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Some good luck for the Greatest Heist
+IMAGEN: CAJAS/imagenes/801000598.png

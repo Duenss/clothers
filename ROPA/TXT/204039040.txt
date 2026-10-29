@@ -1,0 +1,8 @@
+ITEM ID: 204039040
+ICON ID: Icon_avatar_male_cos_bottom_bosozoku23
+NOMBRE: Street Fox Pants (M)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039040.png

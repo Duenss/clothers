@@ -1,0 +1,8 @@
+ITEM ID: 907101609
+ICON ID: Icon_UMP_Guyver
+NOMBRE: UMP - Enhanced Armor
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB16
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101609.png

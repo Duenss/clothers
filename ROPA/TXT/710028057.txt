@@ -1,0 +1,8 @@
+ITEM ID: 710028057
+ICON ID: FF_Icon_sc_gangleaderPackage
+NOMBRE: Antonio
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Antonio was an orphan who grew up to be a gangster.
+IMAGEN: ROPA/imagenes/710028057.png

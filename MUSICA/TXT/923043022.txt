@@ -1,0 +1,8 @@
+ITEM ID: 923043022
+ICON ID: FF_UI_Voiceitem_VALENTINE43
+NOMBRE: I love you so much
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923043022.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101724
+ICON ID: Icon_M1014_MadeManA
+NOMBRE: M1014 - Artificial Intelligence
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB17
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101724.png

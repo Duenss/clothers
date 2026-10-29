@@ -1,0 +1,8 @@
+ITEM ID: 904029005
+ICON ID: Icon_Bag_Musicfest_A
+NOMBRE: Backpack - Thrash Metallic
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029005.png

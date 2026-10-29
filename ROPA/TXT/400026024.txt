@@ -1,0 +1,8 @@
+ITEM ID: 400026024
+ICON ID: Icon_box_3
+NOMBRE: Diamonds Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Normal - Crimson
+IMAGEN: ROPA/imagenes/400026024.png

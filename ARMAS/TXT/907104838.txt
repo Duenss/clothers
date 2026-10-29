@@ -1,0 +1,8 @@
+ITEM ID: 907104838
+ICON ID: Icon_Fist_Cityhero
+NOMBRE: Fist - Midnight Knuckles
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104838.png

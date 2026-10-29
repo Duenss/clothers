@@ -1,0 +1,8 @@
+ITEM ID: 902047006
+ICON ID: Icon_face_Festival_ID02
+NOMBRE: Salute Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047006.png

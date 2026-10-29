@@ -1,0 +1,8 @@
+ITEM ID: 214034001
+ICON ID: Icon_avatar_female_cos_headadditive_rhythmgirl
+NOMBRE: Dazzling Diva (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214034001.png

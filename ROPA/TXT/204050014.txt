@@ -1,0 +1,8 @@
+ITEM ID: 204050014
+ICON ID: Icon_avatar_male_cos_bottom_zombieduo
+NOMBRE: Prince Darkheart (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050014.png

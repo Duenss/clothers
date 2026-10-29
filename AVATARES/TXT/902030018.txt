@@ -1,0 +1,8 @@
+ITEM ID: 902030018
+ICON ID: Icon_face_Guildwar_C
+NOMBRE: Honorable Lion Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030018.png

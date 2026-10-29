@@ -1,0 +1,8 @@
+ITEM ID: 908036010
+ICON ID: Icon_slot_MonsterTruck_Lightfest22
+NOMBRE: Monster Truck - Roaring Wheels
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908036010.png

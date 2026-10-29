@@ -1,0 +1,8 @@
+ITEM ID: 400033003
+ICON ID: Icon_face_male_sc_Blacksmith
+NOMBRE: Kenta's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Kenta's Memory Fragment
+IMAGEN: CAJAS/imagenes/400033003.png

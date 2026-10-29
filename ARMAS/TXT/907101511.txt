@@ -1,0 +1,8 @@
+ITEM ID: 907101511
+ICON ID: Icon_SPAS12_StarSoul
+NOMBRE: SPAS12 - Star Soul
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101511.png

@@ -1,0 +1,8 @@
+ITEM ID: 906035010
+ICON ID: Icon_Avatar_Surfboard_Parkour
+NOMBRE: Skyboard - Gusto Gut
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906035010.png

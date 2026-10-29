@@ -1,0 +1,8 @@
+ITEM ID: 400031102
+ICON ID: Icon_box_3
+NOMBRE: Superstar Weekend Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB31
+DESCRIPCION: Contains Superstar Weekend and all it's pieces
+IMAGEN: ROPA/imagenes/400031102.png

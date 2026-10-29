@@ -1,0 +1,8 @@
+ITEM ID: 905000088
+ICON ID: Icon_Avatar_PARACHUTE_MaxParachute
+NOMBRE: Parachute - MAX
+TIPO: Parachute
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000088.png

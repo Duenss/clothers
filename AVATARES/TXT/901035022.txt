@@ -1,0 +1,8 @@
+ITEM ID: 901035022
+ICON ID: Icon_callsign_storebg_Ugc
+NOMBRE: Brilliant Mind Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901035022.png

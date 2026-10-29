@@ -1,0 +1,8 @@
+ITEM ID: 902000208
+ICON ID: Icon_face_2nd
+NOMBRE: FFC S1 Second Place
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000208.png

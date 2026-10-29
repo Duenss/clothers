@@ -1,0 +1,8 @@
+ITEM ID: 203000196
+ICON ID: Icon_avatar_tshirt_Mexico
+NOMBRE: Aztec Eagle
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000196.png

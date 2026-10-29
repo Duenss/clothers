@@ -1,0 +1,8 @@
+ITEM ID: 907104049
+ICON ID: Icon_GlooShield_Festivalme_22
+NOMBRE: Gloo Wall - Electrify Bunny
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104049.png

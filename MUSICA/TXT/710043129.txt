@@ -1,0 +1,8 @@
+ITEM ID: 710043129
+ICON ID: FF_UI_Voiceitem_VALENTINE43
+NOMBRE: Valentine Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Two famous Thai voice actors, BeamSensei and YesiamDart, are here to share sweet love messages
+IMAGEN: MUSICA/imagenes/710043129.png

@@ -1,0 +1,8 @@
+ITEM ID: 205033043
+ICON ID: Icon_avatar_cos_shoe_cubby_yellow
+NOMBRE: Cuboot Thunder
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033043.png

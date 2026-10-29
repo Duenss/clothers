@@ -1,0 +1,8 @@
+ITEM ID: 400042547
+ICON ID: Icon_box_3
+NOMBRE: Two-Toned Grief Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Contains the Two-Toned Grief bundle and its pieces
+IMAGEN: ROPA/imagenes/400042547.png

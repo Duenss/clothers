@@ -1,0 +1,8 @@
+ITEM ID: 204042008
+ICON ID: Icon_avatar_male_cos_bottom_theboy_blue
+NOMBRE: Frostfire Polar (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042008.png

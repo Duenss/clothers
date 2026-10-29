@@ -1,0 +1,8 @@
+ITEM ID: 907101603
+ICON ID: Icon_M60_Monster
+NOMBRE: M60 - Lively Beast
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB16
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101603.png

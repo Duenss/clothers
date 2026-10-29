@@ -1,0 +1,8 @@
+ITEM ID: 903034001
+ICON ID: Icon_Deadloot_Rhythmgirl
+NOMBRE: Loot Box - Feral Fantasy
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903034001.png

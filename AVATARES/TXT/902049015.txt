@@ -1,0 +1,8 @@
+ITEM ID: 902049015
+ICON ID: Icon_face_LW49_VN25_01
+NOMBRE: LW-Ranked Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902049015.png

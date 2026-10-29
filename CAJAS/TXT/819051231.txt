@@ -1,0 +1,8 @@
+ITEM ID: 819051231
+ICON ID: FF_Lottery_Incubator_Voucher
+NOMBRE: Incubator Voucher (expires on  31 Dec 2025)
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/819051231.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000613
+ICON ID: Icon_exchange_ob24_Professor_logo
+NOMBRE: K Logo
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000613.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104828
+ICON ID: Icon_Sickle_Fastbreaking_dune
+NOMBRE: Scythe - Cutting Shimmer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104828.png

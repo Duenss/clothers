@@ -1,0 +1,8 @@
+ITEM ID: 710000225
+ICON ID: Icon_face_female_sc_richgirl
+NOMBRE: Caroline's Fragment Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the selected character's memory fragment.
+IMAGEN: ROPA/imagenes/710000225.png

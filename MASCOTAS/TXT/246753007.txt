@@ -1,0 +1,8 @@
+ITEM ID: 246753007
+ICON ID: Icon_SparkPet_Back_SkateBoard
+NOMBRE: Skateboard
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Skateboard
+IMAGEN: MASCOTAS/imagenes/246753007.png

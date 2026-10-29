@@ -1,0 +1,8 @@
+ITEM ID: 400055513
+ICON ID: Icon_box_Samsunga_ID_55
+NOMBRE: Samsung A27 Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055513.png

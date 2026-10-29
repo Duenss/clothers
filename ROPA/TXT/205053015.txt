@@ -1,0 +1,8 @@
+ITEM ID: 205053015
+ICON ID: Icon_avatar_cos_shoe_magical
+NOMBRE: Battle Sweetheart (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053015.png

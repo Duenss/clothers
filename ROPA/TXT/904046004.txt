@@ -1,0 +1,8 @@
+ITEM ID: 904046004
+ICON ID: Icon_Bag_Pinata_Blue
+NOMBRE: Backpack - Horsin' Holiday
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904046004.png

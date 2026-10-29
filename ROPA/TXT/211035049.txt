@@ -1,0 +1,8 @@
+ITEM ID: 211035049
+ICON ID: Icon_avatar_cos_accessory_sportswear_me
+NOMBRE: Jock Shock (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035049.png

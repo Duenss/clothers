@@ -1,0 +1,8 @@
+ITEM ID: 205049006
+ICON ID: Icon_avatar_male_cos_shoe_wrestling
+NOMBRE: Tiger Brawler (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049006.png

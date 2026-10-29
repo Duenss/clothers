@@ -1,0 +1,8 @@
+ITEM ID: 205000011
+ICON ID: Icon_avatar_shoes_11
+NOMBRE: Casual Shoes (Vogue)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000011.png

@@ -1,0 +1,8 @@
+ITEM ID: 908041001
+ICON ID: Icon_slot_MonsterTruck_Slime
+NOMBRE: Monster Truck - Jiggle Jelly
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908041001.png

@@ -1,0 +1,8 @@
+ITEM ID: 400038032
+ICON ID: Icon_box_cybermech_2_38
+NOMBRE: BP S3 Deluxe Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400038032.png

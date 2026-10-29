@@ -1,0 +1,8 @@
+ITEM ID: 400051041
+ICON ID: Icon_box_RedhatBP_51
+NOMBRE: BP S37 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400051041.png

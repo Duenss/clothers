@@ -1,0 +1,8 @@
+ITEM ID: 211033041
+ICON ID: Icon_avatar_male_cos_hair_boyband_pink
+NOMBRE: Blush Flush (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033041.png

@@ -1,0 +1,8 @@
+ITEM ID: 204040043
+ICON ID: Icon_avatar_male_sc_bottom_djmale_awakening
+NOMBRE: Alok's Beat Threads (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040043.png

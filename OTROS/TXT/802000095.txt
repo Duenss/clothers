@@ -1,0 +1,8 @@
+ITEM ID: 802000095
+ICON ID: FF_Lottery_CityHero1_Voucher
+NOMBRE: City Hero Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000095.png

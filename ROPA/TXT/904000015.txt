@@ -1,0 +1,8 @@
+ITEM ID: 904000015
+ICON ID: Icon_Bag_royalty2_03
+NOMBRE: Backpack - Royal
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000015.png

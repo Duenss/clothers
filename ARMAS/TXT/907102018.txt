@@ -1,0 +1,8 @@
+ITEM ID: 907102018
+ICON ID: Icon_AK47_ParkourGuy
+NOMBRE: AK47 - Urban Rager
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB20
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102018.png

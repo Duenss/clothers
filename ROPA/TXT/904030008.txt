@@ -1,0 +1,8 @@
+ITEM ID: 904030008
+ICON ID: Icon_Bag_Playingcard
+NOMBRE: Backpack - Poker Monarch
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030008.png

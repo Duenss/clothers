@@ -1,0 +1,8 @@
+ITEM ID: 909049018
+ICON ID: Icon_Emote_Club
+NOMBRE: Disco Dazzle
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909049018.png

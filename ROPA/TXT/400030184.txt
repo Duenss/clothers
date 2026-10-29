@@ -1,0 +1,8 @@
+ITEM ID: 400030184
+ICON ID: Icon_box_3
+NOMBRE: Budgerigar Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Budgerigar and all it's pieces
+IMAGEN: ROPA/imagenes/400030184.png

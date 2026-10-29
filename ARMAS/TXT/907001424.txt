@@ -1,0 +1,8 @@
+ITEM ID: 907001424
+ICON ID: Icon_Kar98k_AXE
+NOMBRE: Kar98k - Ice Blue
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001424.png

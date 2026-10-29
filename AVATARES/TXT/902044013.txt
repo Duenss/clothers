@@ -1,0 +1,8 @@
+ITEM ID: 902044013
+ICON ID: Icon_face_Rank39_02
+NOMBRE: BR-Ranked S39 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902044013.png

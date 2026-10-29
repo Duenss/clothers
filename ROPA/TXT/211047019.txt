@@ -1,0 +1,8 @@
+ITEM ID: 211047019
+ICON ID: Icon_avatar_male_cos_accessory_superstar24_white
+NOMBRE: Sporty Star (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047019.png

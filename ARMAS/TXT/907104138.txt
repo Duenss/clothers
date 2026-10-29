@@ -1,0 +1,8 @@
+ITEM ID: 907104138
+ICON ID: Icon_M21A5_Designertoys
+NOMBRE: Woodpecker - Puppet Strike
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104138.png

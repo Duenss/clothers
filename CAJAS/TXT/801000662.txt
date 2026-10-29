@@ -1,0 +1,8 @@
+ITEM ID: 801000662
+ICON ID: Icon_exchange_ob24_Flag_Bearer_Token
+NOMBRE: Flag Bearer Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: With pride and honor
+IMAGEN: CAJAS/imagenes/801000662.png

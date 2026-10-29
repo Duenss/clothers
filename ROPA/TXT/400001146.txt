@@ -1,0 +1,8 @@
+ITEM ID: 400001146
+ICON ID: Icon_box_3
+NOMBRE: Rockie Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Pet Rockie and many other rewards
+IMAGEN: ROPA/imagenes/400001146.png

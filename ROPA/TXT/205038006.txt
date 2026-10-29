@@ -1,0 +1,8 @@
+ITEM ID: 205038006
+ICON ID: Icon_avatar_female_cos_shoe_streamer_music
+NOMBRE: e-Heartseeker (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038006.png

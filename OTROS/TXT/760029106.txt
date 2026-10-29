@@ -1,0 +1,8 @@
+ITEM ID: 760029106
+ICON ID: FF_UI_CupMatchBox_01A
+NOMBRE: Clash Squad Cup (Advanced) Participation Chest
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Clash Squad Cup (Advanced) Participation Chest
+IMAGEN: OTROS/imagenes/760029106.png

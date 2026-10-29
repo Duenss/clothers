@@ -1,0 +1,8 @@
+ITEM ID: 907136015
+ICON ID: Icon_G36_Halloween22
+NOMBRE: G36 - Bones of Terror
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136015.png

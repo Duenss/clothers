@@ -1,0 +1,8 @@
+ITEM ID: 710000428
+ICON ID: Icon_box_3
+NOMBRE: Badge of Blood Bundle (50)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Badge of Blood
+IMAGEN: ROPA/imagenes/710000428.png

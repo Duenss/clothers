@@ -1,0 +1,8 @@
+ITEM ID: 907105063
+ICON ID: Icon_GlooShield_Diwali25
+NOMBRE: Gloo Wall - Dual Might
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105063.png

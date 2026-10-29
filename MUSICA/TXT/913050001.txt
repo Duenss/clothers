@@ -1,0 +1,8 @@
+ITEM ID: 913050001
+ICON ID: FF_UI_Vault_Music_DIWALI50
+NOMBRE: Original Lobby Music (Bollywood Light Fest)
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Light Fest 2025 lobby music
+IMAGEN: MUSICA/imagenes/913050001.png

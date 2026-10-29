@@ -1,0 +1,8 @@
+ITEM ID: 904041002
+ICON ID: Icon_Bag_Fisherman
+NOMBRE: Backpack - Reeling Direction
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041002.png

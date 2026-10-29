@@ -1,0 +1,8 @@
+ITEM ID: 203000475
+ICON ID: Icon_avatar_top_cos_apocalypse_N
+NOMBRE: War and Death
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000475.png

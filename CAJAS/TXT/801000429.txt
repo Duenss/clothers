@@ -1,0 +1,8 @@
+ITEM ID: 801000429
+ICON ID: Icon_exchange_ob21_silver_dino
+NOMBRE: Silver Dino Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: A coin of ancient times
+IMAGEN: CAJAS/imagenes/801000429.png

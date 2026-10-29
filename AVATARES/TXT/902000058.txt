@@ -1,0 +1,8 @@
+ITEM ID: 902000058
+ICON ID: Icon_face_Y
+NOMBRE: Yankee
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000058.png

@@ -1,0 +1,8 @@
+ITEM ID: 904028008
+ICON ID: Icon_Bag_Supercar_A
+NOMBRE: Backpack - McLaren Racing
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904028008.png

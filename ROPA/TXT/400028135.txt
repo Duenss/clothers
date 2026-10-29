@@ -1,0 +1,8 @@
+ITEM ID: 400028135
+ICON ID: Icon_box_3
+NOMBRE: Dragon Mob Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Dragon Mob and all of its pieces
+IMAGEN: ROPA/imagenes/400028135.png

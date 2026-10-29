@@ -1,0 +1,8 @@
+ITEM ID: 905046006
+ICON ID: Icon_Avatar_PARACHUTE_FB
+NOMBRE: Parachute - BLUE LOCK
+TIPO: Parachute
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905046006.png

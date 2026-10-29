@@ -1,0 +1,8 @@
+ITEM ID: 819042002
+ICON ID: FF_UI_VFX_Watcher_01
+NOMBRE: Sprinting Effect (Galactic Odyssey)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: Special sprinting effects when wearing the Galactic Odyssey themed top.
+IMAGEN: CAJAS/imagenes/819042002.png

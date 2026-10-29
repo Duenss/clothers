@@ -1,0 +1,8 @@
+ITEM ID: 710038073
+ICON ID: Icon_box_3
+NOMBRE: Damage Dealers Package
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710038073.png

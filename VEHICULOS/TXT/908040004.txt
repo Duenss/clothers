@@ -1,0 +1,8 @@
+ITEM ID: 908040004
+ICON ID: Icon_slot_Jeep_Farmer
+NOMBRE: Jeep - Sunny Cornfield
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908040004.png

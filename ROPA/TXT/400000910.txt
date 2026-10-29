@@ -1,0 +1,8 @@
+ITEM ID: 400000910
+ICON ID: Icon_box_3
+NOMBRE: Diamond Card Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Symbol of West
+IMAGEN: ROPA/imagenes/400000910.png

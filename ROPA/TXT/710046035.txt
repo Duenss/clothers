@@ -1,0 +1,8 @@
+ITEM ID: 710046035
+ICON ID: Icon_bundle_FB_Common_46
+NOMBRE: BLUE LOCK Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710046035.png

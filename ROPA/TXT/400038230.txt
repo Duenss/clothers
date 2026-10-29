@@ -1,0 +1,8 @@
+ITEM ID: 400038230
+ICON ID: Icon_box_3
+NOMBRE: Gunslinger Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open the box to receive rare and exciting rewards!
+IMAGEN: ROPA/imagenes/400038230.png

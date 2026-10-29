@@ -1,0 +1,8 @@
+ITEM ID: 204054035
+ICON ID: Icon_avatar_male_pants_Mario
+NOMBRE: Mamamia
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054035.png

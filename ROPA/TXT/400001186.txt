@@ -1,0 +1,8 @@
+ITEM ID: 400001186
+ICON ID: Icon_box_3
+NOMBRE: Crystal Snow Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Stay calm and chill
+IMAGEN: ROPA/imagenes/400001186.png

@@ -1,0 +1,8 @@
+ITEM ID: 908026005
+ICON ID: Icon_slot_Motobike_Cobra
+NOMBRE: Motorbike - Cobra
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908026005.png

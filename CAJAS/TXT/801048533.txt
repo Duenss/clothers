@@ -1,0 +1,8 @@
+ITEM ID: 801048533
+ICON ID: Icon_exchange_HAT_th_48
+NOMBRE: Head Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048533.png

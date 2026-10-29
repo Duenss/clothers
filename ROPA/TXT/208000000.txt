@@ -1,0 +1,8 @@
+ITEM ID: 208000000
+ICON ID: Icon_avatar_default_Face
+NOMBRE: Default
+TIPO: Facepaint
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Default
+IMAGEN: ROPA/imagenes/208000000.png

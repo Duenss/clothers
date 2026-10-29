@@ -1,0 +1,8 @@
+ITEM ID: 800000012
+ICON ID: Icon_face_male_sc_gangleader
+NOMBRE: Memory Fragment (Antonio)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000012.png

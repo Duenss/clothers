@@ -1,0 +1,8 @@
+ITEM ID: 923387586
+ICON ID: Icon_box_3
+NOMBRE: Naruto Top
+TIPO: Bundle Create
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: Naruto Top
+IMAGEN: ROPA/imagenes/923387586.png

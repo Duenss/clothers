@@ -1,0 +1,8 @@
+ITEM ID: 730036032
+ICON ID: Icon_FF_Level_Card
+NOMBRE: 50 Levels Super Pack
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: A pack that adds 50 levels to your Booyah Pass
+IMAGEN: ROPA/imagenes/730036032.png

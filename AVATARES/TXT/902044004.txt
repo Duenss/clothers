@@ -1,0 +1,8 @@
+ITEM ID: 902044004
+ICON ID: Icon_face_Dualman_Q
+NOMBRE: Kairos Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902044004.png

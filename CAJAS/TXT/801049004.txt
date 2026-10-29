@@ -1,0 +1,8 @@
+ITEM ID: 801049004
+ICON ID: Icon_exchange_GoldenTc3_49
+NOMBRE: Gilded Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049004.png

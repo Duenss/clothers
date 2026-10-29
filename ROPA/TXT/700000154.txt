@@ -1,0 +1,8 @@
+ITEM ID: 700000154
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Backpack - Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Dancing Panda, Cutesy Dragon, and exclusive Loadouts
+IMAGEN: ROPA/imagenes/700000154.png

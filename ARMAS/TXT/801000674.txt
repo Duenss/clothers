@@ -1,0 +1,8 @@
+ITEM ID: 801000674
+ICON ID: Icon_exchange_ob24_Hand_Grenade_Token
+NOMBRE: Hand Grenade Token
+TIPO: Grenade Skin
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Danger! Explosives!
+IMAGEN: ARMAS/imagenes/801000674.png

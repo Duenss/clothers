@@ -1,0 +1,8 @@
+ITEM ID: 910000004
+ICON ID: Pin_Small_Rampage1
+NOMBRE: Bringers's Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910000004.png

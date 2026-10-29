@@ -1,0 +1,8 @@
+ITEM ID: 204000090
+ICON ID: Icon_avatar_male_bottom_cos_battle_brown
+NOMBRE: Combat Pants (Male)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000090.png

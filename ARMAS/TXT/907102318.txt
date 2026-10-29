@@ -1,0 +1,8 @@
+ITEM ID: 907102318
+ICON ID: Icon_M60_SwatGuy
+NOMBRE: M60 - Justice Fighter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102318.png

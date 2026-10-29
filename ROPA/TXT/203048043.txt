@@ -1,0 +1,8 @@
+ITEM ID: 203048043
+ICON ID: Icon_avatar_cos_top_football25_idred
+NOMBRE: Home Timnas Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048043.png

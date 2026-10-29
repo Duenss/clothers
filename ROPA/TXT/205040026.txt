@@ -1,0 +1,8 @@
+ITEM ID: 205040026
+ICON ID: Icon_avatar_male_cos_shoe_traphiphop22_black
+NOMBRE: T.R.A.P. Chromablack (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205040026.png

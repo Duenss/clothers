@@ -1,0 +1,8 @@
+ITEM ID: 907104115
+ICON ID: Icon_Slime_Grenade
+NOMBRE: Grenade - Jelly Candy
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104115.png

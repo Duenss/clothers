@@ -1,0 +1,8 @@
+ITEM ID: 203053038
+ICON ID: Icon_avatar_cos_top_tshirt26_morocco
+NOMBRE: Red Valiant Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053038.png

@@ -1,0 +1,8 @@
+ITEM ID: 908029007
+ICON ID: Icon_slot_Motobike_Mocomonth
+NOMBRE: Motorbike - Moco Month
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908029007.png

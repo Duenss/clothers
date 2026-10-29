@@ -1,0 +1,8 @@
+ITEM ID: 211048039
+ICON ID: Icon_avatar_cos_hair_fastbreaking_dune01
+NOMBRE: Hidden Shimmer (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048039.png

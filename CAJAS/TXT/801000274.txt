@@ -1,0 +1,8 @@
+ITEM ID: 801000274
+ICON ID: Icon_exchange_Ms_Reindeer
+NOMBRE: Ms. Reindeer
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Ding-A-Ling...Ding-A-Ling.
+IMAGEN: CAJAS/imagenes/801000274.png

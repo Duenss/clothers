@@ -1,0 +1,8 @@
+ITEM ID: 102000024
+ICON ID: Icon_face_male_head_sc_Bounty
+NOMBRE: Chrono
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Chrono is a bounty hunter from another universe.
+IMAGEN: PERSONAJES/imagenes/102000024.png

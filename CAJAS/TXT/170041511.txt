@@ -1,0 +1,8 @@
+ITEM ID: 170041511
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Sun Choice Box
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170041511.png

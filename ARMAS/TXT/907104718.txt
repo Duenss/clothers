@@ -1,0 +1,8 @@
+ITEM ID: 907104718
+ICON ID: Icon_ThrowingKnife_Equation
+NOMBRE: Dagger - Linear Theory
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104718.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103552
+ICON ID: Icon_MP40_Parkour
+NOMBRE: MP40 - Gusto Freerunner
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103552.png

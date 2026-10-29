@@ -1,0 +1,8 @@
+ITEM ID: 904000034
+ICON ID: Icon_Bag_biobody_02
+NOMBRE: Backpack - Mechanical Box
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000034.png

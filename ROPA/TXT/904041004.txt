@@ -1,0 +1,8 @@
+ITEM ID: 904041004
+ICON ID: Icon_Bag_Designertoys
+NOMBRE: Backpack - Your Puppet
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041004.png

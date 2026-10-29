@@ -1,0 +1,8 @@
+ITEM ID: 710000679
+ICON ID: Icon_female_captainbubble
+NOMBRE: Cutie Bubbles Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000679.png

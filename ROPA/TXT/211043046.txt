@@ -1,0 +1,8 @@
+ITEM ID: 211043046
+ICON ID: Icon_avatar_cos_hair_carnaval24_01
+NOMBRE: Funky Umbrella
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043046.png

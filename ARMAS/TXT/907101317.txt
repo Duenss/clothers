@@ -1,0 +1,8 @@
+ITEM ID: 907101317
+ICON ID: Icon_MP5_Red
+NOMBRE: MP5 - Blood Red
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB13
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101317.png

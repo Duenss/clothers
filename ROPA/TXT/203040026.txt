@@ -1,0 +1,8 @@
+ITEM ID: 203040026
+ICON ID: Icon_avatar_female_cos_top_traphiphop22_black
+NOMBRE: T.R.A.P. Chromawhite (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040026.png

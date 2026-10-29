@@ -1,0 +1,8 @@
+ITEM ID: 902043006
+ICON ID: Icon_face_Asura_FP
+NOMBRE: Fury Reverie Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043006.png

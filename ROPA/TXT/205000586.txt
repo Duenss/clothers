@@ -1,0 +1,8 @@
+ITEM ID: 205000586
+ICON ID: Icon_avatar_male_sc_bounty_shoe
+NOMBRE: Cosmic Bounty Hunter (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000586.png

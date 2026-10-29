@@ -1,0 +1,8 @@
+ITEM ID: 211034073
+ICON ID: Icon_avatar_cos_accessory_bis
+NOMBRE: Digital Dasher (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034073.png

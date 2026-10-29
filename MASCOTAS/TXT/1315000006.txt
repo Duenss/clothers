@@ -1,0 +1,8 @@
+ITEM ID: 1315000006
+ICON ID: FF_UI_Pet_Poring_Skill
+NOMBRE: Stitch and Patch
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Poring can protect armors from damage while constantly restores their durabilities
+IMAGEN: MASCOTAS/imagenes/1315000006.png

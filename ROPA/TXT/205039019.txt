@@ -1,0 +1,8 @@
+ITEM ID: 205039019
+ICON ID: Icon_avatar_male_cos_shoe_fashionist
+NOMBRE: Shinjuku Influencer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039019.png

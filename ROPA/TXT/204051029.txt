@@ -1,0 +1,8 @@
+ITEM ID: 204051029
+ICON ID: Icon_avatar_cos_bottom_sagittarius25_fp
+NOMBRE: Archer Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051029.png

@@ -1,0 +1,8 @@
+ITEM ID: 907100036
+ICON ID: Icon_Groza_Circus
+NOMBRE: Opening Ceremony
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100036.png

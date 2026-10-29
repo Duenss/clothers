@@ -1,0 +1,8 @@
+ITEM ID: 203045039
+ICON ID: Icon_avatar_cos_top_ffws_th
+NOMBRE: FFWS Spring Champion Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045039.png

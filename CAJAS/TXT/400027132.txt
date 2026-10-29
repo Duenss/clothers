@@ -1,0 +1,8 @@
+ITEM ID: 400027132
+ICON ID: Icon_face_female_sc_Xtreme
+NOMBRE: Xayne's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to Receive Memory Fragment (Xayne)
+IMAGEN: CAJAS/imagenes/400027132.png

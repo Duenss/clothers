@@ -1,0 +1,8 @@
+ITEM ID: 102000010
+ICON ID: Icon_face_male_head_sc_gangleader
+NOMBRE: Antonio
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Antonio was an orphan who grew up to be a gangster.
+IMAGEN: PERSONAJES/imagenes/102000010.png

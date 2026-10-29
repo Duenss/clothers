@@ -1,0 +1,8 @@
+ITEM ID: 907105025
+ICON ID: Icon_AirBurst_Funzombie
+NOMBRE: M590 - Scarlet Ash
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105025.png

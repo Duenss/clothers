@@ -1,0 +1,8 @@
+ITEM ID: 400000127
+ICON ID: Icon_box_special
+NOMBRE: Active Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a randomly selected item or a trial card
+IMAGEN: CAJAS/imagenes/400000127.png

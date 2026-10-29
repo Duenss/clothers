@@ -1,0 +1,8 @@
+ITEM ID: 905041001
+ICON ID: Icon_Avatar_PARACHUTE_Inkpainting
+NOMBRE: Parachute - Ink Wings
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905041001.png

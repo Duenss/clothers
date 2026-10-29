@@ -1,0 +1,8 @@
+ITEM ID: 1315000005
+ICON ID: FF_UI_Pet_Shield_Skill
+NOMBRE: Wall Enforcement
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Adds a shield to the gloo wall.
+IMAGEN: MASCOTAS/imagenes/1315000005.png

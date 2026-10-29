@@ -1,0 +1,8 @@
+ITEM ID: 211051021
+ICON ID: Icon_avatar_male_cos_hair_urbancyber
+NOMBRE: Cyber Operator (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051021.png

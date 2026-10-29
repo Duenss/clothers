@@ -1,0 +1,8 @@
+ITEM ID: 203000093
+ICON ID: Icon_Avatar_female_jacket_002
+NOMBRE: Green Jacket (Female)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000093.png

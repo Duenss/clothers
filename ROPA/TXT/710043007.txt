@@ -1,0 +1,8 @@
+ITEM ID: 710043007
+ICON ID: Icon_bundle_male_Fighter_Green_43
+NOMBRE: Bull Incarnate Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710043007.png

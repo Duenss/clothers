@@ -1,0 +1,8 @@
+ITEM ID: 913048004
+ICON ID: FF_UI_Vault_Music_MyZone25
+NOMBRE: MyZone
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: MyZone lobby music
+IMAGEN: MUSICA/imagenes/913048004.png

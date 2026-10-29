@@ -1,0 +1,8 @@
+ITEM ID: 801001596
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Red Card Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: You're out! Now use this token wisely
+IMAGEN: CAJAS/imagenes/801001596.png

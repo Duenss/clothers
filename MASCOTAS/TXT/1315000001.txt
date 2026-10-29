@@ -1,0 +1,8 @@
+ITEM ID: 1315000001
+ICON ID: FF_UI_Pet_Skill_01
+NOMBRE: Weight Training
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Every time the panther does a weight training, the owner can get more inventory space in-game
+IMAGEN: MASCOTAS/imagenes/1315000001.png

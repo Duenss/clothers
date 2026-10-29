@@ -1,0 +1,8 @@
+ITEM ID: 902036005
+ICON ID: Icon_face_Icewizard_EP_B
+NOMBRE: Bad Hat Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036005.png

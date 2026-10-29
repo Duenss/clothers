@@ -1,0 +1,8 @@
+ITEM ID: 903043010
+ICON ID: Icon_Deadloot_Carnaval24
+NOMBRE: Loot Box - Funky Plastic
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903043010.png

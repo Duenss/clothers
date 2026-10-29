@@ -1,0 +1,8 @@
+ITEM ID: 909046003
+ICON ID: Icon_Emote_Microwaves
+NOMBRE: Controlled Combustion
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046003.png

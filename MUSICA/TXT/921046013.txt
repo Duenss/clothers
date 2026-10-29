@@ -1,0 +1,8 @@
+ITEM ID: 921046013
+ICON ID: FF_UI_Voiceitem_Windah
+NOMBRE: [Windah] The boss is here
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Playing is more fun with Windah's voice!
+IMAGEN: MUSICA/imagenes/921046013.png

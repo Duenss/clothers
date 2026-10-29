@@ -1,0 +1,8 @@
+ITEM ID: 801000305
+ICON ID: Icon_exchange_ff_skeleton
+NOMBRE: FF Skeleton
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000305.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000386
+ICON ID: FF_Icon_Mademana_deluxe
+NOMBRE: A124's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains A124 and her special outfit. When this outfit is equipped, A124 can display her special moves on the starting island
+IMAGEN: ROPA/imagenes/710000386.png

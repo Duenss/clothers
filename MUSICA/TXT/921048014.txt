@@ -1,0 +1,8 @@
+ITEM ID: 921048014
+ICON ID: FF_UI_Voiceitem_ID48PT
+NOMBRE: [Habib Ja'far] Huh, you're also knocked down
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Pemuda Tersesat Voice Pack
+IMAGEN: MUSICA/imagenes/921048014.png

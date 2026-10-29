@@ -1,0 +1,8 @@
+ITEM ID: 801043542
+ICON ID: Icon_exchange_Dino_th_43
+NOMBRE: Dino Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801043542.png

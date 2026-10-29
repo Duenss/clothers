@@ -1,0 +1,8 @@
+ITEM ID: 802000073
+ICON ID: FF_Lottery_Royale_Voucher_08
+NOMBRE: Royale Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000073.png

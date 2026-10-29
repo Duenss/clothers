@@ -1,0 +1,8 @@
+ITEM ID: 906000049
+ICON ID: Icon_Avatar_Surfboard_fb1000
+NOMBRE: Skyboard - Surf to 10 Millions
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000049.png

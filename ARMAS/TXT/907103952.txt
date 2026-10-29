@@ -1,0 +1,8 @@
+ITEM ID: 907103952
+ICON ID: Icon_GlooShield_Thug
+NOMBRE: Gloo Wall - Ecstatic Explosion
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103952.png

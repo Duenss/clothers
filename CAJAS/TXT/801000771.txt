@@ -1,0 +1,8 @@
+ITEM ID: 801000771
+ICON ID: Icon_exchange_ob25_trumpet_token
+NOMBRE: Trumpet Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: The sound of celebration
+IMAGEN: CAJAS/imagenes/801000771.png

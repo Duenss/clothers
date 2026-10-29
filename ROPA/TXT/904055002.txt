@@ -1,0 +1,8 @@
+ITEM ID: 904055002
+ICON ID: Icon_Bag_WB_Watch
+NOMBRE: Backpack - Omnitrix
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904055002.png

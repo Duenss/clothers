@@ -1,0 +1,8 @@
+ITEM ID: 908050005
+ICON ID: Icon_slot_Amphibian_Cloudyday
+NOMBRE: Amphibian - Thunder Cloud
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050005.png

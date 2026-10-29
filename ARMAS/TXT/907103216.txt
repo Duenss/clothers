@@ -1,0 +1,8 @@
+ITEM ID: 907103216
+ICON ID: Icon_BM94_Valentine2022
+NOMBRE: M82B - Vampire Malevolence
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103216.png

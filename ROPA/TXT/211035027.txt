@@ -1,0 +1,8 @@
+ITEM ID: 211035027
+ICON ID: Icon_avatar_male_cos_hair_gangster_red
+NOMBRE: Sinister Rage (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035027.png

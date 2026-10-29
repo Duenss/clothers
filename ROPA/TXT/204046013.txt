@@ -1,0 +1,8 @@
+ITEM ID: 204046013
+ICON ID: Icon_avatar_female_cos_bottom_booyahday24
+NOMBRE: Booyah Leader (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046013.png

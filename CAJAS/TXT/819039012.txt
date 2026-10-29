@@ -1,0 +1,8 @@
+ITEM ID: 819039012
+ICON ID: FF_UI_VFX_Scarlet_04
+NOMBRE: Sprinting Effect (Scorpio)
+TIPO: Vouchers
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: Special sprinting effects when wearing Scorpio themed top.
+IMAGEN: CAJAS/imagenes/819039012.png

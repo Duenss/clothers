@@ -1,0 +1,8 @@
+ITEM ID: 400000451
+ICON ID: Icon_box_vn_ff_weapon
+NOMBRE: Weapon Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Weapon Box
+IMAGEN: CAJAS/imagenes/400000451.png

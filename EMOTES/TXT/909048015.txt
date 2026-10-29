@@ -1,0 +1,8 @@
+ITEM ID: 909048015
+ICON ID: Icon_Emote_Comic24
+NOMBRE: Sketching
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048015.png

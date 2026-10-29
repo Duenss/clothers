@@ -1,0 +1,8 @@
+ITEM ID: 400000403
+ICON ID: Icon_face_female_sc_Agent
+NOMBRE: Laura's Lucky Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive memory fragment (Laura)
+IMAGEN: CAJAS/imagenes/400000403.png

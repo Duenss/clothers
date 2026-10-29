@@ -1,0 +1,8 @@
+ITEM ID: 800000510
+ICON ID: Icon_WSM_MP5_Goldenwings
+NOMBRE: MP5 - Platinum Divinity Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the MP5 skin. Obtain from events or buy directly from the store
+IMAGEN: OTROS/imagenes/800000510.png

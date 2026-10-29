@@ -1,0 +1,8 @@
+ITEM ID: 913046006
+ICON ID: FF_UI_Vault_Music_Lightfest24
+NOMBRE: Light Fest 2024
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Light Fest 2024 lobby music
+IMAGEN: MUSICA/imagenes/913046006.png

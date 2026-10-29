@@ -1,0 +1,8 @@
+ITEM ID: 905043002
+ICON ID: Icon_Avatar_PARACHUTE_Fastbreaking24
+NOMBRE: Parachute - Glistening Shooting Star
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905043002.png

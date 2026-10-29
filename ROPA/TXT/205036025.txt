@@ -1,0 +1,8 @@
+ITEM ID: 205036025
+ICON ID: Icon_avatar_male_cos_shoe_festival_tr
+NOMBRE: Floral Fortune (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036025.png

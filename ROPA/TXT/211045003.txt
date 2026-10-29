@@ -1,0 +1,8 @@
+ITEM ID: 211045003
+ICON ID: Icon_avatar_male_cos_hair_leo
+NOMBRE: Leo Parade (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045003.png

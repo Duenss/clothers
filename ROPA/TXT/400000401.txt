@@ -1,0 +1,8 @@
+ITEM ID: 400000401
+ICON ID: Icon_box_3
+NOMBRE: Huntdown Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Huntdown Box
+IMAGEN: ROPA/imagenes/400000401.png

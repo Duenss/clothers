@@ -1,0 +1,8 @@
+ITEM ID: 203037041
+ICON ID: Icon_avatar_male_cos_top_opiniona
+NOMBRE: Charcoal Whizz (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037041.png

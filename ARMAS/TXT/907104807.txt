@@ -1,0 +1,8 @@
+ITEM ID: 907104807
+ICON ID: Icon_M1887_Fastbreaking_dune
+NOMBRE: M1887 - Sandstorm Shimmer
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104807.png

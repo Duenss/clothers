@@ -1,0 +1,8 @@
+ITEM ID: 801000299
+ICON ID: Icon_exchange_2020_token
+NOMBRE: 2020 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Celebrate FF 2020!
+IMAGEN: CAJAS/imagenes/801000299.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104837
+ICON ID: Icon_Superheat_Gun_Ocean25
+NOMBRE: PLASMA - Underwater Dweller
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104837.png

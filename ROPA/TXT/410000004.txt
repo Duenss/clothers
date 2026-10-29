@@ -1,0 +1,8 @@
+ITEM ID: 410000004
+ICON ID: Icon_box_3
+NOMBRE: Elephant Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Special Songkran-themed crate, 25% for each T-Shirt.
+IMAGEN: ROPA/imagenes/410000004.png

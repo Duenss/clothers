@@ -1,0 +1,8 @@
+ITEM ID: 400027115
+ICON ID: Icon_box_3
+NOMBRE: Falconer Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Character Maro and many other rewards
+IMAGEN: ROPA/imagenes/400027115.png

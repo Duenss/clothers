@@ -1,0 +1,8 @@
+ITEM ID: 907100082
+ICON ID: Icon_UMP_Baw_Skeleton
+NOMBRE: UMP - Violet Terror
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100082.png

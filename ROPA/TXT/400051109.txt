@@ -1,0 +1,8 @@
+ITEM ID: 400051109
+ICON ID: Icon_box_3
+NOMBRE: Redemption Gift Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400051109.png

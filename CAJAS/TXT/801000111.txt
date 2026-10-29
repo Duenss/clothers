@@ -1,0 +1,8 @@
+ITEM ID: 801000111
+ICON ID: Icon_exchange_Back_to_school
+NOMBRE: Back to school day
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000111.png

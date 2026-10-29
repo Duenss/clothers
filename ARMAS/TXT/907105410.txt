@@ -1,0 +1,8 @@
+ITEM ID: 907105410
+ICON ID: Icon_ChargeShot_Tooth
+NOMBRE: Charge Buster - Super Fresh
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105410.png

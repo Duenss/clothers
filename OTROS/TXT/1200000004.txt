@@ -1,0 +1,8 @@
+ITEM ID: 1200000004
+ICON ID: Icon_Chat_Emoji_04
+NOMBRE: Cutie Kelly
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Cutie Kelly
+IMAGEN: OTROS/imagenes/1200000004.png

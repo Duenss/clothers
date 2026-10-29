@@ -1,0 +1,8 @@
+ITEM ID: 400026096
+ICON ID: Icon_box_3
+NOMBRE: Women's Day CIS Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Happy Women's Day
+IMAGEN: ROPA/imagenes/400026096.png

@@ -1,0 +1,8 @@
+ITEM ID: 902038005
+ICON ID: Icon_face_male_head_sc_Designer_B
+NOMBRE: Meta Celebrity Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038005.png

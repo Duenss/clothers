@@ -1,0 +1,8 @@
+ITEM ID: 907000006
+ICON ID: Icon_Kar98k_Camo
+NOMBRE: Hunter
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000006.png

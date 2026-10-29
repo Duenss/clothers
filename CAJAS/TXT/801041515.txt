@@ -1,0 +1,8 @@
+ITEM ID: 801041515
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Bamboo Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB41
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801041515.png

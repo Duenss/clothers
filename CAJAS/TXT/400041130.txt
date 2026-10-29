@@ -1,0 +1,8 @@
+ITEM ID: 400041130
+ICON ID: Icon_box_Fisherman_adv_41
+NOMBRE: BP S10 Deluxe Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041130.png

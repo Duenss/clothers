@@ -1,0 +1,8 @@
+ITEM ID: 902043012
+ICON ID: Icon_face_CSRank23_B
+NOMBRE: CS-Ranked S23 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043012.png

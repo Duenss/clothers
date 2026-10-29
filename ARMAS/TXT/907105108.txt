@@ -1,0 +1,8 @@
+ITEM ID: 907105108
+ICON ID: Icon_SCAR_Snow25
+NOMBRE: SCAR - Pearlescent
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105108.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104823
+ICON ID: Icon_Machete_Rainforest_Free
+NOMBRE: Parang - Tropical Menace
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104823.png

@@ -1,0 +1,8 @@
+ITEM ID: 902052008
+ICON ID: Icon_face_Valentine26_Girl
+NOMBRE: Scarlet Romance Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052008.png

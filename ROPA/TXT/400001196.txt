@@ -1,0 +1,8 @@
+ITEM ID: 400001196
+ICON ID: Icon_box_3
+NOMBRE: Happy New Year Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Wishing you the best year ever!
+IMAGEN: ROPA/imagenes/400001196.png

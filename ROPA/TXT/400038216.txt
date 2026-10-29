@@ -1,0 +1,8 @@
+ITEM ID: 400038216
+ICON ID: Icon_box_3
+NOMBRE: Rocker Stud Bundle Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: Contains Rocker Stud and all its pieces
+IMAGEN: ROPA/imagenes/400038216.png

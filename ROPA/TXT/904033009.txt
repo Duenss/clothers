@@ -1,0 +1,8 @@
+ITEM ID: 904033009
+ICON ID: Icon_Bag_Ninjatiger
+NOMBRE: Backpack - Big Bucks
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033009.png

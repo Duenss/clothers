@@ -1,0 +1,8 @@
+ITEM ID: 211053033
+ICON ID: Icon_avatar_female_cos_hair_worldcup25_free
+NOMBRE: Football Girl (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053033.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000804
+ICON ID: Icon_box_3
+NOMBRE: Booyah Bundle
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exclusive rewards
+IMAGEN: ROPA/imagenes/710000804.png

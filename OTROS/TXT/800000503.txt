@@ -1,0 +1,8 @@
+ITEM ID: 800000503
+ICON ID: Icon_WSM_SCAR_Shark
+NOMBRE: SCAR - Megalodon Alpha Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the SCAR skins. Obtained from events or buy directly from store.
+IMAGEN: OTROS/imagenes/800000503.png

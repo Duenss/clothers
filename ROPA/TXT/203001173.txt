@@ -1,0 +1,8 @@
+ITEM ID: 203001173
+ICON ID: Icon_avatar_top_cos_master_s24
+NOMBRE: S24 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001173.png

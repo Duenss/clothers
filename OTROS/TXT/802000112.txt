@@ -1,0 +1,8 @@
+ITEM ID: 802000112
+ICON ID: FF_Lottery_Diwali2025_Voucher
+NOMBRE: Diwali 2025 Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Celebrate Light Fest 2025!
+IMAGEN: OTROS/imagenes/802000112.png

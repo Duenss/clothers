@@ -1,0 +1,8 @@
+ITEM ID: 801000891
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: K.O. Night Black Belt
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000891.png

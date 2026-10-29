@@ -1,0 +1,8 @@
+ITEM ID: 400029027
+ICON ID: Icon_box_3
+NOMBRE: Warfare Basics Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open up to get amazing rewards
+IMAGEN: ROPA/imagenes/400029027.png

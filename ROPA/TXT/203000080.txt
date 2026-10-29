@@ -1,0 +1,8 @@
+ITEM ID: 203000080
+ICON ID: Icon_avatar_tshirt_week_007
+NOMBRE: STARRY SUN
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000080.png

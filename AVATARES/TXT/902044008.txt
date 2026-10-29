@@ -1,0 +1,8 @@
+ITEM ID: 902044008
+ICON ID: Icon_face_Festivalme_Mule
+NOMBRE: Silent Mule Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902044008.png

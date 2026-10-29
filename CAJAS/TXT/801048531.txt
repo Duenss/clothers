@@ -1,0 +1,8 @@
+ITEM ID: 801048531
+ICON ID: Icon_exchange_SLT_th_48
+NOMBRE: Slipper Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048531.png

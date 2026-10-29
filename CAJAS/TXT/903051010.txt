@@ -1,0 +1,8 @@
+ITEM ID: 903051010
+ICON ID: Icon_Deadloot_TH_KOL25
+NOMBRE: Loot Box - Just Taking a Nap...
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903051010.png

@@ -1,0 +1,8 @@
+ITEM ID: 800000040
+ICON ID: Icon_face_male_sc_Falconer
+NOMBRE: Memory Fragment (Maro)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000040.png

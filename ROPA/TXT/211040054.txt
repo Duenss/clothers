@@ -1,0 +1,8 @@
+ITEM ID: 211040054
+ICON ID: Icon_avatar_cos_accessory_traphiphop22_hw
+NOMBRE: Turn It Up Sunglasses
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040054.png

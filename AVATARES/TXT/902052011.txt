@@ -1,0 +1,8 @@
+ITEM ID: 902052011
+ICON ID: Icon_face_Emoji26
+NOMBRE: V!BE UP Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052011.png

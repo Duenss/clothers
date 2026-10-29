@@ -1,0 +1,8 @@
+ITEM ID: 909055013
+ICON ID: Icon_Emote_Figure
+NOMBRE: Firefig Showcase
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909055013.png

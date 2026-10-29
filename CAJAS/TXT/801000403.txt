@@ -1,0 +1,8 @@
+ITEM ID: 801000403
+ICON ID: Icon_exchange_ob21_palm_tree
+NOMBRE: Palm Tree
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000403.png

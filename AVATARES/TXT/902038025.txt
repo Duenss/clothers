@@ -1,0 +1,8 @@
+ITEM ID: 902038025
+ICON ID: Icon_face_VN_KOL2
+NOMBRE: Lightbulb Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038025.png

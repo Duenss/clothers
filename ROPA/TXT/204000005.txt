@@ -1,0 +1,8 @@
+ITEM ID: 204000005
+ICON ID: Icon_avatar_pants_1
+NOMBRE: Long Pants (Beige)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000005.png

@@ -1,0 +1,8 @@
+ITEM ID: 909000047
+ICON ID: Icon_Emote_HitDemFolks
+NOMBRE: Bring It On!
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000047.png

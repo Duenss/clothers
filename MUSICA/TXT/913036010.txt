@@ -1,0 +1,8 @@
+ITEM ID: 913036010
+ICON ID: FF_UI_Vault_Music_POTENTIA
+NOMBRE: The Road to Booyah
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Booyah Day 2022 lobby music
+IMAGEN: MUSICA/imagenes/913036010.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103544
+ICON ID: Icon_GlooShield_Digitaluniverse_Tc
+NOMBRE: Gloo Wall - Top Criminal
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103544.png

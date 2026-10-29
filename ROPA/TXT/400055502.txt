@@ -1,0 +1,8 @@
+ITEM ID: 400055502
+ICON ID: Icon_box_3
+NOMBRE: Wonderful Box 2
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400055502.png

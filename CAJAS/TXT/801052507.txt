@@ -1,0 +1,8 @@
+ITEM ID: 801052507
+ICON ID: Icon_exchange_chest_id_52
+NOMBRE: Chest Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052507.png

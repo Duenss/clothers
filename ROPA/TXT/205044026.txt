@@ -1,0 +1,8 @@
+ITEM ID: 205044026
+ICON ID: Icon_avatar_cos_shoe_fragment_shoes
+NOMBRE: Breaker Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044026.png

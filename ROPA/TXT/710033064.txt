@@ -1,0 +1,8 @@
+ITEM ID: 710033064
+ICON ID: Icon_bundle_Pegasus_33
+NOMBRE: Pegasus Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: This bundle contains the "Pegasus Skywing" and the "Charge!" animation
+IMAGEN: ROPA/imagenes/710033064.png

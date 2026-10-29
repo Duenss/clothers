@@ -1,0 +1,8 @@
+ITEM ID: 214055007
+ICON ID: Icon_avatar_cos_headadditive_gen_z_01
+NOMBRE: Academy Stars (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214055007.png

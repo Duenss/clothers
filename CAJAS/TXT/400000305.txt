@@ -1,0 +1,8 @@
+ITEM ID: 400000305
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Winterlands Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for the Winterlands set.
+IMAGEN: CAJAS/imagenes/400000305.png

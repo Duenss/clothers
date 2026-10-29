@@ -1,0 +1,8 @@
+ITEM ID: 710027051
+ICON ID: Icon_bundle_Werewolf_27
+NOMBRE: Pet Rumble Room Card (1 Hr)
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Create unlimited number of Pet Rumble rooms within a 1 hour period.
+IMAGEN: ROPA/imagenes/710027051.png

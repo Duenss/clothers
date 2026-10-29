@@ -1,0 +1,8 @@
+ITEM ID: 204000813
+ICON ID: Icon_avatar_male_cos_bottom_trroyal
+NOMBRE: Regal Malik (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000813.png

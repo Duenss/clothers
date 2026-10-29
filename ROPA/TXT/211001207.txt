@@ -1,0 +1,8 @@
+ITEM ID: 211001207
+ICON ID: Icon_avatar_female_cos_hair_dragonhunter
+NOMBRE: Blood Buster (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001207.png

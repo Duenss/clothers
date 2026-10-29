@@ -1,0 +1,8 @@
+ITEM ID: 204044001
+ICON ID: Icon_avatar_female_cos_bottom_videogame
+NOMBRE: Byte Bite (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044001.png

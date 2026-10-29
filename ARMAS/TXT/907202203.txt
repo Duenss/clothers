@@ -1,0 +1,8 @@
+ITEM ID: 907202203
+ICON ID: Icon_SKS_Soccerstar
+NOMBRE: SKS - Victory Wings
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202203.png

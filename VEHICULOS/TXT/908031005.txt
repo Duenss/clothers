@@ -1,0 +1,8 @@
+ITEM ID: 908031005
+ICON ID: Icon_slot_Amphibian_Alienpilot
+NOMBRE: Amphibian - Solar Zoomer
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908031005.png

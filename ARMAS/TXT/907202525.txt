@@ -1,0 +1,8 @@
+ITEM ID: 907202525
+ICON ID: Icon_MP5_Bounty
+NOMBRE: MP5 - Cyber Bounty Hunter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202525.png

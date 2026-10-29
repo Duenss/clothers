@@ -1,0 +1,8 @@
+ITEM ID: 203047030
+ICON ID: Icon_avatar_cos_top_newbie24
+NOMBRE: Forever Love (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047030.png

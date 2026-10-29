@@ -1,0 +1,8 @@
+ITEM ID: 902036007
+ICON ID: Icon_face_male_head_sc_Yakuza_B
+NOMBRE: Thieving Confidence Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036007.png

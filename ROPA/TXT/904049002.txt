@@ -1,0 +1,8 @@
+ITEM ID: 904049002
+ICON ID: Icon_Bag_Sparta
+NOMBRE: Backpack - Fearless Resolve
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049002.png

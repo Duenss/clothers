@@ -1,0 +1,8 @@
+ITEM ID: 909041009
+ICON ID: Icon_Emote_Flashinglights
+NOMBRE: Feel the Electricity
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041009.png

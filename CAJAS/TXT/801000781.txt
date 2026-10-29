@@ -1,0 +1,8 @@
+ITEM ID: 801000781
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Winter Night
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Token of winter with style
+IMAGEN: CAJAS/imagenes/801000781.png

@@ -1,0 +1,8 @@
+ITEM ID: 904035007
+ICON ID: Icon_Bag_Kun
+NOMBRE: Backpack - Lake Spirits
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035007.png

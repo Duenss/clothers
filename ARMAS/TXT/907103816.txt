@@ -1,0 +1,8 @@
+ITEM ID: 907103816
+ICON ID: Icon_XM8_Skisuit
+NOMBRE: XM8 - Blizzard Brawl
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103816.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104615
+ICON ID: Icon_Uzi_Iron
+NOMBRE: Mini Uzi - Eternal Enigma
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104615.png

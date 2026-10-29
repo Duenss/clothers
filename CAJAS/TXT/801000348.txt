@@ -1,0 +1,8 @@
+ITEM ID: 801000348
+ICON ID: Icon_exchange_mr_pixel
+NOMBRE: Mr. Pixel
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Hi! I am the little part of pixel world
+IMAGEN: CAJAS/imagenes/801000348.png

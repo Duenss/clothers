@@ -1,0 +1,8 @@
+ITEM ID: 909048009
+ICON ID: Icon_Emote_Fastbreaking_Dune
+NOMBRE: Goofy Camel
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048009.png

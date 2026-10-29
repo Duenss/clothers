@@ -1,0 +1,8 @@
+ITEM ID: 801000340
+ICON ID: Icon_exchange_lipstick
+NOMBRE: Lipstick
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Icon of woman
+IMAGEN: CAJAS/imagenes/801000340.png

@@ -1,0 +1,8 @@
+ITEM ID: 801053513
+ICON ID: Icon_exchange_ecl1t_us_sac_53
+NOMBRE: Eclipse Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053513.png

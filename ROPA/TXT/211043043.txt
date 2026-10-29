@@ -1,0 +1,8 @@
+ITEM ID: 211043043
+ICON ID: Icon_avatar_male_cos_accessory_fastbreaking24_01
+NOMBRE: Glistening Sunshine (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043043.png

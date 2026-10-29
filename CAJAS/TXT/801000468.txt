@@ -1,0 +1,8 @@
+ITEM ID: 801000468
+ICON ID: Icon_exchange_ob22_blue_soul
+NOMBRE: Blue Soul Orb
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000468.png

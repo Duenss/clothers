@@ -1,0 +1,8 @@
+ITEM ID: 909036008
+ICON ID: Icon_Emote_Skateboarding
+NOMBRE: Skateboard Swag
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909036008.png

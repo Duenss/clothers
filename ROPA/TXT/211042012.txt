@@ -1,0 +1,8 @@
+ITEM ID: 211042012
+ICON ID: Icon_avatar_male_cos_accessory_smudge
+NOMBRE: Feline Flaneur (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042012.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030197
+ICON ID: Icon_box_3
+NOMBRE: Katana Cyber Bounty Hunter Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Katana Cyber Bounty Hunter and all it's pieces
+IMAGEN: ROPA/imagenes/400030197.png

@@ -1,0 +1,8 @@
+ITEM ID: 204037035
+ICON ID: Icon_avatar_female_cos_bottom_westernhuntera
+NOMBRE: Cyber Dunes (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037035.png

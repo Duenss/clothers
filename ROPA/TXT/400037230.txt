@@ -1,0 +1,8 @@
+ITEM ID: 400037230
+ICON ID: Icon_box_3
+NOMBRE: Freedom Sprintstar Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains Freedom Sprintstar and all its pieces
+IMAGEN: ROPA/imagenes/400037230.png

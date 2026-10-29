@@ -1,0 +1,8 @@
+ITEM ID: 211000970
+ICON ID: Icon_avatar_male_hair_cos_raider
+NOMBRE: Downtown Raider (Head)
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000970.png

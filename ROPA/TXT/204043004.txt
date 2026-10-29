@@ -1,0 +1,8 @@
+ITEM ID: 204043004
+ICON ID: Icon_avatar_female_cos_bottom_frog
+NOMBRE: Ribbit Fairytale (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043004.png

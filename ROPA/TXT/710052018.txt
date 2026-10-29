@@ -1,0 +1,8 @@
+ITEM ID: 710052018
+ICON ID: Icon_bundle_male_Carnival26_52
+NOMBRE: Beat Beast Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710052018.png

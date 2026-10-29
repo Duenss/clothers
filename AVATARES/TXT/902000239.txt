@@ -1,0 +1,8 @@
+ITEM ID: 902000239
+ICON ID: Icon_face_female_head_sc_Tomboy_B
+NOMBRE: Notora's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000239.png

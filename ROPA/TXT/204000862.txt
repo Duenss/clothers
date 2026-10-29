@@ -1,0 +1,8 @@
+ITEM ID: 204000862
+ICON ID: Icon_avatar_male_sc_muertoguy_bottom
+NOMBRE: Artsy Engineer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000862.png

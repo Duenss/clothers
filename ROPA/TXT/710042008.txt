@@ -1,0 +1,8 @@
+ITEM ID: 710042008
+ICON ID: Icon_bundle_female_Watcher_42
+NOMBRE: Interstellar Watcher Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710042008.png

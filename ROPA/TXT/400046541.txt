@@ -1,0 +1,8 @@
+ITEM ID: 400046541
+ICON ID: Icon_box_3
+NOMBRE: Katana Black Honor Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400046541.png

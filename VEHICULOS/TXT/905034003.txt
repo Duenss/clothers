@@ -1,0 +1,8 @@
+ITEM ID: 905034003
+ICON ID: Icon_Avatar_PARACHUTE_Winterdog
+NOMBRE: Parachute - Husky Pup
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905034003.png

@@ -1,0 +1,8 @@
+ITEM ID: 903054011
+ICON ID: Icon_Deadloot_Apple_GR
+NOMBRE: Loot Box - Apple Ferris
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903054011.png

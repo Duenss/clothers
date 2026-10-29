@@ -1,0 +1,8 @@
+ITEM ID: 801055015
+ICON ID: Icon_exchange_sasys3_55
+NOMBRE: Orange Lightning
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055015.png

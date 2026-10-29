@@ -1,0 +1,8 @@
+ITEM ID: 909051003
+ICON ID: Icon_Emote_Dreamland_Evogun
+NOMBRE: Rain of Spikes
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051003.png

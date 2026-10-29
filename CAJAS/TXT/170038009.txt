@@ -1,0 +1,8 @@
+ITEM ID: 170038009
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Character Selection Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: Choose your favourite character
+IMAGEN: CAJAS/imagenes/170038009.png

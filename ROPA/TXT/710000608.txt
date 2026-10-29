@@ -1,0 +1,8 @@
+ITEM ID: 710000608
+ICON ID: Icon_robot_chieftain
+NOMBRE: Unknown
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/710000608.png

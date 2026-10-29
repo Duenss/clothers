@@ -1,0 +1,8 @@
+ITEM ID: 400027108
+ICON ID: Icon_box_3
+NOMBRE: Cobra Sprinter Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Cobra Sprinter and all its pieces
+IMAGEN: ROPA/imagenes/400027108.png

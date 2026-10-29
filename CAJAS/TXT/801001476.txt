@@ -1,0 +1,8 @@
+ITEM ID: 801001476
+ICON ID: Icon_box_newplayer
+NOMBRE: Pink Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Pink Pieces to unlock the Pink Card
+IMAGEN: CAJAS/imagenes/801001476.png

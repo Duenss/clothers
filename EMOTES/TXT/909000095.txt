@@ -1,0 +1,8 @@
+ITEM ID: 909000095
+ICON ID: Icon_Emote_Penguin
+NOMBRE: Waggor Wave
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000095.png

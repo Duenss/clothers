@@ -1,0 +1,8 @@
+ITEM ID: 211050042
+ICON ID: Icon_avatar_male_cos_hair_sl_white
+NOMBRE: Dai Mubai Head
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050042.png

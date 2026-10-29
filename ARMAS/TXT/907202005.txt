@@ -1,0 +1,8 @@
+ITEM ID: 907202005
+ICON ID: Icon_M14_Nuclear
+NOMBRE: M14 - Doomsday
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202005.png

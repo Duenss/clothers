@@ -1,0 +1,8 @@
+ITEM ID: 902053011
+ICON ID: Icon_face_Sketch
+NOMBRE: Chisel Dream Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902053011.png

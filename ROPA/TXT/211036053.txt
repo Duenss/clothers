@@ -1,0 +1,8 @@
+ITEM ID: 211036053
+ICON ID: Icon_avatar_male_cos_hair_icewizard_hw
+NOMBRE: Wizard of Blizzards - Water (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036053.png

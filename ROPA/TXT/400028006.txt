@@ -1,0 +1,8 @@
+ITEM ID: 400028006
+ICON ID: Icon_box_3
+NOMBRE: Mythos Four Red Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400028006.png

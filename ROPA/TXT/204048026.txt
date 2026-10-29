@@ -1,0 +1,8 @@
+ITEM ID: 204048026
+ICON ID: Icon_avatar_cos_bottom_fastbreaking_dune01
+NOMBRE: Hidden Shimmer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048026.png

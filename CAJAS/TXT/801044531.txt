@@ -1,0 +1,8 @@
+ITEM ID: 801044531
+ICON ID: Icon_exchange_Sushi_th_44
+NOMBRE: Sushi Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044531.png

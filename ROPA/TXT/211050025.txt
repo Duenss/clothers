@@ -1,0 +1,8 @@
+ITEM ID: 211050025
+ICON ID: Icon_avatar_male_cos_hair_stitchhop
+NOMBRE: Soaring Crane (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050025.png

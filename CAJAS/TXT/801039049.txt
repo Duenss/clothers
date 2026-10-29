@@ -1,0 +1,8 @@
+ITEM ID: 801039049
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Crescent Moon Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Look at how the moon shines for us
+IMAGEN: CAJAS/imagenes/801039049.png

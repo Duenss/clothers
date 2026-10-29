@@ -1,0 +1,8 @@
+ITEM ID: 400001209
+ICON ID: Icon_box_3
+NOMBRE: 3 in 1 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Guess what's inside?
+IMAGEN: ROPA/imagenes/400001209.png

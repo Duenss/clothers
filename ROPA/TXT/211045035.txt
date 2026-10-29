@@ -1,0 +1,8 @@
+ITEM ID: 211045035
+ICON ID: Icon_avatar_male_cos_hair_fox_vn
+NOMBRE: Foxlight Phantom (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045035.png

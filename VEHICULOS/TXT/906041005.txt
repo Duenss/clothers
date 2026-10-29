@@ -1,0 +1,8 @@
+ITEM ID: 906041005
+ICON ID: Icon_Avatar_Surfboard_Inkpainting
+NOMBRE: Skyboard - Ink Sword
+TIPO: Skyboard
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906041005.png

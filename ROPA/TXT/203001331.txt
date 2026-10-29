@@ -1,0 +1,8 @@
+ITEM ID: 203001331
+ICON ID: Icon_avatar_female_cos_top_dunhuang_a
+NOMBRE: Burning Rays (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001331.png

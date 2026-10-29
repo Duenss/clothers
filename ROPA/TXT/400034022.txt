@@ -1,0 +1,8 @@
+ITEM ID: 400034022
+ICON ID: Icon_box_3
+NOMBRE: My Hero Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Happy Father's Day 2022!
+IMAGEN: ROPA/imagenes/400034022.png

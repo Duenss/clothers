@@ -1,0 +1,8 @@
+ITEM ID: 801001028
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Eid al-Adha Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: "Eid al-Adha"
+IMAGEN: CAJAS/imagenes/801001028.png

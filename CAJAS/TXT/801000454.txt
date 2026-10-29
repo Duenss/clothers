@@ -1,0 +1,8 @@
+ITEM ID: 801000454
+ICON ID: Icon_exchange_ob22_swimring_B
+NOMBRE: Swim Ring B
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000454.png

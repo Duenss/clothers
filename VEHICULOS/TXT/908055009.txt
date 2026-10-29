@@ -1,0 +1,8 @@
+ITEM ID: 908055009
+ICON ID: Icon_slot_SUV_Ninja_Watermelon
+NOMBRE: Pickup Truck - Melon Engine
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908055009.png

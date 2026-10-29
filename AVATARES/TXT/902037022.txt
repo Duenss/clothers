@@ -1,0 +1,8 @@
+ITEM ID: 902037022
+ICON ID: Icon_face_FFWS_MCPS1
+NOMBRE: AV Radicals Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037022.png

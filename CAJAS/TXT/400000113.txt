@@ -1,0 +1,8 @@
+ITEM ID: 400000113
+ICON ID: Icon_box_special
+NOMBRE: Fire Wings Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Reward for those who purchase Fire Chicken package in Richeese Factory outlets
+IMAGEN: CAJAS/imagenes/400000113.png

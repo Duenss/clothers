@@ -1,0 +1,8 @@
+ITEM ID: 902030007
+ICON ID: Icon_face_male_head_sc_Booyahday21
+NOMBRE: Leon's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030007.png

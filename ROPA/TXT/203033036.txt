@@ -1,0 +1,8 @@
+ITEM ID: 203033036
+ICON ID: Icon_avatar_male_cos_top_ffunit2
+NOMBRE: Shadow Rogue (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033036.png

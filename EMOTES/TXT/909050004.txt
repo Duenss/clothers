@@ -1,0 +1,8 @@
+ITEM ID: 909050004
+ICON ID: Icon_Emote_2NBCT_Forehead
+NOMBRE: Forehead Poke
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909050004.png

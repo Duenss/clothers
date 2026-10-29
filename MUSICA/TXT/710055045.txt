@@ -1,0 +1,8 @@
+ITEM ID: 710055045
+ICON ID: FF_UI_Voiceitem_BR55
+NOMBRE: Pro Taunts Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Pro Taunts voice pack
+IMAGEN: MUSICA/imagenes/710055045.png

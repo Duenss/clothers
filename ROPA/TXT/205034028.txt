@@ -1,0 +1,8 @@
+ITEM ID: 205034028
+ICON ID: Icon_avatar_male_cos_shoe_crazyscientist
+NOMBRE: Mad Scientist (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205034028.png

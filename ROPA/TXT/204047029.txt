@@ -1,0 +1,8 @@
+ITEM ID: 204047029
+ICON ID: Icon_avatar_male_cos_bottom_nb_white
+NOMBRE: Kakashi Bottom
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047029.png

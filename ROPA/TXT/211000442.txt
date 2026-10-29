@@ -1,0 +1,8 @@
+ITEM ID: 211000442
+ICON ID: Icon_avatar_accessory_cos_icefestival19_A
+NOMBRE: Red Rudolph
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000442.png

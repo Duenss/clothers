@@ -1,0 +1,8 @@
+ITEM ID: 801001037
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Speed Up Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Faster and faster
+IMAGEN: CAJAS/imagenes/801001037.png

@@ -1,0 +1,8 @@
+ITEM ID: 400042550
+ICON ID: Icon_box_3
+NOMBRE: Sonorous Graffiti Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: Contains the Sonorous Graffiti bundle and its pieces
+IMAGEN: ROPA/imagenes/400042550.png

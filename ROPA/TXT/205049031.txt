@@ -1,0 +1,8 @@
+ITEM ID: 205049031
+ICON ID: Icon_avatar_cos_shoe_football25_green
+NOMBRE: Lime Football Cleats
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049031.png

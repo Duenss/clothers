@@ -1,0 +1,8 @@
+ITEM ID: 904050003
+ICON ID: Icon_Bag_VA
+NOMBRE: Backpack - Trouble Unchained
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050003.png

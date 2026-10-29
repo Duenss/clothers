@@ -1,0 +1,8 @@
+ITEM ID: 902047017
+ICON ID: Icon_face_HuntKing
+NOMBRE: Top Hunter Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047017.png

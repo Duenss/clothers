@@ -1,0 +1,8 @@
+ITEM ID: 907103826
+ICON ID: Icon_Machete_Colorfest23
+NOMBRE: Parang - Techno Chopper
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103826.png

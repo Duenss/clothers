@@ -1,0 +1,8 @@
+ITEM ID: 214000072
+ICON ID: Icon_avatar_male_headadditive_cos_foursymbols_a
+NOMBRE: Azure Stormbringer (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000072.png

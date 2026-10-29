@@ -1,0 +1,8 @@
+ITEM ID: 203051062
+ICON ID: Icon_avatar_female_cos_top_trend_th25blue
+NOMBRE: Blue Bodycon Dress
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051062.png

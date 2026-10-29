@@ -1,0 +1,8 @@
+ITEM ID: 907104338
+ICON ID: Icon_Pointed_Grenade
+NOMBRE: Grenade - Crystal Shatter
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104338.png

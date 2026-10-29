@@ -1,0 +1,8 @@
+ITEM ID: 400043533
+ICON ID: Icon_box_3
+NOMBRE: 2024 Mystery Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: Embrace surprises!
+IMAGEN: ROPA/imagenes/400043533.png

@@ -1,0 +1,8 @@
+ITEM ID: 801037002
+ICON ID: FF_UI_Tailor_Token_01
+NOMBRE: Galaxy Tailor Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Use to purchase tailor options for the FFWS Galaxy theme in the Tailor system.
+IMAGEN: CAJAS/imagenes/801037002.png

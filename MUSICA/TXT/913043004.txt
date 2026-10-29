@@ -1,0 +1,8 @@
+ITEM ID: 913043004
+ICON ID: FF_UI_Vault_Music_Chaos24B
+NOMBRE: The Chaos
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: This is The Chaos
+IMAGEN: MUSICA/imagenes/913043004.png

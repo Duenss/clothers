@@ -1,0 +1,8 @@
+ITEM ID: 102000042
+ICON ID: Icon_face_male_head_sc_Demolitionist_Awakening
+NOMBRE: Alvaro "Rageblast"
+TIPO: Characters
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Alvaro "Firebrand" is a wild but skilled demolitionist.
+IMAGEN: PERSONAJES/imagenes/102000042.png

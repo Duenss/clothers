@@ -1,0 +1,8 @@
+ITEM ID: 211039072
+ICON ID: Icon_avatar_female_cos_hair_phantomjazz
+NOMBRE: Golden Fusion (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039072.png

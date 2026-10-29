@@ -1,0 +1,8 @@
+ITEM ID: 801001056
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion S Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Spirit of Freedom
+IMAGEN: CAJAS/imagenes/801001056.png

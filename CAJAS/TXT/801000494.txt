@@ -1,0 +1,8 @@
+ITEM ID: 801000494
+ICON ID: Icon_exchange_ob22_patch_token
+NOMBRE: Patch Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: New patch is coming!
+IMAGEN: CAJAS/imagenes/801000494.png

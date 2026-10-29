@@ -1,0 +1,8 @@
+ITEM ID: 400027134
+ICON ID: Icon_box_evogun_imperial1_27
+NOMBRE: Green Flame Draco Token Box 1
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400027134.png

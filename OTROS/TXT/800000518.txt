@@ -1,0 +1,8 @@
+ITEM ID: 800000518
+ICON ID: Icon_WSM_M1014_Scarlet
+NOMBRE: M1014 - Scorpio Shatter Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the M1014 skin. Obtain from events or buy directly from the store.
+IMAGEN: OTROS/imagenes/800000518.png

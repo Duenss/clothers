@@ -1,0 +1,8 @@
+ITEM ID: 101000004
+ICON ID: Icon_face_female01_head
+NOMBRE: Unknown
+TIPO: Characters
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/101000004.png

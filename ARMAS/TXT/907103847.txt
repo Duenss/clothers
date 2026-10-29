@@ -1,0 +1,8 @@
+ITEM ID: 907103847
+ICON ID: Icon_GlooShield_ES
+NOMBRE: Gloo Wall - PopPow
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103847.png

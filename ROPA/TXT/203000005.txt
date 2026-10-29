@@ -1,0 +1,8 @@
+ITEM ID: 203000005
+ICON ID: Icon_avatar_shirt_1
+NOMBRE: Shirt (Blue)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000005.png

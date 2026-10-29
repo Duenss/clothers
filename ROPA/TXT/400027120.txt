@@ -1,0 +1,8 @@
+ITEM ID: 400027120
+ICON ID: Icon_box_3
+NOMBRE: CIS Fest Box 2
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400027120.png

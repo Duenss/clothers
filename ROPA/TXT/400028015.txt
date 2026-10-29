@@ -1,0 +1,8 @@
+ITEM ID: 400028015
+ICON ID: Icon_box_3
+NOMBRE: Lip Print Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Valentine's Day 2021
+IMAGEN: ROPA/imagenes/400028015.png

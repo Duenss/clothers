@@ -1,0 +1,8 @@
+ITEM ID: 246954004
+ICON ID: Icon_SparkPet_Color_pink
+NOMBRE: Pink
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Pink
+IMAGEN: MASCOTAS/imagenes/246954004.png

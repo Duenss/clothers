@@ -1,0 +1,8 @@
+ITEM ID: 907102645
+ICON ID: Icon_GlooShield_Superstar
+NOMBRE: Gloo Wall - Superstar
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102645.png

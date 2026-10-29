@@ -1,0 +1,8 @@
+ITEM ID: 710037076
+ICON ID: Icon_bundle_Weapon_30_37
+NOMBRE: Weapon Royale Bundle 3
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains 30 Weapon Royale Vouchers
+IMAGEN: ROPA/imagenes/710037076.png

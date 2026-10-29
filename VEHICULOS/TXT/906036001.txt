@@ -1,0 +1,8 @@
+ITEM ID: 906036001
+ICON ID: Icon_Avatar_Surfboard_Frankenstein
+NOMBRE: Skyboard - Supercurrent
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906036001.png

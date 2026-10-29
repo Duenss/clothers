@@ -1,0 +1,8 @@
+ITEM ID: 904039004
+ICON ID: Icon_Bag_Rollerskating_01
+NOMBRE: Backpack - Moonwalker
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039004.png

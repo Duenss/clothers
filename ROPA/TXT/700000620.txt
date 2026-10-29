@@ -1,0 +1,8 @@
+ITEM ID: 700000620
+ICON ID: Icon_EAP_Bundle_package
+NOMBRE: Power Gun Skin Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Various Legendary Gun Skins to conquer them all!
+IMAGEN: ROPA/imagenes/700000620.png

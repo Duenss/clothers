@@ -1,0 +1,8 @@
+ITEM ID: 903000058
+ICON ID: Icon_Deadloot_Poker
+NOMBRE: Loot Box - Chips Case
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000058.png

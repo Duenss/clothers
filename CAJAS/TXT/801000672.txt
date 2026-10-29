@@ -1,0 +1,8 @@
+ITEM ID: 801000672
+ICON ID: Icon_exchange_ob24_Death_Token
+NOMBRE: Death Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Danger! Death ahead
+IMAGEN: CAJAS/imagenes/801000672.png

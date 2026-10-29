@@ -1,0 +1,8 @@
+ITEM ID: 801051501
+ICON ID: Icon_exchange_fft_id_51
+NOMBRE: FFWS Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051501.png

@@ -1,0 +1,8 @@
+ITEM ID: 921046003
+ICON ID: FF_UI_Voiceitem_Glooworld_2
+NOMBRE: Knock knock
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Event-exclusive voice pack
+IMAGEN: MUSICA/imagenes/921046003.png

@@ -1,0 +1,8 @@
+ITEM ID: 801055524
+ICON ID: Icon_exchange_prt_th_55
+NOMBRE: Partner Red Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055524.png

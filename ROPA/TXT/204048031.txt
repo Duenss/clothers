@@ -1,0 +1,8 @@
+ITEM ID: 204048031
+ICON ID: Icon_avatar_cos_bottom_cupnoodle_fp
+NOMBRE: Ramen Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048031.png

@@ -1,0 +1,8 @@
+ITEM ID: 903048004
+ICON ID: Icon_Deadloot_Cityhero
+NOMBRE: Loot Box - Midnight Mayhem
+TIPO: Loot Box
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903048004.png

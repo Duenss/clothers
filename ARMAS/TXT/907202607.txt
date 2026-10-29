@@ -1,0 +1,8 @@
+ITEM ID: 907202607
+ICON ID: Icon_Katana_Cobra
+NOMBRE: Katana - Legendary Cobra
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202607.png

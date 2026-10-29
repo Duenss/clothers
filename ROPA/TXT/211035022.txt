@@ -1,0 +1,8 @@
+ITEM ID: 211035022
+ICON ID: Icon_avatar_cos_accessory_chameleon_green
+NOMBRE: Jungle Carnizard (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035022.png

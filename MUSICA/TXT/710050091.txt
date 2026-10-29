@@ -1,0 +1,8 @@
+ITEM ID: 710050091
+ICON ID: FF_UI_Voiceitem_IH50
+NOMBRE: Sholay Voice Pack
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Sholay Voice Pack
+IMAGEN: MUSICA/imagenes/710050091.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104350
+ICON ID: Icon_GlooShield_Fastbreaking24
+NOMBRE: Gloo Wall - Glistening Nightstar
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104350.png

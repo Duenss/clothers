@@ -1,0 +1,8 @@
+ITEM ID: 205055015
+ICON ID: Icon_avatar_male_cos_shoe_sugarskull26
+NOMBRE: Phantom Desperado (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055015.png

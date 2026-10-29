@@ -1,0 +1,8 @@
+ITEM ID: 801053515
+ICON ID: Icon_exchange_wct1_us_sac_53
+NOMBRE: World Cup Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053515.png

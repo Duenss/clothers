@@ -1,0 +1,8 @@
+ITEM ID: 921049013
+ICON ID: FF_UI_Voiceitem_VN49
+NOMBRE: Crazy move!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Trendy Sound
+IMAGEN: MUSICA/imagenes/921049013.png

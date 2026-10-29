@@ -1,0 +1,8 @@
+ITEM ID: 214055002
+ICON ID: Icon_avatar_female_cos_headadditive_blackdress26
+NOMBRE: Cosmic Empress (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214055002.png

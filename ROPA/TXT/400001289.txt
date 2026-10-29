@@ -1,0 +1,8 @@
+ITEM ID: 400001289
+ICON ID: Icon_box_3
+NOMBRE: Chrono's Gift
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: A special token of appreciation for your help in fixing the Portal, from Chrono!
+IMAGEN: ROPA/imagenes/400001289.png

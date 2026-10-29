@@ -1,0 +1,8 @@
+ITEM ID: 904000121
+ICON ID: Icon_Bag_Gemini_B
+NOMBRE: Backpack - Hysterical
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000121.png

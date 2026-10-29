@@ -1,0 +1,8 @@
+ITEM ID: 400000630
+ICON ID: Icon_box_3
+NOMBRE: 70th Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000630.png

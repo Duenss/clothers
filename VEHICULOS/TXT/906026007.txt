@@ -1,0 +1,8 @@
+ITEM ID: 906026007
+ICON ID: Icon_Avatar_Surfboard_Valentine2021
+NOMBRE: Skyboard - Broomstick of Love
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906026007.png

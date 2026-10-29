@@ -1,0 +1,8 @@
+ITEM ID: 400054512
+ICON ID: Icon_box_URVN11_TH_54
+NOMBRE: Universal Ring Voucher Box 11
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054512.png

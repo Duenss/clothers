@@ -1,0 +1,8 @@
+ITEM ID: 214000104
+ICON ID: Icon_avatar_male_cos_headadditive_booyahday21_cyan
+NOMBRE: Delta Flameborn (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000104.png

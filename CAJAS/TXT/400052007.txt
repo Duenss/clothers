@@ -1,0 +1,8 @@
+ITEM ID: 400052007
+ICON ID: Icon_box_IIVEvent1_52
+NOMBRE: Jujutsu Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052007.png

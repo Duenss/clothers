@@ -1,0 +1,8 @@
+ITEM ID: 203000007
+ICON ID: Icon_avatar_shirt_3
+NOMBRE: Shirt (Green)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000007.png

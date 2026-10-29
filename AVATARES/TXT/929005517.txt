@@ -1,0 +1,8 @@
+ITEM ID: 929005517
+ICON ID: Icon_Photostickeritem_Halloween26_03
+NOMBRE: Red Slicker Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Red Slicker Sticker
+IMAGEN: AVATARES/imagenes/929005517.png

@@ -1,0 +1,8 @@
+ITEM ID: 400055515
+ICON ID: Icon_box_Halloweenfb_TW_55
+NOMBRE: Halloween Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055515.png

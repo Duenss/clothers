@@ -1,0 +1,8 @@
+ITEM ID: 211041031
+ICON ID: Icon_avatar_male_cos_accessory_sugarskull23
+NOMBRE: Merry In The Bones (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041031.png

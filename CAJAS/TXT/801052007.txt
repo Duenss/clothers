@@ -1,0 +1,8 @@
+ITEM ID: 801052007
+ICON ID: Icon_exchange_hunt_1_52
+NOMBRE: Golden Shovel
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052007.png

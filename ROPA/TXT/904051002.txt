@@ -1,0 +1,8 @@
+ITEM ID: 904051002
+ICON ID: Icon_Bag_Dreamland_Event
+NOMBRE: Backpack - Dream Reverie
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051002.png

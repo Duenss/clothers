@@ -1,0 +1,8 @@
+ITEM ID: 909055010
+ICON ID: Icon_Emote_Scorpio26
+NOMBRE: Silent Sting
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909055010.png

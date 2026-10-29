@@ -1,0 +1,8 @@
+ITEM ID: 400032038
+ICON ID: Icon_box_3
+NOMBRE: Valentine Gift
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open your gift, my love
+IMAGEN: ROPA/imagenes/400032038.png

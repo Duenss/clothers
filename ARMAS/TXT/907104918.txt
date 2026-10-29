@@ -1,0 +1,8 @@
+ITEM ID: 907104918
+ICON ID: Icon_Katana_Crystalline
+NOMBRE: Katana - Cosmic Core
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104918.png

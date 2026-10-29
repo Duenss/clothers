@@ -1,0 +1,8 @@
+ITEM ID: 211050094
+ICON ID: Icon_avatar_male_cos_accessory_2nbct_snake
+NOMBRE: Orochimaru Headwear
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050094.png

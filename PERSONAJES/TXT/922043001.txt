@@ -1,0 +1,8 @@
+ITEM ID: 922043001
+ICON ID: UI_Icon_SkillSkin_Alok_Summerfest
+NOMBRE: Skill Skin: Splash the Beat
+TIPO: Skill Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: Some effects are only visible after awakening
+IMAGEN: PERSONAJES/imagenes/922043001.png

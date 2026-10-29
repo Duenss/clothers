@@ -1,0 +1,8 @@
+ITEM ID: 907103204
+ICON ID: Icon_M60_Inkbrush
+NOMBRE: M60 - Porcelain Rush
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103204.png

@@ -1,0 +1,8 @@
+ITEM ID: 902054010
+ICON ID: Icon_face_CSRank38_Purple
+NOMBRE: CS-Ranked S38 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054010.png

@@ -1,0 +1,8 @@
+ITEM ID: 904046003
+ICON ID: Icon_Bag_Pinata_Orange
+NOMBRE: Backpack - Goofy Horsey
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904046003.png

@@ -1,0 +1,8 @@
+ITEM ID: 204055011
+ICON ID: Icon_avatar_female_cos_bottom_halloween26_crawl
+NOMBRE: Crimson Glitches (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055011.png

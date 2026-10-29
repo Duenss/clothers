@@ -1,0 +1,8 @@
+ITEM ID: 211033065
+ICON ID: Icon_avatar_male_cos_accessory_ffws03
+NOMBRE: Haven Warrior (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033065.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000496
+ICON ID: Icon_avatar_tshirt_twzhubot_crowd
+NOMBRE: Huge CROWD
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000496.png

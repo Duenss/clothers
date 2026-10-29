@@ -1,0 +1,8 @@
+ITEM ID: 801051012
+ICON ID: Icon_exchange_icec_51
+NOMBRE: Dreamspace Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051012.png

@@ -1,0 +1,8 @@
+ITEM ID: 400040142
+ICON ID: Icon_box_Artificial_adv_40
+NOMBRE: BP S8 Deluxe Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400040142.png

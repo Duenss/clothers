@@ -1,0 +1,8 @@
+ITEM ID: 801000313
+ICON ID: Icon_exchange_ro_smile
+NOMBRE: RO Smiley
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000313.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101534
+ICON ID: Icon_M1014_Apocalypse
+NOMBRE: M1014 - Cataclysm
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101534.png

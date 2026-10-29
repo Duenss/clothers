@@ -1,0 +1,8 @@
+ITEM ID: 211041047
+ICON ID: Icon_avatar_cos_accessory_reputation
+NOMBRE: You Are Honor (Mask)
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041047.png

@@ -1,0 +1,8 @@
+ITEM ID: 205041023
+ICON ID: Icon_avatar_male_cos_shoe_liondancer
+NOMBRE: Roaring Heart (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041023.png

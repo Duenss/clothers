@@ -1,0 +1,8 @@
+ITEM ID: 908050010
+ICON ID: Icon_slot_MonsterTruck_VA
+NOMBRE: Monster Truck - Trouble Gang
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050010.png

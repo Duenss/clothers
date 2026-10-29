@@ -1,0 +1,8 @@
+ITEM ID: 400040552
+ICON ID: Icon_box_3
+NOMBRE: Eid Adha 2023 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Celebrate Eid Adha with fashion!
+IMAGEN: ROPA/imagenes/400040552.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001557
+ICON ID: Icon_exchange_Rampage4_Red_34
+NOMBRE: Rampage Book Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Obtain by exploring all the areas of a floor in Rampage Fort and use to unlock Book rewards
+IMAGEN: CAJAS/imagenes/801001557.png

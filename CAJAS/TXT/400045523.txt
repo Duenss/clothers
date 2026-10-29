@@ -1,0 +1,8 @@
+ITEM ID: 400045523
+ICON ID: Icon_box_Halloween_Box_TH_45
+NOMBRE: Halloween Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400045523.png

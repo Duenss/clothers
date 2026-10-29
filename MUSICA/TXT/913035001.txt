@@ -1,0 +1,8 @@
+ITEM ID: 913035001
+ICON ID: FF_UI_Vault_Music_Digitaluniverse
+NOMBRE: Celebration Call - 5th Anniversary
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Free Fire 5th anniversary lobby music
+IMAGEN: MUSICA/imagenes/913035001.png

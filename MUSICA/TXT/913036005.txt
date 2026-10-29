@@ -1,0 +1,8 @@
+ITEM ID: 913036005
+ICON ID: FF_UI_Vault_Music_MAX_RU
+NOMBRE: To The MAX (Russian)
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Free Fire MAX release song
+IMAGEN: MUSICA/imagenes/913036005.png

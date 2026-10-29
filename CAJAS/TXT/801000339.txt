@@ -1,0 +1,8 @@
+ITEM ID: 801000339
+ICON ID: Icon_exchange_vn_chocolate_heart
+NOMBRE: Chocolate Heart
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A symbol of love
+IMAGEN: CAJAS/imagenes/801000339.png

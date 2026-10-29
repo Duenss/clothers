@@ -1,0 +1,8 @@
+ITEM ID: 903000065
+ICON ID: Icon_Deadloot_Angeldevil
+NOMBRE: Loot Box - Demon Fury
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000065.png

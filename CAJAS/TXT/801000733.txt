@@ -1,0 +1,8 @@
+ITEM ID: 801000733
+ICON ID: Icon_exchange_ob25_backpack_token
+NOMBRE: Backpack Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Go get your Backpack
+IMAGEN: CAJAS/imagenes/801000733.png

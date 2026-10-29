@@ -1,0 +1,8 @@
+ITEM ID: 801046102
+ICON ID: Icon_exchange_FB_White_Egg_46
+NOMBRE: Nagi Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046102.png

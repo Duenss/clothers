@@ -1,0 +1,8 @@
+ITEM ID: 907101702
+ICON ID: Icon_Kar98k_Cowboymk2
+NOMBRE: Kar98k - Golden Rule
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB17
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101702.png

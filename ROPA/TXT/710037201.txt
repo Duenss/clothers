@@ -1,0 +1,8 @@
+ITEM ID: 710037201
+ICON ID: Icon_bundle_male_Royal_New_37
+NOMBRE: Elite Royal Ceremony Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710037201.png

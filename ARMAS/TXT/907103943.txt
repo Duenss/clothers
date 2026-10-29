@@ -1,0 +1,8 @@
+ITEM ID: 907103943
+ICON ID: Icon_Fishtank_Grenade
+NOMBRE: Grenade - Portable Aquarium
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103943.png

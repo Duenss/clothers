@@ -1,0 +1,8 @@
+ITEM ID: 801000270
+ICON ID: Icon_exchange_Full_Moon
+NOMBRE: Full Moon
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Moon Goddess.
+IMAGEN: CAJAS/imagenes/801000270.png

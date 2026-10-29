@@ -1,0 +1,8 @@
+ITEM ID: 902046010
+ICON ID: Icon_face_Creator_VN_02
+NOMBRE: Stellar Partner
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046010.png

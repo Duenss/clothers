@@ -1,0 +1,8 @@
+ITEM ID: 203001312
+ICON ID: Icon_avatar_male_cos_top_undertaker
+NOMBRE: Buried Purpledust (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001312.png

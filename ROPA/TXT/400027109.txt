@@ -1,0 +1,8 @@
+ITEM ID: 400027109
+ICON ID: Icon_box_3
+NOMBRE: Princess Pink Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Princess Pink and all its pieces
+IMAGEN: ROPA/imagenes/400027109.png

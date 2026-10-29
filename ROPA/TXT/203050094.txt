@@ -1,0 +1,8 @@
+ITEM ID: 203050094
+ICON ID: Icon_avatar_male_cos_top_2nbct_snake
+NOMBRE: Orochimaru Top
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050094.png

@@ -1,0 +1,8 @@
+ITEM ID: 204048018
+ICON ID: Icon_avatar_male_cos_bottom_monkeyboy
+NOMBRE: Nimbus Rider (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048018.png

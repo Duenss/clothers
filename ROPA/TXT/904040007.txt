@@ -1,0 +1,8 @@
+ITEM ID: 904040007
+ICON ID: Icon_Bag_Darkskeleton
+NOMBRE: Backpack - Breathkeeper
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904040007.png

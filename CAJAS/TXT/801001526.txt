@@ -1,0 +1,8 @@
+ITEM ID: 801001526
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: dtac Token 5
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: TH Partner
+IMAGEN: CAJAS/imagenes/801001526.png

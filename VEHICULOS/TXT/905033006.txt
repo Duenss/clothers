@@ -1,0 +1,8 @@
+ITEM ID: 905033006
+ICON ID: Icon_Avatar_PARACHUTE_Lbff
+NOMBRE: Parachute - LBFF
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905033006.png

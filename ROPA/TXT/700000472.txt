@@ -1,0 +1,8 @@
+ITEM ID: 700000472
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Sushi Menace EP Bundle Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Sushi Menace EP Bundle.
+IMAGEN: ROPA/imagenes/700000472.png

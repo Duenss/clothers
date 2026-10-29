@@ -1,0 +1,8 @@
+ITEM ID: 907105338
+ICON ID: Icon_GlooShield_Festivalid_25
+NOMBRE: Gloo Wall - Cyber Invader
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105338.png

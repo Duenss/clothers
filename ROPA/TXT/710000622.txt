@@ -1,0 +1,8 @@
+ITEM ID: 710000622
+ICON ID: Icon_female_royalguard
+NOMBRE: Shadow Custodian Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000622.png

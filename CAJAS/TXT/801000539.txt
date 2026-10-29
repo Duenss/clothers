@@ -1,0 +1,8 @@
+ITEM ID: 801000539
+ICON ID: Icon_exchange_ob23_green_chip
+NOMBRE: Green Chip
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000539.png

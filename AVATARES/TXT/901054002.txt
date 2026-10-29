@@ -1,0 +1,8 @@
+ITEM ID: 901054002
+ICON ID: Icon_callsign_storebg_Bloodmoon26
+NOMBRE: Scarlet Moon Banner
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901054002.png

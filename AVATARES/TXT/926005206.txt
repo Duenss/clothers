@@ -1,0 +1,8 @@
+ITEM ID: 926005206
+ICON ID: Icon_PhotoFrameitem_Coachella_02
+NOMBRE: Beat Carnival frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Beat Carnival frame
+IMAGEN: AVATARES/imagenes/926005206.png

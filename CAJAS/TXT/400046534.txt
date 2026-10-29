@@ -1,0 +1,8 @@
+ITEM ID: 400046534
+ICON ID: Icon_box_Krathong_Box_TH_46
+NOMBRE: Krathong Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046534.png

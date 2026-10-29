@@ -1,0 +1,8 @@
+ITEM ID: 211046043
+ICON ID: Icon_avatar_cos_hair_loyfest_hw1
+NOMBRE: Fluffy Hair
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046043.png

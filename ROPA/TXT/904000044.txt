@@ -1,0 +1,8 @@
+ITEM ID: 904000044
+ICON ID: Icon_Bag_egypt_02_03
+NOMBRE: Backpack - Yellow Stripes
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000044.png

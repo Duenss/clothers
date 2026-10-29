@@ -1,0 +1,8 @@
+ITEM ID: 203051017
+ICON ID: Icon_avatar_male_cos_top_stylish
+NOMBRE: Fashion Monster (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051017.png

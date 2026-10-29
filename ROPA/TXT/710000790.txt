@@ -1,0 +1,8 @@
+ITEM ID: 710000790
+ICON ID: Icon_male_Warringstates_Purple_24
+NOMBRE: Cyber Swordsman Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000790.png

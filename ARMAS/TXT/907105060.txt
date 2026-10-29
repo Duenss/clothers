@@ -1,0 +1,8 @@
+ITEM ID: 907105060
+ICON ID: Icon_Dunelord_Grenade
+NOMBRE: Grenade - Wrath of Desert
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105060.png

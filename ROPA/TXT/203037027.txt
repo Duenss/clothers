@@ -1,0 +1,8 @@
+ITEM ID: 203037027
+ICON ID: Icon_avatar_female_cos_top_csrank16
+NOMBRE: CS-Ranked S16 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037027.png

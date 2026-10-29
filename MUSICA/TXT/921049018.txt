@@ -1,0 +1,8 @@
+ITEM ID: 921049018
+ICON ID: FF_UI_Voiceitem_PONY49_3
+NOMBRE: Big star's in the house!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Solarush! Voice Pack
+IMAGEN: MUSICA/imagenes/921049018.png

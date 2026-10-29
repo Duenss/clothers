@@ -1,0 +1,8 @@
+ITEM ID: 710000829
+ICON ID: Icon_bundle_male_Megapunch_Cape_25
+NOMBRE: One Punch Man Suit Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000829.png

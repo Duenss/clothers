@@ -1,0 +1,8 @@
+ITEM ID: 907103541
+ICON ID: Icon_Riders_Grenade
+NOMBRE: Grenade - Grim Rider
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103541.png

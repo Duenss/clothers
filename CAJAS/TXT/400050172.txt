@@ -1,0 +1,8 @@
+ITEM ID: 400050172
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Bizon Fundamentality Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive a Bizon Fundamentality
+IMAGEN: CAJAS/imagenes/400050172.png

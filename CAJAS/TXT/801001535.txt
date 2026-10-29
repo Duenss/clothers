@@ -1,0 +1,8 @@
+ITEM ID: 801001535
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Black Matryoshka Doll
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001535.png

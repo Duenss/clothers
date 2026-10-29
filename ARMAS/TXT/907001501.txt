@@ -1,0 +1,8 @@
+ITEM ID: 907001501
+ICON ID: Icon_EP_SKS_Apocalypse
+NOMBRE: SKS - Death Wish
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001501.png

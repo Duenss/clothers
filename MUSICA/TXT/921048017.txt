@@ -1,0 +1,8 @@
+ITEM ID: 921048017
+ICON ID: FF_UI_Voiceitem_ID48PT
+NOMBRE: [Habib Ja'far] I'll help by praying
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Pemuda Tersesat Voice Pack
+IMAGEN: MUSICA/imagenes/921048017.png

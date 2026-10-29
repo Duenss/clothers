@@ -1,0 +1,8 @@
+ITEM ID: 211043052
+ICON ID: Icon_avatar_male_cos_hair_carnaval24
+NOMBRE: Funky Vibe (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043052.png

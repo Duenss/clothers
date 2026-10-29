@@ -1,0 +1,8 @@
+ITEM ID: 400000506
+ICON ID: Icon_box_3
+NOMBRE: Starter Pack Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Box containing medium grade permanent fashion skin
+IMAGEN: ROPA/imagenes/400000506.png

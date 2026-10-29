@@ -1,0 +1,8 @@
+ITEM ID: 204043017
+ICON ID: Icon_avatar_male_cos_bottom_fastbreaking24
+NOMBRE: Glistening Majesty (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043017.png

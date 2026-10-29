@@ -1,0 +1,8 @@
+ITEM ID: 400028138
+ICON ID: Icon_box_3
+NOMBRE: Rampage New Dawn Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains the Rampage New Dawn Gun Skin Series
+IMAGEN: ROPA/imagenes/400028138.png

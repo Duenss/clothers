@@ -1,0 +1,8 @@
+ITEM ID: 908038002
+ICON ID: Icon_slot_Motobike_Goal
+NOMBRE: Motorbike - Achiever
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908038002.png

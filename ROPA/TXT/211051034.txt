@@ -1,0 +1,8 @@
+ITEM ID: 211051034
+ICON ID: Icon_avatar_male_cos_hair_ffws25_free
+NOMBRE: FFWS Role Star (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051034.png

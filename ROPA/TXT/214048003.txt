@@ -1,0 +1,8 @@
+ITEM ID: 214048003
+ICON ID: Icon_avatar_male_cos_headadditive_blackdress
+NOMBRE: Dark Matter (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214048003.png

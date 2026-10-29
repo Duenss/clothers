@@ -1,0 +1,8 @@
+ITEM ID: 211033055
+ICON ID: Icon_avatar_female_cos_accessory_waterfest22
+NOMBRE: Rage Skater (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033055.png

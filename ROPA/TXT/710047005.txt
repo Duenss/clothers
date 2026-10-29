@@ -1,0 +1,8 @@
+ITEM ID: 710047005
+ICON ID: Icon_bundle_Aurora_Black_47
+NOMBRE: Aurora Shade Bundle
+TIPO: Bundles
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710047005.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103435
+ICON ID: Icon_Rhythmgirl_Grenade
+NOMBRE: Grenade - Feral Fragrance
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103435.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104910
+ICON ID: Icon_M1873_Wrestling
+NOMBRE: M1873 - Tiger Boxer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104910.png

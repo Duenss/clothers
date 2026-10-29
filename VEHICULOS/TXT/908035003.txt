@@ -1,0 +1,8 @@
+ITEM ID: 908035003
+ICON ID: Icon_slot_Motobike_Fcninja
+NOMBRE: Motorbike - Ice Ghost
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035003.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000188
+ICON ID: Icon_avatar_tshirt_Spain
+NOMBRE: Bullfighter
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000188.png

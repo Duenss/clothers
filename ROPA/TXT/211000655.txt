@@ -1,0 +1,8 @@
+ITEM ID: 211000655
+ICON ID: Icon_avatar_female_accessory_cos_blackgoldage
+NOMBRE: Era of Gold (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000655.png

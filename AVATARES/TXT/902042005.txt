@@ -1,0 +1,8 @@
+ITEM ID: 902042005
+ICON ID: Icon_face_Lightfest23
+NOMBRE: Diwali 2023 Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042005.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105222
+ICON ID: Icon_M1216_Fastbreaking_Treasure_02_A
+NOMBRE: Trogon - Ruby Shot
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105222.png

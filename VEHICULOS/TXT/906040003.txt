@@ -1,0 +1,8 @@
+ITEM ID: 906040003
+ICON ID: Icon_Avatar_Surfboard_Traphiphop22_FP
+NOMBRE: Skyboard - City
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906040003.png

@@ -1,0 +1,8 @@
+ITEM ID: 211043028
+ICON ID: Icon_avatar_cos_accessory_eggday24
+NOMBRE: Luminous Bunny (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043028.png

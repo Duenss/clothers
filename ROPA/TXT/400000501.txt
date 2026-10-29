@@ -1,0 +1,8 @@
+ITEM ID: 400000501
+ICON ID: Icon_box_3
+NOMBRE: Black Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Reserve box for collaboration
+IMAGEN: ROPA/imagenes/400000501.png

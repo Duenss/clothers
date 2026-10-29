@@ -1,0 +1,8 @@
+ITEM ID: 921048003
+ICON ID: FF_UI_Voiceitem_Ramadan25_3
+NOMBRE: Rank up, break your fast, repeat!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Ramadan 2025 Voice Pack
+IMAGEN: MUSICA/imagenes/921048003.png

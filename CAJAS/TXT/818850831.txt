@@ -1,0 +1,8 @@
+ITEM ID: 818850831
+ICON ID: FF_Lottery_Itachi_Voucher
+NOMBRE: Itachi Ascension Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Voucher to spin in Itachi Ascension event (starts 30 Jul 2025)
+IMAGEN: CAJAS/imagenes/818850831.png

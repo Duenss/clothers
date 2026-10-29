@@ -1,0 +1,8 @@
+ITEM ID: 910031002
+ICON ID: FF_UI_Pin_Winterfest21
+NOMBRE: Joyful Winter Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910031002.png

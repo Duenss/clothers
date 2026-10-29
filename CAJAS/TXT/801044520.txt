@@ -1,0 +1,8 @@
+ITEM ID: 801044520
+ICON ID: Icon_exchange_Exclusive_weapon_th_44
+NOMBRE: Exclusive Weapon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044520.png

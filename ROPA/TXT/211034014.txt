@@ -1,0 +1,8 @@
+ITEM ID: 211034014
+ICON ID: Icon_avatar_male_cos_hair_roseperfume_white
+NOMBRE: Sir Elixir (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034014.png

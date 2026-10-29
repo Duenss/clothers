@@ -1,0 +1,8 @@
+ITEM ID: 205000006
+ICON ID: Icon_avatar_shoes_2
+NOMBRE: Sneakers (Red)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000006.png

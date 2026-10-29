@@ -1,0 +1,8 @@
+ITEM ID: 907201601
+ICON ID: Icon_Crossbow_Viking
+NOMBRE: Sea Hunter
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201601.png

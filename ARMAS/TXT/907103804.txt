@@ -1,0 +1,8 @@
+ITEM ID: 907103804
+ICON ID: Icon_M21A5_Security_White
+NOMBRE: Woodpecker - Deity Rally
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103804.png

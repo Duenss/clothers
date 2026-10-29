@@ -1,0 +1,8 @@
+ITEM ID: 801000172
+ICON ID: Icon_exchange_shiba
+NOMBRE: Shiba Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000172.png

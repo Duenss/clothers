@@ -1,0 +1,8 @@
+ITEM ID: 801000085
+ICON ID: Icon_exchange_Easter_Bunny
+NOMBRE: Happy Bunny
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000085.png

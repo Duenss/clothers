@@ -1,0 +1,8 @@
+ITEM ID: 204047012
+ICON ID: Icon_avatar_male_cos_bottom_superstar24_black
+NOMBRE: Young Star (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047012.png

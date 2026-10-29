@@ -1,0 +1,8 @@
+ITEM ID: 904044004
+ICON ID: Icon_Bag_Onimusha
+NOMBRE: Backpack - Collector-o'-the-Wisp
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904044004.png

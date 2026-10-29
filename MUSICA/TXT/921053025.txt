@@ -1,0 +1,8 @@
+ITEM ID: 921053025
+ICON ID: FF_UI_Voiceitem_RonaldoLATAM53
+NOMBRE: Hey you, play with style
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho voice pack
+IMAGEN: MUSICA/imagenes/921053025.png

@@ -1,0 +1,8 @@
+ITEM ID: 211044025
+ICON ID: Icon_avatar_male_cos_hair_onimusha
+NOMBRE: Warrior-o'-the-Wisp (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044025.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000914
+ICON ID: Icon_avatar_male_cos_bottom_winterfest21_shorts
+NOMBRE: Frosty Beach (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000914.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102925
+ICON ID: Icon_M14_FFChar_S24
+NOMBRE: M14 - S24 Exclusive: Misha
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102925.png

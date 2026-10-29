@@ -1,0 +1,8 @@
+ITEM ID: 907104748
+ICON ID: Icon_Katana_NB_Black
+NOMBRE: Katana - Snake Sword
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104748.png

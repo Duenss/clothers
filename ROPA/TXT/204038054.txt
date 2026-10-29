@@ -1,0 +1,8 @@
+ITEM ID: 204038054
+ICON ID: Icon_avatar_female_cos_bottom_sakura_new
+NOMBRE: Elite Kitsune Bottom
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038054.png

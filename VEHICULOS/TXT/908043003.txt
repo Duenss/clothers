@@ -1,0 +1,8 @@
+ITEM ID: 908043003
+ICON ID: Icon_slot_Motobike_Asura
+NOMBRE: Motorbike - Wrathful Rush
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908043003.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001104
+ICON ID: Icon_box_3
+NOMBRE: Pyramid Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: A mysterious pyramid. Ready for adventure?
+IMAGEN: ROPA/imagenes/400001104.png

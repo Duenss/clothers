@@ -1,0 +1,8 @@
+ITEM ID: 407103307
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Shadow Rogue (MAG-7 + Kingfisher) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive a random gun skin (MAG-7 + Kingfisher) from the Shadow Rogue weapon set
+IMAGEN: ARMAS/imagenes/407103307.png

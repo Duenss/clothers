@@ -1,0 +1,8 @@
+ITEM ID: 907102522
+ICON ID: Icon_Pan_Yakuza
+NOMBRE: Pan - Fuji Folklore
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102522.png

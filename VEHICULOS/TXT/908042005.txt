@@ -1,0 +1,8 @@
+ITEM ID: 908042005
+ICON ID: Icon_slot_Jeep_Guild
+NOMBRE: Jeep - Guildian's Rover
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042005.png

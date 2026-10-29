@@ -1,0 +1,8 @@
+ITEM ID: 203001318
+ICON ID: Icon_avatar_cos_top_tshirt_steamwarrior
+NOMBRE: Pastel Work T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001318.png

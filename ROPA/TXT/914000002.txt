@@ -1,0 +1,8 @@
+ITEM ID: 914000002
+ICON ID: FF_UI_Transform_icon_Rampage4
+NOMBRE: Rampage Look Changer
+TIPO: Look Changer
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914000002.png

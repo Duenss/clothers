@@ -1,0 +1,8 @@
+ITEM ID: 400050539
+ICON ID: Icon_box_GRB_US_ES_50
+NOMBRE: Golden Spine Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050539.png

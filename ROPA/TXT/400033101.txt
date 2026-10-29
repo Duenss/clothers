@@ -1,0 +1,8 @@
+ITEM ID: 400033101
+ICON ID: Icon_box_3
+NOMBRE: Goldcoated Cleo Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Goldcoated Cleo and all it's pieces
+IMAGEN: ROPA/imagenes/400033101.png

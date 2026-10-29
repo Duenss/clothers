@@ -1,0 +1,8 @@
+ITEM ID: 905038005
+ICON ID: Icon_Avatar_PARACHUTE_Carnaval
+NOMBRE: Parachute - Carnival
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905038005.png

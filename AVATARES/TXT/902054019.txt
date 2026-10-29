@@ -1,0 +1,8 @@
+ITEM ID: 902054019
+ICON ID: Icon_face_Waves
+NOMBRE: Waves Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054019.png

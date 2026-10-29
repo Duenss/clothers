@@ -1,0 +1,8 @@
+ITEM ID: 907104850
+ICON ID: Icon_GlooShield_Ninja_Mask
+NOMBRE: Gloo Wall - Ninja's Arsenal
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104850.png

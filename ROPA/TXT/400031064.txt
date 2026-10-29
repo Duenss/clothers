@@ -1,0 +1,8 @@
+ITEM ID: 400031064
+ICON ID: Icon_box_3
+NOMBRE: Box 81
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400031064.png

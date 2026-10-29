@@ -1,0 +1,8 @@
+ITEM ID: 902042003
+ICON ID: Icon_face_male_head_sc_Superteen_B
+NOMBRE: Untamed Flame Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042003.png

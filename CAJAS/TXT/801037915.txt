@@ -1,0 +1,8 @@
+ITEM ID: 801037915
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Blue Patch Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Best Patch Ever!
+IMAGEN: CAJAS/imagenes/801037915.png

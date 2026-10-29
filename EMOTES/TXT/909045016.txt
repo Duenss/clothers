@@ -1,0 +1,8 @@
+ITEM ID: 909045016
+ICON ID: Icon_Emote_Folkdance
+NOMBRE: Naatu Naatu
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909045016.png

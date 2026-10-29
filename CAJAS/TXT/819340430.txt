@@ -1,0 +1,8 @@
+ITEM ID: 819340430
+ICON ID: FF_Lottery_anni_forge_Limit
+NOMBRE: Incubator Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Incubator.
+IMAGEN: CAJAS/imagenes/819340430.png

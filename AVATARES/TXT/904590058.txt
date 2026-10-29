@@ -1,0 +1,8 @@
+ITEM ID: 904590058
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Terminator
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "No Stopping Me!" achievement
+IMAGEN: AVATARES/imagenes/904590058.png

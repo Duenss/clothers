@@ -1,0 +1,8 @@
+ITEM ID: 902051020
+ICON ID: Icon_face_FFWS25_05
+NOMBRE: RHK Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051020.png

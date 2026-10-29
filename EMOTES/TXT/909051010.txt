@@ -1,0 +1,8 @@
+ITEM ID: 909051010
+ICON ID: Icon_Emote_IDMotorbike_Moving
+NOMBRE: On Motorbike
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051010.png

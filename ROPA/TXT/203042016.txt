@@ -1,0 +1,8 @@
+ITEM ID: 203042016
+ICON ID: Icon_avatar_male_cos_top_urban_bw
+NOMBRE: Urban Contrast (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042016.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000350
+ICON ID: Icon_avatar_cos_moneyheist_B
+NOMBRE: Top Criminal (Blue)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000350.png

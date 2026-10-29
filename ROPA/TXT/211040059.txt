@@ -1,0 +1,8 @@
+ITEM ID: 211040059
+ICON ID: Icon_avatar_cos_hair_sixth
+NOMBRE: 6th Anniversary Hat
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040059.png

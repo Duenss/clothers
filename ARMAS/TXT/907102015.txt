@@ -1,0 +1,8 @@
+ITEM ID: 907102015
+ICON ID: Icon_XM8_Evilbone
+NOMBRE: XM8 - The Punishers
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB20
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102015.png

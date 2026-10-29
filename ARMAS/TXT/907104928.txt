@@ -1,0 +1,8 @@
+ITEM ID: 907104928
+ICON ID: Icon_AUG_Rank46
+NOMBRE: AUG - S46 Exclusive: Signal
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: BR-Ranked S46 Reward
+IMAGEN: ARMAS/imagenes/907104928.png

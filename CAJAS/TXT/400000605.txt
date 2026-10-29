@@ -1,0 +1,8 @@
+ITEM ID: 400000605
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Santa's Choice Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Santa's Choice weapon set.
+IMAGEN: CAJAS/imagenes/400000605.png

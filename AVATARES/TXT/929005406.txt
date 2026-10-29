@@ -1,0 +1,8 @@
+ITEM ID: 929005406
+ICON ID: Icon_Photostickeritem_FB2_03
+NOMBRE: Rin Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Rin Sticker
+IMAGEN: AVATARES/imagenes/929005406.png

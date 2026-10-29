@@ -1,0 +1,8 @@
+ITEM ID: 907102441
+ICON ID: Icon_Futuristiccity_Grenade
+NOMBRE: Grenade - FFCS
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102441.png

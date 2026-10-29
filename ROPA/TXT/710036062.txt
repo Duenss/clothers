@@ -1,0 +1,8 @@
+ITEM ID: 710036062
+ICON ID: Icon_box_3
+NOMBRE: CS-Ranked Heroic Profile Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive the exclusive avatar and banner for CS-Ranked Heroic
+IMAGEN: ROPA/imagenes/710036062.png

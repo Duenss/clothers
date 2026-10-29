@@ -1,0 +1,8 @@
+ITEM ID: 400000463
+ICON ID: Icon_box_3
+NOMBRE: 2nd Anniv. Coconut Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Let's celebrate the 2nd Anniversary with coconuts!
+IMAGEN: ROPA/imagenes/400000463.png

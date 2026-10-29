@@ -1,0 +1,8 @@
+ITEM ID: 928005406
+ICON ID: Icon_GroupPhoto_FB2_01_icon
+NOMBRE: Rin Theme
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Rin Theme
+IMAGEN: AVATARES/imagenes/928005406.png

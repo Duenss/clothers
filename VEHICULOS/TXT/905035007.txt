@@ -1,0 +1,8 @@
+ITEM ID: 905035007
+ICON ID: Icon_Avatar_PARACHUTE_School35
+NOMBRE: Parachute - Blue Beast
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905035007.png

@@ -1,0 +1,8 @@
+ITEM ID: 904031007
+ICON ID: Icon_Bag_Winterfest21_1
+NOMBRE: Backpack - Jingle Skull
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031007.png

@@ -1,0 +1,8 @@
+ITEM ID: 802000027
+ICON ID: FF_UI_Veteran_icon_token
+NOMBRE: Veteran Token
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Collect enough Veteran Tokens to claim your gift
+IMAGEN: OTROS/imagenes/802000027.png

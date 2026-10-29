@@ -1,0 +1,8 @@
+ITEM ID: 400044552
+ICON ID: Icon_box_3
+NOMBRE: Summer 2024 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Feel the summer vibes with Free Fire!
+IMAGEN: ROPA/imagenes/400044552.png

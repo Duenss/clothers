@@ -1,0 +1,8 @@
+ITEM ID: 902053003
+ICON ID: Icon_face_Rank51_01
+NOMBRE: BR-Ranked S51 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902053003.png

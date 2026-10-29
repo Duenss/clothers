@@ -1,0 +1,8 @@
+ITEM ID: 211054008
+ICON ID: Icon_avatar_male_cos_hair_virgo26
+NOMBRE: Pristine Spica (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054008.png

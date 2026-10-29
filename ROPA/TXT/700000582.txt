@@ -1,0 +1,8 @@
+ITEM ID: 700000582
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Guns for Hire Bundle Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Guns for Hire Bundle
+IMAGEN: ROPA/imagenes/700000582.png

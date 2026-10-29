@@ -1,0 +1,8 @@
+ITEM ID: 204000752
+ICON ID: Icon_avatar_male_bottom_cos_sutorito_m
+NOMBRE: Ryu (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000752.png

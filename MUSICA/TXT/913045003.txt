@@ -1,0 +1,8 @@
+ITEM ID: 913045003
+ICON ID: FF_UI_Vault_Music_SeventhB
+NOMBRE: Feeling The Fire
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: 7th Anniversary Theme Song
+IMAGEN: MUSICA/imagenes/913045003.png

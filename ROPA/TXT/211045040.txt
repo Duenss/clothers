@@ -1,0 +1,8 @@
+ITEM ID: 211045040
+ICON ID: Icon_avatar_cos_hair_hairstyle_th2
+NOMBRE: Red Wings Hairband
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045040.png

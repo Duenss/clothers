@@ -1,0 +1,8 @@
+ITEM ID: 801000627
+ICON ID: Icon_exchange_ob24_FFIC_Platinum_Token
+NOMBRE: FFIC Platinum Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: FFIC Platinum Token
+IMAGEN: CAJAS/imagenes/801000627.png

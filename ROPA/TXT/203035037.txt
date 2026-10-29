@@ -1,0 +1,8 @@
+ITEM ID: 203035037
+ICON ID: Icon_avatar_male_cos_top_cateam
+NOMBRE: Azulcrema In Motion (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035037.png

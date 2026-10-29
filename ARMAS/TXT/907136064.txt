@@ -1,0 +1,8 @@
+ITEM ID: 907136064
+ICON ID: Icon_AR15_Mambas
+NOMBRE: Kingfisher - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136064.png

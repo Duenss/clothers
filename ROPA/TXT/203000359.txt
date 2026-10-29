@@ -1,0 +1,8 @@
+ITEM ID: 203000359
+ICON ID: Icon_avatar_male_top_biobody_A
+NOMBRE: Mercenary Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000359.png

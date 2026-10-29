@@ -1,0 +1,8 @@
+ITEM ID: 801000300
+ICON ID: Icon_exchange_Firework_token
+NOMBRE: Firework Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Celebrate FF 2020!
+IMAGEN: CAJAS/imagenes/801000300.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000336
+ICON ID: Icon_box_3
+NOMBRE: Bundle A
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Bundle A
+IMAGEN: ROPA/imagenes/710000336.png

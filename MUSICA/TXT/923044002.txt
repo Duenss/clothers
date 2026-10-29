@@ -1,0 +1,8 @@
+ITEM ID: 923044002
+ICON ID: FF_UI_Voiceitem_RANK43
+NOMBRE: You can keep trying, but I've seen it all
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Rank reward
+IMAGEN: MUSICA/imagenes/923044002.png

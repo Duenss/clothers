@@ -1,0 +1,8 @@
+ITEM ID: 801040111
+ICON ID: FF_UI_SixthB_03_StikcerItem11
+NOMBRE: 6th Anniv. Hat
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: An exclusive souvenir from the Hat Relay event, the 6th Anniversary hat. Let's paint the world with happiness!
+IMAGEN: CAJAS/imagenes/801040111.png

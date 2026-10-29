@@ -1,0 +1,8 @@
+ITEM ID: 907103915
+ICON ID: Icon_P90_Burning
+NOMBRE: P90 - Fiery Fantasy
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103915.png

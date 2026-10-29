@@ -1,0 +1,8 @@
+ITEM ID: 211050011
+ICON ID: Icon_avatar_cos_accessory_easterrabbit_2025
+NOMBRE: Galactic Bunny (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050011.png

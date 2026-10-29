@@ -1,0 +1,8 @@
+ITEM ID: 204054013
+ICON ID: Icon_avatar_cos_bottom_cottonbear
+NOMBRE: Cotton Teddy (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054013.png

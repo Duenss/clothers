@@ -1,0 +1,8 @@
+ITEM ID: 909047017
+ICON ID: Icon_Emote_NB_Gesture
+NOMBRE: Ninja Sign
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047017.png

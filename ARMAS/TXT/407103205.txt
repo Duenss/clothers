@@ -1,0 +1,8 @@
+ITEM ID: 407103205
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Unknown
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/407103205.png

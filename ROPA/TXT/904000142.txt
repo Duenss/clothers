@@ -1,0 +1,8 @@
+ITEM ID: 904000142
+ICON ID: Icon_Bag_Shark
+NOMBRE: Backpack - Shark Attack
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000142.png

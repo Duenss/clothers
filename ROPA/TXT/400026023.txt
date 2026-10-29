@@ -1,0 +1,8 @@
+ITEM ID: 400026023
+ICON ID: Icon_box_3
+NOMBRE: Lucky Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Wish you all the best luck!
+IMAGEN: ROPA/imagenes/400026023.png

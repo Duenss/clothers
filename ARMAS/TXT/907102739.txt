@@ -1,0 +1,8 @@
+ITEM ID: 907102739
+ICON ID: Icon_FFWS2021_Grenade
+NOMBRE: Grenade - FFWS 2021
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102739.png

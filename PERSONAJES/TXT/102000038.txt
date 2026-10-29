@@ -1,0 +1,8 @@
+ITEM ID: 102000038
+ICON ID: Icon_face_male_head_sc_Singers
+NOMBRE: J.Biebs
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: J.Biebs is a singer who dedicates his life and uses his singing to reunite the world.
+IMAGEN: PERSONAJES/imagenes/102000038.png

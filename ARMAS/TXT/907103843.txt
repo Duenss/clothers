@@ -1,0 +1,8 @@
+ITEM ID: 907103843
+ICON ID: Icon_GlooShield_Valentine23
+NOMBRE: Gloo Wall - Sickly Sweet
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103843.png

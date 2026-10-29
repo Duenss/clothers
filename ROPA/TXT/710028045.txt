@@ -1,0 +1,8 @@
+ITEM ID: 710028045
+ICON ID: Icon_bundle_Sutorito_28
+NOMBRE: Street Fighter Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710028045.png

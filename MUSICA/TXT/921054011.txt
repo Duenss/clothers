@@ -1,0 +1,8 @@
+ITEM ID: 921054011
+ICON ID: FF_UI_Voiceitem_PK54
+NOMBRE: Look behind you
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The Independence Day voice pack
+IMAGEN: MUSICA/imagenes/921054011.png

@@ -1,0 +1,8 @@
+ITEM ID: 913033001
+ICON ID: FF_UI_Vault_Music_Boyband
+NOMBRE: GEN FF
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Gen FF event lobby music
+IMAGEN: MUSICA/imagenes/913033001.png

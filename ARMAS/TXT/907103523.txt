@@ -1,0 +1,8 @@
+ITEM ID: 907103523
+ICON ID: Icon_MAG7_FFChar_S30
+NOMBRE: MAG-7 - S30 Exclusive: Xayne
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103523.png

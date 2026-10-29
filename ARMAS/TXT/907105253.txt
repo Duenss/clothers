@@ -1,0 +1,8 @@
+ITEM ID: 907105253
+ICON ID: Icon_GlooShield_Fastbreaking_Treasure
+NOMBRE: Gloo Wall - Treasure Fort
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105253.png

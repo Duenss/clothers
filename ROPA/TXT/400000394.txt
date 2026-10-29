@@ -1,0 +1,8 @@
+ITEM ID: 400000394
+ICON ID: Icon_box_3
+NOMBRE: Street Couple Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Skater Girl, the Street Boy set, or a 3D trial card. You will not receive the same permanent item twice.
+IMAGEN: ROPA/imagenes/400000394.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102921
+ICON ID: Icon_BM94_Pekingopera
+NOMBRE: M82B - Operano Sheng
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102921.png

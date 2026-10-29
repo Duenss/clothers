@@ -1,0 +1,8 @@
+ITEM ID: 902026014
+ICON ID: Icon_face_Cobra_Flash
+NOMBRE: Cobra Flash
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902026014.png

@@ -1,0 +1,8 @@
+ITEM ID: 211047022
+ICON ID: Icon_avatar_male_cos_hair_valentine25
+NOMBRE: Thorny Desire (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047022.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103035
+ICON ID: Icon_Childrensday_Grenade
+NOMBRE: Grenade - Beach Ball
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103035.png

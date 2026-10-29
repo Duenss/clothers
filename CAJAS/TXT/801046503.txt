@@ -1,0 +1,8 @@
+ITEM ID: 801046503
+ICON ID: Icon_exchange_Blue_Btoken_us-es_46
+NOMBRE: Blue Booyah Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046503.png

@@ -1,0 +1,8 @@
+ITEM ID: 203036025
+ICON ID: Icon_avatar_male_cos_top_festival_tr
+NOMBRE: Floral Fortune (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036025.png

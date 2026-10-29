@@ -1,0 +1,8 @@
+ITEM ID: 905046005
+ICON ID: Icon_Avatar_PARACHUTE_CSRank28
+NOMBRE: Parachute - S28 Exclusive: Horsin'
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: CS-Ranked S28 Reward
+IMAGEN: VEHICULOS/imagenes/905046005.png

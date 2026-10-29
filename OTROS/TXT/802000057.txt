@@ -1,0 +1,8 @@
+ITEM ID: 802000057
+ICON ID: FF_Lottery_Chaos_Royale_Voucher
+NOMBRE: Chaos Royale Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000057.png

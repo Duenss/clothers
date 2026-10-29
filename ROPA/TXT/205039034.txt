@@ -1,0 +1,8 @@
+ITEM ID: 205039034
+ICON ID: Icon_avatar_sc_shoe_villain
+NOMBRE: Vengeful Beast (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039034.png

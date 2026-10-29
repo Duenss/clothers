@@ -1,0 +1,8 @@
+ITEM ID: 400029010
+ICON ID: Icon_box_3
+NOMBRE: Dimitri Vegas Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Chance to get Character - Dimitri!
+IMAGEN: ROPA/imagenes/400029010.png

@@ -1,0 +1,8 @@
+ITEM ID: 205038023
+ICON ID: Icon_avatar_male_cos_shoe_designer
+NOMBRE: Fine 'n' Fresh (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038023.png

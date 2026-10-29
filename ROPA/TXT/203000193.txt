@@ -1,0 +1,8 @@
+ITEM ID: 203000193
+ICON ID: Icon_avatar_tshirt_Brazil
+NOMBRE: Samba Troupe
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000193.png

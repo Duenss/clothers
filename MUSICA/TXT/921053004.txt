@@ -1,0 +1,8 @@
+ITEM ID: 921053004
+ICON ID: FF_UI_Voiceitem_Eclipse
+NOMBRE: Sword out, just you and me.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Eclipse Rise Voice Pack
+IMAGEN: MUSICA/imagenes/921053004.png

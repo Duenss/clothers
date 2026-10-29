@@ -1,0 +1,8 @@
+ITEM ID: 913047009
+ICON ID: FF_UI_Vault_Music_Woodcrafter
+NOMBRE: Pushpa 2: The Rule
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: The official collaboration music of Free Fire MAX x Pushpa 2: The Rule
+IMAGEN: MUSICA/imagenes/913047009.png

@@ -1,0 +1,8 @@
+ITEM ID: 907300002
+ICON ID: Icon_FIST_ICE
+NOMBRE: Fist - Hailstone
+TIPO: Fist Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907300002.png

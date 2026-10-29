@@ -1,0 +1,8 @@
+ITEM ID: 205000116
+ICON ID: Icon_avatar_female_sc_armsdealer_shoe
+NOMBRE: Arms Queen (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000116.png

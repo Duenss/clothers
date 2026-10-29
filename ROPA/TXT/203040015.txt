@@ -1,0 +1,8 @@
+ITEM ID: 203040015
+ICON ID: Icon_avatar_female_cos_top_darkghost
+NOMBRE: Blazing Haunt (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040015.png

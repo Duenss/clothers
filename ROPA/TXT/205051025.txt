@@ -1,0 +1,8 @@
+ITEM ID: 205051025
+ICON ID: Icon_avatar_male_cos_shoe_streethero
+NOMBRE: Reckless Brawler (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051025.png

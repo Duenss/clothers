@@ -1,0 +1,8 @@
+ITEM ID: 400050070
+ICON ID: Icon_box_CloudydayBP_50
+NOMBRE: BP S34 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050070.png

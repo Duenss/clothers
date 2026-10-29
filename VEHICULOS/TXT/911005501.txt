@@ -1,0 +1,8 @@
+ITEM ID: 911005501
+ICON ID: Icon_Mounts_flymove_Halloween26
+NOMBRE: Unseen Claws
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005501.png

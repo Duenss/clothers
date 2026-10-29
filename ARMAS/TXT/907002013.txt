@@ -1,0 +1,8 @@
+ITEM ID: 907002013
+ICON ID: Icon_Katana_Kendo
+NOMBRE: Katana - Kendoka
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002013.png

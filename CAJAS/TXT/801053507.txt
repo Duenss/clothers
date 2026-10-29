@@ -1,0 +1,8 @@
+ITEM ID: 801053507
+ICON ID: Icon_exchange_unit_id_53
+NOMBRE: Universal Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053507.png

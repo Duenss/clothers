@@ -1,0 +1,8 @@
+ITEM ID: 907104732
+ICON ID: Icon_Tailor_Grenade
+NOMBRE: Grenade - Stitched Fuse
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104732.png

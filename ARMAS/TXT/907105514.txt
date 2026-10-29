@@ -1,0 +1,8 @@
+ITEM ID: 907105514
+ICON ID: Icon_BM94_Rank54
+NOMBRE: M82B - S54 Exclusive: Scorpio
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105514.png

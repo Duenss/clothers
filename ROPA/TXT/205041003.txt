@@ -1,0 +1,8 @@
+ITEM ID: 205041003
+ICON ID: Icon_avatar_male_cos_shoe_chihuahua
+NOMBRE: Hot Pink Hound (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041003.png

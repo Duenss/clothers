@@ -1,0 +1,8 @@
+ITEM ID: 908050001
+ICON ID: Icon_slot_Motobike_2NBCT_Bro
+NOMBRE: Motorbike - Akatsuki Theme
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050001.png

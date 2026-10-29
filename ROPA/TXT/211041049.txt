@@ -1,0 +1,8 @@
+ITEM ID: 211041049
+ICON ID: Icon_avatar_male_cos_hair_kendo23
+NOMBRE: Meaning of Blade (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041049.png

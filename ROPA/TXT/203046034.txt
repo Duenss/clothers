@@ -1,0 +1,8 @@
+ITEM ID: 203046034
+ICON ID: Icon_avatar_cos_top_ffws_sea
+NOMBRE: FFWS 2024 Fall Merch Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046034.png

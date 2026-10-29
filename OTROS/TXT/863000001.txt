@@ -1,0 +1,8 @@
+ITEM ID: 863000001
+ICON ID: Icon_ff_Evoaccess_Card
+NOMBRE: Evo Access
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to activate the current Evo Access privileges
+IMAGEN: OTROS/imagenes/863000001.png

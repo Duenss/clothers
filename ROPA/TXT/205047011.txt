@@ -1,0 +1,8 @@
+ITEM ID: 205047011
+ICON ID: Icon_avatar_male_cos_shoe_superstar24_black
+NOMBRE: Young Star (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205047011.png

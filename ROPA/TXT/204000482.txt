@@ -1,0 +1,8 @@
+ITEM ID: 204000482
+ICON ID: Icon_avatar_male_bottom_cos_motorcouple
+NOMBRE: Banished Biker (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000482.png

@@ -1,0 +1,8 @@
+ITEM ID: 101000005
+ICON ID: Icon_face_female_head_sc_nurse
+NOMBRE: Olivia
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Chief nurse of a renowned hospital.
+IMAGEN: PERSONAJES/imagenes/101000005.png

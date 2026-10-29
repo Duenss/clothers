@@ -1,0 +1,8 @@
+ITEM ID: 910037002
+ICON ID: Pin_Small_Soccer22
+NOMBRE: Football Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910037002.png

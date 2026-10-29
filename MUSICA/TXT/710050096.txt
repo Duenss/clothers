@@ -1,0 +1,8 @@
+ITEM ID: 710050096
+ICON ID: FF_UI_Voiceitem_DIWALI50
+NOMBRE: Bolly Boli: Part 2
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bolly Boli: Part 2
+IMAGEN: MUSICA/imagenes/710050096.png

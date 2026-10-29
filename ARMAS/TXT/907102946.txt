@@ -1,0 +1,8 @@
+ITEM ID: 907102946
+ICON ID: Icon_GlooShield_THfact
+NOMBRE: Gloo Wall - Ferocious Ink
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102946.png

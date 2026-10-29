@@ -1,0 +1,8 @@
+ITEM ID: 907103959
+ICON ID: Icon_Groza_Growth
+NOMBRE: Groza - Runestone Sigil
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103959.png

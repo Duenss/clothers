@@ -1,0 +1,8 @@
+ITEM ID: 204038037
+ICON ID: Icon_avatar_cos_bottom_cybermech_pants
+NOMBRE: Circuit Shorts
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038037.png

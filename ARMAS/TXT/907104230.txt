@@ -1,0 +1,8 @@
+ITEM ID: 907104230
+ICON ID: Icon_Baseballbat_Theboy
+NOMBRE: Bat - Frostfire Hitter
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104230.png

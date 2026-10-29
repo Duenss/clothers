@@ -1,0 +1,8 @@
+ITEM ID: 710055025
+ICON ID: Icon_bundle_female_Flamedino_55
+NOMBRE: Firesaur Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710055025.png

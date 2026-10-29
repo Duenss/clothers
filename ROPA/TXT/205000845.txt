@@ -1,0 +1,8 @@
+ITEM ID: 205000845
+ICON ID: Icon_avatar_cos_shoe_skateshoes_red
+NOMBRE: Monster Chucks
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000845.png

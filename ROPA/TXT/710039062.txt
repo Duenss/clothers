@@ -1,0 +1,8 @@
+ITEM ID: 710039062
+ICON ID: Icon_box_3
+NOMBRE: CS-Ranked Heroic Profile Bundle
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive the exclusive avatar and banner for CS-Ranked Heroic
+IMAGEN: ROPA/imagenes/710039062.png

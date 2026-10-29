@@ -1,0 +1,8 @@
+ITEM ID: 600000010
+ICON ID: UI_Customize_tvouchers_icon2
+NOMBRE: Free Plays
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: 1. Use to create Craftland rooms for [FFBA00]free[-].\n2. The number of Free Plays is fixed and resets every week.\n3. Free Plays can be obtained by publishing map designs. Unused Free Plays will be reset every week.
+IMAGEN: OTROS/imagenes/600000010.png

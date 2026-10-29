@@ -1,0 +1,8 @@
+ITEM ID: 802000106
+ICON ID: FF_Lottery_Halloween_Voucher
+NOMBRE: Halloween Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000106.png

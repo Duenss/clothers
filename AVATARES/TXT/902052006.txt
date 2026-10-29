@@ -1,0 +1,8 @@
+ITEM ID: 902052006
+ICON ID: Icon_face_Carnival26
+NOMBRE: Beat Carnival Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052006.png

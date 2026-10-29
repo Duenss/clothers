@@ -1,0 +1,8 @@
+ITEM ID: 407105201
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Shadow (SCAR + Thompson) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive a random gun skin (SCAR + Thompson) from the Shadow set
+IMAGEN: ARMAS/imagenes/407105201.png

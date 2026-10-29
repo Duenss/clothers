@@ -1,0 +1,8 @@
+ITEM ID: 1300000121
+ICON ID: Icon_Pet_Surfshark
+NOMBRE: Finn
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Dare to challenge me for a swim?
+IMAGEN: MASCOTAS/imagenes/1300000121.png

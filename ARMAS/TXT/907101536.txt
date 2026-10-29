@@ -1,0 +1,8 @@
+ITEM ID: 907101536
+ICON ID: Icon_MP40_Machinegirl
+NOMBRE: MP40 - Mechanical
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101536.png

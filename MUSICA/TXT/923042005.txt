@@ -1,0 +1,8 @@
+ITEM ID: 923042005
+ICON ID: FF_UI_Voiceitem_Winterland
+NOMBRE: We are on fire!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042005.png

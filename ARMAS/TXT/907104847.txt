@@ -1,0 +1,8 @@
+ITEM ID: 907104847
+ICON ID: Icon_GlooShield_Firefly
+NOMBRE: Gloo Wall - Firefly Chaser
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104847.png

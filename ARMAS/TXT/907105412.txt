@@ -1,0 +1,8 @@
+ITEM ID: 907105412
+ICON ID: Icon_M249_Wolf_Sheep
+NOMBRE: M249 - Baa Baa Wolf
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105412.png

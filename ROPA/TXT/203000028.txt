@@ -1,0 +1,8 @@
+ITEM ID: 203000028
+ICON ID: Icon_avatar_undershirt_diy_005
+NOMBRE: Singlet (Help!)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000028.png

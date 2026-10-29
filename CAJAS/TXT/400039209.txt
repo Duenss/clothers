@@ -1,0 +1,8 @@
+ITEM ID: 400039209
+ICON ID: Icon_box_M1014_Evo_gun_41
+NOMBRE: Scorpio Shatter M1014 Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400039209.png

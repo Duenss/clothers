@@ -1,0 +1,8 @@
+ITEM ID: 400048526
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Desert Eagle Ornamental Touch Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Open to receive a Desert Eagle Ornamental Touch
+IMAGEN: CAJAS/imagenes/400048526.png

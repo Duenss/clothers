@@ -1,0 +1,8 @@
+ITEM ID: 214048000
+ICON ID: Icon_avatar_cos_headadditive_rainforest_lizard
+NOMBRE: Tropical Reptile (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214048000.png

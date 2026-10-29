@@ -1,0 +1,8 @@
+ITEM ID: 211049000
+ICON ID: Icon_avatar_male_cos_accessory_sparta
+NOMBRE: Fearless General (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049000.png

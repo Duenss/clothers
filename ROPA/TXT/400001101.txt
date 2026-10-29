@@ -1,0 +1,8 @@
+ITEM ID: 400001101
+ICON ID: Icon_box_3
+NOMBRE: Candy Bag Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Hope your favorite candy is in here!
+IMAGEN: ROPA/imagenes/400001101.png

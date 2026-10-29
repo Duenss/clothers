@@ -1,0 +1,8 @@
+ITEM ID: 904039006
+ICON ID: Icon_Backpack_Growth
+NOMBRE: Backpack - Teal Glow
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039006.png

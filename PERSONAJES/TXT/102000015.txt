@@ -1,0 +1,8 @@
+ITEM ID: 102000015
+ICON ID: Icon_face_male_head_sc_Djmale
+NOMBRE: Alok
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Alok is a world famous DJ, ready to drop a beat.
+IMAGEN: PERSONAJES/imagenes/102000015.png

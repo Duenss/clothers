@@ -1,0 +1,8 @@
+ITEM ID: 400000074
+ICON ID: Icon_box_highlevel_red
+NOMBRE: Mystery Challenge Lucky Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random prize from the challenge rewards
+IMAGEN: CAJAS/imagenes/400000074.png

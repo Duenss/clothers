@@ -1,0 +1,8 @@
+ITEM ID: 400041579
+ICON ID: Icon_box_3
+NOMBRE: Halloween Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400041579.png

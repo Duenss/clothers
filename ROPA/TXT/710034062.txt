@@ -1,0 +1,8 @@
+ITEM ID: 710034062
+ICON ID: FF_Icon_sc_foodieboy_deluxe
+NOMBRE: Maxim's Gluttony Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Contains Maxim character, Maxim's outfit, and 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710034062.png

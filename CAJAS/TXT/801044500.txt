@@ -1,0 +1,8 @@
+ITEM ID: 801044500
+ICON ID: Icon_exchange_Bandeirinha_br_44
+NOMBRE: Bandeirinha Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044500.png

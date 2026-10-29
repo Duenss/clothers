@@ -1,0 +1,8 @@
+ITEM ID: 909054010
+ICON ID: Icon_Emote_MusicJam_1_Freezing
+NOMBRE: Keytar Jam
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054010.png

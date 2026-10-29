@@ -1,0 +1,8 @@
+ITEM ID: 203035054
+ICON ID: Icon_avatar_male_cos_top_parkour
+NOMBRE: Gusto Freerunner (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035054.png

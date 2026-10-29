@@ -1,0 +1,8 @@
+ITEM ID: 909047010
+ICON ID: Icon_Emote_Catdog
+NOMBRE: Match Countdown
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047010.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001100
+ICON ID: Icon_box_3
+NOMBRE: Mega Discount Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Guess what's the discount price?
+IMAGEN: ROPA/imagenes/400001100.png

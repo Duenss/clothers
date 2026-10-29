@@ -1,0 +1,8 @@
+ITEM ID: 906038004
+ICON ID: Icon_Avatar_Surfboard_Eldergods
+NOMBRE: Skyboard - Pyronoc
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906038004.png

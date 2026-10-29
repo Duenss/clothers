@@ -1,0 +1,8 @@
+ITEM ID: 801046101
+ICON ID: Icon_exchange_FB_Black_Egg_46
+NOMBRE: Isagi Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046101.png

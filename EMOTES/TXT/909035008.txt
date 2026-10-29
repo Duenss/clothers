@@ -1,0 +1,8 @@
+ITEM ID: 909035008
+ICON ID: Icon_Emote_Digitaluniverse_Purple
+NOMBRE: Bobble Dance
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909035008.png

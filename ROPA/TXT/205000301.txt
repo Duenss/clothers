@@ -1,0 +1,8 @@
+ITEM ID: 205000301
+ICON ID: Icon_avatar_female_shoe_cos_independence
+NOMBRE: Noble Lady (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000301.png

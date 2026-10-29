@@ -1,0 +1,8 @@
+ITEM ID: 925047003
+ICON ID: Icon_BattleCard_NB
+NOMBRE: Battle Card - NARUTO SHIPPUDEN
+TIPO: Battle Card
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/925047003.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103818
+ICON ID: Icon_MP5_Goal
+NOMBRE: MP5 - Achiever
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103818.png

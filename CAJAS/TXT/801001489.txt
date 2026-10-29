@@ -1,0 +1,8 @@
+ITEM ID: 801001489
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Pink Bunny Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001489.png

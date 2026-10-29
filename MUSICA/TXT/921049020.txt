@@ -1,0 +1,8 @@
+ITEM ID: 921049020
+ICON ID: FF_UI_Voiceitem_EIGHTINF49_2
+NOMBRE: Ride the 8 to infinite space!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: 8th Anniversary Voice Pack
+IMAGEN: MUSICA/imagenes/921049020.png

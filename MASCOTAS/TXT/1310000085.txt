@@ -1,0 +1,8 @@
+ITEM ID: 1310000085
+ICON ID: Icon_Pet_Jumpsuit
+NOMBRE: Pet Skin: Ottero Heist
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Ottero's ready for the greatest heist!
+IMAGEN: MASCOTAS/imagenes/1310000085.png

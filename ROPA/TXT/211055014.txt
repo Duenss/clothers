@@ -1,0 +1,8 @@
+ITEM ID: 211055014
+ICON ID: Icon_avatar_male_cos_hair_halloween26_hollow
+NOMBRE: Hollow Man (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055014.png

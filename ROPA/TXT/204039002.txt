@@ -1,0 +1,8 @@
+ITEM ID: 204039002
+ICON ID: Icon_avatar_male_cos_bottom_fishtank_blue
+NOMBRE: Uncharted Ocean (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039002.png

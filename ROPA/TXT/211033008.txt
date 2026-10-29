@@ -1,0 +1,8 @@
+ITEM ID: 211033008
+ICON ID: Icon_avatar_male_cos_hair_cyberopera
+NOMBRE: Cybersword Ember (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033008.png

@@ -1,0 +1,8 @@
+ITEM ID: 908053002
+ICON ID: Icon_slot_Amphibian_Bluetears
+NOMBRE: Amphibian - Undersea Ride
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908053002.png

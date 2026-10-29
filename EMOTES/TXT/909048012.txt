@@ -1,0 +1,8 @@
+ITEM ID: 909048012
+ICON ID: Icon_Emote_Waterfest25
+NOMBRE: Swift Steps
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048012.png

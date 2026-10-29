@@ -1,0 +1,8 @@
+ITEM ID: 908028011
+ICON ID: Icon_slot_Roadster_Supercar
+NOMBRE: Sports Car - McLaren Racing
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028011.png

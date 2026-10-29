@@ -1,0 +1,8 @@
+ITEM ID: 904000084
+ICON ID: Icon_Bag_Pirate_MK2
+NOMBRE: Backpack - Phantom Pirate
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000084.png

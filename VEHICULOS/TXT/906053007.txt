@@ -1,0 +1,8 @@
+ITEM ID: 906053007
+ICON ID: Icon_Avatar_Surfboard_Rank51
+NOMBRE: Skyboard - S51 Exclusive: Sculpted
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: VEHICULOS/imagenes/906053007.png

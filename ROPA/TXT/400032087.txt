@@ -1,0 +1,8 @@
+ITEM ID: 400032087
+ICON ID: Icon_box_3
+NOMBRE: Party Radio
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400032087.png

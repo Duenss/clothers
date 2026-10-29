@@ -1,0 +1,8 @@
+ITEM ID: 203001214
+ICON ID: Icon_avatar_male_top_cos_booyahday21_red
+NOMBRE: Gamma Flameborn (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001214.png

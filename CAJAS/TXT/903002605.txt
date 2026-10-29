@@ -1,0 +1,8 @@
+ITEM ID: 903002605
+ICON ID: Icon_Deadloot_Cobra_THREE
+NOMBRE: Loot Box - Cobra
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002605.png

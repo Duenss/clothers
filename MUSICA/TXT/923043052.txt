@@ -1,0 +1,8 @@
+ITEM ID: 923043052
+ICON ID: FF_UI_Voiceitem_TET43
+NOMBRE: Don't rush!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923043052.png

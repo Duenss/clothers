@@ -1,0 +1,8 @@
+ITEM ID: 904043004
+ICON ID: Icon_Bag_Asura
+NOMBRE: Backpack - Wrathful Holder
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904043004.png

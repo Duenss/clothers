@@ -1,0 +1,8 @@
+ITEM ID: 904027005
+ICON ID: Icon_Bag_Nutcracker
+NOMBRE: Backpack - Musical Monkey
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904027005.png

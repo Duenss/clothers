@@ -1,0 +1,8 @@
+ITEM ID: 203001121
+ICON ID: Icon_avatar_top_cos_heroic_s07
+NOMBRE: CS-Ranked S7 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001121.png

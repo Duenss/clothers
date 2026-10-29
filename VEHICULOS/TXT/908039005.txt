@@ -1,0 +1,8 @@
+ITEM ID: 908039005
+ICON ID: Icon_slot_Motobike_Growth
+NOMBRE: Motorbike - Teal Rush
+TIPO: Vehicle Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039005.png

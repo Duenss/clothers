@@ -1,0 +1,8 @@
+ITEM ID: 203055005
+ICON ID: Icon_avatar_female_cos_top_owlranger
+NOMBRE: Owl Ranger (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055005.png

@@ -1,0 +1,8 @@
+ITEM ID: 818150831
+ICON ID: FF_Lottery_Pain_Voucher
+NOMBRE: Pain Tendo Wheel Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/818150831.png

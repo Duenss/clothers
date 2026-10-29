@@ -1,0 +1,8 @@
+ITEM ID: 904038009
+ICON ID: Icon_Bag_ES
+NOMBRE: Backpack - Pop-Pow
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038009.png

@@ -1,0 +1,8 @@
+ITEM ID: 205051021
+ICON ID: Icon_avatar_male_cos_shoe_gangster_gold
+NOMBRE: Goldhand Wrecker (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051021.png

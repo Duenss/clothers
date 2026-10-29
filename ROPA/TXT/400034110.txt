@@ -1,0 +1,8 @@
+ITEM ID: 400034110
+ICON ID: Icon_box_3
+NOMBRE: Rampage Fort Supply Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400034110.png

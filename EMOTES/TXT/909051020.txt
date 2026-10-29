@@ -1,0 +1,8 @@
+ITEM ID: 909051020
+ICON ID: Icon_Emote_Dreamland_Cooperate
+NOMBRE: Gather Around
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051020.png

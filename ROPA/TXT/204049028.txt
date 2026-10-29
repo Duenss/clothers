@@ -1,0 +1,8 @@
+ITEM ID: 204049028
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Wicket Smasher (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

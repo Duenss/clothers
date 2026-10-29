@@ -1,0 +1,8 @@
+ITEM ID: 400028146
+ICON ID: Icon_box_3
+NOMBRE: CIS Esports Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Box Made in CIS
+IMAGEN: ROPA/imagenes/400028146.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105414
+ICON ID: Icon_M500_Virgo26
+NOMBRE: M500 - Pristine Spica
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105414.png

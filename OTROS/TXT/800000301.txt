@@ -1,0 +1,8 @@
+ITEM ID: 800000301
+ICON ID: Icon_ff_token
+NOMBRE: FF Token
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Used to exchange for rewards in events
+IMAGEN: OTROS/imagenes/800000301.png

@@ -1,0 +1,8 @@
+ITEM ID: 400027089
+ICON ID: Icon_box_3
+NOMBRE: Wasteland Wanderer Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Wasteland Wanderer and all its pieces
+IMAGEN: ROPA/imagenes/400027089.png

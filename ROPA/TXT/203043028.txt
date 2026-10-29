@@ -1,0 +1,8 @@
+ITEM ID: 203043028
+ICON ID: Icon_avatar_male_cos_top_waterfest24_01
+NOMBRE: Deep Aqua (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043028.png

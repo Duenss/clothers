@@ -1,0 +1,8 @@
+ITEM ID: 400032036
+ICON ID: Icon_box_3
+NOMBRE: Water Hammer Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400032036.png

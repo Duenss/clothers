@@ -1,0 +1,8 @@
+ITEM ID: 801001089
+ICON ID: Icon_exchange_ob29_lava
+NOMBRE: Burning Heart Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Burn anything that's in my way!
+IMAGEN: CAJAS/imagenes/801001089.png

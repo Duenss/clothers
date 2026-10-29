@@ -1,0 +1,8 @@
+ITEM ID: 902000167
+ICON ID: Icon_face_female_head_sc_Agent_B
+NOMBRE: Agent *Classified*
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000167.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000383
+ICON ID: Icon_exchange_ob21_hot_coffee
+NOMBRE: Hot Coffee
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: For autumn in BR
+IMAGEN: CAJAS/imagenes/801000383.png

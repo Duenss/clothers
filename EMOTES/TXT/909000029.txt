@@ -1,0 +1,8 @@
+ITEM ID: 909000029
+ICON ID: Icon_Emote_Partydance
+NOMBRE: Party Dance
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000029.png

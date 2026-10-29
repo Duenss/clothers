@@ -1,0 +1,8 @@
+ITEM ID: 205044019
+ICON ID: Icon_avatar_male_cos_shoe_purely
+NOMBRE: Simplicity (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044019.png

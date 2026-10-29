@@ -1,0 +1,8 @@
+ITEM ID: 101000027
+ICON ID: Icon_face_female_head_sc_Nanoscientist
+NOMBRE: Sonia
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Sonia is a genetically modified nanoscientist with exceptional intelligence and expertise in nanobiotechnology.
+IMAGEN: PERSONAJES/imagenes/101000027.png

@@ -1,0 +1,8 @@
+ITEM ID: 902044009
+ICON ID: Icon_face_Festivalme_Camel
+NOMBRE: Silent Camel Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902044009.png

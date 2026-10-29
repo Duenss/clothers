@@ -1,0 +1,8 @@
+ITEM ID: 211052049
+ICON ID: Icon_avatar_male_cos_accessory_chocobar25
+NOMBRE: Chocolate Rabbit (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052049.png

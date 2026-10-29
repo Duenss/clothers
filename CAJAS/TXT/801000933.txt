@@ -1,0 +1,8 @@
+ITEM ID: 801000933
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Spring Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Exchange for rewards in Spring event
+IMAGEN: CAJAS/imagenes/801000933.png

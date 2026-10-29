@@ -1,0 +1,8 @@
+ITEM ID: 204040002
+ICON ID: Icon_avatar_female_sc_bottom_nanoscientist
+NOMBRE: Theory of Nano (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040002.png

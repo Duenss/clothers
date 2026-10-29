@@ -1,0 +1,8 @@
+ITEM ID: 407002509
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M4A1 Genos Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive One Punch Man exclusive gun skin!
+IMAGEN: OTROS/imagenes/407002509.png

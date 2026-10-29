@@ -1,0 +1,8 @@
+ITEM ID: 904029007
+ICON ID: Icon_Bag_Mocomonth_A
+NOMBRE: Backpack - Glo Drone
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029007.png

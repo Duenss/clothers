@@ -1,0 +1,8 @@
+ITEM ID: 203001281
+ICON ID: Icon_avatar_top_cos_silversword_yellow
+NOMBRE: Sunrise Triolight (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001281.png

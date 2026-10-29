@@ -1,0 +1,8 @@
+ITEM ID: 801054507
+ICON ID: Icon_exchange_9th3_tw_54
+NOMBRE: 9th Anniversary Green Box
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054507.png

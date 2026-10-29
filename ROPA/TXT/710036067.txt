@@ -1,0 +1,8 @@
+ITEM ID: 710036067
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Character Trial Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Contains many powerful characters. Try them out!
+IMAGEN: ROPA/imagenes/710036067.png

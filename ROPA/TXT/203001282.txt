@@ -1,0 +1,8 @@
+ITEM ID: 203001282
+ICON ID: Icon_avatar_top_cos_silversword_white
+NOMBRE: Metallic Circalight (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001282.png

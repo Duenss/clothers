@@ -1,0 +1,8 @@
+ITEM ID: 801001823
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFIM Crystal Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Mark of Champions
+IMAGEN: CAJAS/imagenes/801001823.png

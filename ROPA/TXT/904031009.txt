@@ -1,0 +1,8 @@
+ITEM ID: 904031009
+ICON ID: Icon_Bag_Alienpilot_FP
+NOMBRE: Backpack - Mischief Galaxy
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031009.png

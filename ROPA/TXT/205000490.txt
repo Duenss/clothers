@@ -1,0 +1,8 @@
+ITEM ID: 205000490
+ICON ID: Icon_avatar_male_shoe_cos_imperialegypt
+NOMBRE: Relic Guardian (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000490.png

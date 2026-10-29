@@ -1,0 +1,8 @@
+ITEM ID: 903036001
+ICON ID: Icon_Deadloot_Frankenstein
+NOMBRE: Loot Box - Monster Globe
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903036001.png

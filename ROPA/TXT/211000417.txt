@@ -1,0 +1,8 @@
+ITEM ID: 211000417
+ICON ID: Icon_female_piratemk2
+NOMBRE: Unknown
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000417.png

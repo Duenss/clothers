@@ -1,0 +1,8 @@
+ITEM ID: 904027006
+ICON ID: Icon_Bag_FFWS2021
+NOMBRE: Backpack - FFWS 2021
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904027006.png

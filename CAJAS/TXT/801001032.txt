@@ -1,0 +1,8 @@
+ITEM ID: 801001032
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gamer Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Let's play!
+IMAGEN: CAJAS/imagenes/801001032.png

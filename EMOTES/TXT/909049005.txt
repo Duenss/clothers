@@ -1,0 +1,8 @@
+ITEM ID: 909049005
+ICON ID: Icon_Emote_Local25
+NOMBRE: Side Wiggle
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909049005.png

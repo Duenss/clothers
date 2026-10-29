@@ -1,0 +1,8 @@
+ITEM ID: 906051006
+ICON ID: Icon_Avatar_Surfboard_Redhat25
+NOMBRE: Skyboard - Chasing Woof
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906051006.png

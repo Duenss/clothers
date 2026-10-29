@@ -1,0 +1,8 @@
+ITEM ID: 801055516
+ICON ID: Icon_exchange_nvt1_us_sac_55
+NOMBRE: Ninja Village Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055516.png

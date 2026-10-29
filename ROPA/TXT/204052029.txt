@@ -1,0 +1,8 @@
+ITEM ID: 204052029
+ICON ID: Icon_avatar_male_cos_bottom_colorfest26
+NOMBRE: Roaring Superstar (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052029.png

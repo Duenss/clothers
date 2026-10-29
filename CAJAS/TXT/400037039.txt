@@ -1,0 +1,8 @@
+ITEM ID: 400037039
+ICON ID: Icon_box_FFWS2022B_Hyper_37
+NOMBRE: Galaxy Hyperbook Blast Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400037039.png

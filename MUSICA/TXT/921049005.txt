@@ -1,0 +1,8 @@
+ITEM ID: 921049005
+ICON ID: FF_UI_Voiceitem_BR49
+NOMBRE: Wow, that's not worth it!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: LOUD Voice Pack
+IMAGEN: MUSICA/imagenes/921049005.png

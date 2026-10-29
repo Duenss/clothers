@@ -1,0 +1,8 @@
+ITEM ID: 400031062
+ICON ID: Icon_box_3
+NOMBRE: Booyah Box I
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400031062.png

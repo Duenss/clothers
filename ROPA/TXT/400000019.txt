@@ -1,0 +1,8 @@
+ITEM ID: 400000019
+ICON ID: Icon_box_3
+NOMBRE: Starring Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to claim rewards
+IMAGEN: ROPA/imagenes/400000019.png

@@ -1,0 +1,8 @@
+ITEM ID: 205044002
+ICON ID: Icon_avatar_male_cos_shoe_fragment
+NOMBRE: Dawnbreaker (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044002.png

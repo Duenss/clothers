@@ -1,0 +1,8 @@
+ITEM ID: 203033053
+ICON ID: Icon_avatar_cos_top_soccer_yellow
+NOMBRE: Energized Kick (Jersey)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033053.png

@@ -1,0 +1,8 @@
+ITEM ID: 904053004
+ICON ID: Icon_Bag_Bat25
+NOMBRE: Backpack - Darkwings Operation
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053004.png

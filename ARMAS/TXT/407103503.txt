@@ -1,0 +1,8 @@
+ITEM ID: 407103503
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Sterling Futurnetic (Groza + Heal Sniper) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive a random gun skin (Groza + Heal Sniper) from the Sterling Futurnetic weapon set
+IMAGEN: ARMAS/imagenes/407103503.png

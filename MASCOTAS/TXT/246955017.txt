@@ -1,0 +1,8 @@
+ITEM ID: 246955017
+ICON ID: Pet_Spark3_Head_CatHat_Red
+NOMBRE: Red Cat Hat
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Red Cat Hat
+IMAGEN: MASCOTAS/imagenes/246955017.png

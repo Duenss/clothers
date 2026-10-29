@@ -1,0 +1,8 @@
+ITEM ID: 211033070
+ICON ID: Icon_avatar_cos_hair_ffws03_004
+NOMBRE: Unknown
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033070.png

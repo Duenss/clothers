@@ -1,0 +1,8 @@
+ITEM ID: 921055046
+ICON ID: FF_UI_Voiceitem_GOKU55A
+NOMBRE: We started because we had no choice, but now we're enjoying it
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Mirzapur Voice Pack 1
+IMAGEN: MUSICA/imagenes/921055046.png

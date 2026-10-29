@@ -1,0 +1,8 @@
+ITEM ID: 801001363
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: BEATz Token - Diamond
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Come play!
+IMAGEN: CAJAS/imagenes/801001363.png

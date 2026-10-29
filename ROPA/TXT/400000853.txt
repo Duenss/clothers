@@ -1,0 +1,8 @@
+ITEM ID: 400000853
+ICON ID: Icon_box_3
+NOMBRE: Half Open Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000853.png

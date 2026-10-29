@@ -1,0 +1,8 @@
+ITEM ID: 801052525
+ICON ID: Icon_exchange_sunset_us-es_52
+NOMBRE: Sunset Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052525.png

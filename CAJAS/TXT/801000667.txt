@@ -1,0 +1,8 @@
+ITEM ID: 801000667
+ICON ID: Icon_exchange_ob24_Skull_Token
+NOMBRE: Skull Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: What's left after scalping
+IMAGEN: CAJAS/imagenes/801000667.png

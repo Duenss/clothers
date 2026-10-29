@@ -1,0 +1,8 @@
+ITEM ID: 902038022
+ICON ID: Icon_face_VN_Playoffs1
+NOMBRE: Ballistic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038022.png

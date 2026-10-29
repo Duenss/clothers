@@ -1,0 +1,8 @@
+ITEM ID: 205049030
+ICON ID: Icon_avatar_cos_shoe_football25_idblack
+NOMBRE: Training Jersey (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049030.png

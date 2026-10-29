@@ -1,0 +1,8 @@
+ITEM ID: 204052034
+ICON ID: Icon_avatar_male_cos_bottom_chocobar25
+NOMBRE: Chocolate Rabbit (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052034.png

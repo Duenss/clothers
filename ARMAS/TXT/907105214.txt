@@ -1,0 +1,8 @@
+ITEM ID: 907105214
+ICON ID: Icon_G36_Valentine26
+NOMBRE: G36 - Thorned Romance
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105214.png

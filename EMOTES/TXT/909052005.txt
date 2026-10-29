@@ -1,0 +1,8 @@
+ITEM ID: 909052005
+ICON ID: Icon_Emote_Fastbreaking_Treasure_Freeze
+NOMBRE: Catchy Melody
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909052005.png

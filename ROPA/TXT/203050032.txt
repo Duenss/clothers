@@ -1,0 +1,8 @@
+ITEM ID: 203050032
+ICON ID: Icon_avatar_cos_top_dunelord_jacket
+NOMBRE: Desert Reign Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050032.png

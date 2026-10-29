@@ -1,0 +1,8 @@
+ITEM ID: 800000047
+ICON ID: Icon_face_male_sc_BooyahGuy
+NOMBRE: Memory Fragment (Leon)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000047.png

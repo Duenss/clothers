@@ -1,0 +1,8 @@
+ITEM ID: 204040015
+ICON ID: Icon_avatar_female_cos_bottom_darkghost
+NOMBRE: Blazing Haunt (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040015.png

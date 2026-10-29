@@ -1,0 +1,8 @@
+ITEM ID: 700000606
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Mix Gun Skin Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Mix Gun Skin Package
+IMAGEN: ROPA/imagenes/700000606.png

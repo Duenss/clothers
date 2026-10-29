@@ -1,0 +1,8 @@
+ITEM ID: 214000089
+ICON ID: Icon_avatar_male_cos_headadditive_bluetribe
+NOMBRE: Fury Tribe (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000089.png

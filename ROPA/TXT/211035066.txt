@@ -1,0 +1,8 @@
+ITEM ID: 211035066
+ICON ID: Icon_avatar_cos_hair_sportswear35
+NOMBRE: Cobalt Athlete (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035066.png

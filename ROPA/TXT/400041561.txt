@@ -1,0 +1,8 @@
+ITEM ID: 400041561
+ICON ID: Icon_box_3
+NOMBRE: Swirl Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400041561.png

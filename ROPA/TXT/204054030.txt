@@ -1,0 +1,8 @@
+ITEM ID: 204054030
+ICON ID: Icon_avatar_male_cos_bottom_th_tele
+NOMBRE: lnwTrue (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054030.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000302
+ICON ID: Icon_exchange_black_skull
+NOMBRE: Black Skull
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000302.png

@@ -1,0 +1,8 @@
+ITEM ID: 801040008
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Green Chip
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801040008.png

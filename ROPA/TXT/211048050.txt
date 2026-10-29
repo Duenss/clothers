@@ -1,0 +1,8 @@
+ITEM ID: 211048050
+ICON ID: Icon_avatar_cos_hair_cricke25_purple
+NOMBRE: Cricket Purple Cap
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048050.png

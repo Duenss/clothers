@@ -1,0 +1,8 @@
+ITEM ID: 801000046
+ICON ID: Icon_exchange_zidan
+NOMBRE: FF Bullet
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000046.png

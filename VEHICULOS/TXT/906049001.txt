@@ -1,0 +1,8 @@
+ITEM ID: 906049001
+ICON ID: Icon_Avatar_Surfboard_BabyDragon
+NOMBRE: Skyboard - Nailoong's Rhythm
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906049001.png

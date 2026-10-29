@@ -1,0 +1,8 @@
+ITEM ID: 400039195
+ICON ID: Icon_box_Rollerskating_2_39
+NOMBRE: BP S5 Deluxe Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400039195.png

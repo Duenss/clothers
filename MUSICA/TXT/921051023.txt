@@ -1,0 +1,8 @@
+ITEM ID: 921051023
+ICON ID: FF_UI_Voiceitem_US51
+NOMBRE: Snow fight!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Happy Holidays! 2025 Voice Pack
+IMAGEN: MUSICA/imagenes/921051023.png

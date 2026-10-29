@@ -1,0 +1,8 @@
+ITEM ID: 400047505
+ICON ID: Icon_box_SLB_US-ES_47
+NOMBRE: Sledge Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047505.png

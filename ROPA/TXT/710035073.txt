@@ -1,0 +1,8 @@
+ITEM ID: 710035073
+ICON ID: FF_Icon_Singers_deluxe
+NOMBRE: J.Biebs' Character Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: Open to permanently unlock the J.Biebs character and receive a 7-day trial of his exclusive Indigo bundle
+IMAGEN: ROPA/imagenes/710035073.png

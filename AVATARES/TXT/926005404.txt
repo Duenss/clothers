@@ -1,0 +1,8 @@
+ITEM ID: 926005404
+ICON ID: Icon_PhotoFrameitem_NinethB_01
+NOMBRE: Anniversary Fracture Frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Anniversary Fracture Frame
+IMAGEN: AVATARES/imagenes/926005404.png

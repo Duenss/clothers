@@ -1,0 +1,8 @@
+ITEM ID: 911000001
+ICON ID: Icon_Mounts_Basic
+NOMBRE: Skywing Mk1
+TIPO: Skywings
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911000001.png

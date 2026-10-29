@@ -1,0 +1,8 @@
+ITEM ID: 203000198
+ICON ID: Icon_avatar_tshirt_Belgium
+NOMBRE: Red Devils
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000198.png

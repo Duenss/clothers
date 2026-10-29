@@ -1,0 +1,8 @@
+ITEM ID: 904052008
+ICON ID: Icon_Bag_Pisces
+NOMBRE: Backpack - Fins of Harmony
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052008.png

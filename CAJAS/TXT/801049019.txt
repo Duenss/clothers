@@ -1,0 +1,8 @@
+ITEM ID: 801049019
+ICON ID: Icon_exchange_Seafood_Sys_1_49
+NOMBRE: Squid Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049019.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103039
+ICON ID: Icon_GlooShield_Soulhunter
+NOMBRE: Gloo Wall - Phantom Predator
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103039.png

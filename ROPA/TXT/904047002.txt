@@ -1,0 +1,8 @@
+ITEM ID: 904047002
+ICON ID: Icon_Bag_Equation
+NOMBRE: Backpack - Robotics Theory
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904047002.png

@@ -1,0 +1,8 @@
+ITEM ID: 801046535
+ICON ID: Icon_exchange_Dagger_Token_id_46
+NOMBRE: Dagger Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046535.png

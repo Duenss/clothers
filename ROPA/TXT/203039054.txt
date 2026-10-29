@@ -1,0 +1,8 @@
+ITEM ID: 203039054
+ICON ID: Icon_avatar_cos_top_comic_hoodie
+NOMBRE: Superhero Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039054.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001108
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fall Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Fall is just around the corner.
+IMAGEN: CAJAS/imagenes/801001108.png

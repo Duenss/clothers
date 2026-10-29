@@ -1,0 +1,8 @@
+ITEM ID: 400055094
+ICON ID: Icon_box_StormArena1_55
+NOMBRE: Storm Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055094.png

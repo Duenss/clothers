@@ -1,0 +1,8 @@
+ITEM ID: 801000206
+ICON ID: Icon_exchange_Golden_Ads
+NOMBRE: Golden Ad Billboards
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000206.png

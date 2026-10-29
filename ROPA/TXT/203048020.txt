@@ -1,0 +1,8 @@
+ITEM ID: 203048020
+ICON ID: Icon_avatar_male_cos_top_goldenthunder
+NOMBRE: Golden Flash (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048020.png

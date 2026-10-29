@@ -1,0 +1,8 @@
+ITEM ID: 902035023
+ICON ID: Icon_face_FFML_ID
+NOMBRE: FFML Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035023.png

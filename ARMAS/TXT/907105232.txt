@@ -1,0 +1,8 @@
+ITEM ID: 907105232
+ICON ID: Icon_Pan_Emoji26
+NOMBRE: Pan - Chillin' Emoji
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105232.png

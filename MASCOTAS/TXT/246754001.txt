@@ -1,0 +1,8 @@
+ITEM ID: 246754001
+ICON ID: Icon_SparkPet_Head_SharkHat_Pink
+NOMBRE: Pink Shark Hat
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Pink Shark Hat
+IMAGEN: MASCOTAS/imagenes/246754001.png

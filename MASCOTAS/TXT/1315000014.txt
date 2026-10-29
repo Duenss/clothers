@@ -1,0 +1,8 @@
+ITEM ID: 1315000014
+ICON ID: FF_UI_Pet_Duck_Skill
+NOMBRE: Dashy Duckwalk
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Move quicker when you walk like Dr. Beanie.
+IMAGEN: MASCOTAS/imagenes/1315000014.png

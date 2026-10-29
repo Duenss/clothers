@@ -1,0 +1,8 @@
+ITEM ID: 246955025
+ICON ID: Pet_Spark3_Face_EmojiGlass_Blue
+NOMBRE: Blue Smiley Goggles
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Blue Smiley Goggles
+IMAGEN: MASCOTAS/imagenes/246955025.png

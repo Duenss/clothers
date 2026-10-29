@@ -1,0 +1,8 @@
+ITEM ID: 907104320
+ICON ID: Icon_MP40_CSRank23
+NOMBRE: MP40 - S23 Exclusive: Crystal
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104320.png

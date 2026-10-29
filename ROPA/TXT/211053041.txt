@@ -1,0 +1,8 @@
+ITEM ID: 211053041
+ICON ID: Icon_avatar_cos_hair_fishseller_headwear
+NOMBRE: Fishy Head
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053041.png

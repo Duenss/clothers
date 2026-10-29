@@ -1,0 +1,8 @@
+ITEM ID: 902041006
+ICON ID: Icon_face_Inkpainting
+NOMBRE: Ink Stroke Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902041006.png

@@ -1,0 +1,8 @@
+ITEM ID: 203050029
+ICON ID: Icon_avatar_male_cos_top_csrank32
+NOMBRE: CS-Ranked S32 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050029.png

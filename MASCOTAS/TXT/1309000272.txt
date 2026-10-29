@@ -1,0 +1,8 @@
+ITEM ID: 1309000272
+ICON ID: Pet_DA_Agumon_Celebrate
+NOMBRE: Show off
+TIPO: Pet Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Advanced action. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000272.png

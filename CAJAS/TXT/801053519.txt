@@ -1,0 +1,8 @@
+ITEM ID: 801053519
+ICON ID: Icon_exchange_chamt_us_sac_53
+NOMBRE: Champion Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053519.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001103
+ICON ID: Icon_box_3
+NOMBRE: Flag Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Flag flying proudly in the wind.
+IMAGEN: ROPA/imagenes/400001103.png

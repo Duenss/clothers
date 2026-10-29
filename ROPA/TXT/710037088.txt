@@ -1,0 +1,8 @@
+ITEM ID: 710037088
+ICON ID: Icon_box_3
+NOMBRE: Incubator Pack
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Grab this great deal! Open to receive 10 Incubator Vouchers!
+IMAGEN: ROPA/imagenes/710037088.png

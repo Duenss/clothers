@@ -1,0 +1,8 @@
+ITEM ID: 907104726
+ICON ID: Icon_Baseballbat_Rank43
+NOMBRE: Bat - S43 Exclusive: Stitched
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: BR-Ranked S43 Reward
+IMAGEN: ARMAS/imagenes/907104726.png

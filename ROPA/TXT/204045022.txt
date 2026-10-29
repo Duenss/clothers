@@ -1,0 +1,8 @@
+ITEM ID: 204045022
+ICON ID: Icon_avatar_male_cos_bottom_fox_vn
+NOMBRE: Foxlight Phantom (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204045022.png

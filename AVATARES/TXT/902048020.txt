@@ -1,0 +1,8 @@
+ITEM ID: 902048020
+ICON ID: Icon_face_Football25_ID
+NOMBRE: Rizky Ridho Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048020.png

@@ -1,0 +1,8 @@
+ITEM ID: 906000139
+ICON ID: Icon_Avatar_Surfboard_Bounty
+NOMBRE: Skyboard - Chrono
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000139.png

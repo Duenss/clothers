@@ -1,0 +1,8 @@
+ITEM ID: 842000003
+ICON ID: Icon_PetCard
+NOMBRE: Pet Trial Card (7 Days)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Try out all pets for 7 days. Automatically used once owned.
+IMAGEN: OTROS/imagenes/842000003.png

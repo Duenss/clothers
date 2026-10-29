@@ -1,0 +1,8 @@
+ITEM ID: 901036028
+ICON ID: Icon_callsign_storebg_LoneWolf03_06
+NOMBRE: LW-Ranked S3 Master Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036028.png

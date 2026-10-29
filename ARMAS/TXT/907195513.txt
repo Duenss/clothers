@@ -1,0 +1,8 @@
+ITEM ID: 907195513
+ICON ID: Icon_AWM_Blackdress26_02
+NOMBRE: AWM - Cosmic Pulse
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907195513.png

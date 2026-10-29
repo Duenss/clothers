@@ -1,0 +1,8 @@
+ITEM ID: 907101807
+ICON ID: Icon_M60_Halloweenpumpkin
+NOMBRE: M60 - Pumpkin Flames
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB18
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101807.png

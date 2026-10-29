@@ -1,0 +1,8 @@
+ITEM ID: 801054515
+ICON ID: Icon_exchange_ScarletToken_latam_54
+NOMBRE: Scarlet Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054515.png

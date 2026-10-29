@@ -1,0 +1,8 @@
+ITEM ID: 205051017
+ICON ID: Icon_avatar_male_cos_shoe_stylish
+NOMBRE: Fashion Monster (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051017.png

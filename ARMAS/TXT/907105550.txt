@@ -1,0 +1,8 @@
+ITEM ID: 907105550
+ICON ID: Icon_Owlranger_Blue_Grenade
+NOMBRE: Grenade - Owl Power
+TIPO: Grenade Skin
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105550.png

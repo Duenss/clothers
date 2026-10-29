@@ -1,0 +1,8 @@
+ITEM ID: 400035020
+ICON ID: Icon_face_female_sc_Crazygirl
+NOMBRE: Iris' Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains Iris' Memory Fragments
+IMAGEN: CAJAS/imagenes/400035020.png

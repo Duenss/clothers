@@ -1,0 +1,8 @@
+ITEM ID: 204037037
+ICON ID: Icon_avatar_male_cos_bottom_angelik
+NOMBRE: Gleaming Angelic Pants
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037037.png

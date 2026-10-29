@@ -1,0 +1,8 @@
+ITEM ID: 801046006
+ICON ID: Icon_exchange_ntk7_47
+NOMBRE: Fire Scroll
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046006.png

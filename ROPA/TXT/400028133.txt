@@ -1,0 +1,8 @@
+ITEM ID: 400028133
+ICON ID: Icon_box_3
+NOMBRE: 2021 Lunar Fest Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains 2021 Lunar Fest and all of its pieces
+IMAGEN: ROPA/imagenes/400028133.png

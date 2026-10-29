@@ -1,0 +1,8 @@
+ITEM ID: 907105065
+ICON ID: Icon_GlooShield_Bull25
+NOMBRE: Gloo Wall - Red Bull Energy
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105065.png

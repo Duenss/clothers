@@ -1,0 +1,8 @@
+ITEM ID: 203054030
+ICON ID: Icon_avatar_male_cos_top_rank52
+NOMBRE: BR-Ranked S52 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054030.png

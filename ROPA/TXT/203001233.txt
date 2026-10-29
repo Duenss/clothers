@@ -1,0 +1,8 @@
+ITEM ID: 203001233
+ICON ID: Icon_avatar_top_cos_cyanarm_cyan
+NOMBRE: Clawed Snowghost (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001233.png

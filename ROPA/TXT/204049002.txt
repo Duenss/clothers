@@ -1,0 +1,8 @@
+ITEM ID: 204049002
+ICON ID: Icon_avatar_male_cos_bottom_tvman
+NOMBRE: Lost Signal (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204049002.png

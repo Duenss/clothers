@@ -1,0 +1,8 @@
+ITEM ID: 907136069
+ICON ID: Icon_AWM_Mambas
+NOMBRE: AWM - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136069.png

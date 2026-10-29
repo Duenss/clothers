@@ -1,0 +1,8 @@
+ITEM ID: 801001478
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Yellow Warning Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Use to exchange for exciting rewards!
+IMAGEN: CAJAS/imagenes/801001478.png

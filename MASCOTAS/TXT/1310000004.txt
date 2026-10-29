@@ -1,0 +1,8 @@
+ITEM ID: 1310000004
+ICON ID: Icon_Pet_Night_Cat
+NOMBRE: Pet Skin: Night Kitty
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Shining starts in the endless nights.
+IMAGEN: MASCOTAS/imagenes/1310000004.png

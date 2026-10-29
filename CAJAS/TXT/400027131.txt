@@ -1,0 +1,8 @@
+ITEM ID: 400027131
+ICON ID: Icon_face_male_sc_Falconer
+NOMBRE: Maro's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to Receive Memory Fragment (Maro)
+IMAGEN: CAJAS/imagenes/400027131.png

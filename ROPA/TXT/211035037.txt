@@ -1,0 +1,8 @@
+ITEM ID: 211035037
+ICON ID: Icon_avatar_male_cos_hair_goldchain
+NOMBRE: Chainz of Lux (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035037.png

@@ -1,0 +1,8 @@
+ITEM ID: 904039012
+ICON ID: Icon_Backpack_Firedragon
+NOMBRE: Backpack - Scorching Beast
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039012.png

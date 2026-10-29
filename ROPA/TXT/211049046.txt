@@ -1,0 +1,8 @@
+ITEM ID: 211049046
+ICON ID: Icon_avatar_cos_hair_jersey_th
+NOMBRE: Super Striker (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049046.png

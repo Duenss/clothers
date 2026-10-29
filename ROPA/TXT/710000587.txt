@@ -1,0 +1,8 @@
+ITEM ID: 710000587
+ICON ID: Icon_male_madscientist
+NOMBRE: Dr. Sanity Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000587.png

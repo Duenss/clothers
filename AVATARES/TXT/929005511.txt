@@ -1,0 +1,8 @@
+ITEM ID: 929005511
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_11
+NOMBRE: Itachi Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Itachi Sticker
+IMAGEN: AVATARES/imagenes/929005511.png

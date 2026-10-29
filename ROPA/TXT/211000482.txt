@@ -1,0 +1,8 @@
+ITEM ID: 211000482
+ICON ID: Icon_avatar_male_accessory_cos_evilbone
+NOMBRE: Capt. Punisher (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000482.png

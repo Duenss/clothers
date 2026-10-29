@@ -1,0 +1,8 @@
+ITEM ID: 710040023
+ICON ID: Icon_bundle_female_Unicon22_40
+NOMBRE: Rainbow Dreams Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB40
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710040023.png

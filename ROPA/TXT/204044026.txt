@@ -1,0 +1,8 @@
+ITEM ID: 204044026
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Dual Guardian (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

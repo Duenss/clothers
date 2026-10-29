@@ -1,0 +1,8 @@
+ITEM ID: 909047002
+ICON ID: Icon_Emote_Aurora_Duo
+NOMBRE: Aurora Iridescence
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047002.png

@@ -1,0 +1,8 @@
+ITEM ID: 710049020
+ICON ID: Icon_bundle_male_Eighth_Free_49
+NOMBRE: Beyond Infinity Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710049020.png

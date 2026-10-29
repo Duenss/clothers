@@ -1,0 +1,8 @@
+ITEM ID: 204033032
+ICON ID: Icon_avatar_male_sc_bottom_blacksmith
+NOMBRE: Inked Samurai (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033032.png

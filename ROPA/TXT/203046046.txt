@@ -1,0 +1,8 @@
+ITEM ID: 203046046
+ICON ID: Icon_avatar_cos_top_ffws_sf09
+NOMBRE: FFWS 2024 GF - Team Falcons (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046046.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000124
+ICON ID: Icon_StoreSender_MothersDay
+NOMBRE: Flower
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000124.png

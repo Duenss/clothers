@@ -1,0 +1,8 @@
+ITEM ID: 902047004
+ICON ID: Icon_face_CSRank29_02
+NOMBRE: CS-Ranked S29 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047004.png

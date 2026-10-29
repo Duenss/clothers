@@ -1,0 +1,8 @@
+ITEM ID: 908039007
+ICON ID: Icon_slot_TUTU_BDFest
+NOMBRE: Tuk Tuk - Floral Chariot
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039007.png

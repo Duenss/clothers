@@ -1,0 +1,8 @@
+ITEM ID: 903047007
+ICON ID: Icon_Deadloot_Express01
+NOMBRE: Loot Box - Delivery Box
+TIPO: Loot Box
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903047007.png

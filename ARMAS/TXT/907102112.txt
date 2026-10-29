@@ -1,0 +1,8 @@
+ITEM ID: 907102112
+ICON ID: Icon_M249_Spine
+NOMBRE: M249 - Spikey Spine
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102112.png

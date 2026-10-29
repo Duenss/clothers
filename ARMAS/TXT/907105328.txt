@@ -1,0 +1,8 @@
+ITEM ID: 907105328
+ICON ID: Icon_Fist_Eclipse
+NOMBRE: Fist - Split Eclipse
+TIPO: Fist Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105328.png

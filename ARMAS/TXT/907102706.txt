@@ -1,0 +1,8 @@
+ITEM ID: 907102706
+ICON ID: Icon_Machete_Keyboard
+NOMBRE: Parang - Keyboard Slasher
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102706.png

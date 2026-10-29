@@ -1,0 +1,8 @@
+ITEM ID: 170035015
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Shotgun Evo Gun Token Pack
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Choose an item from this box!
+IMAGEN: CAJAS/imagenes/170035015.png

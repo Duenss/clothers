@@ -1,0 +1,8 @@
+ITEM ID: 400037162
+ICON ID: Icon_box_FFWS2022B_Evo_37
+NOMBRE: Drachen Fist Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400037162.png

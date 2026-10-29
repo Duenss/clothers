@@ -1,0 +1,8 @@
+ITEM ID: 400000280
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: MP40 Crazy Bunny Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for MP40 Crazy Bunny
+IMAGEN: CAJAS/imagenes/400000280.png

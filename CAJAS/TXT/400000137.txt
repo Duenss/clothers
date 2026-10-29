@@ -1,0 +1,8 @@
+ITEM ID: 400000137
+ICON ID: Icon_box_special
+NOMBRE: Pumpkin and the Witch Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Pumpkin Warrior or the Cunning Witch set, or a 3D trial card. You will not receive the same permanent item twice.
+IMAGEN: CAJAS/imagenes/400000137.png

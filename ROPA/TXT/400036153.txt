@@ -1,0 +1,8 @@
+ITEM ID: 400036153
+ICON ID: Icon_box_3
+NOMBRE: Vampire Mischief Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Vampire Mischief and all its pieces
+IMAGEN: ROPA/imagenes/400036153.png

@@ -1,0 +1,8 @@
+ITEM ID: 902048021
+ICON ID: Icon_face_Blackdress
+NOMBRE: Dark Matter Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048021.png

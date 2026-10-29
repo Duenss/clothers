@@ -1,0 +1,8 @@
+ITEM ID: 909039005
+ICON ID: Icon_Emote_Scarlet_Purple
+NOMBRE: Aching Power
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909039005.png

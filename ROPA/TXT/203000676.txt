@@ -1,0 +1,8 @@
+ITEM ID: 203000676
+ICON ID: Icon_avatar_female_cos_penguin
+NOMBRE: Penguinie
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000676.png

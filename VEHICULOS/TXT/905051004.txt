@@ -1,0 +1,8 @@
+ITEM ID: 905051004
+ICON ID: Icon_Avatar_PARACHUTE_Rank48
+NOMBRE: Parachute - S48 Exclusive: Spookster
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905051004.png

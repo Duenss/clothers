@@ -1,0 +1,8 @@
+ITEM ID: 904051006
+ICON ID: Icon_Bag_Sagittarius25
+NOMBRE: Backpack - Celestial Quiver
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051006.png

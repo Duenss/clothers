@@ -1,0 +1,8 @@
+ITEM ID: 430000045
+ICON ID: Icon_box_CharacterFrag_Big
+NOMBRE: Fragment Crate II
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive fragments for Ford, Kelly or Misha. Lucky users can receive up to 6,000 fragments.
+IMAGEN: OTROS/imagenes/430000045.png

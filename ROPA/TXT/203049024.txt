@@ -1,0 +1,8 @@
+ITEM ID: 203049024
+ICON ID: Icon_avatar_female_cos_top_vn_ocean
+NOMBRE: Briny Ocean (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049024.png

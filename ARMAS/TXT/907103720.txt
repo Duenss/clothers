@@ -1,0 +1,8 @@
+ITEM ID: 907103720
+ICON ID: Icon_Sickle_FFWS2022
+NOMBRE: Scythe - Astro Taunt
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103720.png

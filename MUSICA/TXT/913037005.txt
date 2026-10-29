@@ -1,0 +1,8 @@
+ITEM ID: 913037005
+ICON ID: FF_UI_Vault_Music_Winterfest21
+NOMBRE: Winterlands 2018 Remix
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Winterlands: Subzero lobby music
+IMAGEN: MUSICA/imagenes/913037005.png

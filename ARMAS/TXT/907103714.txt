@@ -1,0 +1,8 @@
+ITEM ID: 907103714
+ICON ID: Icon_AN94_Hightech
+NOMBRE: AN94 - Dart Electric
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103714.png

@@ -1,0 +1,8 @@
+ITEM ID: 203043042
+ICON ID: Icon_avatar_cos_top_reputation43
+NOMBRE: An Honor Rest (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043042.png

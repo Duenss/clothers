@@ -1,0 +1,8 @@
+ITEM ID: 908052003
+ICON ID: Icon_slot_Jeep_Treasure26
+NOMBRE: Jeep - Voyager's Journey
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052003.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037002
+ICON ID: Icon_avatar_male_cos_hair_syntheticangel
+NOMBRE: Valiant Havenking (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037002.png

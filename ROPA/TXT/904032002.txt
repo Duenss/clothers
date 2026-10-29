@@ -1,0 +1,8 @@
+ITEM ID: 904032002
+ICON ID: Icon_Bag_Steamwarrior_EP
+NOMBRE: Backpack - Smart Bunny
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032002.png

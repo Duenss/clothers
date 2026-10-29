@@ -1,0 +1,8 @@
+ITEM ID: 407103008
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Skull Punker (AWM) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Open to receive a random gun skin (AWM) from the Skull Punker weapon set
+IMAGEN: ARMAS/imagenes/407103008.png

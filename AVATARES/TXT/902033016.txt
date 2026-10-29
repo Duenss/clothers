@@ -1,0 +1,8 @@
+ITEM ID: 902033016
+ICON ID: Icon_face_EUWS_S3
+NOMBRE: Girl Power! Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033016.png

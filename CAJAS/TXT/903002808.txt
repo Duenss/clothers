@@ -1,0 +1,8 @@
+ITEM ID: 903002808
+ICON ID: Icon_Deadloot_Supercar_A
+NOMBRE: Loot Box - Supercharged Engine
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002808.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030020
+ICON ID: Icon_box_3
+NOMBRE: Rockie Box
+TIPO: Bundle Create
+RAREZA: GREEN (Uncommon)
+TAG: OB30
+DESCRIPCION: Contains Pet Rockie and many other rewards
+IMAGEN: ROPA/imagenes/400030020.png

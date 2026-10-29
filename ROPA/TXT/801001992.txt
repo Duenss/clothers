@@ -1,0 +1,8 @@
+ITEM ID: 801001992
+ICON ID: Icon_box_3
+NOMBRE: M Coin
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Nobody is certain of the origins of these valuable coins
+IMAGEN: ROPA/imagenes/801001992.png

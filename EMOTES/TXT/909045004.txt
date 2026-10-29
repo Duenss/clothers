@@ -1,0 +1,8 @@
+ITEM ID: 909045004
+ICON ID: Icon_Emote_Goose
+NOMBRE: The Goosy Dance
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909045004.png

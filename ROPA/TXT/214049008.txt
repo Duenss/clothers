@@ -1,0 +1,8 @@
+ITEM ID: 214049008
+ICON ID: Icon_avatar_cos_headadditive_fashionist5_fp
+NOMBRE: Sparkling Gems Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214049008.png

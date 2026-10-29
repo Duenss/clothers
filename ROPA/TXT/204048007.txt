@@ -1,0 +1,8 @@
+ITEM ID: 204048007
+ICON ID: Icon_avatar_male_cos_bottom_cityhero_blue
+NOMBRE: Midnight Vanguard (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048007.png

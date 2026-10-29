@@ -1,0 +1,8 @@
+ITEM ID: 710055044
+ICON ID: FF_UI_Voiceitem_Storm26
+NOMBRE: Storm Arena Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Storm Arena voice pack
+IMAGEN: MUSICA/imagenes/710055044.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030133
+ICON ID: Icon_box_3
+NOMBRE: SSA Gold Coin Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: SSA server's 1st anniversary
+IMAGEN: ROPA/imagenes/400030133.png

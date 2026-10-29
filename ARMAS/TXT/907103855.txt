@@ -1,0 +1,8 @@
+ITEM ID: 907103855
+ICON ID: Icon_GlooShield_Cybermech
+NOMBRE: Gloo Wall - Project Q
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103855.png

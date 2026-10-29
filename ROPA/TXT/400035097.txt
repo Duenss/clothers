@@ -1,0 +1,8 @@
+ITEM ID: 400035097
+ICON ID: Icon_box_3
+NOMBRE: Raindoll Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Contains Raindoll and all its pieces
+IMAGEN: ROPA/imagenes/400035097.png

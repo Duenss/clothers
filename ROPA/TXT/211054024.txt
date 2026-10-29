@@ -1,0 +1,8 @@
+ITEM ID: 211054024
+ICON ID: Icon_avatar_male_cos_hair_denim_ud
+NOMBRE: Denim Flipset (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054024.png

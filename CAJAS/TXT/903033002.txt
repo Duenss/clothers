@@ -1,0 +1,8 @@
+ITEM ID: 903033002
+ICON ID: Icon_Deadloot_Chess
+NOMBRE: Loot Box - Board Gallop
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903033002.png

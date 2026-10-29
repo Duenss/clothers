@@ -1,0 +1,8 @@
+ITEM ID: 400035130
+ICON ID: Icon_box_3
+NOMBRE: J.Biebs Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains character J.Biebs and many other rewards
+IMAGEN: ROPA/imagenes/400035130.png

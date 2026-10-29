@@ -1,0 +1,8 @@
+ITEM ID: 710028029
+ICON ID: Icon_bundle_female_Fallwinter_28
+NOMBRE: Sassy Swaggess Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710028029.png

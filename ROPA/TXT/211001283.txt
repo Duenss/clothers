@@ -1,0 +1,8 @@
+ITEM ID: 211001283
+ICON ID: Icon_avatar_cos_hair_yokai_golden_g
+NOMBRE: Goldom Ghost (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001283.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000061
+ICON ID: Icon_exchange_longzhu_huang
+NOMBRE: Dragon Soul- Yellow
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000061.png

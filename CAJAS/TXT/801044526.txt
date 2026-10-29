@@ -1,0 +1,8 @@
+ITEM ID: 801044526
+ICON ID: Icon_exchange_Elite_fashion_th_44
+NOMBRE: Elite Fashion Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044526.png

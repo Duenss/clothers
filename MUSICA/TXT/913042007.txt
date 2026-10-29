@@ -1,0 +1,8 @@
+ITEM ID: 913042007
+ICON ID: FF_UI_Vault_Music_Winterfest19
+NOMBRE: Free Fire Lobby Winterlands I
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Winterlands 2023 lobby music
+IMAGEN: MUSICA/imagenes/913042007.png

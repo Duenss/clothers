@@ -1,0 +1,8 @@
+ITEM ID: 800000008
+ICON ID: Icon_face_male_sc_thaiboxer
+NOMBRE: Memory Fragment (Kla)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000008.png

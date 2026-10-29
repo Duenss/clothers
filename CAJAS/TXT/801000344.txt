@@ -1,0 +1,8 @@
+ITEM ID: 801000344
+ICON ID: Icon_exchange_cupid
+NOMBRE: Cupid
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: All you need is LOVE
+IMAGEN: CAJAS/imagenes/801000344.png

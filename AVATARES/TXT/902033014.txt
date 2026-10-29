@@ -1,0 +1,8 @@
+ITEM ID: 902033014
+ICON ID: Icon_face_RUactivity
+NOMBRE: Golden Beast Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033014.png

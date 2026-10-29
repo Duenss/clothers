@@ -1,0 +1,8 @@
+ITEM ID: 800000505
+ICON ID: Icon_WSM_M1014_Imperial
+NOMBRE: M1014 - Green Flame Draco Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the M1014 skin. Obtained from events or buy directly from store
+IMAGEN: OTROS/imagenes/800000505.png

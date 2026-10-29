@@ -1,0 +1,8 @@
+ITEM ID: 801047526
+ICON ID: Icon_exchange_PBO_vn_47
+NOMBRE: Peach Blossom
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047526.png

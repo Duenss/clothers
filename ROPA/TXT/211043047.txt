@@ -1,0 +1,8 @@
+ITEM ID: 211043047
+ICON ID: Icon_avatar_cos_accessory_pointed_mask
+NOMBRE: Crystal Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043047.png

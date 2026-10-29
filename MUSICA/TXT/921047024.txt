@@ -1,0 +1,8 @@
+ITEM ID: 921047024
+ICON ID: FF_UI_Voiceitem_VN47
+NOMBRE: Oh my!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Free Fire VN Creator
+IMAGEN: MUSICA/imagenes/921047024.png

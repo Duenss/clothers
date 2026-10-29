@@ -1,0 +1,8 @@
+ITEM ID: 909044010
+ICON ID: Icon_Emote_School_TH
+NOMBRE: Starcatcher Academy
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044010.png

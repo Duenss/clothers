@@ -1,0 +1,8 @@
+ITEM ID: 800000506
+ICON ID: Icon_WSM_XM8_Thunder
+NOMBRE: XM8 - Destiny Guardian Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the XM8 skins. Obtained from events or buy directly from store
+IMAGEN: OTROS/imagenes/800000506.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102436
+ICON ID: Icon_Pan_Impermanence
+NOMBRE: Pan - Endless Oblivion
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102436.png

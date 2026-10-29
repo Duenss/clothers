@@ -1,0 +1,8 @@
+ITEM ID: 907103938
+ICON ID: Icon_Pan_Comic
+NOMBRE: Pan - Manga Hero
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103938.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000155
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Pharaoh Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Pharaoh Weapon Set.
+IMAGEN: CAJAS/imagenes/400000155.png

@@ -1,0 +1,8 @@
+ITEM ID: 211055042
+ICON ID: Icon_avatar_male_cos_hair_underground26
+NOMBRE: Solar Valor (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055042.png

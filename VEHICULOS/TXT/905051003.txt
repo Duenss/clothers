@@ -1,0 +1,8 @@
+ITEM ID: 905051003
+ICON ID: Icon_Avatar_PARACHUTE_Redhat25
+NOMBRE: Parachute - Little Red
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905051003.png

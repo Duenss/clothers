@@ -1,0 +1,8 @@
+ITEM ID: 801000926
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lantern Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Exchange for rewards in Ramadan event
+IMAGEN: CAJAS/imagenes/801000926.png

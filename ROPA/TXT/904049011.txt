@@ -1,0 +1,8 @@
+ITEM ID: 904049011
+ICON ID: Icon_Bag_RMCO
+NOMBRE: Backpack - realme
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049011.png

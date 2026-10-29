@@ -1,0 +1,8 @@
+ITEM ID: 400051070
+ICON ID: Icon_box_Ice25Event3_51
+NOMBRE: Dreamy Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400051070.png

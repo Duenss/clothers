@@ -1,0 +1,8 @@
+ITEM ID: 211053018
+ICON ID: Icon_avatar_male_cos_accessory_bluetears
+NOMBRE: Undersea Ripples (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053018.png

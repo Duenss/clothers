@@ -1,0 +1,8 @@
+ITEM ID: 205039035
+ICON ID: Icon_avatar_sc_shoe_demolitionist_awakening
+NOMBRE: Rageblast (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039035.png

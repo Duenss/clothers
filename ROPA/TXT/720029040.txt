@@ -1,0 +1,8 @@
+ITEM ID: 720029040
+ICON ID: Icon_bundle_Brfootball_Blue_29
+NOMBRE: CBF Football Jersey - Blue Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/720029040.png

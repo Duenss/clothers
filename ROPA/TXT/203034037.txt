@@ -1,0 +1,8 @@
+ITEM ID: 203034037
+ICON ID: Icon_avatar_male_cos_top_kongfu_a
+NOMBRE: Angry Cook T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034037.png

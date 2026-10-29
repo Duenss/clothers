@@ -1,0 +1,8 @@
+ITEM ID: 907103304
+ICON ID: Icon_Machete_FFWS03
+NOMBRE: Parang - Haven Warrior Slasher
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103304.png

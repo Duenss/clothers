@@ -1,0 +1,8 @@
+ITEM ID: 907136020
+ICON ID: Icon_XM8_Clashgold_S15
+NOMBRE: The Golden XM8
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136020.png

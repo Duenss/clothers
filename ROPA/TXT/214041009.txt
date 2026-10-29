@@ -1,0 +1,8 @@
+ITEM ID: 214041009
+ICON ID: Icon_avatar_cos_headadditive_ds_soundman
+NOMBRE: Tengen's Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214041009.png

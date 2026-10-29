@@ -1,0 +1,8 @@
+ITEM ID: 204051037
+ICON ID: Icon_avatar_cos_bottom_bd_jersey_red
+NOMBRE: BFF Jersey Red (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051037.png

@@ -1,0 +1,8 @@
+ITEM ID: 904034009
+ICON ID: Icon_Bag_Festival_ME
+NOMBRE: Backpack - Ruby Adorned
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034009.png

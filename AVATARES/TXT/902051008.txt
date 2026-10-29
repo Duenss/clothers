@@ -1,0 +1,8 @@
+ITEM ID: 902051008
+ICON ID: Icon_face_Rank48_02
+NOMBRE: BR-Ranked S48 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400026091
+ICON ID: Icon_box_3
+NOMBRE: Famine Felon Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Famine Felon and all its pieces
+IMAGEN: ROPA/imagenes/400026091.png

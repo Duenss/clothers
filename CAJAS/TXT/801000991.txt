@@ -1,0 +1,8 @@
+ITEM ID: 801000991
+ICON ID: Icon_exchange_ob28_foursymbols
+NOMBRE: Might of Mythos
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: This item is capable of holding the might of the Mythos Four within it.
+IMAGEN: CAJAS/imagenes/801000991.png

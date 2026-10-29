@@ -1,0 +1,8 @@
+ITEM ID: 214049001
+ICON ID: Icon_avatar_male_cos_headadditive_prison25
+NOMBRE: Striped Swag (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214049001.png

@@ -1,0 +1,8 @@
+ITEM ID: 205039016
+ICON ID: Icon_avatar_cos_shoe_pineapple
+NOMBRE: Pineapple Spree (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039016.png

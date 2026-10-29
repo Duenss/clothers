@@ -1,0 +1,8 @@
+ITEM ID: 211049001
+ICON ID: Icon_avatar_female_cos_hair_sparta
+NOMBRE: Fearless Battler (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049001.png

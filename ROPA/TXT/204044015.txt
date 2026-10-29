@@ -1,0 +1,8 @@
+ITEM ID: 204044015
+ICON ID: Icon_avatar_male_cos_bottom_onimusha
+NOMBRE: Warrior-o'-the-Wisp (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044015.png

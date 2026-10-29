@@ -1,0 +1,8 @@
+ITEM ID: 907103218
+ICON ID: Icon_ChargeShot_Monster
+NOMBRE: Charge Buster - Violet Fear
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103218.png

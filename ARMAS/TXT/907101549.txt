@@ -1,0 +1,8 @@
+ITEM ID: 907101549
+ICON ID: Icon_SCAR_FutureHeaven
+NOMBRE: SCAR - Paradise
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101549.png

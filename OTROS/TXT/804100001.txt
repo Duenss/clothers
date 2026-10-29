@@ -1,0 +1,8 @@
+ITEM ID: 804100001
+ICON ID: FF_UI_WeaponProficiency_Gift
+NOMBRE: Mastery Firing Button
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtain a special firing button once your mastery of a weapon reaches 100%. After unlocking this feature, when you pick up and use the weapon during matches, your firing button will change. This reward is claimed automatically.
+IMAGEN: OTROS/imagenes/804100001.png

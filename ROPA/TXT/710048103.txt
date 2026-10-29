@@ -1,0 +1,8 @@
+ITEM ID: 710048103
+ICON ID: Icon_box_3
+NOMBRE: Evo Gun Woodpecker Box Bundle
+TIPO: Bundle Create
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: Get the chance to obtain the Katana Black Honor permanently!
+IMAGEN: ROPA/imagenes/710048103.png

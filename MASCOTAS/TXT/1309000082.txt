@@ -1,0 +1,8 @@
+ITEM ID: 1309000082
+ICON ID: Pet_Otter_Show
+NOMBRE: Play
+TIPO: Pet Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Action that can be unlocked when pet levels up. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000082.png

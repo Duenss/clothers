@@ -1,0 +1,8 @@
+ITEM ID: 907102542
+ICON ID: Icon_GlooShield_Megapunch
+NOMBRE: Gloo Wall - One Punch Man
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102542.png

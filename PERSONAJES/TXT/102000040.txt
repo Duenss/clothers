@@ -1,0 +1,8 @@
+ITEM ID: 102000040
+ICON ID: Icon_face_male_head_sc_Designer
+NOMBRE: Santino
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Santino Valentine is a fashion designer, who is always a trending subject in the fashion world and on social media.
+IMAGEN: PERSONAJES/imagenes/102000040.png

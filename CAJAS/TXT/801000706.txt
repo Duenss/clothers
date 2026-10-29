@@ -1,0 +1,8 @@
+ITEM ID: 801000706
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Dino Egg
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000706.png

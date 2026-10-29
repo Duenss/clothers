@@ -1,0 +1,8 @@
+ITEM ID: 203000176
+ICON ID: Icon_avatar_tshirt_korea_esports
+NOMBRE: 토요프파 티셔츠
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000176.png

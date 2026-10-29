@@ -1,0 +1,8 @@
+ITEM ID: 400050053
+ICON ID: Icon_box_DunelordBP_50
+NOMBRE: BP S33 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050053.png

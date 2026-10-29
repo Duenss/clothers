@@ -1,0 +1,8 @@
+ITEM ID: 929005504
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_04
+NOMBRE: Sasuke Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Sasuke Sticker
+IMAGEN: AVATARES/imagenes/929005504.png

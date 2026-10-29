@@ -1,0 +1,8 @@
+ITEM ID: 204036012
+ICON ID: Icon_avatar_male_cos_bottom_halloween22
+NOMBRE: Duke of Terrorville (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036012.png

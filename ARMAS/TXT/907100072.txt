@@ -1,0 +1,8 @@
+ITEM ID: 907100072
+ICON ID: Icon_VSS_General
+NOMBRE: VSS - Star General
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100072.png

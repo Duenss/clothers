@@ -1,0 +1,8 @@
+ITEM ID: 407105302
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Goal Kick (M4A1 + M1917) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Open to receive a random gun skin (M4A1 + M1917) from the Goal Kick set
+IMAGEN: ARMAS/imagenes/407105302.png

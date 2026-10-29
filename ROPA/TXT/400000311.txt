@@ -1,0 +1,8 @@
+ITEM ID: 400000311
+ICON ID: Icon_box_3
+NOMBRE: Holi Gold Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open the Holi Gold Crate to win exciting rewards!
+IMAGEN: ROPA/imagenes/400000311.png

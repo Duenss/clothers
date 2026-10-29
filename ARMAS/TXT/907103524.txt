@@ -1,0 +1,8 @@
+ITEM ID: 907103524
+ICON ID: Icon_Machete_Digitaluniverse_02
+NOMBRE: Parang - Futurnetic Slicer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103524.png

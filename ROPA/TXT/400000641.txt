@@ -1,0 +1,8 @@
+ITEM ID: 400000641
+ICON ID: Icon_box_3
+NOMBRE: Notora Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Notora and many other rewards
+IMAGEN: ROPA/imagenes/400000641.png

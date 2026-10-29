@@ -1,0 +1,8 @@
+ITEM ID: 407103718
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Poppin' (Groza + M24) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (Groza + M24) from the Poppin' weapon set
+IMAGEN: ARMAS/imagenes/407103718.png

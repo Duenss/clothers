@@ -1,0 +1,8 @@
+ITEM ID: 801040103
+ICON ID: FF_UI_SixthB_03_StikcerItem03
+NOMBRE: Glider
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Remember the days you glide onto the roof?
+IMAGEN: CAJAS/imagenes/801040103.png

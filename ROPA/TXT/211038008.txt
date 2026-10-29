@@ -1,0 +1,8 @@
+ITEM ID: 211038008
+ICON ID: Icon_avatar_male_cos_hair_cloisonne
+NOMBRE: Retro Evergreen (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038008.png

@@ -1,0 +1,8 @@
+ITEM ID: 908042007
+ICON ID: Icon_slot_Motobike_Guild
+NOMBRE: Motorbike - Guildian's Speed
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042007.png

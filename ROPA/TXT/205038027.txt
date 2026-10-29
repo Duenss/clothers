@@ -1,0 +1,8 @@
+ITEM ID: 205038027
+ICON ID: Icon_avatar_cos_shoe_goal_shoes
+NOMBRE: Achiever Sneakers
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038027.png

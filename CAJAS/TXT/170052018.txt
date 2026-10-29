@@ -1,0 +1,8 @@
+ITEM ID: 170052018
+ICON ID: Icon_OptionalBundle_npwcc1_LOT_52
+NOMBRE: Newbie Purple Weapon Choice Crate 1
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052018.png

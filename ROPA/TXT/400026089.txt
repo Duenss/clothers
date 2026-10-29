@@ -1,0 +1,8 @@
+ITEM ID: 400026089
+ICON ID: Icon_box_3
+NOMBRE: The Shining Gold Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains The Shining Gold and all its pieces
+IMAGEN: ROPA/imagenes/400026089.png

@@ -1,0 +1,8 @@
+ITEM ID: 904029011
+ICON ID: Icon_Bag_Supercar_B
+NOMBRE: Backpack - Max Throttle
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029011.png

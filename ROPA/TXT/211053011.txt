@@ -1,0 +1,8 @@
+ITEM ID: 211053011
+ICON ID: Icon_avatar_male_cos_accessory_gemini25
+NOMBRE: Astral Twinstars (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053011.png

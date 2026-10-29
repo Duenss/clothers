@@ -1,0 +1,8 @@
+ITEM ID: 907104065
+ICON ID: Icon_FAL_Traphiphop22
+NOMBRE: PARAFAL - City Eyes
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104065.png

@@ -1,0 +1,8 @@
+ITEM ID: 908049004
+ICON ID: Icon_slot_Motobike_Coolguy
+NOMBRE: Motorbike - Lead Rose
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049004.png

@@ -1,0 +1,8 @@
+ITEM ID: 907002323
+ICON ID: Icon_AN94_Jumpsuit
+NOMBRE: AN94 - Plan Bermuda
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002323.png

@@ -1,0 +1,8 @@
+ITEM ID: 906036005
+ICON ID: Icon_Avatar_Surfboard_Ghostface
+NOMBRE: Skyboard - Phantom Blublast
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906036005.png

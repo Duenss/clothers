@@ -1,0 +1,8 @@
+ITEM ID: 910044001
+ICON ID: Pin_Small_Festivalme_24
+NOMBRE: Silent Goat Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910044001.png

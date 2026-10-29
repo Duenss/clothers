@@ -1,0 +1,8 @@
+ITEM ID: 203041040
+ICON ID: Icon_avatar_cos_top_ffsi
+NOMBRE: FFSI Champion Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041040.png

@@ -1,0 +1,8 @@
+ITEM ID: 921055026
+ICON ID: FF_UI_Voiceitem_Halloween26
+NOMBRE: I want to play... a game
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: The Unseen voice pack
+IMAGEN: MUSICA/imagenes/921055026.png

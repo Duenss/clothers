@@ -1,0 +1,8 @@
+ITEM ID: 801000925
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Celebration Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Exchange for rewards!
+IMAGEN: CAJAS/imagenes/801000925.png

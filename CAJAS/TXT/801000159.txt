@@ -1,0 +1,8 @@
+ITEM ID: 801000159
+ICON ID: Icon_exchange_chocolate_cake
+NOMBRE: Chocolate Cake
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000159.png

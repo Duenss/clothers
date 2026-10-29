@@ -1,0 +1,8 @@
+ITEM ID: 904048005
+ICON ID: Icon_Bag_Sleepcoat_02_A
+NOMBRE: Backpack - Sleepy Duckling
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904048005.png

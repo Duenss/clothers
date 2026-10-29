@@ -1,0 +1,8 @@
+ITEM ID: 909044012
+ICON ID: Icon_Emote_Zombie24
+NOMBRE: Zombified!
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044012.png

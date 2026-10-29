@@ -1,0 +1,8 @@
+ITEM ID: 905000063
+ICON ID: Icon_Avatar_PARACHUTE_Hockeygoalie
+NOMBRE: Parachute - Raining Blood
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000063.png

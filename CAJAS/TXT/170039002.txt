@@ -1,0 +1,8 @@
+ITEM ID: 170039002
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Blessings Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Receive your chosen gift of blessing
+IMAGEN: CAJAS/imagenes/170039002.png

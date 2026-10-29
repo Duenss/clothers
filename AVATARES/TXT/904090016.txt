@@ -1,0 +1,8 @@
+ITEM ID: 904090016
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Old 'n' Gold
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the "Work Hard Play Hard" achievement
+IMAGEN: AVATARES/imagenes/904090016.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000685
+ICON ID: Icon_exchange_ob25_purple_nucleus
+NOMBRE: Purple Energy Core
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000685.png

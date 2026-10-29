@@ -1,0 +1,8 @@
+ITEM ID: 909000064
+ICON ID: Icon_Emote_Megapunch_Smile
+NOMBRE: I'm Saitama!
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000064.png

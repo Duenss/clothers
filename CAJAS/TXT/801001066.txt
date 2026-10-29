@@ -1,0 +1,8 @@
+ITEM ID: 801001066
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Popsicle Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Eat it before it melts
+IMAGEN: CAJAS/imagenes/801001066.png

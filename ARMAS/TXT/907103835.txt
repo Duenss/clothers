@@ -1,0 +1,8 @@
+ITEM ID: 907103835
+ICON ID: Icon_Kord_Alligator
+NOMBRE: Kord - Crocodare
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103835.png

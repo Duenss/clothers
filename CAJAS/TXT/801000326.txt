@@ -1,0 +1,8 @@
+ITEM ID: 801000326
+ICON ID: Icon_exchange_yellow_paint
+NOMBRE: Yellow Paint
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Yellow Colored Paint
+IMAGEN: CAJAS/imagenes/801000326.png

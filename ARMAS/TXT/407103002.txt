@@ -1,0 +1,8 @@
+ITEM ID: 407103002
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Goldrim Tribute (Thompson + Kord) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Open to receive a random gun skin (Thompson + Kord) from the Goldrim Tribute weapon set
+IMAGEN: ARMAS/imagenes/407103002.png

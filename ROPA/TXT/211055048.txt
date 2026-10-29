@@ -1,0 +1,8 @@
+ITEM ID: 211055048
+ICON ID: Icon_avatar_cos_hair_storm26
+NOMBRE: Storm Arena (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055048.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000293
+ICON ID: Icon_valentinve_jazz
+NOMBRE: Love in the Air Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000293.png

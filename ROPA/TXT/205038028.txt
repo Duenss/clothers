@@ -1,0 +1,8 @@
+ITEM ID: 205038028
+ICON ID: Icon_avatar_cos_shoe_hautecouture
+NOMBRE: Haute Minimalist (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038028.png

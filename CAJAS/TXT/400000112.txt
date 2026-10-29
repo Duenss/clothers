@@ -1,0 +1,8 @@
+ITEM ID: 400000112
+ICON ID: Icon_box_special
+NOMBRE: Chiz King Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Congratulations! Enjoy the loot crate from Chiz King!
+IMAGEN: CAJAS/imagenes/400000112.png

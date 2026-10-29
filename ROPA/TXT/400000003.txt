@@ -1,0 +1,8 @@
+ITEM ID: 400000003
+ICON ID: Icon_box_3
+NOMBRE: Monday to Sunday!
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: With this, you no longer have to think about what to wear everyday!
+IMAGEN: ROPA/imagenes/400000003.png

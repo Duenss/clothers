@@ -1,0 +1,8 @@
+ITEM ID: 211035045
+ICON ID: Icon_avatar_male_cos_accessory_pirates
+NOMBRE: Rowdy Searuler (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035045.png

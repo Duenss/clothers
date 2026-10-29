@@ -1,0 +1,8 @@
+ITEM ID: 910040003
+ICON ID: Pin_Small_Festivalme_22
+NOMBRE: Bunny Leader Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910040003.png

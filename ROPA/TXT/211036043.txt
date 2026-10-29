@@ -1,0 +1,8 @@
+ITEM ID: 211036043
+ICON ID: Icon_avatar_cos_accessory_potentia_01
+NOMBRE: Pacific Breeze (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036043.png

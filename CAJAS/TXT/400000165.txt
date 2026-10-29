@@ -1,0 +1,8 @@
+ITEM ID: 400000165
+ICON ID: Icon_face_female_sc_richgirl
+NOMBRE: Caroline's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to Receive Memory Fragment (Caroline)
+IMAGEN: CAJAS/imagenes/400000165.png

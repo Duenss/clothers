@@ -1,0 +1,8 @@
+ITEM ID: 921046006
+ICON ID: FF_UI_Voiceitem_BRrapper
+NOMBRE: Pass it to me!
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Matuê
+IMAGEN: MUSICA/imagenes/921046006.png

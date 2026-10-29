@@ -1,0 +1,8 @@
+ITEM ID: 211001295
+ICON ID: Icon_avatar_male_cos_hair_valentine2022
+NOMBRE: Vampire Malevolence (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001295.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000036
+ICON ID: Icon_exchange_christmas_sweets_yellow
+NOMBRE: Yellow Star Candy
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Candy collections can be used in the exchange store.
+IMAGEN: CAJAS/imagenes/801000036.png

@@ -1,0 +1,8 @@
+ITEM ID: 905035006
+ICON ID: Icon_Avatar_PARACHUTE_CATeam
+NOMBRE: Parachute - Celestial Fall
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905035006.png

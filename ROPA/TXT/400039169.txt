@@ -1,0 +1,8 @@
+ITEM ID: 400039169
+ICON ID: Icon_box_3
+NOMBRE: Timbered Box
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: Style in the game with these cool fashion pieces
+IMAGEN: ROPA/imagenes/400039169.png

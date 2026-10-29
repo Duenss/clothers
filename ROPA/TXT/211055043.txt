@@ -1,0 +1,8 @@
+ITEM ID: 211055043
+ICON ID: Icon_avatar_female_cos_accessory_underground26
+NOMBRE: Lunar Valor (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055043.png

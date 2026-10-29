@@ -1,0 +1,8 @@
+ITEM ID: 203039052
+ICON ID: Icon_avatar_male_cos_top_comic_basic
+NOMBRE: OG Hero's Night Out (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039052.png

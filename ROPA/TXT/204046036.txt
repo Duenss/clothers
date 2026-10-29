@@ -1,0 +1,8 @@
+ITEM ID: 204046036
+ICON ID: Icon_avatar_male_cos_bottom_fb_white02
+NOMBRE: Nagi - Team White (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046036.png

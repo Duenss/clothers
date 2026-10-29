@@ -1,0 +1,8 @@
+ITEM ID: 203000000
+ICON ID: Icon_avatar_cos_top_default
+NOMBRE: Default
+TIPO: Top
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Default
+IMAGEN: ROPA/imagenes/203000000.png

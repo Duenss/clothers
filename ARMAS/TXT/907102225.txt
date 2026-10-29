@@ -1,0 +1,8 @@
+ITEM ID: 907102225
+ICON ID: Icon_UMP45_Detective
+NOMBRE: UMP - Private Eye
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102225.png

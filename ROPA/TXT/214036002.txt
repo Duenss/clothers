@@ -1,0 +1,8 @@
+ITEM ID: 214036002
+ICON ID: Icon_avatar_male_cos_headadditive_icewizard
+NOMBRE: Wizard of Blizzards (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214036002.png

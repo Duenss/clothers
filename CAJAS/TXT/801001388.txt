@@ -1,0 +1,8 @@
+ITEM ID: 801001388
+ICON ID: Icon_exchange_ob32_gold_gun_coin
+NOMBRE: Gold Gun Coin Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001388.png

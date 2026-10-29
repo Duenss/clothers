@@ -1,0 +1,8 @@
+ITEM ID: 910031006
+ICON ID: Pin_Small_Cupmatch02
+NOMBRE: CS Cup Memorial Pin II
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910031006.png

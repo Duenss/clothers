@@ -1,0 +1,8 @@
+ITEM ID: 801000058
+ICON ID: Icon_exchange_longzhu_hong
+NOMBRE: Dragon Soul- Red
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000058.png

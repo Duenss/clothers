@@ -1,0 +1,8 @@
+ITEM ID: 907104532
+ICON ID: Icon_GlooShield_Leo
+NOMBRE: Gloo Wall - Leo Threat
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104532.png

@@ -1,0 +1,8 @@
+ITEM ID: 211050035
+ICON ID: Icon_avatar_cos_accessory_lion_lny
+NOMBRE: Lion Dance Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050035.png

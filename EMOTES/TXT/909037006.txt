@@ -1,0 +1,8 @@
+ITEM ID: 909037006
+ICON ID: Icon_Emote_Eaten_Freeze
+NOMBRE: Yum
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909037006.png

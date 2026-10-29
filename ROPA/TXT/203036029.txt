@@ -1,0 +1,8 @@
+ITEM ID: 203036029
+ICON ID: Icon_avatar_cos_top_potentia_01
+NOMBRE: Pacific Breeze (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036029.png

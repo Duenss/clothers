@@ -1,0 +1,8 @@
+ITEM ID: 400034082
+ICON ID: Icon_box_3
+NOMBRE: Merciless Necromancer Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Merciless Necromancer and all its pieces
+IMAGEN: ROPA/imagenes/400034082.png

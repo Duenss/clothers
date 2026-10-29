@@ -1,0 +1,8 @@
+ITEM ID: 400046529
+ICON ID: Icon_box_Head_Box2_TH_46
+NOMBRE: Head Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046529.png

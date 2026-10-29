@@ -1,0 +1,8 @@
+ITEM ID: 204050020
+ICON ID: Icon_avatar_male_cos_bottom_lineart
+NOMBRE: Line Art Pro (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050020.png

@@ -1,0 +1,8 @@
+ITEM ID: 905490094
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Craftland Creator
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by unlocking Craftland Creator Starter Level
+IMAGEN: AVATARES/imagenes/905490094.png

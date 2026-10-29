@@ -1,0 +1,8 @@
+ITEM ID: 928005405
+ICON ID: Icon_GroupPhoto_Festival_Music_icon
+NOMBRE: Let's Groove
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Let's Groove
+IMAGEN: AVATARES/imagenes/928005405.png

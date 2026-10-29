@@ -1,0 +1,8 @@
+ITEM ID: 204053020
+ICON ID: Icon_avatar_male_cos_bottom_y2k_plush
+NOMBRE: Cheeky Plush (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053020.png

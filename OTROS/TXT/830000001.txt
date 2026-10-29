@@ -1,0 +1,8 @@
+ITEM ID: 830000001
+ICON ID: Icon_Exchange_Gatha_Token_snake
+NOMBRE: Legendary Cobra Egg
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Used in the Cobra Token Tower to get exclusive rewards
+IMAGEN: OTROS/imagenes/830000001.png

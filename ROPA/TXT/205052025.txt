@@ -1,0 +1,8 @@
+ITEM ID: 205052025
+ICON ID: Icon_avatar_male_cos_shoe_pixel25
+NOMBRE: 8-Bit Dude (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205052025.png

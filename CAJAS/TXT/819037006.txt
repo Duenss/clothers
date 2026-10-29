@@ -1,0 +1,8 @@
+ITEM ID: 819037006
+ICON ID: FF_UI_VFX_FFWS_04
+NOMBRE: FFWS Galaxy Spotlight
+TIPO: Vouchers
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: Look at me now! [FFBA00](Equip any top from the FFWS Galaxy legendary outfits to display a special effect in the lobby, on the spawn island, and when waiting at the spawn points in CS mode.)[-]
+IMAGEN: CAJAS/imagenes/819037006.png

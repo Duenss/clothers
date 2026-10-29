@@ -1,0 +1,8 @@
+ITEM ID: 211038054
+ICON ID: Icon_avatar_male_cos_hair_alligator_white
+NOMBRE: Crocowrestler (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038054.png

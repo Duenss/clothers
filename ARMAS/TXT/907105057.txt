@@ -1,0 +1,8 @@
+ITEM ID: 907105057
+ICON ID: Icon_GlooShield_Mooncake_VN
+NOMBRE: Gloo Wall - Moon Cake
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105057.png

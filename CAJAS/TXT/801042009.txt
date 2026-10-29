@@ -1,0 +1,8 @@
+ITEM ID: 801042009
+ICON ID: Icon_exchange_Theboy_tower_42
+NOMBRE: Frostfire Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801042009.png

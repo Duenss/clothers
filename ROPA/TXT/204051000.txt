@@ -1,0 +1,8 @@
+ITEM ID: 204051000
+ICON ID: Icon_avatar_male_cos_bottom_ghost25
+NOMBRE: Night Spookster (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051000.png

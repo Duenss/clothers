@@ -1,0 +1,8 @@
+ITEM ID: 909000140
+ICON ID: Icon_Emote_Hoodedkiller_Blade
+NOMBRE: Creed Slay
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000140.png

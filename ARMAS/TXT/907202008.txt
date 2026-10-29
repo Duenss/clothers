@@ -1,0 +1,8 @@
+ITEM ID: 907202008
+ICON ID: Icon_AWM_Furryspy
+NOMBRE: AWM - Agent Paws
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202008.png

@@ -1,0 +1,8 @@
+ITEM ID: 500000002
+ICON ID: Icon_Loadout_supplies
+NOMBRE: Supply Crate
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A crate that contains all kinds of supplies. This item has different effects in Battle Royale and Clash Squad.
+IMAGEN: OTROS/imagenes/500000002.png

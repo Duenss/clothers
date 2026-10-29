@@ -1,0 +1,8 @@
+ITEM ID: 801047544
+ICON ID: Icon_exchange_SMT_id_47
+NOMBRE: Snowman Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047544.png

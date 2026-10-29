@@ -1,0 +1,8 @@
+ITEM ID: 205000024
+ICON ID: Icon_avatar_female_suit_shoes_001_5
+NOMBRE: School Shoes (Violet)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000024.png

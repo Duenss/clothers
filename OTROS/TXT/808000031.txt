@@ -1,0 +1,8 @@
+ITEM ID: 808000031
+ICON ID: Icon_ff_Cardboard_Prem_Gun
+NOMBRE: Blueprint: Safari Riot Guns
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Safari Riot gun skins
+IMAGEN: OTROS/imagenes/808000031.png

@@ -1,0 +1,8 @@
+ITEM ID: 400041567
+ICON ID: Icon_box_Piattos_1_ID_41
+NOMBRE: Piattos Box 1
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Piattos, always crave for more
+IMAGEN: CAJAS/imagenes/400041567.png

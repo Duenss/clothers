@@ -1,0 +1,8 @@
+ITEM ID: 908051012
+ICON ID: Icon_slot_Motobike_DA_Iron
+NOMBRE: Motorbike - MetalGarurumon
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051012.png

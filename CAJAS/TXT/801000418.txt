@@ -1,0 +1,8 @@
+ITEM ID: 801000418
+ICON ID: Icon_exchange_ob21_black_turtle
+NOMBRE: Black Turtle
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Symbol of North
+IMAGEN: CAJAS/imagenes/801000418.png

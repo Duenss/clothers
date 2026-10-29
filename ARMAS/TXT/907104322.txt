@@ -1,0 +1,8 @@
+ITEM ID: 907104322
+ICON ID: Icon_Baseballbat_VAcademy
+NOMBRE: Bat - Buttercup Dusk
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104322.png

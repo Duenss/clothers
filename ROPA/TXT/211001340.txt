@@ -1,0 +1,8 @@
+ITEM ID: 211001340
+ICON ID: Icon_avatar_male_cos_accessory_colorfest_m
+NOMBRE: The Prismatic Warrior (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001340.png

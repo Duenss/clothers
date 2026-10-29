@@ -1,0 +1,8 @@
+ITEM ID: 907103701
+ICON ID: Icon_MAG7_FFWS2022
+NOMBRE: MAG-7 - Galaxy Monstron
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103701.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000407
+ICON ID: Icon_exchange_easter
+NOMBRE: Easter
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Ready to get lucky?
+IMAGEN: CAJAS/imagenes/801000407.png

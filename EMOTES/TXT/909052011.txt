@@ -1,0 +1,8 @@
+ITEM ID: 909052011
+ICON ID: Icon_Emote_Buggy_Glitchy
+NOMBRE: Laggy
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909052011.png

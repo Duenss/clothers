@@ -1,0 +1,8 @@
+ITEM ID: 906031005
+ICON ID: Icon_Avatar_Surfboard_Winterfest21
+NOMBRE: Skyboard - Frozen Clown
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906031005.png

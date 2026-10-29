@@ -1,0 +1,8 @@
+ITEM ID: 102000055
+ICON ID: Icon_face_male_head_sc_Mysteryman
+NOMBRE: Morse
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Silent and free like a mouse, Morse never leaves a trace behind. He slips between the real world and the web, driven only by self-interests.
+IMAGEN: PERSONAJES/imagenes/102000055.png

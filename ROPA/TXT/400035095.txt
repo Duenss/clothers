@@ -1,0 +1,8 @@
+ITEM ID: 400035095
+ICON ID: Icon_box_3
+NOMBRE: Champ in Green Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains Champ in Green and all its pieces
+IMAGEN: ROPA/imagenes/400035095.png

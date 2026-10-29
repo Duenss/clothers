@@ -1,0 +1,8 @@
+ITEM ID: 400029057
+ICON ID: Icon_box_3
+NOMBRE: Partner Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400029057.png

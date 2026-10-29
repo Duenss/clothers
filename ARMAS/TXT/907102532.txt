@@ -1,0 +1,8 @@
+ITEM ID: 907102532
+ICON ID: Icon_FAL_Bounty
+NOMBRE: PARAFAL - Cosmic Bounty Hunter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102532.png

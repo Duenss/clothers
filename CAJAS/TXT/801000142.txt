@@ -1,0 +1,8 @@
+ITEM ID: 801000142
+ICON ID: Icon_exchange_Snowflake
+NOMBRE: Snow Badge
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000142.png

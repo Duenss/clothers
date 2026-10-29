@@ -1,0 +1,8 @@
+ITEM ID: 913034011
+ICON ID: FF_UI_Vault_Music_Rampage4
+NOMBRE: Rampage 2022
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Rampage 2022 lobby music
+IMAGEN: MUSICA/imagenes/913034011.png

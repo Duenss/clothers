@@ -1,0 +1,8 @@
+ITEM ID: 906036007
+ICON ID: Icon_Avatar_Surfboard_Sugarskull22
+NOMBRE: Skyboard - Raft to the Underworld
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906036007.png

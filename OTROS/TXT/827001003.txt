@@ -1,0 +1,8 @@
+ITEM ID: 827001003
+ICON ID: Icon_ff_Week_Card
+NOMBRE: Weekly Member Icon
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A proud symbol of a valuable Weekly Member
+IMAGEN: OTROS/imagenes/827001003.png

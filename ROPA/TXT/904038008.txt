@@ -1,0 +1,8 @@
+ITEM ID: 904038008
+ICON ID: Icon_Bag_Carnaval
+NOMBRE: Backpack - Omnireptile
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038008.png

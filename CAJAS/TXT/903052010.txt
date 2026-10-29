@@ -1,0 +1,8 @@
+ITEM ID: 903052010
+ICON ID: Icon_Deadloot_CSRank36
+NOMBRE: Loot Box - S36 Exclusive: Emoji
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: CAJAS/imagenes/903052010.png

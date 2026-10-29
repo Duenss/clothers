@@ -1,0 +1,8 @@
+ITEM ID: 801000658
+ICON ID: Icon_exchange_ob24_Medal_of_Story
+NOMBRE: Medal of Story
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000658.png

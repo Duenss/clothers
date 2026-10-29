@@ -1,0 +1,8 @@
+ITEM ID: 900000013
+ICON ID: Icon_face_normal
+NOMBRE: Default Avatar
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A customizable item for expressing your personality
+IMAGEN: OTROS/imagenes/900000013.png

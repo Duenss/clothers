@@ -1,0 +1,8 @@
+ITEM ID: 407202609
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Superstar Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Open to receive a random gun skin from the Superstar weapon set
+IMAGEN: ARMAS/imagenes/407202609.png

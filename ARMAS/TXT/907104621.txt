@@ -1,0 +1,8 @@
+ITEM ID: 907104621
+ICON ID: Icon_ThrowingKnife_Yinyang24
+NOMBRE: Dagger - Aura of Chaos
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104621.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030180
+ICON ID: Icon_box_3
+NOMBRE: Lethal Sailor Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Lethal Sailor and all it's pieces
+IMAGEN: ROPA/imagenes/400030180.png

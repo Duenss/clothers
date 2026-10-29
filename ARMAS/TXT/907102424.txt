@@ -1,0 +1,8 @@
+ITEM ID: 907102424
+ICON ID: Icon_SPAS12_MMAFighter
+NOMBRE: SPAS12 - MMA Fighter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102424.png

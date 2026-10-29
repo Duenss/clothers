@@ -1,0 +1,8 @@
+ITEM ID: 400034093
+ICON ID: Icon_box_3
+NOMBRE: Emote: Possessed Warrior Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Emote: Possessed Warrior
+IMAGEN: ROPA/imagenes/400034093.png

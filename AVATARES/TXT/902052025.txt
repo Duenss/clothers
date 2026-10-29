@@ -1,0 +1,8 @@
+ITEM ID: 902052025
+ICON ID: Icon_face_male_head_sc_Mysteryman_B
+NOMBRE: The Untraceable Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052025.png

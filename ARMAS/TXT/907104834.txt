@@ -1,0 +1,8 @@
+ITEM ID: 907104834
+ICON ID: Icon_Pan_Rank44
+NOMBRE: Pan - S44 Exclusive: Manga
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: BR-Ranked S44 Reward
+IMAGEN: ARMAS/imagenes/907104834.png

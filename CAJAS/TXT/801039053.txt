@@ -1,0 +1,8 @@
+ITEM ID: 801039053
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lantern Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Shine your way! Use this token in the event.
+IMAGEN: CAJAS/imagenes/801039053.png

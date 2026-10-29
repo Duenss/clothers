@@ -1,0 +1,8 @@
+ITEM ID: 205000075
+ICON ID: Icon_avatar_low_boot_yellow
+NOMBRE: Yellow boots
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000075.png

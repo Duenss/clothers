@@ -1,0 +1,8 @@
+ITEM ID: 801000748
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion K
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Knowledge is Freedom
+IMAGEN: CAJAS/imagenes/801000748.png

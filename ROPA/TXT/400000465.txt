@@ -1,0 +1,8 @@
+ITEM ID: 400000465
+ICON ID: Icon_box_3
+NOMBRE: Beach Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Golden sands, blue ocean, I love the beach.
+IMAGEN: ROPA/imagenes/400000465.png

@@ -1,0 +1,8 @@
+ITEM ID: 203050030
+ICON ID: Icon_avatar_male_cos_top_rank47
+NOMBRE: BR-Ranked S47 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050030.png

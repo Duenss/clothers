@@ -1,0 +1,8 @@
+ITEM ID: 907136095
+ICON ID: Icon_BDK_Grenade
+NOMBRE: Grenade - Crimson Blow
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136095.png

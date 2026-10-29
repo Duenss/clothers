@@ -1,0 +1,8 @@
+ITEM ID: 902000137
+ICON ID: Icon_face_jajuar_EP_02
+NOMBRE: Sneaky Panther
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000137.png

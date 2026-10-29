@@ -1,0 +1,8 @@
+ITEM ID: 204000016
+ICON ID: Icon_avatar_casual_camo_004
+NOMBRE: Long Pants (Ruins)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000016.png

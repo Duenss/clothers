@@ -1,0 +1,8 @@
+ITEM ID: 906048002
+ICON ID: Icon_Avatar_Surfboard_Firefly
+NOMBRE: Skyboard - Luminous Wing
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906048002.png

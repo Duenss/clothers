@@ -1,0 +1,8 @@
+ITEM ID: 204050026
+ICON ID: Icon_avatar_cos_bottom_batik
+NOMBRE: Golden Twilight (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050026.png

@@ -1,0 +1,8 @@
+ITEM ID: 921051018
+ICON ID: FF_UI_Voiceitem_DOD25
+NOMBRE: (sobbing) Waah... waaahhh
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Day of the Dead 2025 Voice Pack
+IMAGEN: MUSICA/imagenes/921051018.png

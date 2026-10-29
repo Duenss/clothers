@@ -1,0 +1,8 @@
+ITEM ID: 907103406
+ICON ID: Icon_M1873_Kongfu
+NOMBRE: M1873 - Golden Prosperity
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103406.png

@@ -1,0 +1,8 @@
+ITEM ID: 203001295
+ICON ID: Icon_avatar_male_top_cos_thagent
+NOMBRE: Night Scouter (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001295.png

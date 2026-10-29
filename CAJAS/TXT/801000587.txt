@@ -1,0 +1,8 @@
+ITEM ID: 801000587
+ICON ID: Icon_exchange_ob23_smile_day_token
+NOMBRE: Smile Day Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Smile through your battles
+IMAGEN: CAJAS/imagenes/801000587.png

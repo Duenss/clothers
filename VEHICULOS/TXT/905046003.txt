@@ -1,0 +1,8 @@
+ITEM ID: 905046003
+ICON ID: Icon_Avatar_PARACHUTE_Glooworld
+NOMBRE: Parachute - Gloo Sploosh
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905046003.png

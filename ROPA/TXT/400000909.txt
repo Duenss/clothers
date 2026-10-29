@@ -1,0 +1,8 @@
+ITEM ID: 400000909
+ICON ID: Icon_box_3
+NOMBRE: Spade Card Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Symbol of South
+IMAGEN: ROPA/imagenes/400000909.png

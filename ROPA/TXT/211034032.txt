@@ -1,0 +1,8 @@
+ITEM ID: 211034032
+ICON ID: Icon_avatar_cos_hair_bis
+NOMBRE: Digital Dasher (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034032.png

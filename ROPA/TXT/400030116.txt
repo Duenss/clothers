@@ -1,0 +1,8 @@
+ITEM ID: 400030116
+ICON ID: Icon_box_3
+NOMBRE: Friendship Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: For your best friends!
+IMAGEN: ROPA/imagenes/400030116.png

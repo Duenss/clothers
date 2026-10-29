@@ -1,0 +1,8 @@
+ITEM ID: 400000029
+ICON ID: Icon_box_3
+NOMBRE: Dino Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece of the Dino series or a 3-day trial. You will not receive duplicates of permanent items.
+IMAGEN: ROPA/imagenes/400000029.png

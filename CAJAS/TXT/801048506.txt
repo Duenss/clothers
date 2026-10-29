@@ -1,0 +1,8 @@
+ITEM ID: 801048506
+ICON ID: Icon_exchange_FRT_id_48
+NOMBRE: Fork Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048506.png

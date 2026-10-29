@@ -1,0 +1,8 @@
+ITEM ID: 214049000
+ICON ID: Icon_avatar_female_cos_headadditive_sparta
+NOMBRE: Fearless Battler (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214049000.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000026
+ICON ID: Icon_exchange_nanguatang_A
+NOMBRE: Orange Candy
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000026.png

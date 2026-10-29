@@ -1,0 +1,8 @@
+ITEM ID: 921048004
+ICON ID: FF_UI_Voiceitem_TH48Tar
+NOMBRE: Don't let there be a second time
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Tar Voice Pack
+IMAGEN: MUSICA/imagenes/921048004.png

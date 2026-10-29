@@ -1,0 +1,8 @@
+ITEM ID: 907102726
+ICON ID: Icon_Vector_Xtreme
+NOMBRE: Vector - Xtreme Adventure
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102726.png

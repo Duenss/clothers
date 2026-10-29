@@ -1,0 +1,8 @@
+ITEM ID: 801000709
+ICON ID: Icon_exchange_ob25_time_compass
+NOMBRE: Time Compass
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000709.png

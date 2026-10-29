@@ -1,0 +1,8 @@
+ITEM ID: 913038001
+ICON ID: FF_UI_Vault_Music_MO
+NOMBRE: Style It Up
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: "Mission: Makeover" lobby music
+IMAGEN: MUSICA/imagenes/913038001.png

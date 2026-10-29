@@ -1,0 +1,8 @@
+ITEM ID: 211044041
+ICON ID: Icon_avatar_cos_hair_school_crown
+NOMBRE: Crown Academy Band
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044041.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000220
+ICON ID: Icon_avatar_male_shirt_Gillette
+NOMBRE: Gillette Shirt
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000220.png

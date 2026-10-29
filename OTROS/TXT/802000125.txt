@@ -1,0 +1,8 @@
+ITEM ID: 802000125
+ICON ID: FF_Lottery_Party_52_Voucher
+NOMBRE: Party Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000125.png

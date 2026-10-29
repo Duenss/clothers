@@ -1,0 +1,8 @@
+ITEM ID: 400030126
+ICON ID: Icon_box_3
+NOMBRE: Golden Leaf Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Welcome to autumn!
+IMAGEN: ROPA/imagenes/400030126.png

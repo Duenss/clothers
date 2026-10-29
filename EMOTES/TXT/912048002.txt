@@ -1,0 +1,8 @@
+ITEM ID: 912048002
+ICON ID: Icon_GroupAnim_Cityhero
+NOMBRE: Midnight Cape
+TIPO: Arrival Animation
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB48
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912048002.png

@@ -1,0 +1,8 @@
+ITEM ID: 205036037
+ICON ID: Icon_avatar_female_cos_shoe_decadentbear_01
+NOMBRE: Frightful Plushie (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036037.png

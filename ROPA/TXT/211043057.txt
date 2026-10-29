@@ -1,0 +1,8 @@
+ITEM ID: 211043057
+ICON ID: Icon_avatar_cos_accessory_reputation43
+NOMBRE: An Honor Rest (Mask)
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043057.png

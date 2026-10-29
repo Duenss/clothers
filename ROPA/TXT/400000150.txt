@@ -1,0 +1,8 @@
+ITEM ID: 400000150
+ICON ID: Icon_box_3
+NOMBRE: Teenage Dream Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin. There's a chance of getting a rare FAMAS skin "Teenage Dream"
+IMAGEN: ROPA/imagenes/400000150.png

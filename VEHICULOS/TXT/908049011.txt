@@ -1,0 +1,8 @@
+ITEM ID: 908049011
+ICON ID: Icon_slot_Motobike_Football25_ID
+NOMBRE: Motorbike - Timnas
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049011.png

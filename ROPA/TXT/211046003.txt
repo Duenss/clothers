@@ -1,0 +1,8 @@
+ITEM ID: 211046003
+ICON ID: Icon_avatar_female_cos_accessory_microwaves
+NOMBRE: Rapid Combustion (Head)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046003.png

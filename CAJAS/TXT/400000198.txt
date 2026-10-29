@@ -1,0 +1,8 @@
+ITEM ID: 400000198
+ICON ID: Icon_box_special
+NOMBRE: Vietnamese Student's Day
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A box to commemorate Vietnamese Student's Day.
+IMAGEN: CAJAS/imagenes/400000198.png

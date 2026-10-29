@@ -1,0 +1,8 @@
+ITEM ID: 902050008
+ICON ID: Icon_face_female_head_sc_ShadowGirl_B
+NOMBRE: Violet Strike Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902050008.png

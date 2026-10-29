@@ -1,0 +1,8 @@
+ITEM ID: 203046062
+ICON ID: Icon_avatar_cos_top_fb_common
+NOMBRE: BLUE LOCK BODYSUIT (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046062.png

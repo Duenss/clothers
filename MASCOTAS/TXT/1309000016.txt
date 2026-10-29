@@ -1,0 +1,8 @@
+ITEM ID: 1309000016
+ICON ID: FF_UI_Pet_Dog_Showoff
+NOMBRE: Fly
+TIPO: Pet Emote
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Advanced action. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000016.png

@@ -1,0 +1,8 @@
+ITEM ID: 205033045
+ICON ID: Icon_avatar_cos_shoe_tv
+NOMBRE: Winged Slippers
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033045.png

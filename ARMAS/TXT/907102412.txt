@@ -1,0 +1,8 @@
+ITEM ID: 907102412
+ICON ID: Icon_XM8_Pumpkin2020_Purple
+NOMBRE: XM8 - Poison Pumpkin
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102412.png

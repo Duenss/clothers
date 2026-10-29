@@ -1,0 +1,8 @@
+ITEM ID: 204048035
+ICON ID: Icon_avatar_cos_bottom_football25_idred
+NOMBRE: Home Timnas Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048035.png

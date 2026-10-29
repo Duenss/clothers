@@ -1,0 +1,8 @@
+ITEM ID: 907103008
+ICON ID: Icon_MINI_Lightfest
+NOMBRE: AC80 - Royal Warrior
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103008.png

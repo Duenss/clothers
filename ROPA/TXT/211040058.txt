@@ -1,0 +1,8 @@
+ITEM ID: 211040058
+ICON ID: Icon_avatar_cos_accessory_angelik_mask
+NOMBRE: Angelic Wings (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040058.png

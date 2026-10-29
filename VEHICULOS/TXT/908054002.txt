@@ -1,0 +1,8 @@
+ITEM ID: 908054002
+ICON ID: Icon_slot_Horse_Bloodmoon26
+NOMBRE: Horse - Moonshine
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054002.png

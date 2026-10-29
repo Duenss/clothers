@@ -1,0 +1,8 @@
+ITEM ID: 801001121
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Wind of the North Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Feel the breeze...
+IMAGEN: CAJAS/imagenes/801001121.png

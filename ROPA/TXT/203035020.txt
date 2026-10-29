@@ -1,0 +1,8 @@
+ITEM ID: 203035020
+ICON ID: Icon_avatar_male_cos_top_digitaluniverse
+NOMBRE: Golden Futurnetic (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035020.png

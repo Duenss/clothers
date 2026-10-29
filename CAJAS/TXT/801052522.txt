@@ -1,0 +1,8 @@
+ITEM ID: 801052522
+ICON ID: Icon_exchange_search2_us-es_52
+NOMBRE: Search Token 2
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052522.png

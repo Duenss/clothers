@@ -1,0 +1,8 @@
+ITEM ID: 203034048
+ICON ID: Icon_avatar_cos_top_tshirt_cyberwasp
+NOMBRE: Luminous T-shirt
+TIPO: Top
+RAREZA: WHITE (Common)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034048.png

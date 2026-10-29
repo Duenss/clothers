@@ -1,0 +1,8 @@
+ITEM ID: 203053021
+ICON ID: Icon_avatar_cos_top_fishseller
+NOMBRE: Fishmonger (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053021.png

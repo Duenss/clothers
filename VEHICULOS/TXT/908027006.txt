@@ -1,0 +1,8 @@
+ITEM ID: 908027006
+ICON ID: Icon_slot_SUV_Clawmark
+NOMBRE: Pickup Truck - The Beast
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908027006.png

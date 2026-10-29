@@ -1,0 +1,8 @@
+ITEM ID: 801000207
+ICON ID: Icon_exchange_Silver_Ads
+NOMBRE: Silver Ad Billboards
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000207.png

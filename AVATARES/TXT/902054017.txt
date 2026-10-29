@@ -1,0 +1,8 @@
+ITEM ID: 902054017
+ICON ID: Icon_face_CraftlandLevel_O
+NOMBRE: Ace Crafter Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054017.png

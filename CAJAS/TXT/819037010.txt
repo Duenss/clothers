@@ -1,0 +1,8 @@
+ITEM ID: 819037010
+ICON ID: FF_UI_VFX_Alligator_01
+NOMBRE: Elimination Effect (Fatal Fauna)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: When you equip a Fatal Fauna-themed top, eliminating or knocking down an enemy will display this special effect.
+IMAGEN: CAJAS/imagenes/819037010.png

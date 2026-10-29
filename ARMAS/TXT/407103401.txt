@@ -1,0 +1,8 @@
+ITEM ID: 407103401
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Sound Crafter (AK47 + SVD) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Open to receive a random gun skin (AK47 + SVD) from the Sound Crafter weapon set
+IMAGEN: ARMAS/imagenes/407103401.png

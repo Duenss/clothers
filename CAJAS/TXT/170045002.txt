@@ -1,0 +1,8 @@
+ITEM ID: 170045002
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Crate 9
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170045002.png

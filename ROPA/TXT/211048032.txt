@@ -1,0 +1,8 @@
+ITEM ID: 211048032
+ICON ID: Icon_avatar_male_cos_accessory_biker
+NOMBRE: Asphalt Dominator (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048032.png

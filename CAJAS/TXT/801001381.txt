@@ -1,0 +1,8 @@
+ITEM ID: 801001381
+ICON ID: Icon_exchange_ob32_cricket_ball
+NOMBRE: Cricket Ball
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001381.png

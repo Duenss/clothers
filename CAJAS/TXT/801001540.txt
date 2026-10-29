@@ -1,0 +1,8 @@
+ITEM ID: 801001540
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Choco-filled Kurma
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Great chocolatey flavour!
+IMAGEN: CAJAS/imagenes/801001540.png

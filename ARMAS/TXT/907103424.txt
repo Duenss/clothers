@@ -1,0 +1,8 @@
+ITEM ID: 907103424
+ICON ID: Icon_Baseballbat_Rampage4
+NOMBRE: Bat - Storm Basher
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103424.png

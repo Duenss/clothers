@@ -1,0 +1,8 @@
+ITEM ID: 801001107
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Celebration Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Let's celebrate!
+IMAGEN: CAJAS/imagenes/801001107.png

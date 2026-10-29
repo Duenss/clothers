@@ -1,0 +1,8 @@
+ITEM ID: 205035008
+ICON ID: Icon_avatar_female_cos_shoe_funeral
+NOMBRE: Darkrose Lurker (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205035008.png

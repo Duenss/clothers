@@ -1,0 +1,8 @@
+ITEM ID: 400029019
+ICON ID: Icon_box_3
+NOMBRE: Sensei Tig Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Contains Pet Sensei Tig and many other rewards
+IMAGEN: ROPA/imagenes/400029019.png

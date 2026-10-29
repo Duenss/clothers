@@ -1,0 +1,8 @@
+ITEM ID: 907103323
+ICON ID: Icon_Uzi_Eggday22
+NOMBRE: Mini Uzi - Frenzy Bunny
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103323.png

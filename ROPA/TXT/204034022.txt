@@ -1,0 +1,8 @@
+ITEM ID: 204034022
+ICON ID: Icon_avatar_male_cos_bottom_lotus
+NOMBRE: Nightbloom Slayer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034022.png

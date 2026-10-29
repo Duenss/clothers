@@ -1,0 +1,8 @@
+ITEM ID: 203041038
+ICON ID: Icon_avatar_cos_top_reputation
+NOMBRE: You Are Honor (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041038.png

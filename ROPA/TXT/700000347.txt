@@ -1,0 +1,8 @@
+ITEM ID: 700000347
+ICON ID: Icon_subscribe_package
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the respective gun skin reward.
+IMAGEN: ROPA/imagenes/700000347.png

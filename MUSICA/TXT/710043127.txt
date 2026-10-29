@@ -1,0 +1,8 @@
+ITEM ID: 710043127
+ICON ID: FF_UI_Voiceitem_CHAOS43
+NOMBRE: The Chaos Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: The Chaos event reward
+IMAGEN: MUSICA/imagenes/710043127.png

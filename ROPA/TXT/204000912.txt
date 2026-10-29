@@ -1,0 +1,8 @@
+ITEM ID: 204000912
+ICON ID: Icon_avatar_male_cos_bottom_memecha
+NOMBRE: Heatbound Desert (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000912.png

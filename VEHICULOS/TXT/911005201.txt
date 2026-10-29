@@ -1,0 +1,8 @@
+ITEM ID: 911005201
+ICON ID: Icon_Mounts_Treasure26
+NOMBRE: Crimson Voyage
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005201.png

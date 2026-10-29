@@ -1,0 +1,8 @@
+ITEM ID: 801000751
+ICON ID: Icon_exchange_ob25_blazing_soul
+NOMBRE: Blazing Soul
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: May your soul blaze with glory
+IMAGEN: CAJAS/imagenes/801000751.png

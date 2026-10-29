@@ -1,0 +1,8 @@
+ITEM ID: 801049520
+ICON ID: Icon_exchange_HT_us-es_49
+NOMBRE: Heist Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049520.png

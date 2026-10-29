@@ -1,0 +1,8 @@
+ITEM ID: 902033008
+ICON ID: Icon_face_male_head_sc_Blacksmith_B
+NOMBRE: Loyal Bladesmith Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033008.png

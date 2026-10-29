@@ -1,0 +1,8 @@
+ITEM ID: 211046013
+ICON ID: Icon_avatar_male_cos_hair_yinyang24
+NOMBRE: Mystic Aura (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046013.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105064
+ICON ID: Icon_GlooShield_FFWS_SF25
+NOMBRE: Gloo Wall - FFWS 2025 Fall
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105064.png

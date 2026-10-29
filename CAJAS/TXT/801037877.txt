@@ -1,0 +1,8 @@
+ITEM ID: 801037877
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Vuvuzela Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801037877.png

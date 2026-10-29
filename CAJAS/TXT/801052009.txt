@@ -1,0 +1,8 @@
+ITEM ID: 801052009
+ICON ID: Icon_exchange_hunt_3_52
+NOMBRE: Metal Shovel
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052009.png

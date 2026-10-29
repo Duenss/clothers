@@ -1,0 +1,8 @@
+ITEM ID: 205000497
+ICON ID: Icon_avatar_male_shoe_cos_foxguy_red
+NOMBRE: Sunscorch Priest (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000497.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000041
+ICON ID: Icon_StoreSender
+NOMBRE: Unopened Envelope
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000041.png

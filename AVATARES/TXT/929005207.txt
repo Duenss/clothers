@@ -1,0 +1,8 @@
+ITEM ID: 929005207
+ICON ID: Icon_Photostickeritem_Group26
+NOMBRE: Treasure Mischief Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Treasure Mischief Sticker
+IMAGEN: AVATARES/imagenes/929005207.png

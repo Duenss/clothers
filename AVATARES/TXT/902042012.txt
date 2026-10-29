@@ -1,0 +1,8 @@
+ITEM ID: 902042012
+ICON ID: Icon_face_Guild100
+NOMBRE: Centurion League Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042012.png

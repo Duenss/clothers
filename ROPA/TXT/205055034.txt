@@ -1,0 +1,8 @@
+ITEM ID: 205055034
+ICON ID: Icon_avatar_male_cos_shoe_bull26
+NOMBRE: Red Bull (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055034.png

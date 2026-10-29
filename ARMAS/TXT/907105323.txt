@@ -1,0 +1,8 @@
+ITEM ID: 907105323
+ICON ID: Icon_Baseballbat_Magical
+NOMBRE: Bat - Sweet Energy
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105323.png

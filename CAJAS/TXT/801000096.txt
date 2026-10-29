@@ -1,0 +1,8 @@
+ITEM ID: 801000096
+ICON ID: Icon_exchange_US_FF_LEAGUE
+NOMBRE: US League Badge
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000096.png

@@ -1,0 +1,8 @@
+ITEM ID: 902038021
+ICON ID: Icon_face_ME_Esport
+NOMBRE: Raptor Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038021.png

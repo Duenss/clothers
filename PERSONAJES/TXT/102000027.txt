@@ -1,0 +1,8 @@
+ITEM ID: 102000027
+ICON ID: Icon_face_male_head_sc_Andrew_Awakening
+NOMBRE: Andrew "the Fierce"
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Andrew "the Fierce" is a man on a mission.
+IMAGEN: PERSONAJES/imagenes/102000027.png

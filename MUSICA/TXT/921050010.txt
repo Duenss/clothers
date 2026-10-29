@@ -1,0 +1,8 @@
+ITEM ID: 921050010
+ICON ID: FF_UI_Voiceitem_Easterrabbit50
+NOMBRE: Go go Bunny Warriors!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bunnyverse Voice Pack
+IMAGEN: MUSICA/imagenes/921050010.png

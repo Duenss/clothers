@@ -1,0 +1,8 @@
+ITEM ID: 801001293
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FIRE
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Show your FIRE!
+IMAGEN: CAJAS/imagenes/801001293.png

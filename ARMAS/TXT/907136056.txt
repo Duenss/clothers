@@ -1,0 +1,8 @@
+ITEM ID: 907136056
+ICON ID: Icon_AN94_Mambas
+NOMBRE: AN94 - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136056.png

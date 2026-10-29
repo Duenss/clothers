@@ -1,0 +1,8 @@
+ITEM ID: 720029020
+ICON ID: Icon_bundle_male_Goldenwing_29
+NOMBRE: Flaxen Megacypher Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/720029020.png

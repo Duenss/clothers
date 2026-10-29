@@ -1,0 +1,8 @@
+ITEM ID: 400000310
+ICON ID: Icon_box_3
+NOMBRE: Holi Silver Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Celebrate Holi, with the Holi Silver Crate!
+IMAGEN: ROPA/imagenes/400000310.png

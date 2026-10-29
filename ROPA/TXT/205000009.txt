@@ -1,0 +1,8 @@
+ITEM ID: 205000009
+ICON ID: Icon_avatar_shoes_9
+NOMBRE: Boots
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000009.png

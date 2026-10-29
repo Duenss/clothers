@@ -1,0 +1,8 @@
+ITEM ID: 904490050
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Dragon Tamer
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Booyah in a Mechadrake Trial in BR-Ranked mode and defeat the Mechadrake
+IMAGEN: AVATARES/imagenes/904490050.png

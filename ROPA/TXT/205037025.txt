@@ -1,0 +1,8 @@
+ITEM ID: 205037025
+ICON ID: Icon_avatar_cos_shoe_opinion
+NOMBRE: Dude in Black (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037025.png

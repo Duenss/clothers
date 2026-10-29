@@ -1,0 +1,8 @@
+ITEM ID: 203036053
+ICON ID: Icon_avatar_cos_top_brfootball_yellow01
+NOMBRE: CBF Sunshine Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036053.png

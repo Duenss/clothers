@@ -1,0 +1,8 @@
+ITEM ID: 203042002
+ICON ID: Icon_avatar_male_cos_top_voltage_basic
+NOMBRE: Electro Whisper (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042002.png

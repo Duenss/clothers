@@ -1,0 +1,8 @@
+ITEM ID: 801001824
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFIM Orange Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: No other color would do
+IMAGEN: CAJAS/imagenes/801001824.png

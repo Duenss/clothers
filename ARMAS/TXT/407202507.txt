@@ -1,0 +1,8 @@
+ITEM ID: 407202507
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cosmic Bounty Hunter (Desert Eagle + G18) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: Open to receive a random gun skin from Desert Eagle Cosmic Bounty Hunter or G18 Cosmic Bounty Hunter
+IMAGEN: ARMAS/imagenes/407202507.png

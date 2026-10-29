@@ -1,0 +1,8 @@
+ITEM ID: 921046015
+ICON ID: FF_UI_Voiceitem_TH46
+NOMBRE: Very impulsive!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Trendy Voice Pack
+IMAGEN: MUSICA/imagenes/921046015.png

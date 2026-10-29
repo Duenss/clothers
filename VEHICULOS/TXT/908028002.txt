@@ -1,0 +1,8 @@
+ITEM ID: 908028002
+ICON ID: Icon_slot_Roadster_Supercar_Purple
+NOMBRE: McLaren P1™ - Kyanos
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028002.png

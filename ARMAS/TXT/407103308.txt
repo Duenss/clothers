@@ -1,0 +1,8 @@
+ITEM ID: 407103308
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Violet Fear (G36) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Open to receive a random gun skin (G36) from the Violet Fear weapon set
+IMAGEN: ARMAS/imagenes/407103308.png

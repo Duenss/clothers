@@ -1,0 +1,8 @@
+ITEM ID: 211000333
+ICON ID: Icon_avatar_accessory_cos_independence_ind
+NOMBRE: Devil's Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000333.png

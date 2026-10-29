@@ -1,0 +1,8 @@
+ITEM ID: 400050540
+ICON ID: Icon_box_NB2_US_ES_50
+NOMBRE: Ninja Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050540.png

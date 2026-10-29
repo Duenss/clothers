@@ -1,0 +1,8 @@
+ITEM ID: 400037241
+ICON ID: Icon_box_3
+NOMBRE: Heartbroken Emote Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains the Heartbroken emote and others
+IMAGEN: ROPA/imagenes/400037241.png

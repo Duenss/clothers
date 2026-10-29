@@ -1,0 +1,8 @@
+ITEM ID: 400036156
+ICON ID: Icon_box_3
+NOMBRE: Burning Lily Gloo Wall Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains the Burning Lily Gloo Wall and others
+IMAGEN: ROPA/imagenes/400036156.png

@@ -1,0 +1,8 @@
+ITEM ID: 205038010
+ICON ID: Icon_avatar_male_cos_shoe_colorfest23_02
+NOMBRE: Bionic Vagabond (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038010.png

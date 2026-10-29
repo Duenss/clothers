@@ -1,0 +1,8 @@
+ITEM ID: 246753004
+ICON ID: Icon_SparkPet_Hand_Fireball
+NOMBRE: Fireball
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Fireball
+IMAGEN: MASCOTAS/imagenes/246753004.png

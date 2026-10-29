@@ -1,0 +1,8 @@
+ITEM ID: 801000625
+ICON ID: Icon_exchange_ob24_FFIC_Silver_Token
+NOMBRE: FFIC Silver Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: FFIC Silver Token
+IMAGEN: CAJAS/imagenes/801000625.png

@@ -1,0 +1,8 @@
+ITEM ID: 801037004
+ICON ID: FF_UI_Alligator_Token
+NOMBRE: BP S2 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Use to purchase tailor options for the Fatal Fauna theme in the Tailor system.
+IMAGEN: CAJAS/imagenes/801037004.png

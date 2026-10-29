@@ -1,0 +1,8 @@
+ITEM ID: 909048003
+ICON ID: Icon_Emote_Rainforest_1
+NOMBRE: Guitar Groove
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048003.png

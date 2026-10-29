@@ -1,0 +1,8 @@
+ITEM ID: 203034038
+ICON ID: Icon_avatar_female_cos_top_kongfu_a
+NOMBRE: Aroma World Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034038.png

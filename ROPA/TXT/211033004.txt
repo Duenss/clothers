@@ -1,0 +1,8 @@
+ITEM ID: 211033004
+ICON ID: Icon_avatar_male_cos_hair_chess
+NOMBRE: Checkmate Knight (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033004.png

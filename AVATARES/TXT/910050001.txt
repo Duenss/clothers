@@ -1,0 +1,8 @@
+ITEM ID: 910050001
+ICON ID: Pin_Small_SL
+NOMBRE: Soul Land Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910050001.png

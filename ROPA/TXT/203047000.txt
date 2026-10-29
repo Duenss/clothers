@@ -1,0 +1,8 @@
+ITEM ID: 203047000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Snow Fox (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

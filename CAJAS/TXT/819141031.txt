@@ -1,0 +1,8 @@
+ITEM ID: 819141031
+ICON ID: FF_Lottery_gaindiamond_Limit
+NOMBRE: Luck Royale Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/819141031.png

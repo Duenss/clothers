@@ -1,0 +1,8 @@
+ITEM ID: 818250831
+ICON ID: FF_Lottery_Madara_Voucher
+NOMBRE: Madara Wheel Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/818250831.png

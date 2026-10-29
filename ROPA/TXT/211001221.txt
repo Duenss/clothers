@@ -1,0 +1,8 @@
+ITEM ID: 211001221
+ICON ID: Icon_avatar_cos_hair_silversword_purple
+NOMBRE: Ultra Quadrolight (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001221.png

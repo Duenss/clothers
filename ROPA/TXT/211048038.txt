@@ -1,0 +1,8 @@
+ITEM ID: 211048038
+ICON ID: Icon_avatar_cos_accessory_fastbreaking_dune01
+NOMBRE: Hidden Shimmer (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048038.png

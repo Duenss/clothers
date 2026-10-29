@@ -1,0 +1,8 @@
+ITEM ID: 710000143
+ICON ID: Icon_box_highlevel_red
+NOMBRE: Energy Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the following items
+IMAGEN: ROPA/imagenes/710000143.png

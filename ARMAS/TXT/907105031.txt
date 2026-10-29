@@ -1,0 +1,8 @@
+ITEM ID: 907105031
+ICON ID: Icon_Machete_VA
+NOMBRE: Parang - Trouble Academy
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105031.png

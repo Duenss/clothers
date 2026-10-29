@@ -1,0 +1,8 @@
+ITEM ID: 204055005
+ICON ID: Icon_avatar_female_cos_bottom_owlranger
+NOMBRE: Owl Ranger (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055005.png

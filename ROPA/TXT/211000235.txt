@@ -1,0 +1,8 @@
+ITEM ID: 211000235
+ICON ID: Icon_avatar_male_accessory_cos_jajuar
+NOMBRE: Coyote (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000235.png

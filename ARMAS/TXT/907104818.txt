@@ -1,0 +1,8 @@
+ITEM ID: 907104818
+ICON ID: Icon_Mac10_Goldenthunder
+NOMBRE: MAC10 - Metro Flash
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104818.png

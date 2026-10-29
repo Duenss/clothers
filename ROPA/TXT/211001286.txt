@@ -1,0 +1,8 @@
+ITEM ID: 211001286
+ICON ID: Icon_avatar_cos_hair_yokai_black
+NOMBRE: Iron Fiend (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001286.png

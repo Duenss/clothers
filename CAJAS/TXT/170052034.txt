@@ -1,0 +1,8 @@
+ITEM ID: 170052034
+ICON ID: Icon_OptionalBundle_nopscc_LOT_52
+NOMBRE: Newbie Orange Pet Skin Choice Crate
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052034.png

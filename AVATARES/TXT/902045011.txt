@@ -1,0 +1,8 @@
+ITEM ID: 902045011
+ICON ID: Icon_face_Rank40_B
+NOMBRE: BR-Ranked S40 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902045011.png

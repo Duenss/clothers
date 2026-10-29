@@ -1,0 +1,8 @@
+ITEM ID: 928005309
+ICON ID: Icon_GroupPhoto_Bluetears_Purple_icon
+NOMBRE: Big Catch
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Big Catch
+IMAGEN: AVATARES/imagenes/928005309.png

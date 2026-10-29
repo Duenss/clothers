@@ -1,0 +1,8 @@
+ITEM ID: 907103233
+ICON ID: Icon_AWM_Hoodedkiller
+NOMBRE: AWM - Metal Wings
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103233.png

@@ -1,0 +1,8 @@
+ITEM ID: 801055511
+ICON ID: Icon_exchange_witcht_id_55
+NOMBRE: Witch Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055511.png

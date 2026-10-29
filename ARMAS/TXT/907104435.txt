@@ -1,0 +1,8 @@
+ITEM ID: 907104435
+ICON ID: Icon_School_TH_Grenade
+NOMBRE: Grenade - Explosion Academy
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104435.png

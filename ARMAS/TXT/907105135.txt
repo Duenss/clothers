@@ -1,0 +1,8 @@
+ITEM ID: 907105135
+ICON ID: Icon_Katana_TH_KOL25
+NOMBRE: Katana - HEARTROCKER
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105135.png

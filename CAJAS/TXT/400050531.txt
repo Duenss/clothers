@@ -1,0 +1,8 @@
+ITEM ID: 400050531
+ICON ID: Icon_box_D2025B_LOT_50
+NOMBRE: Diwali 2025 Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050531.png

@@ -1,0 +1,8 @@
+ITEM ID: 909046016
+ICON ID: Icon_Emote_FB_White
+NOMBRE: Nagi's Trapping
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046016.png

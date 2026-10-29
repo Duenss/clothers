@@ -1,0 +1,8 @@
+ITEM ID: 907104124
+ICON ID: Icon_GlooShield_Sugarskull23
+NOMBRE: Gloo Wall - Bony Memorial
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104124.png

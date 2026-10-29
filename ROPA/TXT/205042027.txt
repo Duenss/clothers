@@ -1,0 +1,8 @@
+ITEM ID: 205042027
+ICON ID: Icon_avatar_male_sc_shoe_superteen
+NOMBRE: Untamed Flame (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205042027.png

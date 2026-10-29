@@ -1,0 +1,8 @@
+ITEM ID: 801000740
+ICON ID: Icon_exchange_ob25_setsubun_devils
+NOMBRE: Setsubun Devils
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Devils out
+IMAGEN: CAJAS/imagenes/801000740.png

@@ -1,0 +1,8 @@
+ITEM ID: 400034090
+ICON ID: Icon_box_3
+NOMBRE: MAG-7: Shadow Rogue Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains MAG-7: Shadow Rogue
+IMAGEN: ROPA/imagenes/400034090.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105143
+ICON ID: Icon_GlooShield_Dreamland_Purple
+NOMBRE: Gloo Wall - Frozen Dream
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105143.png

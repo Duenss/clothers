@@ -1,0 +1,8 @@
+ITEM ID: 211001015
+ICON ID: Icon_avatar_hair_cos_rampage3_hair
+NOMBRE: Rampage New Dawn (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001015.png

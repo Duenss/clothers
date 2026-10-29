@@ -1,0 +1,8 @@
+ITEM ID: 400000445
+ICON ID: Icon_box_3
+NOMBRE: Winter's Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Winter's Box
+IMAGEN: ROPA/imagenes/400000445.png

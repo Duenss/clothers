@@ -1,0 +1,8 @@
+ITEM ID: 203000922
+ICON ID: Icon_avatar_male_top_cos_crane
+NOMBRE: Crane Summoner (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000922.png

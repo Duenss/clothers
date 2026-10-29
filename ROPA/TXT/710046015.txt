@@ -1,0 +1,8 @@
+ITEM ID: 710046015
+ICON ID: Icon_bundle_Iron_Blue_46
+NOMBRE: Eternal Avenger Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710046015.png

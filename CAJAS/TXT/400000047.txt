@@ -1,0 +1,8 @@
+ITEM ID: 400000047
+ICON ID: Icon_box_highlevel_red
+NOMBRE: Schoolgirl Lucky Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece from the Schoolgirl series! (may be permanent or 3-days limited use)
+IMAGEN: CAJAS/imagenes/400000047.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001703
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Baron Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Redeem the prize you desire!
+IMAGEN: CAJAS/imagenes/801001703.png

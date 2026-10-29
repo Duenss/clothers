@@ -1,0 +1,8 @@
+ITEM ID: 760029078
+ICON ID: FF_UI_CupMatchBox_01
+NOMBRE: Clash Squad Cup Participation Chest
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Clash Squad Cup Participation Chest
+IMAGEN: OTROS/imagenes/760029078.png

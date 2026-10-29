@@ -1,0 +1,8 @@
+ITEM ID: 710000219
+ICON ID: Icon_face_female_sc_Bodyguard
+NOMBRE: Nikita's Fragment Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the selected character's memory fragment.
+IMAGEN: ROPA/imagenes/710000219.png

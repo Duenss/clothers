@@ -1,0 +1,8 @@
+ITEM ID: 906000121
+ICON ID: Icon_Avatar_Surfboard_Jumpsuit_B
+NOMBRE: Skyboard - Heist
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000121.png

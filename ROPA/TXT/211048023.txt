@@ -1,0 +1,8 @@
+ITEM ID: 211048023
+ICON ID: Icon_avatar_male_cos_hair_fashionsuit
+NOMBRE: Urban Escapade (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048023.png

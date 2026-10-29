@@ -1,0 +1,8 @@
+ITEM ID: 904046008
+ICON ID: Icon_Bag_Dreadlocks
+NOMBRE: Backpack - Shadow's Wing
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904046008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400047005
+ICON ID: Icon_box_Snow1_47
+NOMBRE: Freezy Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047005.png

@@ -1,0 +1,8 @@
+ITEM ID: 901033007
+ICON ID: Icon_callsign_storebg_FFWS03
+NOMBRE: Honorable Fighters Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901033007.png

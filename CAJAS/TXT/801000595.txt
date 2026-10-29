@@ -1,0 +1,8 @@
+ITEM ID: 801000595
+ICON ID: Icon_exchange_ob23_gas_mask_token
+NOMBRE: Gas Mask Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Protection against all hazard
+IMAGEN: CAJAS/imagenes/801000595.png

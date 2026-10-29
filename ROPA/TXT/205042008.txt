@@ -1,0 +1,8 @@
+ITEM ID: 205042008
+ICON ID: Icon_avatar_male_cos_shoe_theboy_blue
+NOMBRE: Frostfire Polar (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205042008.png

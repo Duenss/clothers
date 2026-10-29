@@ -1,0 +1,8 @@
+ITEM ID: 211055040
+ICON ID: Icon_avatar_cos_hair_halloween26_phantom
+NOMBRE: Cloaked Terror (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055040.png

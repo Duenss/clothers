@@ -1,0 +1,8 @@
+ITEM ID: 908050006
+ICON ID: Icon_slot_Jeep_Festival_IH25
+NOMBRE: Jeep - Blue Camouflage
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050006.png

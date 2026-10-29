@@ -1,0 +1,8 @@
+ITEM ID: 904036009
+ICON ID: Icon_Bag_Sugarskull22
+NOMBRE: Backpack - Soul Keeper
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904036009.png

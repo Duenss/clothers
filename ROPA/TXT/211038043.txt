@@ -1,0 +1,8 @@
+ITEM ID: 211038043
+ICON ID: Icon_avatar_male_cos_hair_mo
+NOMBRE: Silent Statement (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038043.png

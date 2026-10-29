@@ -1,0 +1,8 @@
+ITEM ID: 101000015
+ICON ID: Icon_face_female_head_sc_Awakening
+NOMBRE: Kelly "the Swift"
+TIPO: Characters
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Kelly's potential is unlocked for use.
+IMAGEN: PERSONAJES/imagenes/101000015.png

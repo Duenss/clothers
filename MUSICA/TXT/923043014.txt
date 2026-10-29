@@ -1,0 +1,8 @@
+ITEM ID: 923043014
+ICON ID: FF_UI_Voiceitem_MEME43
+NOMBRE: PvP
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: The most popular phrases in the community
+IMAGEN: MUSICA/imagenes/923043014.png

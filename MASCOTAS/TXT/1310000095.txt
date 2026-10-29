@@ -1,0 +1,8 @@
+ITEM ID: 1310000095
+ICON ID: Icon_Pet_Mocomonth_Hawk
+NOMBRE: Pet Skin: Cyber Falco
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: You'll be glad to have him guarding your back.
+IMAGEN: MASCOTAS/imagenes/1310000095.png

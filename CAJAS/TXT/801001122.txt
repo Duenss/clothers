@@ -1,0 +1,8 @@
+ITEM ID: 801001122
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Spirit of the South Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: The Elements of Southtown
+IMAGEN: CAJAS/imagenes/801001122.png

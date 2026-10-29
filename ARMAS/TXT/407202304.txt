@@ -1,0 +1,8 @@
+ITEM ID: 407202304
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Great Plunder Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB23
+DESCRIPCION: Open to receive a random gun skin from the Great Plunder weapon set.
+IMAGEN: ARMAS/imagenes/407202304.png

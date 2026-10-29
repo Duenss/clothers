@@ -1,0 +1,8 @@
+ITEM ID: 905490095
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Infinite Creativity
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by unlocking Craftland Creator Intermediate Level
+IMAGEN: AVATARES/imagenes/905490095.png

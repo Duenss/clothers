@@ -1,0 +1,8 @@
+ITEM ID: 906029004
+ICON ID: Icon_Avatar_Surfboard_Musicfest
+NOMBRE: Skyboard - Disc Hover
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906029004.png

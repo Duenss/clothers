@@ -1,0 +1,8 @@
+ITEM ID: 211037066
+ICON ID: Icon_avatar_male_cos_hair_syntheticangel_02
+NOMBRE: Innocence Haven (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037066.png

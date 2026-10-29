@@ -1,0 +1,8 @@
+ITEM ID: 400000458
+ICON ID: Icon_box_3
+NOMBRE: Black Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Black Box
+IMAGEN: ROPA/imagenes/400000458.png

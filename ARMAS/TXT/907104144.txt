@@ -1,0 +1,8 @@
+ITEM ID: 907104144
+ICON ID: Icon_M14_Chihuahua
+NOMBRE: M14 - Pink Biter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104144.png

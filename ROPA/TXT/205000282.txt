@@ -1,0 +1,8 @@
+ITEM ID: 205000282
+ICON ID: Icon_avatar_female_shoe_cos_yinyang_gold
+NOMBRE: Golden Wraith (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000282.png

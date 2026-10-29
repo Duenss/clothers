@@ -1,0 +1,8 @@
+ITEM ID: 400033123
+ICON ID: Icon_box_3
+NOMBRE: Duit Raya
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Give me more!
+IMAGEN: ROPA/imagenes/400033123.png

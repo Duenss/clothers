@@ -1,0 +1,8 @@
+ITEM ID: 400000175
+ICON ID: Icon_box_special
+NOMBRE: Angel & Devil Pack
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Chance to get pieces from the Angel&Devil set and other rewards (All fashion obtained are permanent)
+IMAGEN: CAJAS/imagenes/400000175.png

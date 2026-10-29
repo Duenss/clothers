@@ -1,0 +1,8 @@
+ITEM ID: 819040004
+ICON ID: FF_UI_VFX_Artificial_01
+NOMBRE: Attacking Effect (Synthetic Strike)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: Special attacking effects when wearing the Synthetic Strike themed top.
+IMAGEN: CAJAS/imagenes/819040004.png

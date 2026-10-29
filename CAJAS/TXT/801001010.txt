@@ -1,0 +1,8 @@
+ITEM ID: 801001010
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Chequered Flag Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Event token. Can be used in Race to Ace to boost cars.
+IMAGEN: CAJAS/imagenes/801001010.png

@@ -1,0 +1,8 @@
+ITEM ID: 400037192
+ICON ID: Icon_box_3
+NOMBRE: Box 143
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400037192.png

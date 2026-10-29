@@ -1,0 +1,8 @@
+ITEM ID: 211000263
+ICON ID: Icon_avatar_female_hair_cos_water
+NOMBRE: Water Elemental (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000263.png

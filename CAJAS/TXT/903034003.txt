@@ -1,0 +1,8 @@
+ITEM ID: 903034003
+ICON ID: Icon_Deadloot_Kongfu
+NOMBRE: Loot Box - Hot Pot
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903034003.png

@@ -1,0 +1,8 @@
+ITEM ID: 203038060
+ICON ID: Icon_avatar_female_cos_top_madmax_new
+NOMBRE: Elite Miss Doombringer (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038060.png

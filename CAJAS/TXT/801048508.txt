@@ -1,0 +1,8 @@
+ITEM ID: 801048508
+ICON ID: Icon_exchange_MST_id_48
+NOMBRE: Monster Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048508.png

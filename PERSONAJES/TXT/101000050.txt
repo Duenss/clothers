@@ -1,0 +1,8 @@
+ITEM ID: 101000050
+ICON ID: Icon_face_female_head_sc_MischiefGirl
+NOMBRE: Lila
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A cool, spry girl from the city of La Luna with excellent parkour skills and a playful nature. She likes to work with Mr. Waggor, outsmarting their foes together with clever pranks and innovative Gloo inventions.
+IMAGEN: PERSONAJES/imagenes/101000050.png

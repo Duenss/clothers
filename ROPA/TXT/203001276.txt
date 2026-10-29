@@ -1,0 +1,8 @@
+ITEM ID: 203001276
+ICON ID: Icon_avatar_male_top_cos_origami_a
+NOMBRE: Frozen Blue T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001276.png

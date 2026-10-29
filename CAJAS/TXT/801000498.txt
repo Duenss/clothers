@@ -1,0 +1,8 @@
+ITEM ID: 801000498
+ICON ID: Icon_exchange_ob22_father_day
+NOMBRE: Father's Day
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Best Dad I love you!
+IMAGEN: CAJAS/imagenes/801000498.png

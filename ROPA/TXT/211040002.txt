@@ -1,0 +1,8 @@
+ITEM ID: 211040002
+ICON ID: Icon_avatar_male_cos_hair_speed_m
+NOMBRE: In Glitch (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040002.png

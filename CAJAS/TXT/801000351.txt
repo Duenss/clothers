@@ -1,0 +1,8 @@
+ITEM ID: 801000351
+ICON ID: Icon_exchange_gold_weapon
+NOMBRE: Gold Weapon Medal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A symbol of integrity
+IMAGEN: CAJAS/imagenes/801000351.png

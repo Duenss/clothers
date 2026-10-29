@@ -1,0 +1,8 @@
+ITEM ID: 170033044
+ICON ID: Icon_OptionalBundle_Character
+NOMBRE: Character Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to claim your favorite character
+IMAGEN: CAJAS/imagenes/170033044.png

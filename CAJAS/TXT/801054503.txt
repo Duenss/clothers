@@ -1,0 +1,8 @@
+ITEM ID: 801054503
+ICON ID: Icon_exchange_9thcap_tw_54
+NOMBRE: 9th Anniversary Cap
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054503.png

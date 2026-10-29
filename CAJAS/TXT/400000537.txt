@@ -1,0 +1,8 @@
+ITEM ID: 400000537
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Pumpkin Flames Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Pumpkin Flames set.
+IMAGEN: CAJAS/imagenes/400000537.png

@@ -1,0 +1,8 @@
+ITEM ID: 902000125
+ICON ID: Icon_face_rank08
+NOMBRE: Season 8 Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000125.png

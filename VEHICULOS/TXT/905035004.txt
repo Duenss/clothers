@@ -1,0 +1,8 @@
+ITEM ID: 905035004
+ICON ID: Icon_Avatar_PARACHUTE_Goldchain
+NOMBRE: Parachute - Chainz of Lux
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905035004.png

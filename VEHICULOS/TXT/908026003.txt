@@ -1,0 +1,8 @@
+ITEM ID: 908026003
+ICON ID: Icon_slot_SUV_Eggday2021
+NOMBRE: Pickup Truck - Egg Day 2021
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908026003.png

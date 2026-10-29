@@ -1,0 +1,8 @@
+ITEM ID: 246754002
+ICON ID: Icon_SparkPet_Head_Crown_Gold
+NOMBRE: Golden Crown
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Golden Crown
+IMAGEN: MASCOTAS/imagenes/246754002.png

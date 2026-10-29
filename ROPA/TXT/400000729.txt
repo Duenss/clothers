@@ -1,0 +1,8 @@
+ITEM ID: 400000729
+ICON ID: Icon_box_3
+NOMBRE: Venus
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: The second planet in solar system
+IMAGEN: ROPA/imagenes/400000729.png

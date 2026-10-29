@@ -1,0 +1,8 @@
+ITEM ID: 205053028
+ICON ID: Icon_avatar_cos_shoe_th_ny
+NOMBRE: Nanyang Shoes
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053028.png

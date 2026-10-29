@@ -1,0 +1,8 @@
+ITEM ID: 211047035
+ICON ID: Icon_avatar_male_cos_hair_trend_man
+NOMBRE: Loveshot (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047035.png

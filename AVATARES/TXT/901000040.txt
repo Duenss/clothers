@@ -1,0 +1,8 @@
+ITEM ID: 901000040
+ICON ID: Icon_callsign_storebg_hiphop_FP
+NOMBRE: Ancient Graffiti
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000040.png

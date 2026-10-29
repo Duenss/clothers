@@ -1,0 +1,8 @@
+ITEM ID: 804605802
+ICON ID: Icon_ff_VIP_WeekCard
+NOMBRE: Craftland Weekly Membership
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: 1. This item will be auto-used if purchased.\n2. Those who have not subscribed can use it to obtain the 7-day membership.\n3. Those who have subscribed can use it to extend their membership by 7 days.
+IMAGEN: OTROS/imagenes/804605802.png

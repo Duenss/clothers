@@ -1,0 +1,8 @@
+ITEM ID: 400045528
+ICON ID: Icon_box_Shirt_Box_TH_45
+NOMBRE: Shirt Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400045528.png

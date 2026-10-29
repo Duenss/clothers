@@ -1,0 +1,8 @@
+ITEM ID: 903033006
+ICON ID: Icon_Deadloot_Goldenwings
+NOMBRE: Loot Box - Divinity Trophy
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903033006.png

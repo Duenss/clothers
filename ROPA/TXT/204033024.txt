@@ -1,0 +1,8 @@
+ITEM ID: 204033024
+ICON ID: Icon_avatar_male_cos_bottom_shark_blue
+NOMBRE: Tidebreaker Surge (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033024.png

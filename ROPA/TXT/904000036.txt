@@ -1,0 +1,8 @@
+ITEM ID: 904000036
+ICON ID: Icon_Bag_christmas_A
+NOMBRE: Backpack - Reindeer
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000036.png

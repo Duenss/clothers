@@ -1,0 +1,8 @@
+ITEM ID: 902053002
+ICON ID: Icon_face_EclipseMan_Q
+NOMBRE: Ray Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902053002.png

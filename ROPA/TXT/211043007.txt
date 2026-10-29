@@ -1,0 +1,8 @@
+ITEM ID: 211043007
+ICON ID: Icon_avatar_male_cos_accessory_asura
+NOMBRE: Wrathful Illusion (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043007.png

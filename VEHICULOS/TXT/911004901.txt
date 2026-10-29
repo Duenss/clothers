@@ -1,0 +1,8 @@
+ITEM ID: 911004901
+ICON ID: Icon_Mounts_Jumpsuit25
+NOMBRE: Multiplayer Skywing - Loaded Ride
+TIPO: Skywings
+RAREZA: RED (Artifact)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004901.png

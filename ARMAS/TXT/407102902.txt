@@ -1,0 +1,8 @@
+ITEM ID: 407102902
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: 4th Anniversary Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open to receive a random skin from the 4th Anniversary weapon set
+IMAGEN: ARMAS/imagenes/407102902.png

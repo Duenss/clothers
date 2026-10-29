@@ -1,0 +1,8 @@
+ITEM ID: 246955014
+ICON ID: Pet_Spark3_Face_EmojiGlass_Pink
+NOMBRE: Pink Heart Goggles
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Pink Heart Goggles
+IMAGEN: MASCOTAS/imagenes/246955014.png

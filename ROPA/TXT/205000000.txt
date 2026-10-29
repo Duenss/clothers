@@ -1,0 +1,8 @@
+ITEM ID: 205000000
+ICON ID: Icon_avatar_cos_shoe_default
+NOMBRE: Default
+TIPO: Shoe
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Default
+IMAGEN: ROPA/imagenes/205000000.png

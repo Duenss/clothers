@@ -1,0 +1,8 @@
+ITEM ID: 710044013
+ICON ID: Icon_bundle_female_Crystal_44
+NOMBRE: Icicle Elegance Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710044013.png

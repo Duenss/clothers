@@ -1,0 +1,8 @@
+ITEM ID: 801043529
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Scarlet Dragon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801043529.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103703
+ICON ID: Icon_Vector_SyntheticAngel_Purple
+NOMBRE: Vector - Revenge Dragontail
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103703.png

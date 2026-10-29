@@ -1,0 +1,8 @@
+ITEM ID: 203051044
+ICON ID: Icon_avatar_cos_top_ffws25_13
+NOMBRE: Buriram United Esports Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051044.png

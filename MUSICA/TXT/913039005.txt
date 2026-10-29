@@ -1,0 +1,8 @@
+ITEM ID: 913039005
+ICON ID: FF_UI_Vault_Music_Fastbreaking23
+NOMBRE: Ramadan Booyah!
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Play together & celebrate Ramadan
+IMAGEN: MUSICA/imagenes/913039005.png

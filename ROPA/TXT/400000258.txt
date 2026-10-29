@@ -1,0 +1,8 @@
+ITEM ID: 400000258
+ICON ID: Icon_box_3
+NOMBRE: Event Box (Diamond box)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: For Future in-game event
+IMAGEN: ROPA/imagenes/400000258.png

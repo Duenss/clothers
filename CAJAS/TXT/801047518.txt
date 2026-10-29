@@ -1,0 +1,8 @@
+ITEM ID: 801047518
+ICON ID: Icon_exchange_F2T_vn_47
+NOMBRE: Feb 2025 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047518.png

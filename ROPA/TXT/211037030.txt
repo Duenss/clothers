@@ -1,0 +1,8 @@
+ITEM ID: 211037030
+ICON ID: Icon_avatar_male_cos_hair_hooligan
+NOMBRE: Candid Casuals (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037030.png

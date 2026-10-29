@@ -1,0 +1,8 @@
+ITEM ID: 400050171
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Charge Buster Night Bite Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive a Charge Buster Night Bite
+IMAGEN: CAJAS/imagenes/400050171.png

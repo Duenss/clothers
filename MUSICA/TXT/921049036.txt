@@ -1,0 +1,8 @@
+ITEM ID: 921049036
+ICON ID: FF_UI_Voiceitem_SAC49
+NOMBRE: Veterans, but good guys
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: FF Nostalgia
+IMAGEN: MUSICA/imagenes/921049036.png

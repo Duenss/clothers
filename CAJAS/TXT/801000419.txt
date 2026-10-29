@@ -1,0 +1,8 @@
+ITEM ID: 801000419
+ICON ID: Icon_exchange_ob21_summer_holiday
+NOMBRE: Summer Holiday
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Happiness is waiting for you!
+IMAGEN: CAJAS/imagenes/801000419.png

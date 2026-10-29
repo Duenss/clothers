@@ -1,0 +1,8 @@
+ITEM ID: 820000003
+ICON ID: UI_DoublePointCard02
+NOMBRE: Double RP Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Obtain doubled rank points for your next BR-Ranked victory. (Points from first daily win not included.)
+IMAGEN: OTROS/imagenes/820000003.png

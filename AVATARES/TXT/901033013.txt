@@ -1,0 +1,8 @@
+ITEM ID: 901033013
+ICON ID: Icon_callsign_storebg_FFPL_S4
+NOMBRE: FFPL IV Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901033013.png

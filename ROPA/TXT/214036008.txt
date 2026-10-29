@@ -1,0 +1,8 @@
+ITEM ID: 214036008
+ICON ID: Icon_avatar_female_cos_headadditive_fantasy
+NOMBRE: Glamor Fantasy (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214036008.png

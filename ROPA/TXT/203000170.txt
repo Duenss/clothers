@@ -1,0 +1,8 @@
+ITEM ID: 203000170
+ICON ID: Icon_Avatar_male_tshirt_japanesestyle
+NOMBRE: Bushido Robe
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000170.png

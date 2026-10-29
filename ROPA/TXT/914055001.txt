@@ -1,0 +1,8 @@
+ITEM ID: 914055001
+ICON ID: FF_UI_Transform_icon_WB
+NOMBRE: Ben 10 Look Changer
+TIPO: Look Changer
+RAREZA: RED (Artifact)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914055001.png

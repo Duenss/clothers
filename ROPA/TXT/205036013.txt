@@ -1,0 +1,8 @@
+ITEM ID: 205036013
+ICON ID: Icon_avatar_female_cos_shoe_halloween22
+NOMBRE: Duchess of Terrorland (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036013.png

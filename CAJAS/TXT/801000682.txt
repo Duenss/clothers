@@ -1,0 +1,8 @@
+ITEM ID: 801000682
+ICON ID: Icon_exchange_ob25_7logo
+NOMBRE: Chrono Badge
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000682.png

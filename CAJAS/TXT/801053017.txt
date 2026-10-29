@@ -1,0 +1,8 @@
+ITEM ID: 801053017
+ICON ID: Icon_exchange_elhbt_53
+NOMBRE: Eclipse Hyperbook Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053017.png

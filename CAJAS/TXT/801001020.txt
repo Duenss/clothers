@@ -1,0 +1,8 @@
+ITEM ID: 801001020
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gold Football Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Leave your legacy on the pitch
+IMAGEN: CAJAS/imagenes/801001020.png

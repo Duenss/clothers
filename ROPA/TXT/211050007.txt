@@ -1,0 +1,8 @@
+ITEM ID: 211050007
+ICON ID: Icon_avatar_male_cos_hair_va_zombie
+NOMBRE: Hopping Trouble (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050007.png

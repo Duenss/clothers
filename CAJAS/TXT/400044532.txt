@@ -1,0 +1,8 @@
+ITEM ID: 400044532
+ICON ID: Icon_box_Mid_term_TH_44
+NOMBRE: Midterm Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044532.png

@@ -1,0 +1,8 @@
+ITEM ID: 908049012
+ICON ID: Icon_slot_Motobike_Delivery_VN
+NOMBRE: Motorbike - Speed Delivery
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049012.png

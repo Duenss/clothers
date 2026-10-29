@@ -1,0 +1,8 @@
+ITEM ID: 801050011
+ICON ID: Icon_exchange_pags_50
+NOMBRE: Bamboo Warrior Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050011.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000556
+ICON ID: Icon_exchange_ob23_red_balloon
+NOMBRE: Red Balloon
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Let's celebrate!
+IMAGEN: CAJAS/imagenes/801000556.png

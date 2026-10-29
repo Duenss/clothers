@@ -1,0 +1,8 @@
+ITEM ID: 204000015
+ICON ID: Icon_avatar_casual_camo_003
+NOMBRE: Long Pants (Camouflage)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000015.png

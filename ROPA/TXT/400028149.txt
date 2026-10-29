@@ -1,0 +1,8 @@
+ITEM ID: 400028149
+ICON ID: Icon_box_3
+NOMBRE: Streetbeat Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Character D-bee and other rewards
+IMAGEN: ROPA/imagenes/400028149.png

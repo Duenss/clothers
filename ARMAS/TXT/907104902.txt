@@ -1,0 +1,8 @@
+ITEM ID: 907104902
+ICON ID: Icon_AirBurst_Collage25
+NOMBRE: M590 - Collage Art
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104902.png

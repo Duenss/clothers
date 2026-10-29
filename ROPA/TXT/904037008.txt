@@ -1,0 +1,8 @@
+ITEM ID: 904037008
+ICON ID: Icon_Bag_Soccer22
+NOMBRE: Backpack - Steel Striker
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037008.png

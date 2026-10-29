@@ -1,0 +1,8 @@
+ITEM ID: 819750222
+ICON ID: FF_Lottery_fragment_NB_47
+NOMBRE: Chakra Spin Shard
+TIPO: Vouchers
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: For some Token Tower events, every 3 shards can be exchanged for one free spin
+IMAGEN: CAJAS/imagenes/819750222.png

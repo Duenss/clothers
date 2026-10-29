@@ -1,0 +1,8 @@
+ITEM ID: 907105210
+ICON ID: Icon_Thompson_Graffiti26
+NOMBRE: Thompson - Shadow Aim
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105210.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102940
+ICON ID: Icon_Scorpion_Grenade
+NOMBRE: Grenade - Malevolent Sting
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102940.png

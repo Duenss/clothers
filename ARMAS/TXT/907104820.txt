@@ -1,0 +1,8 @@
+ITEM ID: 907104820
+ICON ID: Icon_Baseballbat_Rainforest
+NOMBRE: Bat - Tropical Feathers
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104820.png

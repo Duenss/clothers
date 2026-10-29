@@ -1,0 +1,8 @@
+ITEM ID: 907105236
+ICON ID: Icon_Machete_Summer26
+NOMBRE: Parang - Leek Attack
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105236.png

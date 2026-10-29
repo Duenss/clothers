@@ -1,0 +1,8 @@
+ITEM ID: 203039045
+ICON ID: Icon_avatar_sc_top_villain
+NOMBRE: Vengeful Beast (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039045.png

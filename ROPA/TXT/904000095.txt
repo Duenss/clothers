@@ -1,0 +1,8 @@
+ITEM ID: 904000095
+ICON ID: Icon_Bag_Nuclear_FP
+NOMBRE: Backpack - Radioactive
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000095.png

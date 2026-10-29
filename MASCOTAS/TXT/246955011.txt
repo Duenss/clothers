@@ -1,0 +1,8 @@
+ITEM ID: 246955011
+ICON ID: Pet_Spark3_Face_PixelGlass_Rainbow
+NOMBRE: Colorful Pixel Glasses
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Colorful Pixel Glasses
+IMAGEN: MASCOTAS/imagenes/246955011.png

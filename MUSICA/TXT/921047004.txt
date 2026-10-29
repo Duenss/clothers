@@ -1,0 +1,8 @@
+ITEM ID: 921047004
+ICON ID: FF_UI_Voiceitem_Winterfest25_4
+NOMBRE: It's snow problem!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Event-exclusive voice pack
+IMAGEN: MUSICA/imagenes/921047004.png

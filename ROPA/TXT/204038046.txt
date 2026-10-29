@@ -1,0 +1,8 @@
+ITEM ID: 204038046
+ICON ID: Icon_avatar_male_cos_bottom_dmx_02
+NOMBRE: Hunter Nero (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038046.png

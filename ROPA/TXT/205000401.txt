@@ -1,0 +1,8 @@
+ITEM ID: 205000401
+ICON ID: Icon_avatar_male_shoe_cos_madscientist
+NOMBRE: Dr. Sanity (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000401.png

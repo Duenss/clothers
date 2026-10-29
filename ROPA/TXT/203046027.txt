@@ -1,0 +1,8 @@
+ITEM ID: 203046027
+ICON ID: Icon_avatar_male_cos_top_sportswear_bw
+NOMBRE: Aero Flex (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046027.png

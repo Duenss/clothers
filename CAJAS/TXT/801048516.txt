@@ -1,0 +1,8 @@
+ITEM ID: 801048516
+ICON ID: Icon_exchange_WLT_us-es_48
+NOMBRE: Wild Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048516.png

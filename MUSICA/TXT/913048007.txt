@@ -1,0 +1,8 @@
+ITEM ID: 913048007
+ICON ID: FF_UI_Vault_Music_Holi25
+NOMBRE: Original Lobby - Holi Version
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Free Fire MAX original lobby music remixed with a Holi theme
+IMAGEN: MUSICA/imagenes/913048007.png

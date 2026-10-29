@@ -1,0 +1,8 @@
+ITEM ID: 407104204
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Top Criminal (Ghost) (Trogon) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive a random gun skin (Trogon) from the Top Criminal (Ghost) weapon set
+IMAGEN: ARMAS/imagenes/407104204.png

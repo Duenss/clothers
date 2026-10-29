@@ -1,0 +1,8 @@
+ITEM ID: 907105547
+ICON ID: Icon_GlooShield_Overrun
+NOMBRE: Gloo Wall - Beast Within
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105547.png

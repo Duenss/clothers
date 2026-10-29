@@ -1,0 +1,8 @@
+ITEM ID: 407103603
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Wraith Patrol (Bizon + PARAFAL) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Open to receive a random gun skin (Bizon + PARAFAL) from the Wraith Patrol weapon set
+IMAGEN: ARMAS/imagenes/407103603.png

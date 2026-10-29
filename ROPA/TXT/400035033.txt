@@ -1,0 +1,8 @@
+ITEM ID: 400035033
+ICON ID: Icon_box_3
+NOMBRE: Neon Planet Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400035033.png

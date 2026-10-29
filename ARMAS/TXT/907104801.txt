@@ -1,0 +1,8 @@
+ITEM ID: 907104801
+ICON ID: Icon_TreatmentGun_Comic24
+NOMBRE: Heal Pistol - Pew Pew!
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104801.png

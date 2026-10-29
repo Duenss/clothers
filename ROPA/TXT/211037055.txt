@@ -1,0 +1,8 @@
+ITEM ID: 211037055
+ICON ID: Icon_avatar_cos_hair_angelik
+NOMBRE: Angelic Hat
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037055.png

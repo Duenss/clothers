@@ -1,0 +1,8 @@
+ITEM ID: 203051045
+ICON ID: Icon_avatar_cos_top_ffws25_14
+NOMBRE: Team Falcons Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051045.png

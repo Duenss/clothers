@@ -1,0 +1,8 @@
+ITEM ID: 203037050
+ICON ID: Icon_avatar_female_cos_top_emoji
+NOMBRE: Bang Bang (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037050.png

@@ -1,0 +1,8 @@
+ITEM ID: 400031135
+ICON ID: Icon_box_3
+NOMBRE: CIS Pro League Season 4 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to get amazing rewards
+IMAGEN: ROPA/imagenes/400031135.png

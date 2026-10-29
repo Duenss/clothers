@@ -1,0 +1,8 @@
+ITEM ID: 907104946
+ICON ID: Icon_GlooShield_Local25
+NOMBRE: Gloo Wall - Favela
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104946.png

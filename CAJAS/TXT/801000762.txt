@@ -1,0 +1,8 @@
+ITEM ID: 801000762
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FACT4 Green
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: FINE
+IMAGEN: CAJAS/imagenes/801000762.png

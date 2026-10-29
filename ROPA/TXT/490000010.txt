@@ -1,0 +1,8 @@
+ITEM ID: 490000010
+ICON ID: Icon_box_3
+NOMBRE: Level Up Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Congratulations! Here's something for your hardwork.
+IMAGEN: ROPA/imagenes/490000010.png

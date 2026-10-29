@@ -1,0 +1,8 @@
+ITEM ID: 246753005
+ICON ID: Icon_SparkPet_Face_Goggles
+NOMBRE: Diving Goggles
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Diving Goggles
+IMAGEN: MASCOTAS/imagenes/246753005.png

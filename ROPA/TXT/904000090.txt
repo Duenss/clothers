@@ -1,0 +1,8 @@
+ITEM ID: 904000090
+ICON ID: Icon_Bag_Icefestival_Model
+NOMBRE: Backpack - Snowman
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000090.png

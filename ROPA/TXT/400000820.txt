@@ -1,0 +1,8 @@
+ITEM ID: 400000820
+ICON ID: Icon_box_3
+NOMBRE: Pet Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Hi! Master!
+IMAGEN: ROPA/imagenes/400000820.png

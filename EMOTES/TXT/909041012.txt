@@ -1,0 +1,8 @@
+ITEM ID: 909041012
+ICON ID: Icon_Emote_41brmaster
+NOMBRE: BR-Ranked Grandmaster Emote
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041012.png

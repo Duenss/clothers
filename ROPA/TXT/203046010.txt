@@ -1,0 +1,8 @@
+ITEM ID: 203046010
+ICON ID: Icon_avatar_male_cos_top_yinyang24
+NOMBRE: Mystic Aura (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046010.png

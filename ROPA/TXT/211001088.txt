@@ -1,0 +1,8 @@
+ITEM ID: 211001088
+ICON ID: Icon_avatar_male_cos_accessory_bluetribe
+NOMBRE: Fury Tribe (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001088.png

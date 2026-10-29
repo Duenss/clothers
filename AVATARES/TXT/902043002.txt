@@ -1,0 +1,8 @@
+ITEM ID: 902043002
+ICON ID: Icon_face_Pointed_FP
+NOMBRE: Glossy Nightfall Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043002.png

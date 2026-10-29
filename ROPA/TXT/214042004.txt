@@ -1,0 +1,8 @@
+ITEM ID: 214042004
+ICON ID: Icon_avatar_male_cos_headadditive_lightfest23_boy
+NOMBRE: Divine Warrior (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214042004.png

@@ -1,0 +1,8 @@
+ITEM ID: 400034023
+ICON ID: Icon_box_3
+NOMBRE: Tie Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: It's time to celebrate dad!
+IMAGEN: ROPA/imagenes/400034023.png

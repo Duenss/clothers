@@ -1,0 +1,8 @@
+ITEM ID: 700000661
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Falco Package 2
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Falco and 150 Diamonds
+IMAGEN: ROPA/imagenes/700000661.png

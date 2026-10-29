@@ -1,0 +1,8 @@
+ITEM ID: 802000124
+ICON ID: FF_Lottery_Angelic_52_Voucher
+NOMBRE: Amethyst Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000124.png

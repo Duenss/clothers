@@ -1,0 +1,8 @@
+ITEM ID: 203038020
+ICON ID: Icon_avatar_male_cos_top_elder_purple
+NOMBRE: Stormwrath Kami (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038020.png

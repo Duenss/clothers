@@ -1,0 +1,8 @@
+ITEM ID: 907000012
+ICON ID: Icon_UMPSG_Red
+NOMBRE: Ruby
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000012.png

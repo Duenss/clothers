@@ -1,0 +1,8 @@
+ITEM ID: 907104846
+ICON ID: Icon_Biker_Grenade
+NOMBRE: Grenade - Asphalt Crusher
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104846.png

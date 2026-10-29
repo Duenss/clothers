@@ -1,0 +1,8 @@
+ITEM ID: 203000002
+ICON ID: Icon_avatar_vest_2
+NOMBRE: Singlet (Blue)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000002.png

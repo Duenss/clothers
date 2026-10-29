@@ -1,0 +1,8 @@
+ITEM ID: 211048047
+ICON ID: Icon_avatar_cos_accessory_fastbreaking25
+NOMBRE: Sandproof Beard
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048047.png

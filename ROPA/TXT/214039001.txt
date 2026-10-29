@@ -1,0 +1,8 @@
+ITEM ID: 214039001
+ICON ID: Icon_avatar_male_cos_headadditive_scarlet
+NOMBRE: Legendary Scorpio (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214039001.png

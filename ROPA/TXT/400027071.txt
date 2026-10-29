@@ -1,0 +1,8 @@
+ITEM ID: 400027071
+ICON ID: Icon_box_3
+NOMBRE: dtac 4
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400027071.png

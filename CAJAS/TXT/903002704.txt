@@ -1,0 +1,8 @@
+ITEM ID: 903002704
+ICON ID: Icon_Deadloot_Boxer
+NOMBRE: Loot Box - Knockout
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002704.png

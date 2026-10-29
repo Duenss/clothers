@@ -1,0 +1,8 @@
+ITEM ID: 205000568
+ICON ID: Icon_avatar_male_shoe_cos_musicfall_A
+NOMBRE: Stereo Sprinter (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000568.png

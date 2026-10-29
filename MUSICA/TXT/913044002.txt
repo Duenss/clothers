@@ -1,0 +1,8 @@
+ITEM ID: 913044002
+ICON ID: FF_UI_Vault_Music_PersonaB
+NOMBRE: The Paradox
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: The Paradox lobby music
+IMAGEN: MUSICA/imagenes/913044002.png

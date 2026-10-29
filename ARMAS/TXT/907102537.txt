@@ -1,0 +1,8 @@
+ITEM ID: 907102537
+ICON ID: Icon_Soulbusters_Pre_Grenade
+NOMBRE: Grenade - Specter Heart
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102537.png

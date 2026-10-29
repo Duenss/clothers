@@ -1,0 +1,8 @@
+ITEM ID: 205051005
+ICON ID: Icon_avatar_female_cos_shoe_redhat25
+NOMBRE: Little Red (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051005.png

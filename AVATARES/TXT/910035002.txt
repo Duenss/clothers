@@ -1,0 +1,8 @@
+ITEM ID: 910035002
+ICON ID: Pin_Small_Ugc
+NOMBRE: Brilliant Mind Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910035002.png

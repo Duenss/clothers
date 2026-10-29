@@ -1,0 +1,8 @@
+ITEM ID: 819430430
+ICON ID: FF_Lottery_gaincoin_Limit
+NOMBRE: Gold Royale Voucher
+TIPO: Vouchers
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Used in Luck Royale
+IMAGEN: CAJAS/imagenes/819430430.png

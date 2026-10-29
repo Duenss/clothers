@@ -1,0 +1,8 @@
+ITEM ID: 801001542
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Nutty Kurma
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Add a crunch to your date.
+IMAGEN: CAJAS/imagenes/801001542.png

@@ -1,0 +1,8 @@
+ITEM ID: 203047013
+ICON ID: Icon_avatar_male_cos_top_superstar24_white
+NOMBRE: Sporty Star (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047013.png

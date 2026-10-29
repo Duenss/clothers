@@ -1,0 +1,8 @@
+ITEM ID: 400000768
+ICON ID: Icon_box_3
+NOMBRE: Ragnarok Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Something this royal looking must contain valuables!
+IMAGEN: ROPA/imagenes/400000768.png

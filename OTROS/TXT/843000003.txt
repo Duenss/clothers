@@ -1,0 +1,8 @@
+ITEM ID: 843000003
+ICON ID: Icon_LoadoutCard
+NOMBRE: Loadout Trial Card (7 Days)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Try out all loadouts for 7 days. Automatically used once owned.
+IMAGEN: OTROS/imagenes/843000003.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104640
+ICON ID: Icon_Sugarskull24_Grenade
+NOMBRE: Grenade - Bare Bones
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104640.png

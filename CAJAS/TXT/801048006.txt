@@ -1,0 +1,8 @@
+ITEM ID: 801048006
+ICON ID: Icon_exchange_Eaf2025_1_48
+NOMBRE: Sandstorm Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048006.png

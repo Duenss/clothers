@@ -1,0 +1,8 @@
+ITEM ID: 902049010
+ICON ID: Icon_face_CSRank31_01
+NOMBRE: CS-Ranked S31 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902049010.png

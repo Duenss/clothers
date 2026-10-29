@@ -1,0 +1,8 @@
+ITEM ID: 801000141
+ICON ID: Icon_exchange_Sheep
+NOMBRE: Sheep Badge
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000141.png

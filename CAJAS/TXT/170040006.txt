@@ -1,0 +1,8 @@
+ITEM ID: 170040006
+ICON ID: Icon_OptionalBundle_Gun_skin_40
+NOMBRE: Ultra Gun Skin Choice Crate (7 Days)
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170040006.png

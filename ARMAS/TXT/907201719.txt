@@ -1,0 +1,8 @@
+ITEM ID: 907201719
+ICON ID: Icon_P90_Playboy
+NOMBRE: P90 - Old Fashioned
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201719.png

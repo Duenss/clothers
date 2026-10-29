@@ -1,0 +1,8 @@
+ITEM ID: 801000915
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Sweet Cookies Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Sweet cookies
+IMAGEN: CAJAS/imagenes/801000915.png

@@ -1,0 +1,8 @@
+ITEM ID: 800000522
+ICON ID: Icon_WSM_Parafal_Spirit24
+NOMBRE: PARAFAL - Lore Cyclone Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the PARAFAL skin. Obtain from events or buy directly from Store.
+IMAGEN: OTROS/imagenes/800000522.png

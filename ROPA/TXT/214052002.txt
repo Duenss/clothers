@@ -1,0 +1,8 @@
+ITEM ID: 214052002
+ICON ID: Icon_avatar_cos_headadditive_eggday26
+NOMBRE: Angry Bunny (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214052002.png

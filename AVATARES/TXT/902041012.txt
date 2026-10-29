@@ -1,0 +1,8 @@
+ITEM ID: 902041012
+ICON ID: Icon_face_Rank36_B
+NOMBRE: BR-Ranked S36 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902041012.png

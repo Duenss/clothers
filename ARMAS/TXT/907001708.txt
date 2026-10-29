@@ -1,0 +1,8 @@
+ITEM ID: 907001708
+ICON ID: Icon_CG15_Yinyang
+NOMBRE: CG15 - Phantom
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001708.png

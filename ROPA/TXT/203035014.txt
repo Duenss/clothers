@@ -1,0 +1,8 @@
+ITEM ID: 203035014
+ICON ID: Icon_avatar_cos_top_chameleon_red
+NOMBRE: Infernal Carnizard (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035014.png

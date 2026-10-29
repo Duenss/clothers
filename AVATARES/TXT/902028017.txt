@@ -1,0 +1,8 @@
+ITEM ID: 902028017
+ICON ID: Icon_face_Sutorito_A
+NOMBRE: Ryu
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028017.png

@@ -1,0 +1,8 @@
+ITEM ID: 101000009
+ICON ID: Icon_face_female_head_sc_armsdealer
+NOMBRE: Paloma
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Paloma is the reigning arms queen of the underworld.
+IMAGEN: PERSONAJES/imagenes/101000009.png

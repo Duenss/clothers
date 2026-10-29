@@ -1,0 +1,8 @@
+ITEM ID: 904000058
+ICON ID: Icon_Bag_apocalypse_model_03
+NOMBRE: Backpack - Death's Whisper
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000058.png

@@ -1,0 +1,8 @@
+ITEM ID: 801050022
+ICON ID: Icon_exchange_rabbitt_3_50
+NOMBRE: Galaxy Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050022.png

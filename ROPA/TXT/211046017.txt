@@ -1,0 +1,8 @@
+ITEM ID: 211046017
+ICON ID: Icon_avatar_male_cos_hair_booyahday24
+NOMBRE: Booyah Captain (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046017.png

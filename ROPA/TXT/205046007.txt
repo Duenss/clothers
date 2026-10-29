@@ -1,0 +1,8 @@
+ITEM ID: 205046007
+ICON ID: Icon_avatar_female_cos_shoe_purplelight
+NOMBRE: Violet Voltage (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046007.png

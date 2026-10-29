@@ -1,0 +1,8 @@
+ITEM ID: 203046065
+ICON ID: Icon_avatar_cos_top_ffws_sea24
+NOMBRE: FFWS 2024 Fall Champion Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046065.png

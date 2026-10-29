@@ -1,0 +1,8 @@
+ITEM ID: 904000002
+ICON ID: Icon_Bag_rabbit_03
+NOMBRE: Backpack - Rabbit
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000002.png

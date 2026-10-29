@@ -1,0 +1,8 @@
+ITEM ID: 801048502
+ICON ID: Icon_exchange_RRT_br_48
+NOMBRE: Revelry's Refreshment Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048502.png

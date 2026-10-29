@@ -1,0 +1,8 @@
+ITEM ID: 902050025
+ICON ID: Icon_face_SL_Girl
+NOMBRE: Xiao Wu Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902050025.png

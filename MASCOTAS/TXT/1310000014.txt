@@ -1,0 +1,8 @@
+ITEM ID: 1310000014
+ICON ID: Icon_Pet_Magnetic_Dog
+NOMBRE: Pet Skin: Magnetic Pup
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Confidence is key.
+IMAGEN: MASCOTAS/imagenes/1310000014.png

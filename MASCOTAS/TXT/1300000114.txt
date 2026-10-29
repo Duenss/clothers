@@ -1,0 +1,8 @@
+ITEM ID: 1300000114
+ICON ID: Icon_Pet_Alien
+NOMBRE: Moony
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Although not from this world, he loves everything about us!
+IMAGEN: MASCOTAS/imagenes/1300000114.png

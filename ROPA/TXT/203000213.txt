@@ -1,0 +1,8 @@
+ITEM ID: 203000213
+ICON ID: Icon_avatar_undershirt_shark
+NOMBRE: Jaws
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000213.png

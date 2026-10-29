@@ -1,0 +1,8 @@
+ITEM ID: 908047008
+ICON ID: Icon_slot_TUTU_Superstar24
+NOMBRE: Tuk Tuk - Sporty Star
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908047008.png

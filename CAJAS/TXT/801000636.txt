@@ -1,0 +1,8 @@
+ITEM ID: 801000636
+ICON ID: Icon_exchange_ob24_Bread_of_the_Dead
+NOMBRE: Bread of the Dead
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Sugary treats to remember the dead.
+IMAGEN: CAJAS/imagenes/801000636.png

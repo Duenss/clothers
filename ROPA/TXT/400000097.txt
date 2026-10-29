@@ -1,0 +1,8 @@
+ITEM ID: 400000097
+ICON ID: Icon_box_3
+NOMBRE: Scorched Earth Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a 3D, 7D, or permanent Scorched Earth Skin.
+IMAGEN: ROPA/imagenes/400000097.png

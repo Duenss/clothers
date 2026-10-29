@@ -1,0 +1,8 @@
+ITEM ID: 801050508
+ICON ID: Icon_exchange_bt1_id_50
+NOMBRE: Batik Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050508.png

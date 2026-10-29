@@ -1,0 +1,8 @@
+ITEM ID: 204047018
+ICON ID: Icon_avatar_male_cos_bottom_vnnewyear25
+NOMBRE: Auspicious Year (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047018.png

@@ -1,0 +1,8 @@
+ITEM ID: 921047030
+ICON ID: FF_UI_Voiceitem_Woodcrafter
+NOMBRE: Pushpa ke shudhu national vabchish naki? International
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921047030.png

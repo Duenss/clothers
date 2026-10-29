@@ -1,0 +1,8 @@
+ITEM ID: 211046025
+ICON ID: Icon_avatar_male_cos_hair_lightfest24_monkey
+NOMBRE: Magma Born (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046025.png

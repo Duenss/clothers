@@ -1,0 +1,8 @@
+ITEM ID: 907104521
+ICON ID: Icon_AR15_Octopus
+NOMBRE: Kingfisher - S41 Exclusive: Captain
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104521.png

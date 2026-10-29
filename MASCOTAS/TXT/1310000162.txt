@@ -1,0 +1,8 @@
+ITEM ID: 1310000162
+ICON ID: Icon_Pet_Brown_Tiger
+NOMBRE: Pet Skin: Earth Sensei Tig
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Roaming the world alone, an essential part of his training.
+IMAGEN: MASCOTAS/imagenes/1310000162.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104145
+ICON ID: Icon_FAL_Inkpainting
+NOMBRE: PARAFAL - Ink Puncture
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104145.png

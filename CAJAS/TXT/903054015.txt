@@ -1,0 +1,8 @@
+ITEM ID: 903054015
+ICON ID: Icon_Deadloot_Darkdesires_Red
+NOMBRE: Loot Box - King of Desires
+TIPO: Loot Box
+RAREZA: RED (Artifact)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903054015.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102818
+ICON ID: Icon_Kord_Fantasyeye
+NOMBRE: Kord - Merciless Necromancer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102818.png

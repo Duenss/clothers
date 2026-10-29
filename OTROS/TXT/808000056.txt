@@ -1,0 +1,8 @@
+ITEM ID: 808000056
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Iridescence Radiance
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Iridescence Radiance set
+IMAGEN: OTROS/imagenes/808000056.png

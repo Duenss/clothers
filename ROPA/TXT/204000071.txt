@@ -1,0 +1,8 @@
+ITEM ID: 204000071
+ICON ID: Icon_Avatar_Female_GSL_Jean
+NOMBRE: GW2018 Jeans (Female)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000071.png

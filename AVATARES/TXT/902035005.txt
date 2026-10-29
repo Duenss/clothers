@@ -1,0 +1,8 @@
+ITEM ID: 902035005
+ICON ID: Icon_face_Fcninja_EP_B
+NOMBRE: Ice Oni Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035005.png

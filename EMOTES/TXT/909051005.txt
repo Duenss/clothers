@@ -1,0 +1,8 @@
+ITEM ID: 909051005
+ICON ID: Icon_Emote_Swagger_Moving
+NOMBRE: Boss Energy
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051005.png

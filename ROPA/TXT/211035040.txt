@@ -1,0 +1,8 @@
+ITEM ID: 211035040
+ICON ID: Icon_avatar_male_cos_hair_riders
+NOMBRE: Grim Rider (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035040.png

@@ -1,0 +1,8 @@
+ITEM ID: 913036001
+ICON ID: FF_UI_Vault_Music_YAKUZA
+NOMBRE: No King of Me
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Double Trouble event lobby music
+IMAGEN: MUSICA/imagenes/913036001.png

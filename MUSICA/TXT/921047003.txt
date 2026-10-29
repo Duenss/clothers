@@ -1,0 +1,8 @@
+ITEM ID: 921047003
+ICON ID: FF_UI_Voiceitem_Winterfest25_3
+NOMBRE: Whoosh!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Event-exclusive voice pack
+IMAGEN: MUSICA/imagenes/921047003.png

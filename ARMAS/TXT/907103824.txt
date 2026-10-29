@@ -1,0 +1,8 @@
+ITEM ID: 907103824
+ICON ID: Icon_Katana_Valentine23
+NOMBRE: Katana - Sickly Sweet
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103824.png

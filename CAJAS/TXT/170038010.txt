@@ -1,0 +1,8 @@
+ITEM ID: 170038010
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Pet Selection Box
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Choose your favourite pet
+IMAGEN: CAJAS/imagenes/170038010.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001364
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Assassin Coin (Silver)
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: For the Brotherhood
+IMAGEN: CAJAS/imagenes/801001364.png

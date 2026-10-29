@@ -1,0 +1,8 @@
+ITEM ID: 214035002
+ICON ID: Icon_avatar_male_cos_headadditive_deepseasharks
+NOMBRE: Megajaw Tormentor (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214035002.png

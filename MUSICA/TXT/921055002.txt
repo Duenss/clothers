@@ -1,0 +1,8 @@
+ITEM ID: 921055002
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Yellow
+NOMBRE: We go down together, Sasuke.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Naruto Voice Pack
+IMAGEN: MUSICA/imagenes/921055002.png

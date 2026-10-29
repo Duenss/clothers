@@ -1,0 +1,8 @@
+ITEM ID: 913054007
+ICON ID: FF_UI_Vault_Music_ID54
+NOMBRE: Cari yang Baru
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: Tenxi collab theme song
+IMAGEN: MUSICA/imagenes/913054007.png

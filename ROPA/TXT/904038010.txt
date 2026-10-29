@@ -1,0 +1,8 @@
+ITEM ID: 904038010
+ICON ID: Icon_Bag_MO
+NOMBRE: Backpack - Voidborne
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038010.png

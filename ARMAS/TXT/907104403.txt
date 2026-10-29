@@ -1,0 +1,8 @@
+ITEM ID: 907104403
+ICON ID: Icon_Baseballbat_Videogame
+NOMBRE: Bat - Byte Tamper
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104403.png

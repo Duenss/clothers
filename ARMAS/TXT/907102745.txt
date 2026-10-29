@@ -1,0 +1,8 @@
+ITEM ID: 907102745
+ICON ID: Icon_GlooShield_Waterfest21
+NOMBRE: Gloo Wall - Disco Fiasco
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102745.png

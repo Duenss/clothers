@@ -1,0 +1,8 @@
+ITEM ID: 902037011
+ICON ID: Icon_face_Cyber_EU
+NOMBRE: Cyber Cityscape
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037011.png

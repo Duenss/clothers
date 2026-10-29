@@ -1,0 +1,8 @@
+ITEM ID: 907102624
+ICON ID: Icon_MAG7_Delivery
+NOMBRE: MAG-7 - Hurricane Delivery
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102624.png

@@ -1,0 +1,8 @@
+ITEM ID: 901055012
+ICON ID: Icon_callsign_storebg_CSRank40
+NOMBRE: CS-Ranked S40 Master Banner
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901055012.png

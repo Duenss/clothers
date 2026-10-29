@@ -1,0 +1,8 @@
+ITEM ID: 907104002
+ICON ID: Icon_MINI_Greenghost_Blue
+NOMBRE: AC80 - Phantasmal Touch
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104002.png

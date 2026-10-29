@@ -1,0 +1,8 @@
+ITEM ID: 400001212
+ICON ID: Icon_box_3
+NOMBRE: New Year Eve
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Let's countdown together and Happy New Year
+IMAGEN: ROPA/imagenes/400001212.png

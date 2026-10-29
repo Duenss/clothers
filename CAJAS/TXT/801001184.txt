@@ -1,0 +1,8 @@
+ITEM ID: 801001184
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Red Bucket Hat
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: LBFF6
+IMAGEN: CAJAS/imagenes/801001184.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000773
+ICON ID: Icon_avatar_male_top_cos_spine_yellow
+NOMBRE: Bling Ridge (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000773.png

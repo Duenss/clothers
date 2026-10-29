@@ -1,0 +1,8 @@
+ITEM ID: 906032004
+ICON ID: Icon_Avatar_Surfboard_RUred
+NOMBRE: Skyboard - Milestone
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906032004.png

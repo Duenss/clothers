@@ -1,0 +1,8 @@
+ITEM ID: 205054028
+ICON ID: Icon_avatar_cos_shoe_tooth_slippers
+NOMBRE: Super Fresh (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054028.png

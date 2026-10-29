@@ -1,0 +1,8 @@
+ITEM ID: 904032009
+ICON ID: Icon_Bag_VNnewyear
+NOMBRE: Backpack - Festive Growl
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032009.png

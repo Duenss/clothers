@@ -1,0 +1,8 @@
+ITEM ID: 913033004
+ICON ID: FF_UI_Vault_Music_INMU01
+NOMBRE: Kill Chori
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Diwali 2021 track with Shraddha Kapoor and Bhuvan Bam
+IMAGEN: MUSICA/imagenes/913033004.png

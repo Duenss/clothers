@@ -1,0 +1,8 @@
+ITEM ID: 907104244
+ICON ID: Icon_M1216_Dinosaursuit
+NOMBRE: Trogon - Pyro Dino
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104244.png

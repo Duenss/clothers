@@ -1,0 +1,8 @@
+ITEM ID: 211050005
+ICON ID: Icon_avatar_male_cos_hair_cloudyday
+NOMBRE: Solar Cloud (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050005.png

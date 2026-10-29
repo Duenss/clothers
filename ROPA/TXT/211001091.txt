@@ -1,0 +1,8 @@
+ITEM ID: 211001091
+ICON ID: Icon_avatar_male_cos_accessory_goldenwing
+NOMBRE: Flaxen Megacypher (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001091.png

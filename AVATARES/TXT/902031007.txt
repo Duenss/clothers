@@ -1,0 +1,8 @@
+ITEM ID: 902031007
+ICON ID: Icon_face_male_head_sc_Winterguy_B
+NOMBRE: Nairi' Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031007.png

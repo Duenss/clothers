@@ -1,0 +1,8 @@
+ITEM ID: 801050012
+ICON ID: Icon_exchange_ittt_50
+NOMBRE: Itachi Ascension Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050012.png

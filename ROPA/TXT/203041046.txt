@@ -1,0 +1,8 @@
+ITEM ID: 203041046
+ICON ID: Icon_avatar_male_cos_top_ds_soundman
+NOMBRE: Tengen's Top
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041046.png

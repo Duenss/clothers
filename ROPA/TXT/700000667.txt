@@ -1,0 +1,8 @@
+ITEM ID: 700000667
+ICON ID: Icon_IAPBundle_common
+NOMBRE: M82B & MP5 Package 2
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive 8 Vampire Malevolence (M82B + MP5) Weapon Loot Crates and 50 Diamonds
+IMAGEN: ROPA/imagenes/700000667.png

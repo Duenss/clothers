@@ -1,0 +1,8 @@
+ITEM ID: 211053017
+ICON ID: Icon_avatar_cos_hair_eclipse_sun
+NOMBRE: Solar Eclipse (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053017.png

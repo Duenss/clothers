@@ -1,0 +1,8 @@
+ITEM ID: 203050091
+ICON ID: Icon_avatar_male_cos_top_2nbct_fan
+NOMBRE: Madara Top
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050091.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000334
+ICON ID: Icon_box_magic_cube
+NOMBRE: Magic Cube box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Chance to get Magic Cube, used to exchange for epic skins in Exchange Store
+IMAGEN: CAJAS/imagenes/400000334.png

@@ -1,0 +1,8 @@
+ITEM ID: 211001305
+ICON ID: Icon_avatar_male_cos_hair_luchalibre2
+NOMBRE: La Parka (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001305.png

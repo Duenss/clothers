@@ -1,0 +1,8 @@
+ITEM ID: 913034001
+ICON ID: FF_UI_Vault_Music_Rampage
+NOMBRE: Rampage 2020
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Rampage 2020 lobby music
+IMAGEN: MUSICA/imagenes/913034001.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037076
+ICON ID: Icon_avatar_cos_accessory_angelik_01
+NOMBRE: Angelic Dandy
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037076.png

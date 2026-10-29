@@ -1,0 +1,8 @@
+ITEM ID: 902052018
+ICON ID: Icon_face_Colorfest26
+NOMBRE: Color Splash Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052018.png

@@ -1,0 +1,8 @@
+ITEM ID: 904890068
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Grand Journey
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: Achieve Grandmaster Rank 12 times in the Dawn Voyage rank year
+IMAGEN: AVATARES/imagenes/904890068.png

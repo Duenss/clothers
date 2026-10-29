@@ -1,0 +1,8 @@
+ITEM ID: 907105530
+ICON ID: Icon_Baseballbat_Rank54
+NOMBRE: Bat - S54 Exclusive: Scorpio
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105530.png

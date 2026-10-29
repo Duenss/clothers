@@ -1,0 +1,8 @@
+ITEM ID: 204040001
+ICON ID: Icon_avatar_male_cos_bottom_speed_m
+NOMBRE: In Glitch (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040001.png

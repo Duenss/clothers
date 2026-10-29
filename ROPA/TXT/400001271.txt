@@ -1,0 +1,8 @@
+ITEM ID: 400001271
+ICON ID: Icon_box_3
+NOMBRE: Matryoshka Doll Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Lovely Matryoshka box
+IMAGEN: ROPA/imagenes/400001271.png

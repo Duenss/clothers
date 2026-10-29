@@ -1,0 +1,8 @@
+ITEM ID: 1310000006
+ICON ID: Icon_Pet_Jumpsuit_Cat
+NOMBRE: Pet Skin: Kitty Heist
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: In 2020, 3 robbers broke into a bank. Eye witnesses described one outlaw as having a moustache
+IMAGEN: MASCOTAS/imagenes/1310000006.png

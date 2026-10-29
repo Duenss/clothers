@@ -1,0 +1,8 @@
+ITEM ID: 907201828
+ICON ID: Icon_M60_Piratemk2
+NOMBRE: M60 - Pirate's Soul
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201828.png

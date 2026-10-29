@@ -1,0 +1,8 @@
+ITEM ID: 801000125
+ICON ID: Icon_StoreReceiver_MothersDay
+NOMBRE: Love Letter
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000125.png

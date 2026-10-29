@@ -1,0 +1,8 @@
+ITEM ID: 600000007
+ICON ID: Icon_ff_Time_Werewolf_Roomcard
+NOMBRE: Pet Rumble Room Card (Time Limit)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use in Pet Rumble mode to create unlimited rooms within specified time limit. (Time Limit cards will be used first)
+IMAGEN: OTROS/imagenes/600000007.png

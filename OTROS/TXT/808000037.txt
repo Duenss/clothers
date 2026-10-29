@@ -1,0 +1,8 @@
+ITEM ID: 808000037
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: The Superchargers
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft The Superchargers set
+IMAGEN: OTROS/imagenes/808000037.png

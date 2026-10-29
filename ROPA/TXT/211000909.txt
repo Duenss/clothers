@@ -1,0 +1,8 @@
+ITEM ID: 211000909
+ICON ID: Icon_avatar_hair_cos_flaming_mid2
+NOMBRE: Shadow Soldier (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000909.png

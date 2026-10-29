@@ -1,0 +1,8 @@
+ITEM ID: 906000080
+ICON ID: Icon_Avatar_Surfboard_Piratemk2_2
+NOMBRE: Skyboard - Bloody Red Shark
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000080.png

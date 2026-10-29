@@ -1,0 +1,8 @@
+ITEM ID: 246754011
+ICON ID: Icon_SparkPet_Face_Goggles_matcap_Yellow
+NOMBRE: Yellow Goggle
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Yellow Goggle
+IMAGEN: MASCOTAS/imagenes/246754011.png

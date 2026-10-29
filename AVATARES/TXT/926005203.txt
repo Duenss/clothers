@@ -1,0 +1,8 @@
+ITEM ID: 926005203
+ICON ID: Icon_PhotoFrameitem_TreasureHunt_01
+NOMBRE: Lost Treasure frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure frame
+IMAGEN: AVATARES/imagenes/926005203.png

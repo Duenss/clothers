@@ -1,0 +1,8 @@
+ITEM ID: 205038042
+ICON ID: Icon_avatar_male_cos_shoe_easterrabbit_black
+NOMBRE: Bunny Ringleader (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038042.png

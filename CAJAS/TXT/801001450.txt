@@ -1,0 +1,8 @@
+ITEM ID: 801001450
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Women's Bunch of Flowers Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001450.png

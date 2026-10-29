@@ -1,0 +1,8 @@
+ITEM ID: 801040543
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Token Perlengkapan
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Back to school
+IMAGEN: CAJAS/imagenes/801040543.png

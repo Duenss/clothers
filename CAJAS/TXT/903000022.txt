@@ -1,0 +1,8 @@
+ITEM ID: 903000022
+ICON ID: Icon_Deadloot_Newyear19
+NOMBRE: Loot Box - New Year
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000022.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105149
+ICON ID: Icon_GlooShield_NewAngelic
+NOMBRE: Gloo Wall - Prism Guard
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105149.png

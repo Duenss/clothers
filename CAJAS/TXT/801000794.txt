@@ -1,0 +1,8 @@
+ITEM ID: 801000794
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: One Punch Man ticket
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000794.png

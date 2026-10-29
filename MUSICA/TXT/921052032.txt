@@ -1,0 +1,8 @@
+ITEM ID: 921052032
+ICON ID: FF_UI_Voiceitem_IIV_02
+NOMBRE: Domain Expansion. Unlimited Void.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Satoru Gojo Voice Pack
+IMAGEN: MUSICA/imagenes/921052032.png

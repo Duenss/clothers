@@ -1,0 +1,8 @@
+ITEM ID: 710050049
+ICON ID: Icon_bundle_Cindered_Colossus_Thompson_50
+NOMBRE: Cindered Colossus (Thompson) Token Exchange Crate
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710050049.png

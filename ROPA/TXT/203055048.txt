@@ -1,0 +1,8 @@
+ITEM ID: 203055048
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Unknown
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

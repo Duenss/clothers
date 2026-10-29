@@ -1,0 +1,8 @@
+ITEM ID: 907105513
+ICON ID: Icon_AK47_CSRank39
+NOMBRE: AK47 - S39 Exclusive: Owl
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105513.png

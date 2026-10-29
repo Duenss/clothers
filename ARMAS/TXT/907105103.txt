@@ -1,0 +1,8 @@
+ITEM ID: 907105103
+ICON ID: Icon_DA_Force_Grenade
+NOMBRE: Grenade - Gaia Force
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105103.png

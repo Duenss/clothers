@@ -1,0 +1,8 @@
+ITEM ID: 400047519
+ICON ID: Icon_box_FJB_TH_47
+NOMBRE: Flame Jersey Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047519.png

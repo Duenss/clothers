@@ -1,0 +1,8 @@
+ITEM ID: 902032004
+ICON ID: Icon_face_Inkbrush_A
+NOMBRE: Azure Myth
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902032004.png

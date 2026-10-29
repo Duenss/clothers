@@ -1,0 +1,8 @@
+ITEM ID: 907103444
+ICON ID: Icon_GlooShield_Rampage4_Orangeplus01
+NOMBRE: Gloo Wall - Cloud of Fear
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103444.png

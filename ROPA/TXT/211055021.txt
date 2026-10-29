@@ -1,0 +1,8 @@
+ITEM ID: 211055021
+ICON ID: Icon_avatar_female_cos_hair_sugarskull26
+NOMBRE: Phantom Bride (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055021.png

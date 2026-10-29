@@ -1,0 +1,8 @@
+ITEM ID: 907104407
+ICON ID: Icon_MAG7_Pharaoh
+NOMBRE: MAG-7 - Pharaoh's Choice
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104407.png

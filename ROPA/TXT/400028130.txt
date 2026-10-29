@@ -1,0 +1,8 @@
+ITEM ID: 400028130
+ICON ID: Icon_box_3
+NOMBRE: Rainbow Sunshine Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Contains Rainbow Sunshine and all of its pieces
+IMAGEN: ROPA/imagenes/400028130.png

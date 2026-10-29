@@ -1,0 +1,8 @@
+ITEM ID: 205046028
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Gloo Artist (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

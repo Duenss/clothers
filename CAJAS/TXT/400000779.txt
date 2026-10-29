@@ -1,0 +1,8 @@
+ITEM ID: 400000779
+ICON ID: Icon_box_spring_prize
+NOMBRE: BOOYAH! 500 Gold box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400000779.png

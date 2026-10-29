@@ -1,0 +1,8 @@
+ITEM ID: 907002118
+ICON ID: Icon_FAMAS_Kpopsinger
+NOMBRE: FAMAS - Kpop Stardom
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002118.png

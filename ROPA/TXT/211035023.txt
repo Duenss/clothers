@@ -1,0 +1,8 @@
+ITEM ID: 211035023
+ICON ID: Icon_avatar_cos_hair_chameleon_purple
+NOMBRE: Stellar Carnizard (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035023.png

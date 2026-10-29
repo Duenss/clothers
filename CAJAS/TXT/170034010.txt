@@ -1,0 +1,8 @@
+ITEM ID: 170034010
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Bomb Squad Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170034010.png

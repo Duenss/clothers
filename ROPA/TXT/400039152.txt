@@ -1,0 +1,8 @@
+ITEM ID: 400039152
+ICON ID: Icon_box_3
+NOMBRE: Fire Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: You can get what you want
+IMAGEN: ROPA/imagenes/400039152.png

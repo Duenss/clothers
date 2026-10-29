@@ -1,0 +1,8 @@
+ITEM ID: 903047003
+ICON ID: Icon_Deadloot_Catdog
+NOMBRE: Loot Box - 24K Biceps
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903047003.png

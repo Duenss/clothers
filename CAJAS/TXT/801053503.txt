@@ -1,0 +1,8 @@
+ITEM ID: 801053503
+ICON ID: Icon_exchange_yct_id_53
+NOMBRE: Yellow Coin Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053503.png

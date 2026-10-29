@@ -1,0 +1,8 @@
+ITEM ID: 203048036
+ICON ID: Icon_avatar_male_cos_top_csrank30
+NOMBRE: CS-Ranked S30 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048036.png

@@ -1,0 +1,8 @@
+ITEM ID: 906000002
+ICON ID: Icon_Avatar_Surfboard_Geisha
+NOMBRE: Skyboard - The Artist
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000002.png

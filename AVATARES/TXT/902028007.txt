@@ -1,0 +1,8 @@
+ITEM ID: 902028007
+ICON ID: Icon_face_male_head_sc_StreetBeat_B
+NOMBRE: D-bee's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028007.png

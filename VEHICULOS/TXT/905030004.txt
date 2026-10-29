@@ -1,0 +1,8 @@
+ITEM ID: 905030004
+ICON ID: Icon_Avatar_PARACHUTE_Playingcard
+NOMBRE: Parachute - Poker Monarch
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905030004.png

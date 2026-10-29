@@ -1,0 +1,8 @@
+ITEM ID: 170040503
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Box 3
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170040503.png

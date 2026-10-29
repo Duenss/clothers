@@ -1,0 +1,8 @@
+ITEM ID: 907102210
+ICON ID: Icon_P90_College
+NOMBRE: P90 - Rebel Academy
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102210.png

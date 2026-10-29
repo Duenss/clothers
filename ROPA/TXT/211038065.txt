@@ -1,0 +1,8 @@
+ITEM ID: 211038065
+ICON ID: Icon_avatar_male_cos_hair_dmx_01
+NOMBRE: Hunter Dante (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038065.png

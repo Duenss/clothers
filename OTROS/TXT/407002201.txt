@@ -1,0 +1,8 @@
+ITEM ID: 407002201
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Rebel Academy Weapon Loot Crate
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Rebel Academy weapon set.
+IMAGEN: OTROS/imagenes/407002201.png

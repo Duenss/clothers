@@ -1,0 +1,8 @@
+ITEM ID: 907102434
+ICON ID: Icon_Baseballbat_Booyahday
+NOMBRE: Bat - Booyah Day
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102434.png

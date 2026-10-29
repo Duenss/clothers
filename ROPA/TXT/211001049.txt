@@ -1,0 +1,8 @@
+ITEM ID: 211001049
+ICON ID: Icon_avatar_male_cos_hair_scorpion_headwear
+NOMBRE: Venomous Skorpios - Crim (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001049.png

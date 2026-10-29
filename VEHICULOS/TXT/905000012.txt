@@ -1,0 +1,8 @@
+ITEM ID: 905000012
+ICON ID: Icon_Avatar_PARACHUTE_SNOWY
+NOMBRE: Parachute - Snow
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000012.png

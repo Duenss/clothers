@@ -1,0 +1,8 @@
+ITEM ID: 820000010
+ICON ID: UI_NoDeductCard02_BR
+NOMBRE: BR RP Protection Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: No points will be deducted for your next BR-Ranked defeat
+IMAGEN: OTROS/imagenes/820000010.png

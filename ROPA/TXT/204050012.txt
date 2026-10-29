@@ -1,0 +1,8 @@
+ITEM ID: 204050012
+ICON ID: Icon_avatar_male_cos_bottom_citypanda
+NOMBRE: Bamboo Bandit (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050012.png

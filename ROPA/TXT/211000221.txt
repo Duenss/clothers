@@ -1,0 +1,8 @@
+ITEM ID: 211000221
+ICON ID: Icon_avatar_male_accessory_cos_madhatter
+NOMBRE: Mad Stranger (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000221.png

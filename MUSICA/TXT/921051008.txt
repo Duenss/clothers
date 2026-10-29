@@ -1,0 +1,8 @@
+ITEM ID: 921051008
+ICON ID: FF_UI_Voiceitem_WL51
+NOMBRE: (shivering) It's freezing!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Winterlands: Dreamspace Voice Pack
+IMAGEN: MUSICA/imagenes/921051008.png

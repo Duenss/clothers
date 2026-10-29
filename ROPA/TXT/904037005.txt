@@ -1,0 +1,8 @@
+ITEM ID: 904037005
+ICON ID: Icon_Bag_Straw
+NOMBRE: Backpack - Straw Hat
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037005.png

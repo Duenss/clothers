@@ -1,0 +1,8 @@
+ITEM ID: 204000391
+ICON ID: Icon_avatar_male_bottom_cos_signaltroops
+NOMBRE: Storm Whisperer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000391.png

@@ -1,0 +1,8 @@
+ITEM ID: 203040036
+ICON ID: Icon_avatar_cos_top_unicon22_tshirt
+NOMBRE: Magical Mane (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040036.png

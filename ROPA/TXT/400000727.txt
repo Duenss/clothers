@@ -1,0 +1,8 @@
+ITEM ID: 400000727
+ICON ID: Icon_box_3
+NOMBRE: Lipstick Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Icon of Woman
+IMAGEN: ROPA/imagenes/400000727.png

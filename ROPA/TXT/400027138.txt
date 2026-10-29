@@ -1,0 +1,8 @@
+ITEM ID: 400027138
+ICON ID: Icon_box_3
+NOMBRE: FFWS 2021 Event Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Check in and participate in FFWS 2021 events to receive this bonus goodie!
+IMAGEN: ROPA/imagenes/400027138.png

@@ -1,0 +1,8 @@
+ITEM ID: 211046004
+ICON ID: Icon_avatar_male_cos_accessory_pinata
+NOMBRE: Horsin' Around (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046004.png

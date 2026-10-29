@@ -1,0 +1,8 @@
+ITEM ID: 907104627
+ICON ID: Icon_Machete_CSRank27
+NOMBRE: Parang - S27 Exclusive: Jagged
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: CS-Ranked S27 Reward
+IMAGEN: ARMAS/imagenes/907104627.png

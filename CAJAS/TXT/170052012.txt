@@ -1,0 +1,8 @@
+ITEM ID: 170052012
+ICON ID: Icon_OptionalBundle_ngwcc1_LOT_52
+NOMBRE: Newbie Green Weapon Choice Crate 1
+TIPO: Choice Crates
+RAREZA: GREEN (Uncommon)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052012.png

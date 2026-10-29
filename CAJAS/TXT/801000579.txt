@@ -1,0 +1,8 @@
+ITEM ID: 801000579
+ICON ID: Icon_exchange_ob23_the_hero
+NOMBRE: The Hero
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: We are the hero of our own story
+IMAGEN: CAJAS/imagenes/801000579.png

@@ -1,0 +1,8 @@
+ITEM ID: 204036037
+ICON ID: Icon_avatar_male_cos_bottom_decadentbear_01
+NOMBRE: Sinister Plushie (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036037.png

@@ -1,0 +1,8 @@
+ITEM ID: 801009001
+ICON ID: UI_Character_icon_AddSkill
+NOMBRE: Skill Slot
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB09
+DESCRIPCION: Skills of owned Characters can be equipped.
+IMAGEN: CAJAS/imagenes/801009001.png

@@ -1,0 +1,8 @@
+ITEM ID: 400039301
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AN94 Ruby Bride Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive a AN94 Ruby Bride Skin
+IMAGEN: CAJAS/imagenes/400039301.png

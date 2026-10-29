@@ -1,0 +1,8 @@
+ITEM ID: 906028001
+ICON ID: Icon_Avatar_Surfboard_Pursuer
+NOMBRE: Skyboard - Most Wanted
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906028001.png

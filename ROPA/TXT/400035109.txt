@@ -1,0 +1,8 @@
+ITEM ID: 400035109
+ICON ID: Icon_box_3
+NOMBRE: Amber Megacypher Loot Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Contains Amber Megacypher and all its pieces
+IMAGEN: ROPA/imagenes/400035109.png

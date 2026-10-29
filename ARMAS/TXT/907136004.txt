@@ -1,0 +1,8 @@
+ITEM ID: 907136004
+ICON ID: Icon_MAG7_Icewizard
+NOMBRE: MAG-7 - Drowning Blizzard
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136004.png

@@ -1,0 +1,8 @@
+ITEM ID: 203034016
+ICON ID: Icon_avatar_male_cos_top_roseperfume_white
+NOMBRE: Sir Elixir (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034016.png

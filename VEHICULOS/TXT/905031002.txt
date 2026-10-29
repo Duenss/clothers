@@ -1,0 +1,8 @@
+ITEM ID: 905031002
+ICON ID: Icon_Avatar_PARACHUTE_Falconer
+NOMBRE: Parachute - Maro's Eagle Wings
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905031002.png

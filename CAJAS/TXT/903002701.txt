@@ -1,0 +1,8 @@
+ITEM ID: 903002701
+ICON ID: Icon_Deadloot_Crystalslipper
+NOMBRE: Loot Box - Crystal Case
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002701.png

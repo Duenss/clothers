@@ -1,0 +1,8 @@
+ITEM ID: 905590099
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Seen the Unseen
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Collect entries and reach collection goals in The Unseen Album to claim
+IMAGEN: AVATARES/imagenes/905590099.png

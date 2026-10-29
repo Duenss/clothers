@@ -1,0 +1,8 @@
+ITEM ID: 170041505
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Evo Token Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Get your desired Evo Token
+IMAGEN: CAJAS/imagenes/170041505.png

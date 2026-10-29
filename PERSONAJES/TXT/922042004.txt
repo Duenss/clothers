@@ -1,0 +1,8 @@
+ITEM ID: 922042004
+ICON ID: UI_Icon_SkillSkin_Yakuza
+NOMBRE: Skill Skin: Rebel Rush
+TIPO: Skill Skins
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922042004.png

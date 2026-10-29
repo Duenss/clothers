@@ -1,0 +1,8 @@
+ITEM ID: 203000339
+ICON ID: Icon_avatar_male_jacket_GangLeader
+NOMBRE: Gray Leather Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000339.png

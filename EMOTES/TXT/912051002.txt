@@ -1,0 +1,8 @@
+ITEM ID: 912051002
+ICON ID: Icon_GroupAnim_Dreamland
+NOMBRE: Dream Show
+TIPO: Arrival Animation
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB51
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912051002.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000104
+ICON ID: Icon_Avatar_female_shortpants_flap_blue
+NOMBRE: Denim Shorts (Female)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000104.png

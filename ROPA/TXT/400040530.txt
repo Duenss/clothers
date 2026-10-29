@@ -1,0 +1,8 @@
+ITEM ID: 400040530
+ICON ID: Icon_box_3
+NOMBRE: Rune Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: You can get what you want
+IMAGEN: ROPA/imagenes/400040530.png

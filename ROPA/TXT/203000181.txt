@@ -1,0 +1,8 @@
+ITEM ID: 203000181
+ICON ID: Icon_avatar_male_top_cos_dinosaur_green
+NOMBRE: Dino
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000181.png

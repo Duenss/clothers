@@ -1,0 +1,8 @@
+ITEM ID: 211043000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Mechanical Genius (Mask)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

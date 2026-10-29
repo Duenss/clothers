@@ -1,0 +1,8 @@
+ITEM ID: 908036003
+ICON ID: Icon_slot_Amphibian_Frankenstein
+NOMBRE: Amphibian - Supercurrent
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908036003.png

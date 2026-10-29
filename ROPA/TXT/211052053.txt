@@ -1,0 +1,8 @@
+ITEM ID: 211052053
+ICON ID: Icon_avatar_cos_hair_fastbreaking_treasure03
+NOMBRE: Treasure Headpiece Lv. 4
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052053.png

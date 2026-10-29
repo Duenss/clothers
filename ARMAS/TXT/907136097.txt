@@ -1,0 +1,8 @@
+ITEM ID: 907136097
+ICON ID: Icon_Lightfest22_Grenade
+NOMBRE: Grenade - Tiger's Attack
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136097.png

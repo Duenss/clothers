@@ -1,0 +1,8 @@
+ITEM ID: 907104853
+ICON ID: Icon_GlooShield_Cricke25
+NOMBRE: Gloo Wall - Ace Batter
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104853.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000143
+ICON ID: Icon_avatar_tshirt_keepcalm_red_03
+NOMBRE: Keep calm (red)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000143.png

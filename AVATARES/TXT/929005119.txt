@@ -1,0 +1,8 @@
+ITEM ID: 929005119
+ICON ID: Icon_Photostickeritem_Winterland_03
+NOMBRE: Sweet Dream Yeti Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Sweet Dream Yeti Sticker
+IMAGEN: AVATARES/imagenes/929005119.png

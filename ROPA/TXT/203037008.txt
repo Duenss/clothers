@@ -1,0 +1,8 @@
+ITEM ID: 203037008
+ICON ID: Icon_avatar_male_cos_top_silverera
+NOMBRE: Fearless Greyguard (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037008.png

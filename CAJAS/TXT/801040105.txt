@@ -1,0 +1,8 @@
+ITEM ID: 801040105
+ICON ID: FF_UI_SixthB_03_StikcerItem05
+NOMBRE: Clock Tower
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: If you dare to get close to the Clock Tower, you will face great challenges and dangers. Only the strongest warriors can survive here. Are you ready for it?
+IMAGEN: CAJAS/imagenes/801040105.png

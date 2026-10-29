@@ -1,0 +1,8 @@
+ITEM ID: 211001334
+ICON ID: Icon_avatar_female_cos_accessory_reddragon
+NOMBRE: Dusklit Slayer (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001334.png

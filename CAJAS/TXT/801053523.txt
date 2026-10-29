@@ -1,0 +1,8 @@
+ITEM ID: 801053523
+ICON ID: Icon_exchange_twist_th_53
+NOMBRE: TWIS Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053523.png

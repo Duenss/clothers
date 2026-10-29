@@ -1,0 +1,8 @@
+ITEM ID: 400000129
+ICON ID: Icon_box_special
+NOMBRE: Friendship Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: I wish you the best. Open the loot crate to receive a randomly selected item or a trial card
+IMAGEN: CAJAS/imagenes/400000129.png

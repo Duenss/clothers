@@ -1,0 +1,8 @@
+ITEM ID: 203051019
+ICON ID: Icon_avatar_male_cos_top_casual_blue
+NOMBRE: Peppy Summer (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051019.png

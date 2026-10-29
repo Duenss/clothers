@@ -1,0 +1,8 @@
+ITEM ID: 907104628
+ICON ID: Icon_Baseballbat_Rank42
+NOMBRE: Bat - S42 Exclusive: Combustion
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: BR-Ranked S42 Reward
+IMAGEN: ARMAS/imagenes/907104628.png

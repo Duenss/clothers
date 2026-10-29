@@ -1,0 +1,8 @@
+ITEM ID: 400047531
+ICON ID: Icon_box_2EFB_ME_47
+NOMBRE: 2025 Eid Fitr Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Eid Mubarak everyone!
+IMAGEN: CAJAS/imagenes/400047531.png

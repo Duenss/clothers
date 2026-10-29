@@ -1,0 +1,8 @@
+ITEM ID: 211049004
+ICON ID: Icon_avatar_male_cos_accessory_eighth
+NOMBRE: Infinity Conductor (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049004.png

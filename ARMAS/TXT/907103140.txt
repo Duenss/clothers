@@ -1,0 +1,8 @@
+ITEM ID: 907103140
+ICON ID: Icon_M21A5_Jumpsuit2
+NOMBRE: Woodpecker - Red Robster
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103140.png

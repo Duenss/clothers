@@ -1,0 +1,8 @@
+ITEM ID: 205045026
+ICON ID: Icon_avatar_cos_shoe_popid
+NOMBRE: Say JKT48! (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205045026.png

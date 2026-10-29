@@ -1,0 +1,8 @@
+ITEM ID: 913047003
+ICON ID: FF_UI_Vault_Music_ME_Regala
+NOMBRE: Regalia: Earned Not Given
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: The Regalia campaign lobby music
+IMAGEN: MUSICA/imagenes/913047003.png

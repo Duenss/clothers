@@ -1,0 +1,8 @@
+ITEM ID: 246955027
+ICON ID: Pet_Spark3_Head_CatHat_Black
+NOMBRE: Black Cat Hat
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Black Cat Hat
+IMAGEN: MASCOTAS/imagenes/246955027.png

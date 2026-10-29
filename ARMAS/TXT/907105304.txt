@@ -1,0 +1,8 @@
+ITEM ID: 907105304
+ICON ID: Icon_Katana_Bluetears
+NOMBRE: Katana - Undersea Echo
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105304.png

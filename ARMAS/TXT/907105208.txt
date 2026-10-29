@@ -1,0 +1,8 @@
+ITEM ID: 907105208
+ICON ID: Icon_Eagle_Aprilfool26
+NOMBRE: Desert Eagle - Finger Gun
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105208.png

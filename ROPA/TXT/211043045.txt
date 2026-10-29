@@ -1,0 +1,8 @@
+ITEM ID: 211043045
+ICON ID: Icon_avatar_cos_accessory_fastbreaking24_mask
+NOMBRE: Stardust Checker (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043045.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000260
+ICON ID: Icon_exchange_Green_balloon
+NOMBRE: Green Balloon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Celebrate Republic Day with balloons!
+IMAGEN: CAJAS/imagenes/801000260.png

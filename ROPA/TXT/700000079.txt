@@ -1,0 +1,8 @@
+ITEM ID: 700000079
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Skull King Special Crate
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains all the pieces in the Skull King Set
+IMAGEN: ROPA/imagenes/700000079.png

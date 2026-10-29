@@ -1,0 +1,8 @@
+ITEM ID: 921048013
+ICON ID: FF_UI_Voiceitem_ID48FAST
+NOMBRE: [Habib Ja'far] Don't be angry while playing!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Fasting Voice Pack
+IMAGEN: MUSICA/imagenes/921048013.png

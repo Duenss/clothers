@@ -1,0 +1,8 @@
+ITEM ID: 170052020
+ICON ID: Icon_OptionalBundle_nowcc_LOT_52
+NOMBRE: Newbie Orange Weapon Choice Crate
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052020.png

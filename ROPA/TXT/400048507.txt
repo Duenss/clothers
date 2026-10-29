@@ -1,0 +1,8 @@
+ITEM ID: 400048507
+ICON ID: Icon_box_3
+NOMBRE: Box 225
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400048507.png

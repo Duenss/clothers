@@ -1,0 +1,8 @@
+ITEM ID: 907103403
+ICON ID: Icon_Baseballbat_Rhythmgirl
+NOMBRE: Bat - Vibes Basher
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103403.png

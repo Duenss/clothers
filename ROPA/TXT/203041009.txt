@@ -1,0 +1,8 @@
+ITEM ID: 203041009
+ICON ID: Icon_avatar_female_cos_top_designertoys
+NOMBRE: Marionette Fantasy (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041009.png

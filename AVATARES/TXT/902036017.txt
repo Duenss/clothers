@@ -1,0 +1,8 @@
+ITEM ID: 902036017
+ICON ID: Icon_face_LoneWolf03_B
+NOMBRE: LW-Ranked S3 Master Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036017.png

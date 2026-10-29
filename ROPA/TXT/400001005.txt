@@ -1,0 +1,8 @@
+ITEM ID: 400001005
+ICON ID: Icon_box_3
+NOMBRE: Mr. Waggor Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains Mr. Waggor and many other rewards
+IMAGEN: ROPA/imagenes/400001005.png

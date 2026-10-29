@@ -1,0 +1,8 @@
+ITEM ID: 907101512
+ICON ID: Icon_Kar98k_StarSoul
+NOMBRE: Kar98k - Star Soul
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101512.png

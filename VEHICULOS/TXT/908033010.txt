@@ -1,0 +1,8 @@
+ITEM ID: 908033010
+ICON ID: Icon_slot_Roadster_Boyband
+NOMBRE: Sports Car - Golden Undaunted
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908033010.png

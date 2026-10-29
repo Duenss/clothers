@@ -1,0 +1,8 @@
+ITEM ID: 246955020
+ICON ID: Pet_Spark3_Back_ScaryBunny
+NOMBRE: Spooky Rabbit Backpack
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Spooky Rabbit Backpack
+IMAGEN: MASCOTAS/imagenes/246955020.png

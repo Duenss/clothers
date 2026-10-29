@@ -1,0 +1,8 @@
+ITEM ID: 710028044
+ICON ID: Icon_bundle_Supercar_28
+NOMBRE: McLaren Racing Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710028044.png

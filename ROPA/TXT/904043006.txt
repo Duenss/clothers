@@ -1,0 +1,8 @@
+ITEM ID: 904043006
+ICON ID: Icon_Bag_ML24
+NOMBRE: Backpack - FFML
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904043006.png

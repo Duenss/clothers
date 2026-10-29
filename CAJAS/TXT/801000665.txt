@@ -1,0 +1,8 @@
+ITEM ID: 801000665
+ICON ID: Icon_exchange_ob24_Pumpkin_Token
+NOMBRE: Pumpkin Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Jack o Lantern
+IMAGEN: CAJAS/imagenes/801000665.png

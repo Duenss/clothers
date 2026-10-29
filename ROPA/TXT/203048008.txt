@@ -1,0 +1,8 @@
+ITEM ID: 203048008
+ICON ID: Icon_avatar_male_cos_top_cityhero_red
+NOMBRE: Midnight Watcher (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048008.png

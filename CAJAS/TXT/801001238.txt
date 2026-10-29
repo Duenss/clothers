@@ -1,0 +1,8 @@
+ITEM ID: 801001238
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: BOOYAH!
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Eat Sleep BOOYAH!
+IMAGEN: CAJAS/imagenes/801001238.png

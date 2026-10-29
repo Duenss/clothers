@@ -1,0 +1,8 @@
+ITEM ID: 205000606
+ICON ID: Icon_avatar_male_shoe_cos_executioner
+NOMBRE: Soulless Executioner (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000606.png

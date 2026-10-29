@@ -1,0 +1,8 @@
+ITEM ID: 904047003
+ICON ID: Icon_Bag_Catdog
+NOMBRE: Backpack - 24K Critters
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904047003.png

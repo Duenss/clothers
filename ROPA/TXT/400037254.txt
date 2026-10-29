@@ -1,0 +1,8 @@
+ITEM ID: 400037254
+ICON ID: Icon_box_3
+NOMBRE: Holiday Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Open the box to get exciting items!
+IMAGEN: ROPA/imagenes/400037254.png

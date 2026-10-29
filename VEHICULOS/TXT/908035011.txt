@@ -1,0 +1,8 @@
+ITEM ID: 908035011
+ICON ID: Icon_slot_SUV_Pirates
+NOMBRE: Pickup Truck - Rowdy Searuler
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035011.png

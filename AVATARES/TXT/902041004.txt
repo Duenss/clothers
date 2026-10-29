@@ -1,0 +1,8 @@
+ITEM ID: 902041004
+ICON ID: Icon_face_female_head_sc_Assassingirl_B
+NOMBRE: Shadow Assassin Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902041004.png

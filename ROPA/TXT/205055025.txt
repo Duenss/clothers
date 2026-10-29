@@ -1,0 +1,8 @@
+ITEM ID: 205055025
+ICON ID: Icon_avatar_male_cos_shoe_gen_z
+NOMBRE: Academy Influencer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055025.png

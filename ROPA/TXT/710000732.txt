@@ -1,0 +1,8 @@
+ITEM ID: 710000732
+ICON ID: Icon_female_Mikogirl_Blue_23
+NOMBRE: The Starlight Priestess Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000732.png

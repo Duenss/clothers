@@ -1,0 +1,8 @@
+ITEM ID: 204048014
+ICON ID: Icon_avatar_male_cos_bottom_ninja_mask02
+NOMBRE: Malachite Ninja (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048014.png

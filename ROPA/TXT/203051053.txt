@@ -1,0 +1,8 @@
+ITEM ID: 203051053
+ICON ID: Icon_avatar_female_cos_top_fashion_th25
+NOMBRE: Ginkgo Mystery (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051053.png

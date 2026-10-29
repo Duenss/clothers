@@ -1,0 +1,8 @@
+ITEM ID: 925049001
+ICON ID: Icon_BattleCard_Eighth_Free
+NOMBRE: Battle Card - Beyond Infinity
+TIPO: Battle Card
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/925049001.png

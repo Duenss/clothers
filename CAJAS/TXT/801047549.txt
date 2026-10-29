@@ -1,0 +1,8 @@
+ITEM ID: 801047549
+ICON ID: Icon_exchange_EMT_me_47
+NOMBRE: Eid Mubarak Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047549.png

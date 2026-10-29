@@ -1,0 +1,8 @@
+ITEM ID: 905000080
+ICON ID: Icon_Avatar_PARACHUTE_Apocalypse2
+NOMBRE: Parachute - Perish Flourish
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000080.png

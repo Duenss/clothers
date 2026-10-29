@@ -1,0 +1,8 @@
+ITEM ID: 400001235
+ICON ID: Icon_box_3
+NOMBRE: Otoshidama Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Japanese New Year present.
+IMAGEN: ROPA/imagenes/400001235.png

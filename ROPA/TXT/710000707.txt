@@ -1,0 +1,8 @@
+ITEM ID: 710000707
+ICON ID: Icon_box_3
+NOMBRE: Sushi Menace Badge Bundle (20)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Sushi Menace Badge x20
+IMAGEN: ROPA/imagenes/710000707.png

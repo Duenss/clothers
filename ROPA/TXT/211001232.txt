@@ -1,0 +1,8 @@
+ITEM ID: 211001232
+ICON ID: Icon_avatar_male_cos_hair_rumusician
+NOMBRE: Strapped Trap (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001232.png

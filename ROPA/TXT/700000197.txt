@@ -1,0 +1,8 @@
+ITEM ID: 700000197
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Super Mystery Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Upgraded Mystery Bag
+IMAGEN: ROPA/imagenes/700000197.png

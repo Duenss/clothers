@@ -1,0 +1,8 @@
+ITEM ID: 211054020
+ICON ID: Icon_avatar_cos_accessory_cottonbear
+NOMBRE: Cotton Teddy (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054020.png

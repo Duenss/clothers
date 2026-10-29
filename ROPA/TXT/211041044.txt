@@ -1,0 +1,8 @@
+ITEM ID: 211041044
+ICON ID: Icon_avatar_cos_hair_festival_id01
+NOMBRE: Free Spirit (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041044.png

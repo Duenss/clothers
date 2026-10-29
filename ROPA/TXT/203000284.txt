@@ -1,0 +1,8 @@
+ITEM ID: 203000284
+ICON ID: Icon_avatar_cos_cthulhu
+NOMBRE: Pink Spirit
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000284.png

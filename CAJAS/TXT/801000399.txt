@@ -1,0 +1,8 @@
+ITEM ID: 801000399
+ICON ID: Icon_exchange_ob21_colored_egg_green
+NOMBRE: Easter Egg (green)
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000399.png

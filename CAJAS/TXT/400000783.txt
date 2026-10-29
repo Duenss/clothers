@@ -1,0 +1,8 @@
+ITEM ID: 400000783
+ICON ID: Icon_face_female_sc_Kelly_Awakening
+NOMBRE: Kelly "the Swift" Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400000783.png

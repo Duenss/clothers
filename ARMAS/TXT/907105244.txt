@@ -1,0 +1,8 @@
+ITEM ID: 907105244
+ICON ID: Icon_Eggday26_Grenade
+NOMBRE: Grenade - Sea's Rage
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105244.png

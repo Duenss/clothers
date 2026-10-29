@@ -1,0 +1,8 @@
+ITEM ID: 203053024
+ICON ID: Icon_avatar_male_cos_top_csrank37
+NOMBRE: CS-Ranked S37 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053024.png

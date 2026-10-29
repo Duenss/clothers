@@ -1,0 +1,8 @@
+ITEM ID: 211000866
+ICON ID: Icon_avatar_male_hair_cos_vampirebat_headwear
+NOMBRE: Bloodwing Lad - Neon (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000866.png

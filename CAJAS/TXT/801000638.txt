@@ -1,0 +1,8 @@
+ITEM ID: 801000638
+ICON ID: Icon_exchange_ob24_mr_deaths_cloak
+NOMBRE: Mr. Death's Cloak
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Always having style, even dead.
+IMAGEN: CAJAS/imagenes/801000638.png

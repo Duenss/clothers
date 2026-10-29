@@ -1,0 +1,8 @@
+ITEM ID: 905000084
+ICON ID: Icon_Avatar_PARACHUTE_June
+NOMBRE: Parachute - June Festivals
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000084.png

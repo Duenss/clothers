@@ -1,0 +1,8 @@
+ITEM ID: 211055029
+ICON ID: Icon_avatar_male_cos_hair_flamedino
+NOMBRE: Infernosaur (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055029.png

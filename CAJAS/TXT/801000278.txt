@@ -1,0 +1,8 @@
+ITEM ID: 801000278
+ICON ID: Icon_exchange_Black_Cube_Fragment
+NOMBRE: Black Cube Fragment
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A flicker of the ever dark.
+IMAGEN: CAJAS/imagenes/801000278.png

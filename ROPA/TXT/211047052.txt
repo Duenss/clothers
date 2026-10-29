@@ -1,0 +1,8 @@
+ITEM ID: 211047052
+ICON ID: Icon_avatar_female_cos_hair_superstar24
+NOMBRE: Sassy Star (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047052.png

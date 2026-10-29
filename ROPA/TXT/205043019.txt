@@ -1,0 +1,8 @@
+ITEM ID: 205043019
+ICON ID: Icon_avatar_cos_shoe_waterfest24
+NOMBRE: Black, White, Meow (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043019.png

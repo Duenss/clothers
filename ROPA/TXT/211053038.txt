@@ -1,0 +1,8 @@
+ITEM ID: 211053038
+ICON ID: Icon_avatar_male_cos_hair_worldcup25_02
+NOMBRE: Front Cut Hairstyle
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053038.png

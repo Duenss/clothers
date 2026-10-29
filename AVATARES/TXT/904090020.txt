@@ -1,0 +1,8 @@
+ITEM ID: 904090020
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: CS Master
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the "Masters United" achievement
+IMAGEN: AVATARES/imagenes/904090020.png

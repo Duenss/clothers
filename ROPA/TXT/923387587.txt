@@ -1,0 +1,8 @@
+ITEM ID: 923387587
+ICON ID: Icon_box_3
+NOMBRE: Sasuke Top
+TIPO: Bundle Create
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: Sasuke Top
+IMAGEN: ROPA/imagenes/923387587.png

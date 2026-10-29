@@ -1,0 +1,8 @@
+ITEM ID: 170037002
+ICON ID: Icon_box_EmojiB_BP_37
+NOMBRE: Booyah Pass Pet Choice Crate
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170037002.png

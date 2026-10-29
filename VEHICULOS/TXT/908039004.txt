@@ -1,0 +1,8 @@
+ITEM ID: 908039004
+ICON ID: Icon_slot_Motobike_Scarlet
+NOMBRE: Motorbike - Scorpio
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039004.png

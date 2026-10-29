@@ -1,0 +1,8 @@
+ITEM ID: 901031017
+ICON ID: Icon_callsign_storebg_CSRank10_06
+NOMBRE: CS Ranked Season 10 Master
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901031017.png

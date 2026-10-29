@@ -1,0 +1,8 @@
+ITEM ID: 400028151
+ICON ID: Icon_box_3
+NOMBRE: Water Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Water themed collections
+IMAGEN: ROPA/imagenes/400028151.png

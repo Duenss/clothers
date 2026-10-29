@@ -1,0 +1,8 @@
+ITEM ID: 904034005
+ICON ID: Icon_Bag_Rampage4_Orangeplus
+NOMBRE: Backpack - Hybrid Explosion
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034005.png

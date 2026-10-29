@@ -1,0 +1,8 @@
+ITEM ID: 204000657
+ICON ID: Icon_avatar_male_bottom_cos_cobra_red
+NOMBRE: Cobra Rage (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000657.png

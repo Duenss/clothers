@@ -1,0 +1,8 @@
+ITEM ID: 801052016
+ICON ID: Icon_exchange_cft_52
+NOMBRE: Untamed Beat Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052016.png

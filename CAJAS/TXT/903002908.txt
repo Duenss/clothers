@@ -1,0 +1,8 @@
+ITEM ID: 903002908
+ICON ID: Icon_Deadloot_Asianoni
+NOMBRE: Loot Box - Red Death
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002908.png

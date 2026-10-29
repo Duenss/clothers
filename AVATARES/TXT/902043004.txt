@@ -1,0 +1,8 @@
+ITEM ID: 902043004
+ICON ID: Icon_face_Frog_FP
+NOMBRE: Tales of Puddles Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043004.png

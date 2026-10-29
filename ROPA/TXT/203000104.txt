@@ -1,0 +1,8 @@
+ITEM ID: 203000104
+ICON ID: Icon_Avatar_FEMALE_TSHIRT_SONGKRAN
+NOMBRE: Wet Songkran T-shirt (Female)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000104.png

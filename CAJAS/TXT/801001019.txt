@@ -1,0 +1,8 @@
+ITEM ID: 801001019
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: F1 Car Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Drift like a racer
+IMAGEN: CAJAS/imagenes/801001019.png

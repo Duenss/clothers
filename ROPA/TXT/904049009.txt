@@ -1,0 +1,8 @@
+ITEM ID: 904049009
+ICON ID: Icon_Bag_Wing25
+NOMBRE: Backpack - Golden Thunder
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049009.png

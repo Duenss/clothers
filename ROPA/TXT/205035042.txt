@@ -1,0 +1,8 @@
+ITEM ID: 205035042
+ICON ID: Icon_avatar_cos_shoe_cateam_02
+NOMBRE: Club America Away (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205035042.png

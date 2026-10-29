@@ -1,0 +1,8 @@
+ITEM ID: 905055002
+ICON ID: Icon_Avatar_PARACHUTE_Rank54
+NOMBRE: Parachute - S54 Exclusive: Scorpio
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: VEHICULOS/imagenes/905055002.png

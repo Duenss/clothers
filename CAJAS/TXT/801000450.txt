@@ -1,0 +1,8 @@
+ITEM ID: 801000450
+ICON ID: Icon_exchange_chinese_warrior
+NOMBRE: Chinese Warrior
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Honor of Legendary Warriors
+IMAGEN: CAJAS/imagenes/801000450.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102002
+ICON ID: Icon_MP40_GreenPoker
+NOMBRE: MP40 - Eternal Diamond
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB20
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102002.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103821
+ICON ID: Icon_ThrowingKnife_Kunai
+NOMBRE: Dagger - Kunai
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103821.png

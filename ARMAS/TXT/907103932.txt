@@ -1,0 +1,8 @@
+ITEM ID: 907103932
+ICON ID: Icon_Machete_Darkspace
+NOMBRE: Parang - Mobile Greatsword
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103932.png

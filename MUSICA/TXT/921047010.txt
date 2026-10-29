@@ -1,0 +1,8 @@
+ITEM ID: 921047010
+ICON ID: FF_UI_Voiceitem_ID47
+NOMBRE: I'm just chilling friend
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Have more fun playing with funny voice lines!
+IMAGEN: MUSICA/imagenes/921047010.png

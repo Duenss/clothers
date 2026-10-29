@@ -1,0 +1,8 @@
+ITEM ID: 102000035
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Thala
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Thala is a man full of motivation despite having grown up under challenging circumstances. He achieved success through sheer hard work and is now determined to help others find their light.
+IMAGEN: PERSONAJES/imagenes/102000035.png

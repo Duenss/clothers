@@ -1,0 +1,8 @@
+ITEM ID: 211050040
+ICON ID: Icon_avatar_cos_hair_trendify
+NOMBRE: Pink Delight
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050040.png

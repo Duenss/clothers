@@ -1,0 +1,8 @@
+ITEM ID: 203053013
+ICON ID: Icon_avatar_male_cos_top_bluetears_01
+NOMBRE: Undersea Current (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053013.png

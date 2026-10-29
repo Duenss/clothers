@@ -1,0 +1,8 @@
+ITEM ID: 907104727
+ICON ID: Icon_Pan_CSRank29
+NOMBRE: Pan - S29 Exclusive: Delivery
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: CS-Ranked S29 Reward
+IMAGEN: ARMAS/imagenes/907104727.png

@@ -1,0 +1,8 @@
+ITEM ID: 907092412
+ICON ID: Icon_UMP45_Booyahday2
+NOMBRE: UMP - Booyah Day
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907092412.png

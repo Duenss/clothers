@@ -1,0 +1,8 @@
+ITEM ID: 400028401
+ICON ID: Icon_box_3
+NOMBRE: Race To Ace Chest
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Chances to get weapon and incubator royale vouchers!
+IMAGEN: ROPA/imagenes/400028401.png

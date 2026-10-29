@@ -1,0 +1,8 @@
+ITEM ID: 907104844
+ICON ID: Icon_Cupnoodle_Grenade
+NOMBRE: Grenade - Ramen Rhapsody
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104844.png

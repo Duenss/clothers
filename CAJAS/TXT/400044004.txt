@@ -1,0 +1,8 @@
+ITEM ID: 400044004
+ICON ID: Icon_box_BP_S17_Token_44
+NOMBRE: BP S17 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044004.png

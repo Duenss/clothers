@@ -1,0 +1,8 @@
+ITEM ID: 211037056
+ICON ID: Icon_avatar_cos_accessory_angelik
+NOMBRE: Angelic Cowboy
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037056.png

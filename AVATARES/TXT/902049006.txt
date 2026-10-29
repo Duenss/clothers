@@ -1,0 +1,8 @@
+ITEM ID: 902049006
+ICON ID: Icon_face_Rank46_01
+NOMBRE: BR-Ranked S46 Platinum Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902049006.png

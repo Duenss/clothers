@@ -1,0 +1,8 @@
+ITEM ID: 928005204
+ICON ID: Icon_GroupPhotoIIVRose_icon
+NOMBRE: Kugisaki Theme
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Kugisaki Theme
+IMAGEN: AVATARES/imagenes/928005204.png

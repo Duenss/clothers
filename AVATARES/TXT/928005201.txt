@@ -1,0 +1,8 @@
+ITEM ID: 928005201
+ICON ID: Icon_GroupPhotoSelfieAlok_icon
+NOMBRE: With Alok
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: With Alok
+IMAGEN: AVATARES/imagenes/928005201.png

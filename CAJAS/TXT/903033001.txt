@@ -1,0 +1,8 @@
+ITEM ID: 903033001
+ICON ID: Icon_Deadloot_FFWS03
+NOMBRE: Loot Box - Haven Guardian
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903033001.png

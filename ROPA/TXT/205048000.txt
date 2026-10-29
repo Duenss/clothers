@@ -1,0 +1,8 @@
+ITEM ID: 205048000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Night Vigilante (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

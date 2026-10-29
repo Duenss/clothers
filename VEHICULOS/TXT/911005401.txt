@@ -1,0 +1,8 @@
+ITEM ID: 911005401
+ICON ID: Icon_Mounts_Darkdesires
+NOMBRE: Boat of Luxury
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005401.png

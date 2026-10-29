@@ -1,0 +1,8 @@
+ITEM ID: 400028303
+ICON ID: Icon_box_BooyahTV_28
+NOMBRE: Moon Flip
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: BOOYAH! Reward. (1 Gold will be obtained if reward item is already owned)
+IMAGEN: CAJAS/imagenes/400028303.png

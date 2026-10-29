@@ -1,0 +1,8 @@
+ITEM ID: 801001176
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: BOOYAH Dice
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: During the period of BOOYAH DAY, you can obtain BOOYAH Dice in-game, through daily check in, and by participating in other related activities.\nBOOYAH Dice can be used to travel around the blocks in BOOYAH Go. Show us your persistence and bravery - BOOYAH!
+IMAGEN: CAJAS/imagenes/801001176.png

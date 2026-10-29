@@ -1,0 +1,8 @@
+ITEM ID: 801001729
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Archaic Grenade Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: BOOM!
+IMAGEN: CAJAS/imagenes/801001729.png

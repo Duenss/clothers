@@ -1,0 +1,8 @@
+ITEM ID: 400030098
+ICON ID: Icon_box_3
+NOMBRE: Pumpkin Pie Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Thanksgiving 2021
+IMAGEN: ROPA/imagenes/400030098.png

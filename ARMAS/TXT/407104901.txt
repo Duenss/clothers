@@ -1,0 +1,8 @@
+ITEM ID: 407104901
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Collage Art (M590) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive a random gun skin (M590) from the Collage Art set
+IMAGEN: ARMAS/imagenes/407104901.png

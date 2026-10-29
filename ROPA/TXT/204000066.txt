@@ -1,0 +1,8 @@
+ITEM ID: 204000066
+ICON ID: Icon_Avatar_bottom_cos_hoodie_BrickR
+NOMBRE: Rebel Pants
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000066.png

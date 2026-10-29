@@ -1,0 +1,8 @@
+ITEM ID: 907292401
+ICON ID: Icon_AK47_EvilDragon1
+NOMBRE: AK47 - Blue Flame Draco
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907292401.png

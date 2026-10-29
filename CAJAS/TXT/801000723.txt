@@ -1,0 +1,8 @@
+ITEM ID: 801000723
+ICON ID: Icon_exchange_ob25_chill_sphere
+NOMBRE: Chill Sphere
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Blue sphere that combines with the season
+IMAGEN: CAJAS/imagenes/801000723.png

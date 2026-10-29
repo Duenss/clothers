@@ -1,0 +1,8 @@
+ITEM ID: 204000844
+ICON ID: Icon_avatar_male_cos_bottom_chinatown
+NOMBRE: Dragon Master (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000844.png

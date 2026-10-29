@@ -1,0 +1,8 @@
+ITEM ID: 921046005
+ICON ID: FF_UI_Voiceitem_BRrapper
+NOMBRE: I got another plan for us
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Matuê
+IMAGEN: MUSICA/imagenes/921046005.png

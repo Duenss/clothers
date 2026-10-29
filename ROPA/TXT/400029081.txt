@@ -1,0 +1,8 @@
+ITEM ID: 400029081
+ICON ID: Icon_box_3
+NOMBRE: Steel Fortress Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Contains Steel Fortress Bundle and all of its pieces
+IMAGEN: ROPA/imagenes/400029081.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000434
+ICON ID: Icon_avatar_male_accessory_cos_ninjas
+NOMBRE: Clandestine Vanquisher (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000434.png

@@ -1,0 +1,8 @@
+ITEM ID: 400010903
+ICON ID: Icon_box_3
+NOMBRE: Melee Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB10
+DESCRIPCION: It´s all close quarters here.
+IMAGEN: ROPA/imagenes/400010903.png

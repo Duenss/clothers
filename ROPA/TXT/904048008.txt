@@ -1,0 +1,8 @@
+ITEM ID: 904048008
+ICON ID: Icon_Bag_Monkeyboy
+NOMBRE: Backpack - Nimbus Rider
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904048008.png

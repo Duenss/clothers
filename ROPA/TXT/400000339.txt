@@ -1,0 +1,8 @@
+ITEM ID: 400000339
+ICON ID: Icon_box_3
+NOMBRE: Happy Bunny Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this loot crate to win exciting rewards.
+IMAGEN: ROPA/imagenes/400000339.png

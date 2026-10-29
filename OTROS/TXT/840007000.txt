@@ -1,0 +1,8 @@
+ITEM ID: 840007000
+ICON ID: UI_DoublePoints_Card02_CS
+NOMBRE: CS Double Star Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use this card after a winning CS ranked match to get an extra star
+IMAGEN: OTROS/imagenes/840007000.png

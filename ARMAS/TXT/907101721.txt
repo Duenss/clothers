@@ -1,0 +1,8 @@
+ITEM ID: 907101721
+ICON ID: Icon_XM8_Joker
+NOMBRE: XM8 - Sneaky Clown
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB17
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101721.png

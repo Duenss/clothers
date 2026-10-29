@@ -1,0 +1,8 @@
+ITEM ID: 204000102
+ICON ID: Icon_avatar_male_jeans_obt7Th
+NOMBRE: Stylish Purple Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000102.png

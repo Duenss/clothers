@@ -1,0 +1,8 @@
+ITEM ID: 913038002
+ICON ID: FF_UI_Vault_Music_Cdband
+NOMBRE: Adidasii gri
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: Free Fire x Carla's Dreams\nThe Masked Adventures\nRunning to the Booyah
+IMAGEN: MUSICA/imagenes/913038002.png

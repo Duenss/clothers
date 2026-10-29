@@ -1,0 +1,8 @@
+ITEM ID: 211049009
+ICON ID: Icon_avatar_male_cos_hair_wrestling
+NOMBRE: Tiger Brawler (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049009.png

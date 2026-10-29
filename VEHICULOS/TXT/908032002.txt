@@ -1,0 +1,8 @@
+ITEM ID: 908032002
+ICON ID: Icon_slot_Jeep_Colorfest
+NOMBRE: Jeep - Holi Swagger
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908032002.png

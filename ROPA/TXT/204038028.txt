@@ -1,0 +1,8 @@
+ITEM ID: 204038028
+ICON ID: Icon_avatar_cos_bottom_hautecouture
+NOMBRE: Haute Minimalist (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038028.png

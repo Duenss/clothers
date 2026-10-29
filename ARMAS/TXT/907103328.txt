@@ -1,0 +1,8 @@
+ITEM ID: 907103328
+ICON ID: Icon_P90_FFChar_S28
+NOMBRE: P90 - S28 Exclusive: Antonio
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103328.png

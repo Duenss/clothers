@@ -1,0 +1,8 @@
+ITEM ID: 907104538
+ICON ID: Icon_BM94_Streamer
+NOMBRE: M82B - Titanium Glow
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104538.png

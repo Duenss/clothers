@@ -1,0 +1,8 @@
+ITEM ID: 907103402
+ICON ID: Icon_SVD_Rhythmgirl
+NOMBRE: SVD - Sound Crafter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103402.png

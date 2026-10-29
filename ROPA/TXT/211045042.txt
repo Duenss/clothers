@@ -1,0 +1,8 @@
+ITEM ID: 211045042
+ICON ID: Icon_avatar_cos_accessory_esports_id
+NOMBRE: FFNS3 Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045042.png

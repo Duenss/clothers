@@ -1,0 +1,8 @@
+ITEM ID: 211037021
+ICON ID: Icon_avatar_male_cos_accessory_winterfest22
+NOMBRE: Jovial Symphony King (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037021.png

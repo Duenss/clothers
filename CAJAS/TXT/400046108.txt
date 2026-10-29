@@ -1,0 +1,8 @@
+ITEM ID: 400046108
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Woodpecker Jam Sessions Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Open to receive a Woodpecker Jam Sessions
+IMAGEN: CAJAS/imagenes/400046108.png

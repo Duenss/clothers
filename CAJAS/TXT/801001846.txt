@@ -1,0 +1,8 @@
+ITEM ID: 801001846
+ICON ID: Icon_exchange_socialbuff
+NOMBRE: Buddy Coin
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Obtain Buddy Coins by playing matches with newbies and veterans who have Team-up Bonuses. You can use Buddy Coins at the Buddy Mart.
+IMAGEN: CAJAS/imagenes/801001846.png

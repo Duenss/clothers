@@ -1,0 +1,8 @@
+ITEM ID: 211047010
+ICON ID: Icon_avatar_cos_accessory_aurora_white
+NOMBRE: Aurora Calling (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047010.png

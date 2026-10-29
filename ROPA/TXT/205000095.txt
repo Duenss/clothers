@@ -1,0 +1,8 @@
+ITEM ID: 205000095
+ICON ID: Icon_avatar_male_shoe_cos_one-eyed_black
+NOMBRE: One-eyed Suit (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000095.png

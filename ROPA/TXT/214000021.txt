@@ -1,0 +1,8 @@
+ITEM ID: 214000021
+ICON ID: Icon_avatar_headadditive_cos_facepaint_id
+NOMBRE: Indonesia Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000021.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105449
+ICON ID: Icon_Virgo26_Grenade
+NOMBRE: Grenade - Platinum Spica
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105449.png

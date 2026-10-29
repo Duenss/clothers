@@ -1,0 +1,8 @@
+ITEM ID: 923043004
+ICON ID: FF_UI_Voiceitem_RANK43
+NOMBRE: Dead-on aim, killed the game!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Rank reward
+IMAGEN: MUSICA/imagenes/923043004.png

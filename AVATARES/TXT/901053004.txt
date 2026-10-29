@@ -1,0 +1,8 @@
+ITEM ID: 901053004
+ICON ID: Icon_callsign_storebg_CSRank37_A
+NOMBRE: CS-Ranked S37 Heroic Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901053004.png

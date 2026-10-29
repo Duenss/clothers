@@ -1,0 +1,8 @@
+ITEM ID: 801000050
+ICON ID: Icon_StoreValentinesDay02
+NOMBRE: Rose
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000050.png

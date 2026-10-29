@@ -1,0 +1,8 @@
+ITEM ID: 907105110
+ICON ID: Icon_Mac10_Bathtub
+NOMBRE: MAC10 - Bubble Trouble
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105110.png

@@ -1,0 +1,8 @@
+ITEM ID: 905054006
+ICON ID: Icon_Avatar_PARACHUTE_Rank53
+NOMBRE: Parachute - S53 Exclusive: Spica
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: VEHICULOS/imagenes/905054006.png

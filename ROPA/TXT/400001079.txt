@@ -1,0 +1,8 @@
+ITEM ID: 400001079
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda I'm Rich! Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive Plan Bermuda rewards
+IMAGEN: ROPA/imagenes/400001079.png

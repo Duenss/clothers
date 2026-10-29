@@ -1,0 +1,8 @@
+ITEM ID: 211053032
+ICON ID: Icon_avatar_cos_accessory_fishseller
+NOMBRE: Fishmonger (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053032.png

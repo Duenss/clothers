@@ -1,0 +1,8 @@
+ITEM ID: 801001825
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gold Star Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: It is the things they do that make them heroes
+IMAGEN: CAJAS/imagenes/801001825.png

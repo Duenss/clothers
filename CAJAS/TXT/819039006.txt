@@ -1,0 +1,8 @@
+ITEM ID: 819039006
+ICON ID: FF_UI_VFX_Rollerskating_P_02
+NOMBRE: Sprinting Effect (Neon Drifterz)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Special sprinting effects when wearing Neon Drifterz themed top.
+IMAGEN: CAJAS/imagenes/819039006.png

@@ -1,0 +1,8 @@
+ITEM ID: 906000076
+ICON ID: Icon_Avatar_Surfboard_Halloween201902
+NOMBRE: Skyboard - The Magic Stick
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000076.png

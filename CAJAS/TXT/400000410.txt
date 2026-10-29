@@ -1,0 +1,8 @@
+ITEM ID: 400000410
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Flaming Red Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin from the Flaming Red set.
+IMAGEN: CAJAS/imagenes/400000410.png

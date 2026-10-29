@@ -1,0 +1,8 @@
+ITEM ID: 904033011
+ICON ID: Icon_Bag_Undertaker
+NOMBRE: Backpack - Buried Purpledust
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033011.png

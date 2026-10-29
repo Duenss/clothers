@@ -1,0 +1,8 @@
+ITEM ID: 204000776
+ICON ID: Icon_avatar_bottom_cos_brjersey_b
+NOMBRE: No.10 Soccer Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000776.png

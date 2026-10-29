@@ -1,0 +1,8 @@
+ITEM ID: 801000753
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Ruler of the Jungle
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: It's a jungle out there!
+IMAGEN: CAJAS/imagenes/801000753.png

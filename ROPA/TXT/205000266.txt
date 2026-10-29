@@ -1,0 +1,8 @@
+ITEM ID: 205000266
+ICON ID: Icon_avatar_male_sc_Hitman_shoe
+NOMBRE: Gunman (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000266.png

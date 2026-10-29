@@ -1,0 +1,8 @@
+ITEM ID: 400000033
+ICON ID: Icon_box_police
+NOMBRE: Enforcer Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Enforcer series or a 3-day trial. You will not receive the same permanent item twice.
+IMAGEN: CAJAS/imagenes/400000033.png

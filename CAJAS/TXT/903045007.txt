@@ -1,0 +1,8 @@
+ITEM ID: 903045007
+ICON ID: Icon_Deadloot_Goose
+NOMBRE: Loot Box - S40 Exclusive: Goosy
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903045007.png

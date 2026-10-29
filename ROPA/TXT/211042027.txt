@@ -1,0 +1,8 @@
+ITEM ID: 211042027
+ICON ID: Icon_avatar_male_cos_hair_ffws2023
+NOMBRE: Fist of Glory (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042027.png

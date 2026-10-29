@@ -1,0 +1,8 @@
+ITEM ID: 400044541
+ICON ID: Icon_box_3
+NOMBRE: Mie Kremezz Box 2
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400044541.png

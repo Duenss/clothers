@@ -1,0 +1,8 @@
+ITEM ID: 801000675
+ICON ID: Icon_exchange_ob24_Spikes_Token
+NOMBRE: Spikes Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Danger! Ouch
+IMAGEN: CAJAS/imagenes/801000675.png

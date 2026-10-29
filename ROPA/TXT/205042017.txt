@@ -1,0 +1,8 @@
+ITEM ID: 205042017
+ICON ID: Icon_avatar_male_cos_shoe_winterfest23
+NOMBRE: Iceshard (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205042017.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000677
+ICON ID: Icon_IAPBundle_common
+NOMBRE: We Booyah! Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive 100 Diamonds, the Booyah! Balloon, and Battle In Style
+IMAGEN: ROPA/imagenes/700000677.png

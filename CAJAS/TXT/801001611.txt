@@ -1,0 +1,8 @@
+ITEM ID: 801001611
+ICON ID: Icon_exchange_ob33_dtacToken5
+NOMBRE: dtac Token 11
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001611.png

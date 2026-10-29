@@ -1,0 +1,8 @@
+ITEM ID: 211052012
+ICON ID: Icon_avatar_male_cos_accessory_emoji26
+NOMBRE: Chillin' Emoji (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052012.png

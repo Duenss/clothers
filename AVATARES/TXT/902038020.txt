@@ -1,0 +1,8 @@
+ITEM ID: 902038020
+ICON ID: Icon_face_Kitchen
+NOMBRE: Foodster Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038020.png

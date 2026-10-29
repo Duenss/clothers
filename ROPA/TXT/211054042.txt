@@ -1,0 +1,8 @@
+ITEM ID: 211054042
+ICON ID: Icon_avatar_cos_accessory_apple_gr_fp
+NOMBRE: Crisp Red Glasses
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054042.png

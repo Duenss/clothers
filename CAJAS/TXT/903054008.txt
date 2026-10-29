@@ -1,0 +1,8 @@
+ITEM ID: 903054008
+ICON ID: Icon_Deadloot_Darkdesires_7
+NOMBRE: Loot Box - Proud Desire
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903054008.png

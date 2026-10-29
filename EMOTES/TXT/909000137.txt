@@ -1,0 +1,8 @@
+ITEM ID: 909000137
+ICON ID: Icon_Emote_Hurricane_Red
+NOMBRE: Halo of Music
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000137.png

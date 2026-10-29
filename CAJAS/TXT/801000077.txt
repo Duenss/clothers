@@ -1,0 +1,8 @@
+ITEM ID: 801000077
+ICON ID: Icon_StoreSender_egg
+NOMBRE: Bunny Egg
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000077.png

@@ -1,0 +1,8 @@
+ITEM ID: 203035024
+ICON ID: Icon_avatar_male_cos_top_journalists
+NOMBRE: Investigator Troop (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035024.png

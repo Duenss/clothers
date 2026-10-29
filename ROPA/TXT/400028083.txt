@@ -1,0 +1,8 @@
+ITEM ID: 400028083
+ICON ID: Icon_box_3
+NOMBRE: Box of Spirit
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400028083.png

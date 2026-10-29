@@ -1,0 +1,8 @@
+ITEM ID: 903055012
+ICON ID: Icon_Deadloot_TH_Cupnoodle_CT
+NOMBRE: Loot Box - MAMA
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903055012.png

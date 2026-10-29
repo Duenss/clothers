@@ -1,0 +1,8 @@
+ITEM ID: 905027004
+ICON ID: Icon_Avatar_PARACHUTE_Boxer
+NOMBRE: Parachute - K.O. Night
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905027004.png

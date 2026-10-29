@@ -1,0 +1,8 @@
+ITEM ID: 801000523
+ICON ID: Icon_exchange_ob22_creatorsth_token
+NOMBRE: CreatorsTH Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Your voice is so precious for us
+IMAGEN: CAJAS/imagenes/801000523.png

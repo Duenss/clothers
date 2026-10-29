@@ -1,0 +1,8 @@
+ITEM ID: 907136012
+ICON ID: Icon_MP5_Griza
+NOMBRE: MP5 - Pigment Splash
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136012.png

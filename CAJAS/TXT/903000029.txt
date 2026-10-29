@@ -1,0 +1,8 @@
+ITEM ID: 903000029
+ICON ID: Icon_Deadloot_Jajuar
+NOMBRE: Loot Box - Wild Panther
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000029.png

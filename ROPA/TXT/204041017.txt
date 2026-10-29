@@ -1,0 +1,8 @@
+ITEM ID: 204041017
+ICON ID: Icon_avatar_male_cos_bottom_monsterjacket
+NOMBRE: Cobalt Monster Club (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041017.png

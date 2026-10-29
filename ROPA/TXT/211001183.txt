@@ -1,0 +1,8 @@
+ITEM ID: 211001183
+ICON ID: Icon_avatar_cos_accessory_electronic_red
+NOMBRE: Wildfire Bolt (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001183.png

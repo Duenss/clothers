@@ -1,0 +1,8 @@
+ITEM ID: 905000072
+ICON ID: Icon_Avatar_PARACHUTE_Furryspy
+NOMBRE: Parachute - Windhowler
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000072.png

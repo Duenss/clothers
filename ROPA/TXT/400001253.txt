@@ -1,0 +1,8 @@
+ITEM ID: 400001253
+ICON ID: Icon_box_3
+NOMBRE: Volcanic Fury Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: Contains all your volcanic heart's desire
+IMAGEN: ROPA/imagenes/400001253.png

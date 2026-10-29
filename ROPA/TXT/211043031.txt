@@ -1,0 +1,8 @@
+ITEM ID: 211043031
+ICON ID: Icon_avatar_male_cos_hair_fashionist3
+NOMBRE: Edge Rider (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043031.png

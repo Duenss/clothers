@@ -1,0 +1,8 @@
+ITEM ID: 710042071
+ICON ID: Icon_box_3
+NOMBRE: Incubator Mini Pack
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710042071.png

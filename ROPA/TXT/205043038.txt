@@ -1,0 +1,8 @@
+ITEM ID: 205043038
+ICON ID: Icon_avatar_cos_shoe_reputation43
+NOMBRE: An Honor Rest (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043038.png

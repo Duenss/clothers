@@ -1,0 +1,8 @@
+ITEM ID: 407104602
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Aura of Chaos (M1873 + PLASMA) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Open to receive a random gun skin (M1873 + PLASMA) from the Aura of Chaos weapon set
+IMAGEN: ARMAS/imagenes/407104602.png

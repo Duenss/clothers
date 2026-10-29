@@ -1,0 +1,8 @@
+ITEM ID: 214037000
+ICON ID: Icon_avatar_male_cos_headadditive_ffws2022
+NOMBRE: Galaxy Konqueror (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214037000.png

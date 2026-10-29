@@ -1,0 +1,8 @@
+ITEM ID: 801000154
+ICON ID: Icon_exchange_Forest
+NOMBRE: Great Mark of Earth
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000154.png

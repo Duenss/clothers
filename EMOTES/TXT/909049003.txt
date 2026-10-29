@@ -1,0 +1,8 @@
+ITEM ID: 909049003
+ICON ID: Icon_Emote_Samurai_ME
+NOMBRE: Kick It Up
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909049003.png

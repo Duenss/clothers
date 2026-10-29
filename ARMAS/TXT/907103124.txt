@@ -1,0 +1,8 @@
+ITEM ID: 907103124
+ICON ID: Icon_M1873_Winterfest21
+NOMBRE: M1873 - Ice Bones
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103124.png

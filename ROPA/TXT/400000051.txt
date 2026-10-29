@@ -1,0 +1,8 @@
+ITEM ID: 400000051
+ICON ID: Icon_box_3
+NOMBRE: Lucky Hairstyle Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random hairstyle, with a chance of an ultra rare.
+IMAGEN: ROPA/imagenes/400000051.png

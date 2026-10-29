@@ -1,0 +1,8 @@
+ITEM ID: 801000215
+ICON ID: Icon_exchange_Pro_League_3
+NOMBRE: Pro League Badge 3
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000215.png

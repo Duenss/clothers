@@ -1,0 +1,8 @@
+ITEM ID: 211049049
+ICON ID: Icon_avatar_cos_accessory_club01
+NOMBRE: Disco Ball Mask
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049049.png

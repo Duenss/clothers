@@ -1,0 +1,8 @@
+ITEM ID: 906000036
+ICON ID: Icon_Avatar_Surfboard_Bombsquad_02
+NOMBRE: Skyboard - EOD
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000036.png

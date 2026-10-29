@@ -1,0 +1,8 @@
+ITEM ID: 700000645
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Wilderness Hunter UMP Package 5
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the UMP Wilderness Hunter gun skin and 299 Diamonds
+IMAGEN: ROPA/imagenes/700000645.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000976
+ICON ID: Icon_avatar_male_top_cos_vampirebat_a
+NOMBRE: Bloodwing Hoodie (Male)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000976.png

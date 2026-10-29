@@ -1,0 +1,8 @@
+ITEM ID: 907101918
+ICON ID: Icon_P90_Traphiphop
+NOMBRE: P90 - Swagger Ownage
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101918.png

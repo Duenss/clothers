@@ -1,0 +1,8 @@
+ITEM ID: 101000016
+ICON ID: Icon_face_female_head_sc_Tomboy
+NOMBRE: Notora
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Notora is a tomboyish motorcycle gang member.
+IMAGEN: PERSONAJES/imagenes/101000016.png

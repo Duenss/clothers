@@ -1,0 +1,8 @@
+ITEM ID: 710000749
+ICON ID: Icon_box_3
+NOMBRE: Celestial Street Badge Bundle (20)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Celestial Street Badge x20
+IMAGEN: ROPA/imagenes/710000749.png

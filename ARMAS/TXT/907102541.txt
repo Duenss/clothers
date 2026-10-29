@@ -1,0 +1,8 @@
+ITEM ID: 907102541
+ICON ID: Icon_GlooShield_Bounty
+NOMBRE: Gloo Wall - Chrono
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102541.png

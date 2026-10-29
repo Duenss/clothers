@@ -1,0 +1,8 @@
+ITEM ID: 909037005
+ICON ID: Icon_Emote_FFWS_Dance
+NOMBRE: Starry Hands
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909037005.png

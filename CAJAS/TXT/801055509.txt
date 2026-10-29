@@ -1,0 +1,8 @@
+ITEM ID: 801055509
+ICON ID: Icon_exchange_thundert_id_55
+NOMBRE: Thunder Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055509.png

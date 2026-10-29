@@ -1,0 +1,8 @@
+ITEM ID: 909054009
+ICON ID: Icon_Emote_Cottonbear
+NOMBRE: Cotton All Over
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054009.png

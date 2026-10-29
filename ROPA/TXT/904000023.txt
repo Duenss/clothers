@@ -1,0 +1,8 @@
+ITEM ID: 904000023
+ICON ID: Icon_Bag_clown_02_03
+NOMBRE: Backpack - The Baby Clown
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000023.png

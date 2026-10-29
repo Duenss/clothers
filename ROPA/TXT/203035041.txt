@@ -1,0 +1,8 @@
+ITEM ID: 203035041
+ICON ID: Icon_avatar_female_cos_top_fcninjaa
+NOMBRE: Blizzard Runner Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035041.png

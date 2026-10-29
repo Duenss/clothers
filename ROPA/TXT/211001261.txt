@@ -1,0 +1,8 @@
+ITEM ID: 211001261
+ICON ID: Icon_avatar_cos_accessory_winterfest21
+NOMBRE: Reindeer Cover
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001261.png

@@ -1,0 +1,8 @@
+ITEM ID: 205043032
+ICON ID: Icon_avatar_cos_shoe_asura_shoes
+NOMBRE: Wrathful Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043032.png

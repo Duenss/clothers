@@ -1,0 +1,8 @@
+ITEM ID: 902046006
+ICON ID: Icon_face_Lightfest24
+NOMBRE: Light Fest Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046006.png

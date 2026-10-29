@@ -1,0 +1,8 @@
+ITEM ID: 211038004
+ICON ID: Icon_avatar_male_cos_hair_swallow
+NOMBRE: Plated Wanderlust (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038004.png

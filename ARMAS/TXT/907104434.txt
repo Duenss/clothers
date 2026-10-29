@@ -1,0 +1,8 @@
+ITEM ID: 907104434
+ICON ID: Icon_Persona_B_Grenade
+NOMBRE: Grenade - Pulse of Paradox
+TIPO: Grenade Skin
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104434.png

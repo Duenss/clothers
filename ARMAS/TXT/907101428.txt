@@ -1,0 +1,8 @@
+ITEM ID: 907101428
+ICON ID: Icon_Songkran_Grenade
+NOMBRE: Angry Shark
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101428.png

@@ -1,0 +1,8 @@
+ITEM ID: 1309000023
+ICON ID: FF_UI_Pet_Panther_Show1
+NOMBRE: Transform
+TIPO: Pet Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Advanced action. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000023.png

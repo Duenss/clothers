@@ -1,0 +1,8 @@
+ITEM ID: 400026101
+ICON ID: Icon_box_3
+NOMBRE: Flower Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Flower Box for you
+IMAGEN: ROPA/imagenes/400026101.png

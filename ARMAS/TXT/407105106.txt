@@ -1,0 +1,8 @@
+ITEM ID: 407105106
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Mamba Gnaw (Winchester) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a random gun skin (Winchester) from the Mamba Gnaw set
+IMAGEN: ARMAS/imagenes/407105106.png

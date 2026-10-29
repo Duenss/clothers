@@ -1,0 +1,8 @@
+ITEM ID: 204048009
+ICON ID: Icon_avatar_cos_bottom_rainforest_lizard
+NOMBRE: Tropical Reptile (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048009.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000689
+ICON ID: Icon_exchange_ob25_fist_coin
+NOMBRE: Fist Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000689.png

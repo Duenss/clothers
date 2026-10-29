@@ -1,0 +1,8 @@
+ITEM ID: 907105327
+ICON ID: Icon_Pan_Gemini25
+NOMBRE: Pan - Astral Twinstars
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105327.png

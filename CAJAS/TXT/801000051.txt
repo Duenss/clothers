@@ -1,0 +1,8 @@
+ITEM ID: 801000051
+ICON ID: Icon_StoreValentinesDay
+NOMBRE: Heart Chocolate
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000051.png

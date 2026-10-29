@@ -1,0 +1,8 @@
+ITEM ID: 205036036
+ICON ID: Icon_avatar_male_cos_shoe_decadentbear_01
+NOMBRE: Sinister Plushie (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036036.png

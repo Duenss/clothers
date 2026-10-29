@@ -1,0 +1,8 @@
+ITEM ID: 205033031
+ICON ID: Icon_avatar_male_cos_shoe_thgeneral
+NOMBRE: Dauntless Commander (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033031.png

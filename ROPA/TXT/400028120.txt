@@ -1,0 +1,8 @@
+ITEM ID: 400028120
+ICON ID: Icon_box_3
+NOMBRE: Wilderness Trapper Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Contains Wilderness Trapper and all of its pieces
+IMAGEN: ROPA/imagenes/400028120.png

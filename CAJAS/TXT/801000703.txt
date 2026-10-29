@@ -1,0 +1,8 @@
+ITEM ID: 801000703
+ICON ID: Icon_exchange_ob25_sticker_new_year
+NOMBRE: Happy New Year Sticker
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000703.png

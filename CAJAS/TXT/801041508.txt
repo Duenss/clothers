@@ -1,0 +1,8 @@
+ITEM ID: 801041508
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Independence Day Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB41
+DESCRIPCION: Used to exchange for items in the Independence Day event. Not usable after the end of the event.
+IMAGEN: CAJAS/imagenes/801041508.png

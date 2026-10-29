@@ -1,0 +1,8 @@
+ITEM ID: 400000592
+ICON ID: Icon_box_highlevel_yellow
+NOMBRE: Ads Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to get exciting rewards!
+IMAGEN: CAJAS/imagenes/400000592.png

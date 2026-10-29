@@ -1,0 +1,8 @@
+ITEM ID: 203050016
+ICON ID: Icon_avatar_male_cos_top_potential25
+NOMBRE: Breeze Sprinter (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050016.png

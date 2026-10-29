@@ -1,0 +1,8 @@
+ITEM ID: 204048003
+ICON ID: Icon_avatar_male_cos_bottom_firefly
+NOMBRE: Firefly Chaser (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048003.png

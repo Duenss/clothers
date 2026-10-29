@@ -1,0 +1,8 @@
+ITEM ID: 211036046
+ICON ID: Icon_avatar_male_cos_hair_surveillance
+NOMBRE: Team Spy (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036046.png

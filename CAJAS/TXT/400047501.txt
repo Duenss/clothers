@@ -1,0 +1,8 @@
+ITEM ID: 400047501
+ICON ID: Icon_box_LDB_SG_47
+NOMBRE: Lucky Bonus Diamond Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: A box with varying amounts of diamonds
+IMAGEN: CAJAS/imagenes/400047501.png

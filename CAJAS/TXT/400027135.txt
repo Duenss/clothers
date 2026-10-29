@@ -1,0 +1,8 @@
+ITEM ID: 400027135
+ICON ID: Icon_box_evogun_imperial2_27
+NOMBRE: Evo Gun Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400027135.png

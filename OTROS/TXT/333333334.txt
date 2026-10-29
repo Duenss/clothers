@@ -1,0 +1,8 @@
+ITEM ID: 333333334
+ICON ID: FF_icon_RankTips_01_CS
+NOMBRE: Protection Points
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/333333334.png

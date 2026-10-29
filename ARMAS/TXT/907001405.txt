@@ -1,0 +1,8 @@
+ITEM ID: 907001405
+ICON ID: Icon_AK47_Watersplashing
+NOMBRE: AK47 - Water Balloon
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001405.png

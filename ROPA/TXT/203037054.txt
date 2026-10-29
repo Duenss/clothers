@@ -1,0 +1,8 @@
+ITEM ID: 203037054
+ICON ID: Icon_avatar_male_cos_top_syntheticangel_01
+NOMBRE: Fallen Havenking (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037054.png

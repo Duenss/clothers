@@ -1,0 +1,8 @@
+ITEM ID: 407104401
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Wound Strokes (VSS) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive a random gun skin (VSS) from the Wound Strokes weapon set
+IMAGEN: ARMAS/imagenes/407104401.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000229
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Digital Invasion Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for the Digital Invasion Set.
+IMAGEN: CAJAS/imagenes/400000229.png

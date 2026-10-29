@@ -1,0 +1,8 @@
+ITEM ID: 902035016
+ICON ID: Icon_face_male_head_sc_Singers_B
+NOMBRE: Adventurous Songster Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035016.png

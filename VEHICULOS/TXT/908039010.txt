@@ -1,0 +1,8 @@
+ITEM ID: 908039010
+ICON ID: Icon_slot_Jeep_Comic
+NOMBRE: Jeep - Chaos Universe
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039010.png

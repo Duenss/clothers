@@ -1,0 +1,8 @@
+ITEM ID: 203000192
+ICON ID: Icon_avatar_tshirt_Argentina
+NOMBRE: Pampas Eagle
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000192.png

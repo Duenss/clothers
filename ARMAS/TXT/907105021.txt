@@ -1,0 +1,8 @@
+ITEM ID: 907105021
+ICON ID: Icon_Vector_Batik
+NOMBRE: Vector - Golden Twilight
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105021.png

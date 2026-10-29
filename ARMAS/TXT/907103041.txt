@@ -1,0 +1,8 @@
+ITEM ID: 907103041
+ICON ID: Icon_GlooShield_Sugarskull21
+NOMBRE: Gloo Wall - Floral Tribute
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103041.png

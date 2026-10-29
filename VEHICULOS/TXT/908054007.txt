@@ -1,0 +1,8 @@
+ITEM ID: 908054007
+ICON ID: Icon_slot_Roadster_Ninth
+NOMBRE: Sports Car - Supersonic Fracture
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054007.png

@@ -1,0 +1,8 @@
+ITEM ID: 926004905
+ICON ID: UI_PhotoFrame_FF_01_Small
+NOMBRE: Classic frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Classic frame
+IMAGEN: AVATARES/imagenes/926004905.png

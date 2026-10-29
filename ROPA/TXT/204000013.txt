@@ -1,0 +1,8 @@
+ITEM ID: 204000013
+ICON ID: Icon_avatar_casual_camo_001
+NOMBRE: Long Pants (Desert)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000013.png

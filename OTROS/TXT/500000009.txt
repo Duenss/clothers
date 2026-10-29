@@ -1,0 +1,8 @@
+ITEM ID: 500000009
+ICON ID: Icon_Loadout_bounty
+NOMBRE: Bounty Token
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A symbol from a secret assassin group, defeating an enemy while carrying it will give you extra bounty (Can equip it in the loadout menu)
+IMAGEN: OTROS/imagenes/500000009.png

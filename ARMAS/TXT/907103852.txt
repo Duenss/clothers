@@ -1,0 +1,8 @@
+ITEM ID: 907103852
+ICON ID: Icon_Firedragon_Grenade
+NOMBRE: Grenade - Immortal Ignition
+TIPO: Grenade Skin
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103852.png

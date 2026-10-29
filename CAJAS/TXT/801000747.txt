@@ -1,0 +1,8 @@
+ITEM ID: 801000747
+ICON ID: Icon_exchange_ob25_fashion_j
+NOMBRE: Fashion J
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Justice is Freedom
+IMAGEN: CAJAS/imagenes/801000747.png

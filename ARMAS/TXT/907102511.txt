@@ -1,0 +1,8 @@
+ITEM ID: 907102511
+ICON ID: Icon_BM94_Timemachine
+NOMBRE: M82B - Time Travellers
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102511.png

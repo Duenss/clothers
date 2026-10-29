@@ -1,0 +1,8 @@
+ITEM ID: 246753008
+ICON ID: Icon_SparkPet_Back_Wings
+NOMBRE: Wings
+TIPO: Pyro Pet
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: Wings
+IMAGEN: MASCOTAS/imagenes/246753008.png

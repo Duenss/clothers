@@ -1,0 +1,8 @@
+ITEM ID: 907104614
+ICON ID: Icon_SVD_Iron
+NOMBRE: SVD - Eternal Enigma
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104614.png

@@ -1,0 +1,8 @@
+ITEM ID: 204050000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Violet Strike (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

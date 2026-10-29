@@ -1,0 +1,8 @@
+ITEM ID: 907136043
+ICON ID: Icon_MP40_Mambas
+NOMBRE: MP40 - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136043.png

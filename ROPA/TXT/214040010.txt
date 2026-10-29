@@ -1,0 +1,8 @@
+ITEM ID: 214040010
+ICON ID: Icon_avatar_cos_headadditive_selected
+NOMBRE: Thriving Ink Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214040010.png

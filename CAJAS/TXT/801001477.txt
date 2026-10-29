@@ -1,0 +1,8 @@
+ITEM ID: 801001477
+ICON ID: Icon_box_newplayer
+NOMBRE: Blue Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Blue Pieces to unlock the Blue Card
+IMAGEN: CAJAS/imagenes/801001477.png

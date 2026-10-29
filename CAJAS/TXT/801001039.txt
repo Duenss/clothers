@@ -1,0 +1,8 @@
+ITEM ID: 801001039
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: July Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Exchange for great rewards this July!
+IMAGEN: CAJAS/imagenes/801001039.png

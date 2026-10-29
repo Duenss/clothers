@@ -1,0 +1,8 @@
+ITEM ID: 907201905
+ICON ID: Icon_Katana_Ninjas
+NOMBRE: Katana - Clandestine Impulse
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201905.png

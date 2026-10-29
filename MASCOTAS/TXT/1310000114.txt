@@ -1,0 +1,8 @@
+ITEM ID: 1310000114
+ICON ID: Icon_Pet_Raccoon_Mech
+NOMBRE: Pet Skin: Party Rockie
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Rockie is rocking the party!
+IMAGEN: MASCOTAS/imagenes/1310000114.png

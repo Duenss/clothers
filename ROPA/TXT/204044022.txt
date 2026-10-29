@@ -1,0 +1,8 @@
+ITEM ID: 204044022
+ICON ID: Icon_avatar_male_cos_bottom_carnivore
+NOMBRE: Poison Flytrap (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044022.png

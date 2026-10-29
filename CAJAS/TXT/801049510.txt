@@ -1,0 +1,8 @@
+ITEM ID: 801049510
+ICON ID: Icon_exchange_FBT_id_49
+NOMBRE: Satay Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049510.png

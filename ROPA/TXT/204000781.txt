@@ -1,0 +1,8 @@
+ITEM ID: 204000781
+ICON ID: Icon_avatar_bottom_cos_bdpants
+NOMBRE: Dashing Pants (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000781.png

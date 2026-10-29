@@ -1,0 +1,8 @@
+ITEM ID: 203034010
+ICON ID: Icon_avatar_male_sc_top_tracker
+NOMBRE: Sightless Assassin (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034010.png

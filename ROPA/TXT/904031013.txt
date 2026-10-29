@@ -1,0 +1,8 @@
+ITEM ID: 904031013
+ICON ID: Icon_Bag_Reggaeton
+NOMBRE: Backpack - A Crazy World
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031013.png

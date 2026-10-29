@@ -1,0 +1,8 @@
+ITEM ID: 907104804
+ICON ID: Icon_ThrowingKnife_Firefly
+NOMBRE: Dagger - Firefly Sting
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104804.png

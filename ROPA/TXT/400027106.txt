@@ -1,0 +1,8 @@
+ITEM ID: 400027106
+ICON ID: Icon_box_3
+NOMBRE: Missy Sweetheart Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Missy Sweetheart and all its pieces
+IMAGEN: ROPA/imagenes/400027106.png

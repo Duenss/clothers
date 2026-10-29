@@ -1,0 +1,8 @@
+ITEM ID: 907103740
+ICON ID: Icon_GlooShield_Winterfest22
+NOMBRE: Gloo Wall - Cannibal Nightmare
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103740.png

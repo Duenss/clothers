@@ -1,0 +1,8 @@
+ITEM ID: 407105004
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Line Art Pro (Mini Uzi + Charge Buster) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive a random gun skin (Mini Uzi + Charge Buster) from the Line Art Pro set
+IMAGEN: ARMAS/imagenes/407105004.png

@@ -1,0 +1,8 @@
+ITEM ID: 211050039
+ICON ID: Icon_avatar_cos_hair_drops
+NOMBRE: Sweat Drop Beanie
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050039.png

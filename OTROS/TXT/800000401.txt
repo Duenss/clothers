@@ -1,0 +1,8 @@
+ITEM ID: 800000401
+ICON ID: Icon_Speaker
+NOMBRE: Loudspeaker
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Use Loudspeaker in World Chat to push your messages to the top, ensuring that everyone hears you.
+IMAGEN: OTROS/imagenes/800000401.png

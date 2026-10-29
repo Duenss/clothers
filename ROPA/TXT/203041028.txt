@@ -1,0 +1,8 @@
+ITEM ID: 203041028
+ICON ID: Icon_avatar_cos_top_festival_id
+NOMBRE: Free Spirit (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041028.png

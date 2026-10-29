@@ -1,0 +1,8 @@
+ITEM ID: 905190087
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Fun Craft
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by obtaining Craftland Tokens through Craftland missions or by joining the Creator Program
+IMAGEN: AVATARES/imagenes/905190087.png

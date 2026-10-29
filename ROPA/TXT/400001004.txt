@@ -1,0 +1,8 @@
+ITEM ID: 400001004
+ICON ID: Icon_box_3
+NOMBRE: Moco Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains Moco and many other rewards
+IMAGEN: ROPA/imagenes/400001004.png

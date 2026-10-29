@@ -1,0 +1,8 @@
+ITEM ID: 801000533
+ICON ID: Icon_exchange_ob22_pencil_token
+NOMBRE: Pencil Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: The pencil is mightier than the sword
+IMAGEN: CAJAS/imagenes/801000533.png

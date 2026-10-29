@@ -1,0 +1,8 @@
+ITEM ID: 903047009
+ICON ID: Icon_Deadloot_NB_Ramen
+NOMBRE: Loot Box - Ramen Ichiraku
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903047009.png

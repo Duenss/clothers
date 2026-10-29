@@ -1,0 +1,8 @@
+ITEM ID: 801001460
+ICON ID: Icon_exchange_ob33_Boyband_Purplediamond
+NOMBRE: BTS Crystal
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Participate in various activities to obtain BTS Crystals. Use BTS Crystals to exchange for collaboration bundles at the "Get BTS Outfits" event.
+IMAGEN: CAJAS/imagenes/801001460.png

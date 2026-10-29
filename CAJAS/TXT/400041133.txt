@@ -1,0 +1,8 @@
+ITEM ID: 400041133
+ICON ID: Icon_box_Designertoys_ord_42
+NOMBRE: BP S11 Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: After receiving the basic outfit version, open this box to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041133.png

@@ -1,0 +1,8 @@
+ITEM ID: 205054013
+ICON ID: Icon_avatar_cos_shoe_cottonbear
+NOMBRE: Cotton Teddy (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054013.png

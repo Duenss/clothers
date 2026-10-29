@@ -1,0 +1,8 @@
+ITEM ID: 214044005
+ICON ID: Icon_avatar_male_cos_headadditive_applique
+NOMBRE: Country Fest Charmer (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214044005.png

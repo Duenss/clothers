@@ -1,0 +1,8 @@
+ITEM ID: 205000730
+ICON ID: Icon_avatar_male_cos_shoe_falconer_c
+NOMBRE: Moody Lavisher (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000730.png

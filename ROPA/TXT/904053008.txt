@@ -1,0 +1,8 @@
+ITEM ID: 904053008
+ICON ID: Icon_Bag_CSRank37
+NOMBRE: Backpack - S37 Exclusive: Twinstars
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ROPA/imagenes/904053008.png

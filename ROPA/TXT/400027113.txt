@@ -1,0 +1,8 @@
+ITEM ID: 400027113
+ICON ID: Icon_box_3
+NOMBRE: M14 Special Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains gifts from the desert
+IMAGEN: ROPA/imagenes/400027113.png

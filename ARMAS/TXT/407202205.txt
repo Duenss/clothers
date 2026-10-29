@@ -1,0 +1,8 @@
+ITEM ID: 407202205
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Swallowtail Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB22
+DESCRIPCION: Open to receive a random gun skin from the Swallowtail weapon set.
+IMAGEN: ARMAS/imagenes/407202205.png

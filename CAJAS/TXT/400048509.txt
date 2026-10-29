@@ -1,0 +1,8 @@
+ITEM ID: 400048509
+ICON ID: Icon_box_RSB_ID_48
+NOMBRE: Ramadan Special Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Choose a special item from this box!
+IMAGEN: CAJAS/imagenes/400048509.png

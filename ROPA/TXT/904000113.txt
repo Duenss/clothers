@@ -1,0 +1,8 @@
+ITEM ID: 904000113
+ICON ID: Icon_Bag_Spine_College
+NOMBRE: Backpack - Bunny Guitarbag
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000113.png

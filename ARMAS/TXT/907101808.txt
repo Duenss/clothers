@@ -1,0 +1,8 @@
+ITEM ID: 907101808
+ICON ID: Icon_XM8_Halloweenbat
+NOMBRE: XM8 - Deadly Bat
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB18
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101808.png

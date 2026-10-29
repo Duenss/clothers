@@ -1,0 +1,8 @@
+ITEM ID: 204000011
+ICON ID: Icon_avatar_jeans_3
+NOMBRE: Jeans (Navy)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000011.png

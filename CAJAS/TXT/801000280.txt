@@ -1,0 +1,8 @@
+ITEM ID: 801000280
+ICON ID: Icon_exchange_Landmine
+NOMBRE: Landmine Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: The last thing you will ever step on.
+IMAGEN: CAJAS/imagenes/801000280.png

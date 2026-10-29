@@ -1,0 +1,8 @@
+ITEM ID: 901036022
+ICON ID: Icon_callsign_storebg_Sniper_EU
+NOMBRE: Deatheye's Pistol Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036022.png

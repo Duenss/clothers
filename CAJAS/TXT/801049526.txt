@@ -1,0 +1,8 @@
+ITEM ID: 801049526
+ICON ID: Icon_exchange_FST_us-es_49
+NOMBRE: Fist Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049526.png

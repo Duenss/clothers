@@ -1,0 +1,8 @@
+ITEM ID: 204055013
+ICON ID: Icon_avatar_male_cos_bottom_blackdress26
+NOMBRE: Cosmic Overlord (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055013.png

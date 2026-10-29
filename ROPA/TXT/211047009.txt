@@ -1,0 +1,8 @@
+ITEM ID: 211047009
+ICON ID: Icon_avatar_cos_hair_aurora_black
+NOMBRE: Aurora Shade (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047009.png

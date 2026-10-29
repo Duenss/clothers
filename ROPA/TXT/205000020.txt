@@ -1,0 +1,8 @@
+ITEM ID: 205000020
+ICON ID: Icon_avatar_male_suit_shoes_001_6
+NOMBRE: Beige Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000020.png

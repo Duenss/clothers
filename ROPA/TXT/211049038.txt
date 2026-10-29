@@ -1,0 +1,8 @@
+ITEM ID: 211049038
+ICON ID: Icon_avatar_cos_hair_trend_th25
+NOMBRE: Half-Up Wolf Cut
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049038.png

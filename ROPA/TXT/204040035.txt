@@ -1,0 +1,8 @@
+ITEM ID: 204040035
+ICON ID: Icon_avatar_cos_bottom_shuttlecock_red2
+NOMBRE: Arctic Blaze Shorts
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040035.png

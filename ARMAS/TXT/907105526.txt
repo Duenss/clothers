@@ -1,0 +1,8 @@
+ITEM ID: 907105526
+ICON ID: Icon_ThrowingKnife_Owlranger
+NOMBRE: Dagger - Owl Sheriff
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105526.png

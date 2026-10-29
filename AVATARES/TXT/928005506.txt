@@ -1,0 +1,8 @@
+ITEM ID: 928005506
+ICON ID: Icon_GroupPhoto_Halloween26_icon
+NOMBRE: TV Scare
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: TV Scare
+IMAGEN: AVATARES/imagenes/928005506.png

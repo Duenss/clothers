@@ -1,0 +1,8 @@
+ITEM ID: 203033035
+ICON ID: Icon_avatar_female_cos_top_cyberthief
+NOMBRE: Hypercore Rosé (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033035.png

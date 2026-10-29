@@ -1,0 +1,8 @@
+ITEM ID: 211001190
+ICON ID: Icon_avatar_cos_accessory_brmascot_kids
+NOMBRE: Adorable Chick Head
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001190.png

@@ -1,0 +1,8 @@
+ITEM ID: 203038050
+ICON ID: Icon_avatar_male_cos_top_samurai_01
+NOMBRE: Primal Wrath (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038050.png

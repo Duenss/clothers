@@ -1,0 +1,8 @@
+ITEM ID: 904050011
+ICON ID: Icon_Bag_Festival_PK25
+NOMBRE: Backpack - Decorated Bus
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050011.png

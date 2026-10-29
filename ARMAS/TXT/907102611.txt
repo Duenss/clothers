@@ -1,0 +1,8 @@
+ITEM ID: 907102611
+ICON ID: Icon_Machete_Flamingarmy
+NOMBRE: Parang - Netherworld Troop's Blade
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102611.png

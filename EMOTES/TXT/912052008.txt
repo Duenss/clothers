@@ -1,0 +1,8 @@
+ITEM ID: 912052008
+ICON ID: Icon_GroupAnim_IIV_CT_King_Clean
+NOMBRE: Malevolent Shrine
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912052008.png

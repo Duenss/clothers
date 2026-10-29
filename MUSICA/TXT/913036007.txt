@@ -1,0 +1,8 @@
+ITEM ID: 913036007
+ICON ID: FF_UI_Vault_Music_SUGARSKULL21
+NOMBRE: Mariachi de Free Fire
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Day of the Dead 2021 lobby music
+IMAGEN: MUSICA/imagenes/913036007.png

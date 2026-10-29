@@ -1,0 +1,8 @@
+ITEM ID: 905044002
+ICON ID: Icon_Avatar_PARACHUTE_Applique
+NOMBRE: Parachute - Country Fest Plaid
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905044002.png

@@ -1,0 +1,8 @@
+ITEM ID: 902040001
+ICON ID: Icon_face_Artificial_BP
+NOMBRE: Synthetic Strike Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040001.png

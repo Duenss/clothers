@@ -1,0 +1,8 @@
+ITEM ID: 907102001
+ICON ID: Icon_MP40_PinkPoker
+NOMBRE: MP40 - Blazing Heart
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB20
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102001.png

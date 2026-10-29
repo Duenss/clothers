@@ -1,0 +1,8 @@
+ITEM ID: 211054048
+ICON ID: Icon_avatar_cos_accessory_TH_Banana
+NOMBRE: Boss Banana (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054048.png

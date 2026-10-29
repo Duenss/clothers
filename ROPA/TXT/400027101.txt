@@ -1,0 +1,8 @@
+ITEM ID: 400027101
+ICON ID: Icon_box_3
+NOMBRE: Cyber Bounty Chaser Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Cyber Bounty Chaser and all its pieces
+IMAGEN: ROPA/imagenes/400027101.png

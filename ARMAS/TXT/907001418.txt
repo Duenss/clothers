@@ -1,0 +1,8 @@
+ITEM ID: 907001418
+ICON ID: Icon_AK47_IceUnicon
+NOMBRE: AK47 - Unicorn's Rage (Ice Age)
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001418.png

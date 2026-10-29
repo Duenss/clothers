@@ -1,0 +1,8 @@
+ITEM ID: 209000008
+ICON ID: Icon_avatar_parachute_7
+NOMBRE: Parachute - Sky
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/209000008.png

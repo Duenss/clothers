@@ -1,0 +1,8 @@
+ITEM ID: 907104303
+ICON ID: Icon_Mac10_Frog
+NOMBRE: MAC10 - Ribbit Rain
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104303.png

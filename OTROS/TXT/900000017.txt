@@ -1,0 +1,8 @@
+ITEM ID: 900000017
+ICON ID: UI_Icon_SpeedMode_MOTO_Bounty
+NOMBRE: Cosmic Ranger
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/900000017.png

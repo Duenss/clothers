@@ -1,0 +1,8 @@
+ITEM ID: 801000757
+ICON ID: Icon_exchange_ob25_merry_Xmas
+NOMBRE: Happy Holidays
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Ho Ho Ho
+IMAGEN: CAJAS/imagenes/801000757.png

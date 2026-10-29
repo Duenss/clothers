@@ -1,0 +1,8 @@
+ITEM ID: 904051009
+ICON ID: Icon_Bag_TH_KOL25
+NOMBRE: Backpack - HEARTROCKER
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051009.png

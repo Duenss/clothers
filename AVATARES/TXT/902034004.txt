@@ -1,0 +1,8 @@
+ITEM ID: 902034004
+ICON ID: Icon_face_Kongfu_A
+NOMBRE: Steamed Seafood Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034004.png

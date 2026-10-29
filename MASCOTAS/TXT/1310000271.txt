@@ -1,0 +1,8 @@
+ITEM ID: 1310000271
+ICON ID: Icon_Pet_DA
+NOMBRE: Agumon
+TIPO: Pet Skin
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Agumon is Taichi's partner and a Reptile Digimon.
+IMAGEN: MASCOTAS/imagenes/1310000271.png

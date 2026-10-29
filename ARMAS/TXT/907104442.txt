@@ -1,0 +1,8 @@
+ITEM ID: 907104442
+ICON ID: Icon_Zombie24_Grenade
+NOMBRE: Grenade - Mecha Attack
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104442.png

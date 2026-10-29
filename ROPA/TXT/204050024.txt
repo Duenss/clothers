@@ -1,0 +1,8 @@
+ITEM ID: 204050024
+ICON ID: Icon_avatar_male_cos_bottom_fighter_duo
+NOMBRE: Volcanic Might (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050024.png

@@ -1,0 +1,8 @@
+ITEM ID: 907136027
+ICON ID: Icon_Baseballbat_Griza
+NOMBRE: Bat - Gang Basher
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136027.png

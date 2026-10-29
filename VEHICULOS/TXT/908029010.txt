@@ -1,0 +1,8 @@
+ITEM ID: 908029010
+ICON ID: Icon_slot_Roadster_Supercar_3
+NOMBRE: MCL-FF Deep Dive
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908029010.png

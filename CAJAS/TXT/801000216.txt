@@ -1,0 +1,8 @@
+ITEM ID: 801000216
+ICON ID: Icon_exchange_Pro_League_4
+NOMBRE: Pro League Badge 4
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000216.png

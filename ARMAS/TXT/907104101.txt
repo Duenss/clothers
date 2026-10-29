@@ -1,0 +1,8 @@
+ITEM ID: 907104101
+ICON ID: Icon_SCAR_Zombie23
+NOMBRE: SCAR - Zombie Attack
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104101.png

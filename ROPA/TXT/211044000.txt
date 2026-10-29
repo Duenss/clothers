@@ -1,0 +1,8 @@
+ITEM ID: 211044000
+ICON ID: Icon_avatar_male_cos_accessory_videogame
+NOMBRE: Byte Bugbear (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044000.png

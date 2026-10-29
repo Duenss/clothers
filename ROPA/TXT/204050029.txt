@@ -1,0 +1,8 @@
+ITEM ID: 204050029
+ICON ID: Icon_avatar_cos_bottom_dunelord_pants
+NOMBRE: Desert Wrapped Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050029.png

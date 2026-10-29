@@ -1,0 +1,8 @@
+ITEM ID: 801001247
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFIM Fiery Red Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: The fiery conquest in the spirit of the competition
+IMAGEN: CAJAS/imagenes/801001247.png

@@ -1,0 +1,8 @@
+ITEM ID: 205055009
+ICON ID: Icon_avatar_female_cos_shoe_ninja_watermelon
+NOMBRE: Banana Ninja (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055009.png

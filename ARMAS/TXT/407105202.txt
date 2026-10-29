@@ -1,0 +1,8 @@
+ITEM ID: 407105202
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Romance (G18 + G36) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive a random gun skin (G18 + G36) from the Romance set
+IMAGEN: ARMAS/imagenes/407105202.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104619
+ICON ID: Icon_Sickle_Purplelight
+NOMBRE: Scythe - Violet Discharge
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104619.png

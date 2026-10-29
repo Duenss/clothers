@@ -1,0 +1,8 @@
+ITEM ID: 204044005
+ICON ID: Icon_avatar_male_cos_bottom_persona_purple
+NOMBRE: Dark Paradox (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044005.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103543
+ICON ID: Icon_GlooShield_Digitaluniverse
+NOMBRE: Gloo Wall - Universe Shatter
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103543.png

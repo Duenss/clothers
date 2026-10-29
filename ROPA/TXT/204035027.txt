@@ -1,0 +1,8 @@
+ITEM ID: 204035027
+ICON ID: Icon_avatar_female_cos_bottom_goldchain
+NOMBRE: Armor of Riches (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035027.png

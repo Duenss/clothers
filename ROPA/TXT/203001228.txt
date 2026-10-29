@@ -1,0 +1,8 @@
+ITEM ID: 203001228
+ICON ID: Icon_avatar_male_sc_muertoguy_top
+NOMBRE: Artsy Engineer (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001228.png

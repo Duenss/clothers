@@ -1,0 +1,8 @@
+ITEM ID: 211036018
+ICON ID: Icon_avatar_male_cos_hair_halloween22
+NOMBRE: Duke of Terrorville (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036018.png

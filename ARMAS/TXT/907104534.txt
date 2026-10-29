@@ -1,0 +1,8 @@
+ITEM ID: 907104534
+ICON ID: Icon_GlooShield_Spirit24
+NOMBRE: Gloo Wall - Anemo Gusto
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104534.png

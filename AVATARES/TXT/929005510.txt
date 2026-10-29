@@ -1,0 +1,8 @@
+ITEM ID: 929005510
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_10
+NOMBRE: Minato Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Minato Sticker
+IMAGEN: AVATARES/imagenes/929005510.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037010
+ICON ID: Icon_avatar_male_cos_hair_silverera
+NOMBRE: Fearless Greyguard (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037010.png

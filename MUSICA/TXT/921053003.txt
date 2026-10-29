@@ -1,0 +1,8 @@
+ITEM ID: 921053003
+ICON ID: FF_UI_Voiceitem_Bluetears
+NOMBRE: Dive! Dive! Dive!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Undersea Mystery Voice Pack
+IMAGEN: MUSICA/imagenes/921053003.png

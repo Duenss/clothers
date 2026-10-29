@@ -1,0 +1,8 @@
+ITEM ID: 600000002
+ICON ID: Icon_ff_Time_Roomcard0
+NOMBRE: Room Card (Time Limit)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: After receiving the card, players can create custom rooms for the given period of time.(Time cards will be used first)
+IMAGEN: OTROS/imagenes/600000002.png

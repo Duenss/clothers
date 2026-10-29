@@ -1,0 +1,8 @@
+ITEM ID: 400029054
+ICON ID: Icon_box_3
+NOMBRE: Café Amazon
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400029054.png

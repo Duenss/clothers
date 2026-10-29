@@ -1,0 +1,8 @@
+ITEM ID: 204000115
+ICON ID: Icon_avatar_BallPants_Black
+NOMBRE: Shadows
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000115.png

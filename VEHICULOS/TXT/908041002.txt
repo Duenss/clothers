@@ -1,0 +1,8 @@
+ITEM ID: 908041002
+ICON ID: Icon_slot_Amphibian_Fisherman
+NOMBRE: Amphibian - Reeling Rover
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908041002.png

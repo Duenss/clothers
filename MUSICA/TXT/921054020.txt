@@ -1,0 +1,8 @@
+ITEM ID: 921054020
+ICON ID: FF_UI_Voiceitem_US54C
+NOMBRE: I hate being so bad
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: The Verified Voices voice pack
+IMAGEN: MUSICA/imagenes/921054020.png

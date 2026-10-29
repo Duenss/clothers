@@ -1,0 +1,8 @@
+ITEM ID: 400001022
+ICON ID: Icon_box_3
+NOMBRE: Time Tokens x 9
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive 9 Time Tokens
+IMAGEN: ROPA/imagenes/400001022.png

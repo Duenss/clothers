@@ -1,0 +1,8 @@
+ITEM ID: 812000003
+ICON ID: Icon_LvUpCard_03
+NOMBRE: Character Lvl. 8 Card
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Choose a character you own and level it up to lvl 8 instantly. You will receive the level up rewards.
+IMAGEN: CAJAS/imagenes/812000003.png

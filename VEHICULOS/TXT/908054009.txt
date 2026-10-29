@@ -1,0 +1,8 @@
+ITEM ID: 908054009
+ICON ID: Icon_slot_Jeep_Apple_GR
+NOMBRE: Jeep - Crisp Green
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054009.png

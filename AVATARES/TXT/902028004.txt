@@ -1,0 +1,8 @@
+ITEM ID: 902028004
+ICON ID: Icon_face_Scarecrow_EP_A
+NOMBRE: Looking pretty?
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028004.png

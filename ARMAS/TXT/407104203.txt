@@ -1,0 +1,8 @@
+ITEM ID: 407104203
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Blizzard Brawl (XM8 + Bizon) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Open to receive a random gun skin (XM8 + Bizon) from the Blizzard Brawl weapon set
+IMAGEN: ARMAS/imagenes/407104203.png

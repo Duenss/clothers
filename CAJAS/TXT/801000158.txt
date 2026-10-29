@@ -1,0 +1,8 @@
+ITEM ID: 801000158
+ICON ID: Icon_exchange_strawberry_cake
+NOMBRE: Blueberry Cake
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000158.png

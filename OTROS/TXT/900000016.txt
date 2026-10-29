@@ -1,0 +1,8 @@
+ITEM ID: 900000016
+ICON ID: Icon_slot_Superemote_Default
+NOMBRE: Default - No Super Emote
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/900000016.png

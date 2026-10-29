@@ -1,0 +1,8 @@
+ITEM ID: 204041015
+ICON ID: Icon_avatar_male_cos_bottom_fisherman_black
+NOMBRE: Reeling Fisher (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041015.png

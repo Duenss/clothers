@@ -1,0 +1,8 @@
+ITEM ID: 907202307
+ICON ID: Icon_SVD_FoxMiko
+NOMBRE: SVD - Spirited Overseers
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202307.png

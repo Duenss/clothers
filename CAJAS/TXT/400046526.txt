@@ -1,0 +1,8 @@
+ITEM ID: 400046526
+ICON ID: Icon_box_Happy_Box_TH_46
+NOMBRE: Happy Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046526.png

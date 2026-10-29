@@ -1,0 +1,8 @@
+ITEM ID: 801000336
+ICON ID: Icon_exchange_st_patrick_hat
+NOMBRE: St.Patrick Hat
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Happy St. Patrick's Day!
+IMAGEN: CAJAS/imagenes/801000336.png

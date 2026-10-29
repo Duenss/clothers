@@ -1,0 +1,8 @@
+ITEM ID: 700000231
+ICON ID: Icon_box_3
+NOMBRE: Old Costumes bundle A
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Combine 2 or 3 old costumes together at discounted price.
+IMAGEN: ROPA/imagenes/700000231.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103920
+ICON ID: Icon_BM94_Thug
+NOMBRE: M82B - Fiery Rush
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103920.png

@@ -1,0 +1,8 @@
+ITEM ID: 903037003
+ICON ID: Icon_Deadloot_Culture_VN
+NOMBRE: Loot Box - Fruit Basket
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903037003.png

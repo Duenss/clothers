@@ -1,0 +1,8 @@
+ITEM ID: 204000929
+ICON ID: Icon_avatar_cos_bottom_mejersey_7
+NOMBRE: No. 7 Basil Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000929.png

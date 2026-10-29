@@ -1,0 +1,8 @@
+ITEM ID: 400000015
+ICON ID: Icon_box_3
+NOMBRE: Beachwear Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece of the beachwear set (may be permanent or 3-days)
+IMAGEN: ROPA/imagenes/400000015.png

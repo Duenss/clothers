@@ -1,0 +1,8 @@
+ITEM ID: 710000263
+ICON ID: Icon_box_3
+NOMBRE: FFWC2019 Bundle
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the FFWC2019 set.
+IMAGEN: ROPA/imagenes/710000263.png

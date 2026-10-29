@@ -1,0 +1,8 @@
+ITEM ID: 909041013
+ICON ID: Icon_Emote_41CSmaster
+NOMBRE: CS-Ranked Grandmaster Emote
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041013.png

@@ -1,0 +1,8 @@
+ITEM ID: 211001149
+ICON ID: Icon_avatar_cos_hair_electronic_red
+NOMBRE: Wildfire Bolt (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001149.png

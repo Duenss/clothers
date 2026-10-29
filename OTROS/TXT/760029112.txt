@@ -1,0 +1,8 @@
+ITEM ID: 760029112
+ICON ID: FF_UI_CupMatchBox_03
+NOMBRE: Clash Squad Cup 2-wins Chest
+TIPO: Unknown
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: Clash Squad Cup 2-wins Chest
+IMAGEN: OTROS/imagenes/760029112.png

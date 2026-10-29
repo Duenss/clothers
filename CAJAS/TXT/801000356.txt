@@ -1,0 +1,8 @@
+ITEM ID: 801000356
+ICON ID: Icon_exchange_silver_helm
+NOMBRE: Silver Helm Medal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A keepsake of the silver age
+IMAGEN: CAJAS/imagenes/801000356.png

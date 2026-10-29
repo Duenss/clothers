@@ -1,0 +1,8 @@
+ITEM ID: 203050027
+ICON ID: Icon_avatar_male_cos_top_inktiger
+NOMBRE: Splash of the Wild (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050027.png

@@ -1,0 +1,8 @@
+ITEM ID: 902027006
+ICON ID: Icon_face_Crystalslipper_FP
+NOMBRE: Prince Afterdark
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027006.png

@@ -1,0 +1,8 @@
+ITEM ID: 400033075
+ICON ID: Icon_box_3
+NOMBRE: dtac Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400033075.png

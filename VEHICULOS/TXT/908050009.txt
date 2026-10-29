@@ -1,0 +1,8 @@
+ITEM ID: 908050009
+ICON ID: Icon_slot_TUTU_Rickshaw_BD
+NOMBRE: Tuk Tuk - Cycle Rickshaw
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050009.png

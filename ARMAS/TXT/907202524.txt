@@ -1,0 +1,8 @@
+ITEM ID: 907202524
+ICON ID: Icon_AUG_Bounty
+NOMBRE: AUG - Cyber Bounty Hunter
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202524.png

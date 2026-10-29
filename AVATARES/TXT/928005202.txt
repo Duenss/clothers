@@ -1,0 +1,8 @@
+ITEM ID: 928005202
+ICON ID: Icon_GroupPhotoTreasure_icon
+NOMBRE: Treasure Discovered
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Treasure Discovered
+IMAGEN: AVATARES/imagenes/928005202.png

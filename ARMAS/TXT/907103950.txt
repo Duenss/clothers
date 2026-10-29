@@ -1,0 +1,8 @@
+ITEM ID: 907103950
+ICON ID: Icon_GlooShield_Scarlet_1
+NOMBRE: Gloo Wall - Scorpio
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103950.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102322
+ICON ID: Icon_P90_Jumpsuit
+NOMBRE: P90 - Make it Rain
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102322.png

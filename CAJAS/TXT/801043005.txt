@@ -1,0 +1,8 @@
+ITEM ID: 801043005
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Mini Soaker
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801043005.png

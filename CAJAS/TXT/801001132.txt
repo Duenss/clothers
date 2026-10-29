@@ -1,0 +1,8 @@
+ITEM ID: 801001132
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Patch Display Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Get back online!
+IMAGEN: CAJAS/imagenes/801001132.png

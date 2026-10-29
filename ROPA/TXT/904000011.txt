@@ -1,0 +1,8 @@
+ITEM ID: 904000011
+ICON ID: Icon_Bag_South_America_03
+NOMBRE: Backpack - Soul of Andes
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000011.png

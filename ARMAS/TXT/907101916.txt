@@ -1,0 +1,8 @@
+ITEM ID: 907101916
+ICON ID: Icon_GlooShield_Cnnewyear19
+NOMBRE: Gloo Wall - Aurous Dragon
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101916.png

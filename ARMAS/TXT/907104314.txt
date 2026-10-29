@@ -1,0 +1,8 @@
+ITEM ID: 907104314
+ICON ID: Icon_Mini_Evilbehind
+NOMBRE: AC80 - Inner Whisper
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104314.png

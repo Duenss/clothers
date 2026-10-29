@@ -1,0 +1,8 @@
+ITEM ID: 801001564
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Unity Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: Use to exchange for exciting rewards!
+IMAGEN: CAJAS/imagenes/801001564.png

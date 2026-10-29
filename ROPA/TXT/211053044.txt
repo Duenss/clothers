@@ -1,0 +1,8 @@
+ITEM ID: 211053044
+ICON ID: Icon_avatar_male_cos_hair_gb_ct_signature
+NOMBRE: Football Star (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053044.png

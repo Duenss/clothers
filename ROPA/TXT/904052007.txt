@@ -1,0 +1,8 @@
+ITEM ID: 904052007
+ICON ID: Icon_Bag_Aprilfool26
+NOMBRE: Backpack - Quack with Pearl Earring
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052007.png

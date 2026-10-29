@@ -1,0 +1,8 @@
+ITEM ID: 400048522
+ICON ID: Icon_box_SFB_TH_48
+NOMBRE: Summer Fest Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048522.png

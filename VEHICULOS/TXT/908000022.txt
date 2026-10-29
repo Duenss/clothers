@@ -1,0 +1,8 @@
+ITEM ID: 908000022
+ICON ID: Icon_slot_SUV_Imperialegypt
+NOMBRE: Pickup Truck - Royal's Ride
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000022.png

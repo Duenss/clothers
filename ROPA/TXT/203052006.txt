@@ -1,0 +1,8 @@
+ITEM ID: 203052006
+ICON ID: Icon_avatar_male_cos_top_pisces
+NOMBRE: Rippling Fin (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052006.png

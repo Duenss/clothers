@@ -1,0 +1,8 @@
+ITEM ID: 908042008
+ICON ID: Icon_slot_Roadster_Bull_ASilver
+NOMBRE: Aventador Ultimae Grigio Nimbus
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042008.png

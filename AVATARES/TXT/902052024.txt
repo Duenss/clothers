@@ -1,0 +1,8 @@
+ITEM ID: 902052024
+ICON ID: Icon_face_LW26_D
+NOMBRE: LW-Ranked Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052024.png

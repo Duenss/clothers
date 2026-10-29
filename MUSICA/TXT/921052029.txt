@@ -1,0 +1,8 @@
+ITEM ID: 921052029
+ICON ID: FF_UI_Voiceitem_Trea25
+NOMBRE: We fight, till the treasure's in sight!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure Voice Pack
+IMAGEN: MUSICA/imagenes/921052029.png

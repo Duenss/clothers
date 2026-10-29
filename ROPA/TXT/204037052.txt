@@ -1,0 +1,8 @@
+ITEM ID: 204037052
+ICON ID: Icon_avatar_male_cos_bottom_ffws2022_red
+NOMBRE: Rager Konqueror (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037052.png

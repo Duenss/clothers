@@ -1,0 +1,8 @@
+ITEM ID: 400044525
+ICON ID: Icon_box_Exclusive_Fashion_TH_44
+NOMBRE: Exclusive Fashion Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044525.png

@@ -1,0 +1,8 @@
+ITEM ID: 906036010
+ICON ID: Icon_Avatar_Surfboard_Ghost_TH
+NOMBRE: Skyboard - Kitty Ride
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906036010.png

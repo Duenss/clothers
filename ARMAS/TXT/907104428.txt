@@ -1,0 +1,8 @@
+ITEM ID: 907104428
+ICON ID: Icon_M60_Octopus
+NOMBRE: M60 - Deep Sea Tentacle
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104428.png

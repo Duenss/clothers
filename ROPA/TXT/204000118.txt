@@ -1,0 +1,8 @@
+ITEM ID: 204000118
+ICON ID: Icon_avatar_BallPants_England_B
+NOMBRE: King of Lions
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000118.png

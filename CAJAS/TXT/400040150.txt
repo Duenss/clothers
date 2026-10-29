@@ -1,0 +1,8 @@
+ITEM ID: 400040150
+ICON ID: Icon_box_FFWS2022B_Hyper_37
+NOMBRE: Random Book Token Box
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Open and get random Book Token(s)!
+IMAGEN: CAJAS/imagenes/400040150.png

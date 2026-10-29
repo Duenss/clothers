@@ -1,0 +1,8 @@
+ITEM ID: 801000597
+ICON ID: Icon_exchange_ob23_coin
+NOMBRE: Plan Bermuda Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: A coin earned from the greatest heist.
+IMAGEN: CAJAS/imagenes/801000597.png

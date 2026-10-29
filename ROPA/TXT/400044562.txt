@@ -1,0 +1,8 @@
+ITEM ID: 400044562
+ICON ID: Icon_box_3
+NOMBRE: Rank Store Season Outfits
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive a random piece of outfit from the Rank Exchange Store
+IMAGEN: ROPA/imagenes/400044562.png

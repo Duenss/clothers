@@ -1,0 +1,8 @@
+ITEM ID: 203051003
+ICON ID: Icon_avatar_female_cos_top_sagittarius25
+NOMBRE: Starbound Archer (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051003.png

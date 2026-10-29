@@ -1,0 +1,8 @@
+ITEM ID: 710051060
+ICON ID: Icon_bundle_BD_Jersey_Red_51
+NOMBRE: BFF Jersey Red Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710051060.png

@@ -1,0 +1,8 @@
+ITEM ID: 203049007
+ICON ID: Icon_avatar_male_cos_top_wrestling
+NOMBRE: Tiger Brawler (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049007.png

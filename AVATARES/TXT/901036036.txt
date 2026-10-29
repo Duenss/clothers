@@ -1,0 +1,8 @@
+ITEM ID: 901036036
+ICON ID: Icon_callsign_storebg_GangGirl
+NOMBRE: Change Maker Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036036.png

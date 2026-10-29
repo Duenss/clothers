@@ -1,0 +1,8 @@
+ITEM ID: 921050016
+ICON ID: FF_UI_Voiceitem_IH50
+NOMBRE: The one who gets scared, gets eliminated
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Sholay Voice Pack
+IMAGEN: MUSICA/imagenes/921050016.png

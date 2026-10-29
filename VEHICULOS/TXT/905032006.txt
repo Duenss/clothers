@@ -1,0 +1,8 @@
+ITEM ID: 905032006
+ICON ID: Icon_Avatar_PARACHUTE_Hoodedkiller
+NOMBRE: Parachute - Hooded
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905032006.png

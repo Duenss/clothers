@@ -1,0 +1,8 @@
+ITEM ID: 400001047
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda Gloo Wall Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains Gloo Wall Plan Bermuda and Plan Bermuda Tokens
+IMAGEN: ROPA/imagenes/400001047.png

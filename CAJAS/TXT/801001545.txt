@@ -1,0 +1,8 @@
+ITEM ID: 801001545
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Knife Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Sharp as can be
+IMAGEN: CAJAS/imagenes/801001545.png

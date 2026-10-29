@@ -1,0 +1,8 @@
+ITEM ID: 211000862
+ICON ID: Icon_avatar_male_hair_cos_astrologer
+NOMBRE: Star Oracle (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000862.png

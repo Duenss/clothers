@@ -1,0 +1,8 @@
+ITEM ID: 203043020
+ICON ID: Icon_avatar_cos_top_eggday24
+NOMBRE: Luminous Bunny (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043020.png

@@ -1,0 +1,8 @@
+ITEM ID: 211042034
+ICON ID: Icon_avatar_male_cos_hair_blazing
+NOMBRE: Fiery Radiance (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042034.png

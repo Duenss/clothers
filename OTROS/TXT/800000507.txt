@@ -1,0 +1,8 @@
+ITEM ID: 800000507
+ICON ID: Icon_WSM_FAMAS_Asianoni
+NOMBRE: FAMAS - Demonic Grin Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the FAMAS skin. Obtain from events or buy directly from Store
+IMAGEN: OTROS/imagenes/800000507.png

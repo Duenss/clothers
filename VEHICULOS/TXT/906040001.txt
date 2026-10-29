@@ -1,0 +1,8 @@
+ITEM ID: 906040001
+ICON ID: Icon_Avatar_Surfboard_Artificialpng
+NOMBRE: Skyboard - Riding on Wisdom
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906040001.png

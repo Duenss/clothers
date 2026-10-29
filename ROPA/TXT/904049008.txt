@@ -1,0 +1,8 @@
+ITEM ID: 904049008
+ICON ID: Icon_Bag_Samurai_ME
+NOMBRE: Backpack - Steel Warrior
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049008.png

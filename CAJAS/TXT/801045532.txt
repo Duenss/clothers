@@ -1,0 +1,8 @@
+ITEM ID: 801045532
+ICON ID: Icon_exchange_Top_notch_fashion_th_45
+NOMBRE: Red Coin Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB45
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801045532.png

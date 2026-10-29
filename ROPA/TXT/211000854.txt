@@ -1,0 +1,8 @@
+ITEM ID: 211000854
+ICON ID: Icon_avatar_female_accessory_cos_valentine2021
+NOMBRE: Missy Sweetheart (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000854.png

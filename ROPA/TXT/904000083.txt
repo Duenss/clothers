@@ -1,0 +1,8 @@
+ITEM ID: 904000083
+ICON ID: Icon_Bag_Piratemk2
+NOMBRE: Backpack - Soul of The Pirate
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000083.png

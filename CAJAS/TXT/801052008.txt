@@ -1,0 +1,8 @@
+ITEM ID: 801052008
+ICON ID: Icon_exchange_hunt_2_52
+NOMBRE: Silver Shovel
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400028072
+ICON ID: Icon_box_3
+NOMBRE: Pro League Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Pro League SS3
+IMAGEN: ROPA/imagenes/400028072.png

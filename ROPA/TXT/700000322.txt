@@ -1,0 +1,8 @@
+ITEM ID: 700000322
+ICON ID: Icon_subscribe_package
+NOMBRE: New Year MP40 7D Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive special gun skin from the New Year Set!
+IMAGEN: ROPA/imagenes/700000322.png

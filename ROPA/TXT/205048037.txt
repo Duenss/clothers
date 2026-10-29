@@ -1,0 +1,8 @@
+ITEM ID: 205048037
+ICON ID: Icon_avatar_cos_shoe_football25_idred
+NOMBRE: Home Timnas Jersey (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048037.png

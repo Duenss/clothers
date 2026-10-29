@@ -1,0 +1,8 @@
+ITEM ID: 923042043
+ICON ID: FF_UI_Voiceitem_DoD
+NOMBRE: Good job!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042043.png

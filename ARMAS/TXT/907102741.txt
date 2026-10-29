@@ -1,0 +1,8 @@
+ITEM ID: 907102741
+ICON ID: Icon_Matryoshka_Grenade
+NOMBRE: Grenade - Matryoshka
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102741.png

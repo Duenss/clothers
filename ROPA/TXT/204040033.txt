@@ -1,0 +1,8 @@
+ITEM ID: 204040033
+ICON ID: Icon_avatar_male_cos_bottom_angelik_green
+NOMBRE: Fluorescent Angelic Pants
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040033.png

@@ -1,0 +1,8 @@
+ITEM ID: 908026004
+ICON ID: Icon_slot_Roadster_Cobra
+NOMBRE: Sports Car - Cobra
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908026004.png

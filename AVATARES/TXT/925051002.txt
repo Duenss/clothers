@@ -1,0 +1,8 @@
+ITEM ID: 925051002
+ICON ID: Icon_BattleCard_DA_Card
+NOMBRE: Battle Card - Digimon Adventure
+TIPO: Battle Card
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/925051002.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000104
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Ace Shooter Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin for the selected gun. (Permanent or trial card)
+IMAGEN: CAJAS/imagenes/400000104.png

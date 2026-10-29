@@ -1,0 +1,8 @@
+ITEM ID: 203045029
+ICON ID: Icon_avatar_cos_top_esports_id
+NOMBRE: FFNS3 Hoodie
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045029.png

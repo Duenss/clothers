@@ -1,0 +1,8 @@
+ITEM ID: 907104712
+ICON ID: Icon_AWM_Aurora
+NOMBRE: AWM - Aurora's Shade
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104712.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103803
+ICON ID: Icon_Pan_Goal
+NOMBRE: Pan - Achiever
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103803.png

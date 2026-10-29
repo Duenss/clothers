@@ -1,0 +1,8 @@
+ITEM ID: 910033001
+ICON ID: Pin_Small_FFWS03
+NOMBRE: Golden Haven
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910033001.png

@@ -1,0 +1,8 @@
+ITEM ID: 400048123
+ICON ID: Icon_box_CityheroBoy_Sys_BOX2_48
+NOMBRE: Ace Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048123.png

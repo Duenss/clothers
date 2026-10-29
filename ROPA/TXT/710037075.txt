@@ -1,0 +1,8 @@
+ITEM ID: 710037075
+ICON ID: Icon_bundle_Weapon_10_37
+NOMBRE: Weapon Royale Bundle 2
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains 10 Weapon Royale Vouchers
+IMAGEN: ROPA/imagenes/710037075.png

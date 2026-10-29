@@ -1,0 +1,8 @@
+ITEM ID: 204048011
+ICON ID: Icon_avatar_cos_bottom_rainforest_parrot
+NOMBRE: Tropical Plumes (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048011.png

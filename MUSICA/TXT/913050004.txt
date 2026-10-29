@@ -1,0 +1,8 @@
+ITEM ID: 913050004
+ICON ID: FF_UI_Vault_Music_2NB_PAIN
+NOMBRE: Pain Theme Song
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: The collaboration music of Free Fire x NARUTO SHIPPUDEN Chapter 2
+IMAGEN: MUSICA/imagenes/913050004.png

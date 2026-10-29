@@ -1,0 +1,8 @@
+ITEM ID: 700000541
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Fuji Folklore EP Bundle Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Fuji Folklore EP Bundle
+IMAGEN: ROPA/imagenes/700000541.png

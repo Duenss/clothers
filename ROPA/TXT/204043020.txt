@@ -1,0 +1,8 @@
+ITEM ID: 204043020
+ICON ID: Icon_avatar_cos_bottom_eggday24
+NOMBRE: Luminous Bunny (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043020.png

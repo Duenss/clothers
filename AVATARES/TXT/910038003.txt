@@ -1,0 +1,8 @@
+ITEM ID: 910038003
+ICON ID: Pin_Small_ES
+NOMBRE: Pop-Pow Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910038003.png

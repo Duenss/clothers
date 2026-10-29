@@ -1,0 +1,8 @@
+ITEM ID: 801000610
+ICON ID: Icon_exchange_ob24_diwali_firecracker_C
+NOMBRE: Cracker
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000610.png

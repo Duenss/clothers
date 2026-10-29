@@ -1,0 +1,8 @@
+ITEM ID: 907105512
+ICON ID: Icon_AR15_Ninja_Watermelon
+NOMBRE: Kingfisher - Melon Ninja
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105512.png

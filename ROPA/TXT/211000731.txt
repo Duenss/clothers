@@ -1,0 +1,8 @@
+ITEM ID: 211000731
+ICON ID: Icon_avatar_male_hair_cos_impermanence_headwear
+NOMBRE: Endless Black - Oblivion (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000731.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105209
+ICON ID: Icon_SCAR_Graffiti26
+NOMBRE: SCAR - Shadow of Scars
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105209.png

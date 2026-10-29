@@ -1,0 +1,8 @@
+ITEM ID: 907001507
+ICON ID: Icon_M79_Machinegirl
+NOMBRE: M79 - Mechanical
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001507.png

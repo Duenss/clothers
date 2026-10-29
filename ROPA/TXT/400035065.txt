@@ -1,0 +1,8 @@
+ITEM ID: 400035065
+ICON ID: Icon_box_3
+NOMBRE: Alchemy Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Redeem the prize you desire!
+IMAGEN: ROPA/imagenes/400035065.png

@@ -1,0 +1,8 @@
+ITEM ID: 1310000102
+ICON ID: Icon_Pet_Anniversary
+NOMBRE: Pet Skin: Party Waggor
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Always having a party outfit by his side, this penguin is ready to hit the floor!
+IMAGEN: MASCOTAS/imagenes/1310000102.png

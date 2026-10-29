@@ -1,0 +1,8 @@
+ITEM ID: 400041157
+ICON ID: Icon_box_Traphiphop22_ord_40
+NOMBRE: BP S7 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: After receiving the basic outfit version, open this box to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041157.png

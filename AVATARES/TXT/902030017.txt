@@ -1,0 +1,8 @@
+ITEM ID: 902030017
+ICON ID: Icon_face_Guildwar_B
+NOMBRE: Honorable Wolf Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030017.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000017
+ICON ID: Icon_avatar_tshirt_camo_002
+NOMBRE: T-shirt (Town)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000017.png

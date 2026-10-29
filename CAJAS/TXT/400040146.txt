@@ -1,0 +1,8 @@
+ITEM ID: 400040146
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Thompson Goldrim Tribute Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Open to receive a Thompson Goldrim Tribute Skin
+IMAGEN: CAJAS/imagenes/400040146.png

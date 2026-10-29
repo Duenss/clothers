@@ -1,0 +1,8 @@
+ITEM ID: 908000020
+ICON ID: Icon_slot_MonsterTruck_Apocalypse2
+NOMBRE: Monster Truck - Apocalyptic Chaos
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000020.png

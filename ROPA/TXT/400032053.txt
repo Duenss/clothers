@@ -1,0 +1,8 @@
+ITEM ID: 400032053
+ICON ID: Icon_box_3
+NOMBRE: Valentine's Box 2022
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Happy Valentine's day!
+IMAGEN: ROPA/imagenes/400032053.png

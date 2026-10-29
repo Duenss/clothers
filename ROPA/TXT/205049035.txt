@@ -1,0 +1,8 @@
+ITEM ID: 205049035
+ICON ID: Icon_avatar_cos_shoe_football25_idwhite
+NOMBRE: White Timnas Jersey (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049035.png

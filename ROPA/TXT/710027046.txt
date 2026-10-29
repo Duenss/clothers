@@ -1,0 +1,8 @@
+ITEM ID: 710027046
+ICON ID: Icon_box_3
+NOMBRE: Evil Enchanted Badge Bundle (20)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Evil Enchanted Badge x20
+IMAGEN: ROPA/imagenes/710027046.png

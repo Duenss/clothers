@@ -1,0 +1,8 @@
+ITEM ID: 205000101
+ICON ID: Icon_avatar_shoe_soccer_gold
+NOMBRE: Shining Boot
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000101.png

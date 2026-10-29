@@ -1,0 +1,8 @@
+ITEM ID: 907102822
+ICON ID: Icon_AN94_Crimsonbride
+NOMBRE: AN94 - Ruby Bride
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102822.png

@@ -1,0 +1,8 @@
+ITEM ID: 910031001
+ICON ID: FF_UI_Pin_Newyear21
+NOMBRE: Joyful Spring Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910031001.png

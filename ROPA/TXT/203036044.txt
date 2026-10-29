@@ -1,0 +1,8 @@
+ITEM ID: 203036044
+ICON ID: Icon_avatar_cos_top_potentia_02
+NOMBRE: Teal Youngster (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036044.png

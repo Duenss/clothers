@@ -1,0 +1,8 @@
+ITEM ID: 203035047
+ICON ID: Icon_avatar_cos_top_cateam_01
+NOMBRE: Club America Home (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035047.png

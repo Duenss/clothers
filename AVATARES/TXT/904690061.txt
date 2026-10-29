@@ -1,0 +1,8 @@
+ITEM ID: 904690061
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: BR Booyah Streak Pro
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by completing the hardest level in the Booyah Streak Challenge (BR-Ranked) during the Booyah Day event
+IMAGEN: AVATARES/imagenes/904690061.png

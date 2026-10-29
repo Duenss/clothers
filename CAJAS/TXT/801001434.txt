@@ -1,0 +1,8 @@
+ITEM ID: 801001434
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Rhythm Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Dance to your own rhythm
+IMAGEN: CAJAS/imagenes/801001434.png

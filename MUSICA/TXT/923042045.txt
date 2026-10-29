@@ -1,0 +1,8 @@
+ITEM ID: 923042045
+ICON ID: FF_UI_Voiceitem_DoD
+NOMBRE: So good, right?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042045.png

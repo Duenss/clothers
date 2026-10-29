@@ -1,0 +1,8 @@
+ITEM ID: 400033112
+ICON ID: Icon_box_3
+NOMBRE: Ruthless Jinx Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Contains Ruthless Jinx and all it's pieces
+IMAGEN: ROPA/imagenes/400033112.png

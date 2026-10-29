@@ -1,0 +1,8 @@
+ITEM ID: 904090014
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: 1 Year Old
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the first stage of the "In the Blink of an Eye" achievement
+IMAGEN: AVATARES/imagenes/904090014.png

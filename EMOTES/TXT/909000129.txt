@@ -1,0 +1,8 @@
+ITEM ID: 909000129
+ICON ID: Icon_Emote_Jumpsuit_Bag
+NOMBRE: Money Throw
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000129.png

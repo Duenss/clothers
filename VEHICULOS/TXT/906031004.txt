@@ -1,0 +1,8 @@
+ITEM ID: 906031004
+ICON ID: Icon_Avatar_Surfboard_Flamedragon
+NOMBRE: Skyboard - Dragon Bite
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906031004.png

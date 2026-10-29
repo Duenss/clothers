@@ -1,0 +1,8 @@
+ITEM ID: 801051514
+ICON ID: Icon_exchange_nyt1_us-es_51
+NOMBRE: New Year Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051514.png

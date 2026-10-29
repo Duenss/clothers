@@ -1,0 +1,8 @@
+ITEM ID: 910033003
+ICON ID: Pin_Small_Boyband
+NOMBRE: Dashing Illusions Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910033003.png

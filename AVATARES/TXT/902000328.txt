@@ -1,0 +1,8 @@
+ITEM ID: 902000328
+ICON ID: Icon_face_Angeldevil_EP_B
+NOMBRE: Fury Within
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000328.png

@@ -1,0 +1,8 @@
+ITEM ID: 904032004
+ICON ID: Icon_Bag_Steamwarrior_FP
+NOMBRE: Backpack - Neon Bunny
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032004.png

@@ -1,0 +1,8 @@
+ITEM ID: 407103105
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Ice & Fire Bones (Heal Sniper + M249) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Open to receive a random gun skin (Heal Sniper + M249) from the Ice Bones and Fire Bones weapon sets
+IMAGEN: ARMAS/imagenes/407103105.png

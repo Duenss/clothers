@@ -1,0 +1,8 @@
+ITEM ID: 904000145
+ICON ID: Icon_Bag_Bounty_C
+NOMBRE: Backpack - Cyber Bounty
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000145.png

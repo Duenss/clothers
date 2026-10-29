@@ -1,0 +1,8 @@
+ITEM ID: 211037013
+ICON ID: Icon_avatar_male_cos_accessory_westernhunter
+NOMBRE: Steel Cowboy (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037013.png

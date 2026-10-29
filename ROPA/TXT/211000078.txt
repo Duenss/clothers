@@ -1,0 +1,8 @@
+ITEM ID: 211000078
+ICON ID: Icon_avatar_accessory_blinder_C
+NOMBRE: The Innocent Look
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000078.png

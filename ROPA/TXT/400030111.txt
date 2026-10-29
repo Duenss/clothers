@@ -1,0 +1,8 @@
+ITEM ID: 400030111
+ICON ID: Icon_box_3
+NOMBRE: DOD Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Let's enjoy Day of the Dead!
+IMAGEN: ROPA/imagenes/400030111.png

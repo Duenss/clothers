@@ -1,0 +1,8 @@
+ITEM ID: 904041010
+ICON ID: Icon_Bag_Slime
+NOMBRE: Backpack - Melting Jelly
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041010.png

@@ -1,0 +1,8 @@
+ITEM ID: 400033055
+ICON ID: Icon_box_3
+NOMBRE: Box of Emote I
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400033055.png

@@ -1,0 +1,8 @@
+ITEM ID: 203047025
+ICON ID: Icon_avatar_cos_top_trend_th
+NOMBRE: Chic Wear (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047025.png

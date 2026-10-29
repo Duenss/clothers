@@ -1,0 +1,8 @@
+ITEM ID: 203001032
+ICON ID: Icon_avatar_female_sc_xtreme_top
+NOMBRE: Xtreme Adventure (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001032.png

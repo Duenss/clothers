@@ -1,0 +1,8 @@
+ITEM ID: 211001092
+ICON ID: Icon_avatar_cos_accessory_pekingopera_purple
+NOMBRE: Operano Sheng (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001092.png

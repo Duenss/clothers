@@ -1,0 +1,8 @@
+ITEM ID: 907103853
+ICON ID: Icon_Alligator_Grenade
+NOMBRE: Grenade - Crocoslayer
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103853.png

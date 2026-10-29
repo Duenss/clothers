@@ -1,0 +1,8 @@
+ITEM ID: 907101316
+ICON ID: Icon_M60_Golden
+NOMBRE: M60 - Gold Coated
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB13
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101316.png

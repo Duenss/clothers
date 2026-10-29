@@ -1,0 +1,8 @@
+ITEM ID: 801051018
+ICON ID: Icon_exchange_dead25_51
+NOMBRE: Grim Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051018.png

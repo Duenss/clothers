@@ -1,0 +1,8 @@
+ITEM ID: 400030232
+ICON ID: Icon_box_3
+NOMBRE: Rare Matryoshka Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Open to get amazing rewards
+IMAGEN: ROPA/imagenes/400030232.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000309
+ICON ID: Icon_exchange_love_chocolate
+NOMBRE: Heart-shape Chocolate
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000309.png

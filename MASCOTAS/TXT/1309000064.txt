@@ -1,0 +1,8 @@
+ITEM ID: 1309000064
+ICON ID: FF_UI_Pet_Robot_Showoff
+NOMBRE: Show off
+TIPO: Pet Emote
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Advanced action. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000064.png

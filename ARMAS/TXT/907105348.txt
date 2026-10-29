@@ -1,0 +1,8 @@
+ITEM ID: 907105348
+ICON ID: Icon_SH_Grenade
+NOMBRE: Grenade - Justaway
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105348.png

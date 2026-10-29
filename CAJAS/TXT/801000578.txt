@@ -1,0 +1,8 @@
+ITEM ID: 801000578
+ICON ID: Icon_exchange_ob23_the_captain
+NOMBRE: The Captain
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: The hero on the field
+IMAGEN: CAJAS/imagenes/801000578.png

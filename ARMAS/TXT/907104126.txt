@@ -1,0 +1,8 @@
+ITEM ID: 907104126
+ICON ID: Icon_AUG_Slime
+NOMBRE: AUG - Jelly Shot
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104126.png

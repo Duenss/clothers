@@ -1,0 +1,8 @@
+ITEM ID: 203035009
+ICON ID: Icon_avatar_male_cos_top_light_darkness
+NOMBRE: Paradise Defender (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035009.png

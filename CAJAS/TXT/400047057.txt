@@ -1,0 +1,8 @@
+ITEM ID: 400047057
+ICON ID: Icon_box_Circle2_47
+NOMBRE: BP S26 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047057.png

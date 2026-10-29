@@ -1,0 +1,8 @@
+ITEM ID: 921050005
+ICON ID: FF_UI_Voiceitem_VA50
+NOMBRE: Haha... sorry
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Trouble Night Voice Pack
+IMAGEN: MUSICA/imagenes/921050005.png

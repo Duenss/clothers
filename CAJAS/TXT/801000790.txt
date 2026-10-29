@@ -1,0 +1,8 @@
+ITEM ID: 801000790
+ICON ID: Icon_exchange_ob25_magic_token
+NOMBRE: Magic Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: One for all!
+IMAGEN: CAJAS/imagenes/801000790.png

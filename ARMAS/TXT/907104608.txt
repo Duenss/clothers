@@ -1,0 +1,8 @@
+ITEM ID: 907104608
+ICON ID: Icon_MINI_Yinyang24
+NOMBRE: AC80 - Aura of Chaos
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104608.png

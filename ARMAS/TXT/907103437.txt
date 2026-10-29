@@ -1,0 +1,8 @@
+ITEM ID: 907103437
+ICON ID: Icon_Kongfu_Grenade
+NOMBRE: Grenade - Steamed Bun
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103437.png

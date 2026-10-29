@@ -1,0 +1,8 @@
+ITEM ID: 203036038
+ICON ID: Icon_avatar_cos_top_tshirt_icewizard
+NOMBRE: Cold Flow T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036038.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000341
+ICON ID: Icon_exchange_mercury
+NOMBRE: Mercury
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: The first planet in solar system
+IMAGEN: CAJAS/imagenes/801000341.png

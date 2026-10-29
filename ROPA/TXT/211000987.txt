@@ -1,0 +1,8 @@
+ITEM ID: 211000987
+ICON ID: Icon_avatar_male_accessory_cos_foursymbols_a
+NOMBRE: Azure Stormbringer (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000987.png

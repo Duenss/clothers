@@ -1,0 +1,8 @@
+ITEM ID: 908035002
+ICON ID: Icon_slot_Roadster_Deepseasharks
+NOMBRE: Sports Car - Metal Jaws
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035002.png

@@ -1,0 +1,8 @@
+ITEM ID: 904038006
+ICON ID: Icon_Bag_Skisuit
+NOMBRE: Backpack - Ski Trip
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038006.png

@@ -1,0 +1,8 @@
+ITEM ID: 400034080
+ICON ID: Icon_box_3
+NOMBRE: Airspeed Ace Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Airspeed Ace and all its pieces
+IMAGEN: ROPA/imagenes/400034080.png

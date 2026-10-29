@@ -1,0 +1,8 @@
+ITEM ID: 907102937
+ICON ID: Icon_M1887_Goldblack
+NOMBRE: M1887 - Golden Glare
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102937.png

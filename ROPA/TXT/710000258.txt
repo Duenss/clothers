@@ -1,0 +1,8 @@
+ITEM ID: 710000258
+ICON ID: Icon_phoenix_female
+NOMBRE: Rising Phoenix Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000258.png

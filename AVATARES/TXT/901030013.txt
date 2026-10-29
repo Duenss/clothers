@@ -1,0 +1,8 @@
+ITEM ID: 901030013
+ICON ID: Icon_callsign_storebg_CSRank9_04
+NOMBRE: CS Ranked Season 9 Diamond
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901030013.png

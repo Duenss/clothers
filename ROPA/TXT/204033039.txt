@@ -1,0 +1,8 @@
+ITEM ID: 204033039
+ICON ID: Icon_avatar_cos_bottom_soccer_white
+NOMBRE: Classic Kick (Shorts)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033039.png

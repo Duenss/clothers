@@ -1,0 +1,8 @@
+ITEM ID: 907103423
+ICON ID: Icon_Machete_Rampage4
+NOMBRE: Parang - Night Blade
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103423.png

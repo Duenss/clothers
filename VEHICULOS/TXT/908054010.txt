@@ -1,0 +1,8 @@
+ITEM ID: 908054010
+ICON ID: Icon_slot_SUV_Virgo26
+NOMBRE: Pickup Truck - Pristine Spica
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054010.png

@@ -1,0 +1,8 @@
+ITEM ID: 904030012
+ICON ID: Icon_Bag_Soulhunter
+NOMBRE: Backpack - Phantom Predator
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030012.png

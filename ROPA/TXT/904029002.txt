@@ -1,0 +1,8 @@
+ITEM ID: 904029002
+ICON ID: Icon_Bag_Scorpion_EP
+NOMBRE: Backpack - Malevolent Sting
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029002.png

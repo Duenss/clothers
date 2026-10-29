@@ -1,0 +1,8 @@
+ITEM ID: 211001103
+ICON ID: Icon_avatar_male_cos_accessory_musicfest_red
+NOMBRE: Enharmonic Treblerock (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001103.png

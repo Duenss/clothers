@@ -1,0 +1,8 @@
+ITEM ID: 830000002
+ICON ID: Icon_Exchange_Gatha_Token_normal
+NOMBRE: Legends Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained in the Token Tower. Can be used to exchange for the grand prize.
+IMAGEN: OTROS/imagenes/830000002.png

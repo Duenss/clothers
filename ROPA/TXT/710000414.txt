@@ -1,0 +1,8 @@
+ITEM ID: 710000414
+ICON ID: Icon_male_joker_royal
+NOMBRE: Aristoclown Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000414.png

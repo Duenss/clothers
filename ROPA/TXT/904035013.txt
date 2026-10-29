@@ -1,0 +1,8 @@
+ITEM ID: 904035013
+ICON ID: Icon_Bag_Surveillance
+NOMBRE: Backpack - Team Spy
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035013.png

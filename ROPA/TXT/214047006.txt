@@ -1,0 +1,8 @@
+ITEM ID: 214047006
+ICON ID: Icon_avatar_male_cos_headadditive_brrapper_47
+NOMBRE: 085 Style (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214047006.png

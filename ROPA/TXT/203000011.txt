@@ -1,0 +1,8 @@
+ITEM ID: 203000011
+ICON ID: Icon_avatar_tshirt_3
+NOMBRE: T-shirt (Grey)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000011.png

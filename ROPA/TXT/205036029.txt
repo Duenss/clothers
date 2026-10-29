@@ -1,0 +1,8 @@
+ITEM ID: 205036029
+ICON ID: Icon_avatar_cos_shoe_potentia_01
+NOMBRE: Pacific Breeze (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036029.png

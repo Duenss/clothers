@@ -1,0 +1,8 @@
+ITEM ID: 203000004
+ICON ID: Icon_avatar_vest_4
+NOMBRE: Singlet (Camouflage)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000004.png

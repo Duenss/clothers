@@ -1,0 +1,8 @@
+ITEM ID: 907102303
+ICON ID: Icon_Machete_Angeldevil
+NOMBRE: Parang - Celestial Blade
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102303.png

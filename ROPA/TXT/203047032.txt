@@ -1,0 +1,8 @@
+ITEM ID: 203047032
+ICON ID: Icon_avatar_male_cos_top_nb_black
+NOMBRE: Sasuke Top
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047032.png

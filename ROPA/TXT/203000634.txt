@@ -1,0 +1,8 @@
+ITEM ID: 203000634
+ICON ID: Icon_avatar_male_top_cos_traphiphop_A
+NOMBRE: Swag
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000634.png

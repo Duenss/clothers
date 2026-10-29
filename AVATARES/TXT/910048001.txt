@@ -1,0 +1,8 @@
+ITEM ID: 910048001
+ICON ID: Pin_Small_Fastbreaking_dune
+NOMBRE: Caped Shimmer Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910048001.png

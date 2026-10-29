@@ -1,0 +1,8 @@
+ITEM ID: 904027007
+ICON ID: Icon_Bag_Boxer
+NOMBRE: Backpack - K.O. Night
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904027007.png

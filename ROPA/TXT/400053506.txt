@@ -1,0 +1,8 @@
+ITEM ID: 400053506
+ICON ID: Icon_box_3
+NOMBRE: Box 269
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400053506.png

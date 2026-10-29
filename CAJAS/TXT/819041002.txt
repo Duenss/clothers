@@ -1,0 +1,8 @@
+ITEM ID: 819041002
+ICON ID: FF_UI_VFX_Fisherman_02
+NOMBRE: Jumping Effect (Fishing Frenzy)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: Special jumping effects when wearing the Fishing Frenzy themed shoes.
+IMAGEN: CAJAS/imagenes/819041002.png

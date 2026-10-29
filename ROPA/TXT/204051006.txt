@@ -1,0 +1,8 @@
+ITEM ID: 204051006
+ICON ID: Icon_avatar_cos_bottom_dreamland_sweetdream
+NOMBRE: Sweet Dream (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051006.png

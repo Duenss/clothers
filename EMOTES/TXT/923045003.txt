@@ -1,0 +1,8 @@
+ITEM ID: 923045003
+ICON ID: Icon_Finalshot_MP40_Traphiphop22
+NOMBRE: Final Shot - Sonic Ascension
+TIPO: Final Shot
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: The special effect for Final Shot and Team Wipeout. Effective on any skins.
+IMAGEN: EMOTES/imagenes/923045003.png

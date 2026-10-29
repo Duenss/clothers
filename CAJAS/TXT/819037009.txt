@@ -1,0 +1,8 @@
+ITEM ID: 819037009
+ICON ID: FF_UI_VFX_Alligator_02
+NOMBRE: Running Effect (Fatal Fauna)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: When you equip a Fatal Fauna-themed top, running will display this special effect.
+IMAGEN: CAJAS/imagenes/819037009.png

@@ -1,0 +1,8 @@
+ITEM ID: 720029042
+ICON ID: Icon_bundle_Ninja_Tiger_B_29
+NOMBRE: Fire Sensei Tig Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Sensei Tig and the Fire Sensei Tig skin
+IMAGEN: ROPA/imagenes/720029042.png

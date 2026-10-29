@@ -1,0 +1,8 @@
+ITEM ID: 801039054
+ICON ID: icon_bp_activate_card01
+NOMBRE: Booyah Pass Premium Plus
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Unlock to get all the Booyah Pass Premium privileges and 50 extra levels!
+IMAGEN: CAJAS/imagenes/801039054.png

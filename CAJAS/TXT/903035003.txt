@@ -1,0 +1,8 @@
+ITEM ID: 903035003
+ICON ID: Icon_Deadloot_Fcninja
+NOMBRE: Loot Box - Haunt Altar
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903035003.png

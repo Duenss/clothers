@@ -1,0 +1,8 @@
+ITEM ID: 1300000021
+ICON ID: Icon_Pet_Panther
+NOMBRE: Night Panther
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: The end is near... (Pet Skill: Increase inventory space)
+IMAGEN: MASCOTAS/imagenes/1300000021.png

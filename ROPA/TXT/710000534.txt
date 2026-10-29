@@ -1,0 +1,8 @@
+ITEM ID: 710000534
+ICON ID: Icon_robot_spring
+NOMBRE: The Spring Robo Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Spring Robo set.
+IMAGEN: ROPA/imagenes/710000534.png

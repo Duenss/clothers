@@ -1,0 +1,8 @@
+ITEM ID: 921054034
+ICON ID: FF_UI_Voiceitem_ID54
+NOMBRE: [Tenxi] Help me!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: The Tenxi voice pack
+IMAGEN: MUSICA/imagenes/921054034.png

@@ -1,0 +1,8 @@
+ITEM ID: 203035056
+ICON ID: Icon_avatar_cos_top_jumpsuit2022
+NOMBRE: Top Criminal (Neon)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035056.png

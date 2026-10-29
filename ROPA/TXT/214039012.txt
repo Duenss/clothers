@@ -1,0 +1,8 @@
+ITEM ID: 214039012
+ICON ID: Icon_avatar_male_cos_headadditive_scarlet_yellow
+NOMBRE: Scorching Scorpio (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214039012.png

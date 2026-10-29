@@ -1,0 +1,8 @@
+ITEM ID: 902000209
+ICON ID: Icon_face_3rd
+NOMBRE: FFC S1 Third Place
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000209.png

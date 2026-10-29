@@ -1,0 +1,8 @@
+ITEM ID: 907103738
+ICON ID: Icon_Emoji_Grenade
+NOMBRE: Grenade - Mischief Town
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103738.png

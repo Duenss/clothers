@@ -1,0 +1,8 @@
+ITEM ID: 700000332
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Mega Luck Royale Voucher Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a lot of Luck Royale vouchers!
+IMAGEN: ROPA/imagenes/700000332.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000515
+ICON ID: Icon_exchange_ob22_fact4_2
+NOMBRE: FACT4 #2
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: FAITH
+IMAGEN: CAJAS/imagenes/801000515.png

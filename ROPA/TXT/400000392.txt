@@ -1,0 +1,8 @@
+ITEM ID: 400000392
+ICON ID: Icon_box_3
+NOMBRE: Ketupat Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Ketupat Crate
+IMAGEN: ROPA/imagenes/400000392.png

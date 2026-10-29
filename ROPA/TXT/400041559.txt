@@ -1,0 +1,8 @@
+ITEM ID: 400041559
+ICON ID: Icon_box_3
+NOMBRE: Banana Tree Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400041559.png

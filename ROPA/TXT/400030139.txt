@@ -1,0 +1,8 @@
+ITEM ID: 400030139
+ICON ID: Icon_box_3
+NOMBRE: Bunny League Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Common use
+IMAGEN: ROPA/imagenes/400030139.png

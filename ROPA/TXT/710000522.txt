@@ -1,0 +1,8 @@
+ITEM ID: 710000522
+ICON ID: Icon_male_taggercrew
+NOMBRE: The Graffito Marino Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000522.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104077
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Wall of Calm
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104077.png

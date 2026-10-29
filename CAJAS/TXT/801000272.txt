@@ -1,0 +1,8 @@
+ITEM ID: 801000272
+ICON ID: Icon_exchange_New_year_cake
+NOMBRE: New Year Cake
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Vietnamese traditional new year cake.
+IMAGEN: CAJAS/imagenes/801000272.png

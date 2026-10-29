@@ -1,0 +1,8 @@
+ITEM ID: 710047020
+ICON ID: Icon_bundle_female_Brrapper_47_47
+NOMBRE: Groupie Style Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710047020.png

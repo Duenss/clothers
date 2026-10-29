@@ -1,0 +1,8 @@
+ITEM ID: 1300000041
+ICON ID: Icon_Pet_Shiba
+NOMBRE: Shiba
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: BAM! Shiba is here! Prepare yourselves!
+IMAGEN: MASCOTAS/imagenes/1300000041.png

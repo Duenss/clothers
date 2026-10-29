@@ -1,0 +1,8 @@
+ITEM ID: 801001030
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Best Dad Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: World's Best Dad!
+IMAGEN: CAJAS/imagenes/801001030.png

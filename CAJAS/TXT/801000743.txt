@@ -1,0 +1,8 @@
+ITEM ID: 801000743
+ICON ID: Icon_exchange_ob25_kagami_mochi_brown
+NOMBRE: Kagami Mochi Brown
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Happy New Year!
+IMAGEN: CAJAS/imagenes/801000743.png

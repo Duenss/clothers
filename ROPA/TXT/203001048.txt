@@ -1,0 +1,8 @@
+ITEM ID: 203001048
+ICON ID: Icon_avatar_female_top_cos_dragongang
+NOMBRE: Dragon Mafia (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001048.png

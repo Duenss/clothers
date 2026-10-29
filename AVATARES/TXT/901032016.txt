@@ -1,0 +1,8 @@
+ITEM ID: 901032016
+ICON ID: Icon_callsign_storebg_Cup_06
+NOMBRE: CS Cup Banner VI
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901032016.png

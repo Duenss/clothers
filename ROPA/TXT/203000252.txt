@@ -1,0 +1,8 @@
+ITEM ID: 203000252
+ICON ID: Icon_avatar_top_sleeveless
+NOMBRE: Sleeveless Jacket (Green)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000252.png

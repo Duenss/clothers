@@ -1,0 +1,8 @@
+ITEM ID: 804555006
+ICON ID: UI_CraftGem_UGC_GardenToken6
+NOMBRE: Garden Pack
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Garden Pack, open to obtain tools to build your garden.
+IMAGEN: OTROS/imagenes/804555006.png

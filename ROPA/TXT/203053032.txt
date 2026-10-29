@@ -1,0 +1,8 @@
+ITEM ID: 203053032
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Silken Butterfly (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

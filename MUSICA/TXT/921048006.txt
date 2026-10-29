@@ -1,0 +1,8 @@
+ITEM ID: 921048006
+ICON ID: FF_UI_Voiceitem_TH48Tar
+NOMBRE: The fourth time? That's just wrong.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Tar Voice Pack
+IMAGEN: MUSICA/imagenes/921048006.png

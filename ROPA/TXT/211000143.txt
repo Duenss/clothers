@@ -1,0 +1,8 @@
+ITEM ID: 211000143
+ICON ID: Icon_avatar_hair_cos_plane
+NOMBRE: Quiff Cut
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000143.png

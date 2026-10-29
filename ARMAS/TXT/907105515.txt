@@ -1,0 +1,8 @@
+ITEM ID: 907105515
+ICON ID: Icon_P90_CSRank40
+NOMBRE: P90 - S40 Exclusive: Ninja
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105515.png

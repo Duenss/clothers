@@ -1,0 +1,8 @@
+ITEM ID: 905026003
+ICON ID: Icon_Avatar_PARACHUTE_Cobra_One
+NOMBRE: Parachute - Cobra Strike
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905026003.png

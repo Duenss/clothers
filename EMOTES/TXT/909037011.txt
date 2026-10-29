@@ -1,0 +1,8 @@
+ITEM ID: 909037011
+ICON ID: Icon_Emote_Dragonclaws
+NOMBRE: Drachen Tear
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909037011.png

@@ -1,0 +1,8 @@
+ITEM ID: 203046015
+ICON ID: Icon_avatar_cos_top_iron_red
+NOMBRE: Eternal Essence (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046015.png

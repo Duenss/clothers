@@ -1,0 +1,8 @@
+ITEM ID: 400000054
+ICON ID: Icon_box_3
+NOMBRE: M4A1 Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin, with a chance of an M4A1 rare skin. Duplicates will be converted into tokens.
+IMAGEN: ROPA/imagenes/400000054.png

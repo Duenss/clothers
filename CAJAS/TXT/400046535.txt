@@ -1,0 +1,8 @@
+ITEM ID: 400046535
+ICON ID: Icon_box_CuteGhost_Box_TH_46
+NOMBRE: Cute Ghost Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046535.png

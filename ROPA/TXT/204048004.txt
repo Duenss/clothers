@@ -1,0 +1,8 @@
+ITEM ID: 204048004
+ICON ID: Icon_avatar_female_cos_bottom_firefly
+NOMBRE: Firefly Catcher (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048004.png

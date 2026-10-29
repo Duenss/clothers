@@ -1,0 +1,8 @@
+ITEM ID: 907103427
+ICON ID: Icon_Sickle_Festival_PK
+NOMBRE: Scythe - Jewel
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103427.png

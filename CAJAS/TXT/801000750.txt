@@ -1,0 +1,8 @@
+ITEM ID: 801000750
+ICON ID: Icon_exchange_ob25_chrono
+NOMBRE: Chrono
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tick Tock
+IMAGEN: CAJAS/imagenes/801000750.png

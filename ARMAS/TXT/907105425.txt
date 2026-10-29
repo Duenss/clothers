@@ -1,0 +1,8 @@
+ITEM ID: 907105425
+ICON ID: Icon_Katana_Bloodmoon26
+NOMBRE: Katana - Scarlet
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105425.png

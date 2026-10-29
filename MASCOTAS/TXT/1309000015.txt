@@ -1,0 +1,8 @@
+ITEM ID: 1309000015
+ICON ID: FF_UI_Pet_Dog_Show2
+NOMBRE: Play
+TIPO: Pet Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Action that can be unlocked when pet levels up. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000015.png

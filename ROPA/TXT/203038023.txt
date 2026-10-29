@@ -1,0 +1,8 @@
+ITEM ID: 203038023
+ICON ID: Icon_avatar_cos_top_darkskeleton
+NOMBRE: Myth Nightrider (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038023.png

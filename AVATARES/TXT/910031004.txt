@@ -1,0 +1,8 @@
+ITEM ID: 910031004
+ICON ID: FF_UI_Pin_Jumpsuit2
+NOMBRE: Team Heist Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910031004.png

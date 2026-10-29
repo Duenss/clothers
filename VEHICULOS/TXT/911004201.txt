@@ -1,0 +1,8 @@
+ITEM ID: 911004201
+ICON ID: Icon_Mounts_Theboy
+NOMBRE: Sparkling Frostfire Skywing
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004201.png

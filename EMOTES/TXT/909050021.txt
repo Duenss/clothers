@@ -1,0 +1,8 @@
+ITEM ID: 909050021
+ICON ID: Icon_Emote_CSPeakTournament
+NOMBRE: Peak Points
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Peak Rewards are reset when a new season starts
+IMAGEN: EMOTES/imagenes/909050021.png

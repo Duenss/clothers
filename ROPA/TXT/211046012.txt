@@ -1,0 +1,8 @@
+ITEM ID: 211046012
+ICON ID: Icon_avatar_male_cos_accessory_yinyang24
+NOMBRE: Mystic Aura (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046012.png

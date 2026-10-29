@@ -1,0 +1,8 @@
+ITEM ID: 908000030
+ICON ID: Icon_slot_Motobike_Soulbusters
+NOMBRE: Motorbike - Specter Squad
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000030.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000396
+ICON ID: Icon_exchange_ob21_hammer
+NOMBRE: Hammer
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000396.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000262
+ICON ID: Icon_exchange_New_Year_Purpose
+NOMBRE: New Year's Purpose
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Make a list and work hard!
+IMAGEN: CAJAS/imagenes/801000262.png

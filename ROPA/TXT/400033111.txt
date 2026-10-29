@@ -1,0 +1,8 @@
+ITEM ID: 400033111
+ICON ID: Icon_box_3
+NOMBRE: Newbie Devil Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Newbie Devil and all it's pieces
+IMAGEN: ROPA/imagenes/400033111.png

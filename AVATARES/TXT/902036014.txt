@@ -1,0 +1,8 @@
+ITEM ID: 902036014
+ICON ID: Icon_face_Rank31_B
+NOMBRE: BR-Ranked S31 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036014.png

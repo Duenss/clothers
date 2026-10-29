@@ -1,0 +1,8 @@
+ITEM ID: 720029041
+ICON ID: Icon_bundle_Ninja_Tiger_A_29
+NOMBRE: Ice Sensei Tig Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Sensei Tig and the Ice Sensei Tig skin
+IMAGEN: ROPA/imagenes/720029041.png

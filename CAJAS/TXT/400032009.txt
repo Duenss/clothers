@@ -1,0 +1,8 @@
+ITEM ID: 400032009
+ICON ID: Icon_box_Asianoni_Red_32
+NOMBRE: Evo Gun Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400032009.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037049
+ICON ID: Icon_avatar_cos_accessory_glasses_truck
+NOMBRE: Chunky Shades
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037049.png

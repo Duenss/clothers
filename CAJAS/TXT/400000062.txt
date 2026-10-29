@@ -1,0 +1,8 @@
+ITEM ID: 400000062
+ICON ID: Icon_box_highlevel_red
+NOMBRE: Classified Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Rewards for the warriors who accomplished the secret missions.
+IMAGEN: CAJAS/imagenes/400000062.png

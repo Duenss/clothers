@@ -1,0 +1,8 @@
+ITEM ID: 801051001
+ICON ID: Icon_exchange_amgt_51
+NOMBRE: MetalGreymon Power Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051001.png

@@ -1,0 +1,8 @@
+ITEM ID: 908046005
+ICON ID: Icon_slot_SUV_Sugarskull24
+NOMBRE: Pickup Truck - Revvy Bones
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908046005.png

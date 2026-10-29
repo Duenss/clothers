@@ -1,0 +1,8 @@
+ITEM ID: 203052031
+ICON ID: Icon_avatar_male_cos_top_eggday26
+NOMBRE: Sea Monster (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052031.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104332
+ICON ID: Icon_Baseballbat_CSRank24
+NOMBRE: Bat - S24 Exclusive: Wrathful
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104332.png

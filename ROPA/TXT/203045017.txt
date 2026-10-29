@@ -1,0 +1,8 @@
+ITEM ID: 203045017
+ICON ID: Icon_avatar_male_cos_top_pop
+NOMBRE: Pyramid Edge (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045017.png

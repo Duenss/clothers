@@ -1,0 +1,8 @@
+ITEM ID: 801050024
+ICON ID: Icon_exchange_kft_50
+NOMBRE: Trouble Creature Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050024.png

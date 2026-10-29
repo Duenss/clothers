@@ -1,0 +1,8 @@
+ITEM ID: 700000264
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to get the Winterlands Dancer Bundle and the Winter Elf Bundle
+IMAGEN: ROPA/imagenes/700000264.png

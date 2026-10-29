@@ -1,0 +1,8 @@
+ITEM ID: 204038021
+ICON ID: Icon_avatar_cos_bottom_darkskeleton
+NOMBRE: Myth Nightrider (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038021.png

@@ -1,0 +1,8 @@
+ITEM ID: 400054057
+ICON ID: Icon_box_NinthEvent2_54
+NOMBRE: Blazing Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054057.png

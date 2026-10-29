@@ -1,0 +1,8 @@
+ITEM ID: 204044019
+ICON ID: Icon_avatar_male_cos_bottom_purely
+NOMBRE: Simplicity (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044019.png

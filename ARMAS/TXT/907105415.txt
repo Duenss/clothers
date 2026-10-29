@@ -1,0 +1,8 @@
+ITEM ID: 907105415
+ICON ID: Icon_AR15_Festival_Music
+NOMBRE: Kingfisher - Pop Groove
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105415.png

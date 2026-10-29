@@ -1,0 +1,8 @@
+ITEM ID: 801001733
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Hexagon Merdeka Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Red as blood, white as bone
+IMAGEN: CAJAS/imagenes/801001733.png

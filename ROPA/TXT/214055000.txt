@@ -1,0 +1,8 @@
+ITEM ID: 214055000
+ICON ID: Icon_avatar_cos_headadditive_nb1re_ct_wind
+NOMBRE: Gaara's Tattoo
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214055000.png

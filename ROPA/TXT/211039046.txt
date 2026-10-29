@@ -1,0 +1,8 @@
+ITEM ID: 211039046
+ICON ID: Icon_avatar_cos_hair_braveman
+NOMBRE: FFML Phantom Eagle (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039046.png

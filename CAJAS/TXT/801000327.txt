@@ -1,0 +1,8 @@
+ITEM ID: 801000327
+ICON ID: Icon_exchange_red_paint
+NOMBRE: Red Paint
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Red Colored Paint
+IMAGEN: CAJAS/imagenes/801000327.png

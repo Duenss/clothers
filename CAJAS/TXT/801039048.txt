@@ -1,0 +1,8 @@
+ITEM ID: 801039048
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Ramadan Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Blissful day comes to us
+IMAGEN: CAJAS/imagenes/801039048.png

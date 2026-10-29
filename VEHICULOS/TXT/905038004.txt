@@ -1,0 +1,8 @@
+ITEM ID: 905038004
+ICON ID: Icon_Avatar_PARACHUTE_Kitchen
+NOMBRE: Parachute - Sandwich
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905038004.png

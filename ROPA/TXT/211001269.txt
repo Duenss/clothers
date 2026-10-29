@@ -1,0 +1,8 @@
+ITEM ID: 211001269
+ICON ID: Icon_avatar_male_cos_hair_hoodedkiller
+NOMBRE: Ezio Auditore Outfit (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001269.png

@@ -1,0 +1,8 @@
+ITEM ID: 209000005
+ICON ID: Icon_avatar_parachute_4
+NOMBRE: Parachute - Camouflage (Emoji)
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/209000005.png

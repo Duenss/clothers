@@ -1,0 +1,8 @@
+ITEM ID: 801054510
+ICON ID: Icon_exchange_FistToken_latam_54
+NOMBRE: Golden Grip Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054510.png

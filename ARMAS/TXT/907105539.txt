@@ -1,0 +1,8 @@
+ITEM ID: 907105539
+ICON ID: Icon_EVO3_Mambas
+NOMBRE: Skorp - Mamba Gnow
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105539.png

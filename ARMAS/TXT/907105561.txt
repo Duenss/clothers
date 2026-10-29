@@ -1,0 +1,8 @@
+ITEM ID: 907105561
+ICON ID: Icon_GlooShield_Ninja_Watermelon
+NOMBRE: Gloo Wall - Melon Slice
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105561.png

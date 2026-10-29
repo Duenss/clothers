@@ -1,0 +1,8 @@
+ITEM ID: 904037011
+ICON ID: Icon_Bag_Emoji
+NOMBRE: Backpack - Evil Emoji
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037011.png

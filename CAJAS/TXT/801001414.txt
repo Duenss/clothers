@@ -1,0 +1,8 @@
+ITEM ID: 801001414
+ICON ID: Icon_exchange_ob32_yomost_token_1
+NOMBRE: Yomost Token 1
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Yomost, the title sponsor of VFL Spring 2022
+IMAGEN: CAJAS/imagenes/801001414.png

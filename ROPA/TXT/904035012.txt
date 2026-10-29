@@ -1,0 +1,8 @@
+ITEM ID: 904035012
+ICON ID: Icon_Bag_Beach_VN
+NOMBRE: Backpack - Seaduck
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035012.png

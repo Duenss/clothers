@@ -1,0 +1,8 @@
+ITEM ID: 908031006
+ICON ID: Icon_slot_Roadster_Jumpsuit2
+NOMBRE: Sports Car - Team Heist
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908031006.png

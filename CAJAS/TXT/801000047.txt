@@ -1,0 +1,8 @@
+ITEM ID: 801000047
+ICON ID: Icon_exchange_motuoche
+NOMBRE: FF Motorbike
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000047.png

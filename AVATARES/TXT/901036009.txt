@@ -1,0 +1,8 @@
+ITEM ID: 901036009
+ICON ID: Icon_callsign_storebg_Ghost_TH
+NOMBRE: Naïve Whiskers Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036009.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000015
+ICON ID: Icon_exchange_hebaodan
+NOMBRE: Sunny-side up
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: The key to getting through the day is a hearty breakfast!
+IMAGEN: CAJAS/imagenes/801000015.png

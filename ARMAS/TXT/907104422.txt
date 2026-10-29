@@ -1,0 +1,8 @@
+ITEM ID: 907104422
+ICON ID: Icon_Sickle_Persona
+NOMBRE: Scythe - Edge of Paradox
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104422.png

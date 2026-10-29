@@ -1,0 +1,8 @@
+ITEM ID: 203039057
+ICON ID: Icon_avatar_male_cos_top_scarlet_basic
+NOMBRE: Scorpio Void (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039057.png

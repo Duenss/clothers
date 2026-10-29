@@ -1,0 +1,8 @@
+ITEM ID: 211037043
+ICON ID: Icon_avatar_cos_accessory_cdband
+NOMBRE: Carla's Dreams (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037043.png

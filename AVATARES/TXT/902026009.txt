@@ -1,0 +1,8 @@
+ITEM ID: 902026009
+ICON ID: Icon_face_Superstar_Q
+NOMBRE: Skyler Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902026009.png

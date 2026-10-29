@@ -1,0 +1,8 @@
+ITEM ID: 907103921
+ICON ID: Icon_TreatmentGun_Thug
+NOMBRE: Heal Pistol - Fiery Rush
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103921.png

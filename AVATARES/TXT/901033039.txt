@@ -1,0 +1,8 @@
+ITEM ID: 901033039
+ICON ID: Icon_callsign_storebg_BombSquad_04
+NOMBRE: Bomb Squad Ranked Diamond Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901033039.png

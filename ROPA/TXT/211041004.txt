@@ -1,0 +1,8 @@
+ITEM ID: 211041004
+ICON ID: Icon_avatar_male_cos_hair_chihuahua
+NOMBRE: Hot Pink Hound (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041004.png

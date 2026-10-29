@@ -1,0 +1,8 @@
+ITEM ID: 211001306
+ICON ID: Icon_avatar_cos_hair_luchalibre2_hw
+NOMBRE: Psycho Clown
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001306.png

@@ -1,0 +1,8 @@
+ITEM ID: 907001722
+ICON ID: Icon_M4A1_MadeManA
+NOMBRE: M4A1 - Artificial Intelligence
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001722.png

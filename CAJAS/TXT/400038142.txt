@@ -1,0 +1,8 @@
+ITEM ID: 400038142
+ICON ID: Icon_box_DMC_box_A_38
+NOMBRE: Gory Hunter Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400038142.png

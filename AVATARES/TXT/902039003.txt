@@ -1,0 +1,8 @@
+ITEM ID: 902039003
+ICON ID: Icon_face_Rollerskating_BP
+NOMBRE: Skate Mania Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039003.png

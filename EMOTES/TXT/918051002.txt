@@ -1,0 +1,8 @@
+ITEM ID: 918051002
+ICON ID: Icon_Action_Cure_Dreamland
+NOMBRE: Use Med Kit (Dreamspace)
+TIPO: Posture
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Equip this to have a special posture when using Med Kits.
+IMAGEN: EMOTES/imagenes/918051002.png

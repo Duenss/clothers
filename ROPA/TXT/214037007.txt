@@ -1,0 +1,8 @@
+ITEM ID: 214037007
+ICON ID: Icon_avatar_male_cos_headadditive_firedragon
+NOMBRE: Scorching Beast (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214037007.png

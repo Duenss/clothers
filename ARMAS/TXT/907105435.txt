@@ -1,0 +1,8 @@
+ITEM ID: 907105435
+ICON ID: Icon_Sickle_ID_Depend26
+NOMBRE: Scythe - Captain of Courage
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105435.png

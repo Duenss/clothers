@@ -1,0 +1,8 @@
+ITEM ID: 902039007
+ICON ID: Icon_face_male_head_sc_Villain_B
+NOMBRE: Vengeful Beast Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039007.png

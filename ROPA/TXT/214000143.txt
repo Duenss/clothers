@@ -1,0 +1,8 @@
+ITEM ID: 214000143
+ICON ID: Icon_avatar_cos_headadditive_redvalentine
+NOMBRE: Vampire Love
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000143.png

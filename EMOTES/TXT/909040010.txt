@@ -1,0 +1,8 @@
+ITEM ID: 909040010
+ICON ID: Icon_Emote_Traphiphop22
+NOMBRE: Chromasonic Shot
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909040010.png

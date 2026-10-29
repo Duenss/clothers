@@ -1,0 +1,8 @@
+ITEM ID: 819042004
+ICON ID: FF_UI_VFX_Voltage_02
+NOMBRE: Knocking Down or Elimination Effect (Electri City)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: Special effects when knocking down or eliminating an enemy while wearing the Electri City themed top.
+IMAGEN: CAJAS/imagenes/819042004.png

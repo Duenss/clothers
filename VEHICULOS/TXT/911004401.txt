@@ -1,0 +1,8 @@
+ITEM ID: 911004401
+ICON ID: Icon_Mounts_Persona
+NOMBRE: Paradox Throne
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004401.png

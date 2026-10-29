@@ -1,0 +1,8 @@
+ITEM ID: 818740831
+ICON ID: FF_Lottery_Pain_Voucher
+NOMBRE: Pain Tendo Ring Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Voucher to spin in Pain Tendo Ring event (starts 8 Aug 2025)
+IMAGEN: CAJAS/imagenes/818740831.png

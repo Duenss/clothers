@@ -1,0 +1,8 @@
+ITEM ID: 801048009
+ICON ID: Icon_exchange_Rainforest_Bizon_48
+NOMBRE: Predator Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048009.png

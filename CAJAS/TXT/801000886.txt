@@ -1,0 +1,8 @@
+ITEM ID: 801000886
+ICON ID: Icon_exchange_ob26_Red_Egg
+NOMBRE: Red Egg Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB26
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000886.png

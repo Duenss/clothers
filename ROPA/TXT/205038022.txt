@@ -1,0 +1,8 @@
+ITEM ID: 205038022
+ICON ID: Icon_avatar_male_cos_shoe_cybermech
+NOMBRE: Project Qualia (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038022.png

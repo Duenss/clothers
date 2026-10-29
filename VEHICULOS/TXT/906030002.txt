@@ -1,0 +1,8 @@
+ITEM ID: 906030002
+ICON ID: Icon_Avatar_Surfboard_Sugarskull21_Render
+NOMBRE: Skyboard - Goldrim
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906030002.png

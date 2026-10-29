@@ -1,0 +1,8 @@
+ITEM ID: 801040523
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Candy Cotton Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801040523.png

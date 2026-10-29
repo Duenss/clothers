@@ -1,0 +1,8 @@
+ITEM ID: 400047130
+ICON ID: Icon_box_Nbx6_47
+NOMBRE: Hidden Leaf Village Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047130.png

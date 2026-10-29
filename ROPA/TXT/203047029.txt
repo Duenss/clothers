@@ -1,0 +1,8 @@
+ITEM ID: 203047029
+ICON ID: Icon_avatar_male_cos_top_brrapper_47_top
+NOMBRE: Jacket 33 Style (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047029.png

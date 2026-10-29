@@ -1,0 +1,8 @@
+ITEM ID: 801054516
+ICON ID: Icon_exchange_StarToken_latam_54
+NOMBRE: Star Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054516.png

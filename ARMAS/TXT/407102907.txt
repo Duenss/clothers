@@ -1,0 +1,8 @@
+ITEM ID: 407102907
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Soloist & Disc Jockey Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open to receive a random gun skin from the Soloist & Disc Jockey weapon set.
+IMAGEN: ARMAS/imagenes/407102907.png

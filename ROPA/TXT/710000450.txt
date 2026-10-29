@@ -1,0 +1,8 @@
+ITEM ID: 710000450
+ICON ID: Icon_female_jiangshi
+NOMBRE: Golden Bell Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000450.png

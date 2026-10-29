@@ -1,0 +1,8 @@
+ITEM ID: 204000088
+ICON ID: Icon_Avatar_female_A-skirt_black
+NOMBRE: Embrace
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000088.png

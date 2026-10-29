@@ -1,0 +1,8 @@
+ITEM ID: 921050020
+ICON ID: FF_UI_Voiceitem_TH50A
+NOMBRE: It's not over yet!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Anime Voice Pack
+IMAGEN: MUSICA/imagenes/921050020.png

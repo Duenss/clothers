@@ -1,0 +1,8 @@
+ITEM ID: 1310000100
+ICON ID: Icon_Pet_Inkpaintinghawk
+NOMBRE: Pet Skin: Inked Falco
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: MASCOTAS/imagenes/1310000100.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000293
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Ice Blue Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for the Ice Blue set.
+IMAGEN: CAJAS/imagenes/400000293.png

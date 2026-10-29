@@ -1,0 +1,8 @@
+ITEM ID: 902046036
+ICON ID: Icon_face_FB_02
+NOMBRE: Nagi Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046036.png

@@ -1,0 +1,8 @@
+ITEM ID: 400036171
+ICON ID: Icon_box_3
+NOMBRE: Jersey Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive your favorite jersey collection!
+IMAGEN: ROPA/imagenes/400036171.png

@@ -1,0 +1,8 @@
+ITEM ID: 908049003
+ICON ID: Icon_slot_Jeep_Eighth_Free
+NOMBRE: Jeep - Beyond Infinity
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049003.png

@@ -1,0 +1,8 @@
+ITEM ID: 909000028
+ICON ID: Icon_Emote_CraneKick
+NOMBRE: Crane Kick
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000028.png

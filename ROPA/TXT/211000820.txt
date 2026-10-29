@@ -1,0 +1,8 @@
+ITEM ID: 211000820
+ICON ID: Icon_avatar_hair_cos_winterfest2020_headwear_A
+NOMBRE: Snowman Hat
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000820.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102506
+ICON ID: Icon_P90_Musicfall_Orange
+NOMBRE: P90 - Tune Blaster Orange
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102506.png

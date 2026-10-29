@@ -1,0 +1,8 @@
+ITEM ID: 819039002
+ICON ID: UI_Icon_Privilege_Effect
+NOMBRE: Special effects when jumping
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Wear the specific outfit to trigger special effects when jumping
+IMAGEN: CAJAS/imagenes/819039002.png

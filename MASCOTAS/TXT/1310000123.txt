@@ -1,0 +1,8 @@
+ITEM ID: 1310000123
+ICON ID: Icon_Pet_Hell
+NOMBRE: Pet Skin: Blazing Beaston
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: His hair seems to be on fire yet not burning
+IMAGEN: MASCOTAS/imagenes/1310000123.png

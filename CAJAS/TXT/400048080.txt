@@ -1,0 +1,8 @@
+ITEM ID: 400048080
+ICON ID: Icon_box_Create_Sys_BOX1_48
+NOMBRE: Zone Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048080.png

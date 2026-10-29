@@ -1,0 +1,8 @@
+ITEM ID: 400000320
+ICON ID: Icon_box_3
+NOMBRE: Nonolive box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: partnership
+IMAGEN: ROPA/imagenes/400000320.png

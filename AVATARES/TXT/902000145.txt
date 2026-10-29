@@ -1,0 +1,8 @@
+ITEM ID: 902000145
+ICON ID: Icon_face_th_4k
+NOMBRE: 4KING OF THE KING
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000145.png

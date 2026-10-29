@@ -1,0 +1,8 @@
+ITEM ID: 801044502
+ICON ID: Icon_exchange_Correio_elegantie_br_44
+NOMBRE: Correio Elegante Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044502.png

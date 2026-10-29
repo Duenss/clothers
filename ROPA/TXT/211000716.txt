@@ -1,0 +1,8 @@
+ITEM ID: 211000716
+ICON ID: Icon_avatar_hair_cos_fashiontrends_pre
+NOMBRE: Stage Master Hat
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000716.png

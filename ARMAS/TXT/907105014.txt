@@ -1,0 +1,8 @@
+ITEM ID: 907105014
+ICON ID: Icon_AWM_Citypanda
+NOMBRE: AWM - Bamboo Warrior
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105014.png

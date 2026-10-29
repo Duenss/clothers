@@ -1,0 +1,8 @@
+ITEM ID: 204054029
+ICON ID: Icon_avatar_male_cos_bottom_luchalibre2026
+NOMBRE: Rey Mysterio (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054029.png

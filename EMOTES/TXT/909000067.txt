@@ -1,0 +1,8 @@
+ITEM ID: 909000067
+ICON ID: Icon_Emote_Megapunch_Punch
+NOMBRE: Obliteration
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000067.png

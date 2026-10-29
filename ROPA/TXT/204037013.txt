@@ -1,0 +1,8 @@
+ITEM ID: 204037013
+ICON ID: Icon_avatar_male_cos_bottom_homeless
+NOMBRE: Blue Renegade (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037013.png

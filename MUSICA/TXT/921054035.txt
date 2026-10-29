@@ -1,0 +1,8 @@
+ITEM ID: 921054035
+ICON ID: FF_UI_Voiceitem_ID54
+NOMBRE: [Tenxi] Why is the enemy so easy?
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: The Tenxi voice pack
+IMAGEN: MUSICA/imagenes/921054035.png

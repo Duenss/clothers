@@ -1,0 +1,8 @@
+ITEM ID: 832000001
+ICON ID: Icon_LinkAvatarLimitedCard
+NOMBRE: Character Trial Card (1 Day)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Try out all characters for 1 day. Automatically used once owned.
+IMAGEN: OTROS/imagenes/832000001.png

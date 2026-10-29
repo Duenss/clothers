@@ -1,0 +1,8 @@
+ITEM ID: 400029009
+ICON ID: Icon_box_3
+NOMBRE: Moco Purple Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: What could be inside?
+IMAGEN: ROPA/imagenes/400029009.png

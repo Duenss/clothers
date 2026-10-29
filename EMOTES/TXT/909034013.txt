@@ -1,0 +1,8 @@
+ITEM ID: 909034013
+ICON ID: Icon_Emote_CS_Master
+NOMBRE: CS-Ranked Master Emote
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909034013.png

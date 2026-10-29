@@ -1,0 +1,8 @@
+ITEM ID: 400000913
+ICON ID: Icon_box_3
+NOMBRE: Falco Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Pet - Falco and many other rewards
+IMAGEN: ROPA/imagenes/400000913.png

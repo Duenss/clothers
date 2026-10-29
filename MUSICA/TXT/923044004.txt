@@ -1,0 +1,8 @@
+ITEM ID: 923044004
+ICON ID: FF_UI_Voiceitem_RANK43
+NOMBRE: There's no stopping me!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Rank Rewards
+IMAGEN: MUSICA/imagenes/923044004.png

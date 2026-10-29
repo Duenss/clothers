@@ -1,0 +1,8 @@
+ITEM ID: 905039004
+ICON ID: Icon_Avatar_PARACHUTE_Mshop
+NOMBRE: Parachute - Melon Glide
+TIPO: Parachute
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905039004.png

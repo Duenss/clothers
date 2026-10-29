@@ -1,0 +1,8 @@
+ITEM ID: 205046015
+ICON ID: Icon_avatar_cos_shoe_school_vn
+NOMBRE: Top of Class (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046015.png

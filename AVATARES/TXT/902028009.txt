@@ -1,0 +1,8 @@
+ITEM ID: 902028009
+ICON ID: Icon_face_Foursymbols_A
+NOMBRE: Azure Stormbringer
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028009.png

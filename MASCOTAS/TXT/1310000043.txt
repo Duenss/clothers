@@ -1,0 +1,8 @@
+ITEM ID: 1310000043
+ICON ID: Icon_Pet_Greendragon_Shiba
+NOMBRE: Pet Skin: Lucky Green
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: The green is the best camouflage.
+IMAGEN: MASCOTAS/imagenes/1310000043.png

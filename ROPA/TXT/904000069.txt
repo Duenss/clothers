@@ -1,0 +1,8 @@
+ITEM ID: 904000069
+ICON ID: Icon_Bag_cowboymk2_model
+NOMBRE: Backpack - The Golden Wings
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000069.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001771
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lucky Clover Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001771.png

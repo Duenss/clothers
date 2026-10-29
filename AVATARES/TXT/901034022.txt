@@ -1,0 +1,8 @@
+ITEM ID: 901034022
+ICON ID: Icon_callsign_storebg_Rank29_06
+NOMBRE: BR-Ranked S29 Master Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901034022.png

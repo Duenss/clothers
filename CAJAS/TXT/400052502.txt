@@ -1,0 +1,8 @@
+ITEM ID: 400052502
+ICON ID: Icon_box_DTC_LOT_52
+NOMBRE: Dreambreaker (M60) Token Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052502.png

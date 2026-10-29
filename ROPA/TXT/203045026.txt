@@ -1,0 +1,8 @@
+ITEM ID: 203045026
+ICON ID: Icon_avatar_cos_top_csrank26
+NOMBRE: CS-Ranked S26 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045026.png

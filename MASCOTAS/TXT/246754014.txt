@@ -1,0 +1,8 @@
+ITEM ID: 246754014
+ICON ID: Icon_SparkPet_Face_Goggles_matcap_Black
+NOMBRE: Black Goggle
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Black Goggle
+IMAGEN: MASCOTAS/imagenes/246754014.png

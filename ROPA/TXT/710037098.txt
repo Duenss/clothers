@@ -1,0 +1,8 @@
+ITEM ID: 710037098
+ICON ID: Icon_bundle_female_Hiphop_New_37
+NOMBRE: Elite Pink Love Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710037098.png

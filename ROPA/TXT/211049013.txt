@@ -1,0 +1,8 @@
+ITEM ID: 211049013
+ICON ID: Icon_avatar_male_cos_hair_prison25
+NOMBRE: Striped Swag (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049013.png

@@ -1,0 +1,8 @@
+ITEM ID: 904043005
+ICON ID: Icon_Bag_Evilbehind
+NOMBRE: Backpack - Inner Devil
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904043005.png

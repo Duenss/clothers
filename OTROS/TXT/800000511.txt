@@ -1,0 +1,8 @@
+ITEM ID: 800000511
+ICON ID: Icon_WSM_M1887_Digitaluniverse
+NOMBRE: M1887 - Sterling Conqueror Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the M1887 skin. Obtain from events or buy directly from the weapon upgrade store.
+IMAGEN: OTROS/imagenes/800000511.png

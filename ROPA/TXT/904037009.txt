@@ -1,0 +1,8 @@
+ITEM ID: 904037009
+ICON ID: Icon_Bag_Scorpion22
+NOMBRE: Backpack - Venom Rush
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037009.png

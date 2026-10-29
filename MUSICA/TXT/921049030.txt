@@ -1,0 +1,8 @@
+ITEM ID: 921049030
+ICON ID: FF_UI_Voiceitem_US49
+NOMBRE: That's crazy!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Memes 3
+IMAGEN: MUSICA/imagenes/921049030.png

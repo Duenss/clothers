@@ -1,0 +1,8 @@
+ITEM ID: 400001287
+ICON ID: Icon_box_evogun_25
+NOMBRE: Evo Gun Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400001287.png

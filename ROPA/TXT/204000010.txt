@@ -1,0 +1,8 @@
+ITEM ID: 204000010
+ICON ID: Icon_avatar_jeans_2
+NOMBRE: Jeans (Grey)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000010.png

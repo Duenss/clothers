@@ -1,0 +1,8 @@
+ITEM ID: 246754006
+ICON ID: Icon_SparkPet_Hand_Balloon_Silver_matcap
+NOMBRE: Golden & Silver Balloons
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Golden & Silver Balloons
+IMAGEN: MASCOTAS/imagenes/246754006.png

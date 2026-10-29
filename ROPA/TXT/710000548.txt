@@ -1,0 +1,8 @@
+ITEM ID: 710000548
+ICON ID: Icon_box_newplayer
+NOMBRE: Special Bundle F
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000548.png

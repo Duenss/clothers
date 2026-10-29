@@ -1,0 +1,8 @@
+ITEM ID: 214037011
+ICON ID: Icon_avatar_cos_headadditive_winterfest22_01
+NOMBRE: Ice-cold Rock Spirit
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214037011.png

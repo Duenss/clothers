@@ -1,0 +1,8 @@
+ITEM ID: 203037035
+ICON ID: Icon_avatar_cos_top_cdband_01
+NOMBRE: Carla's Dreams Tee
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037035.png

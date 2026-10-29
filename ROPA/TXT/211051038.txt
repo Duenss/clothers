@@ -1,0 +1,8 @@
+ITEM ID: 211051038
+ICON ID: Icon_avatar_cos_accessory_redhat25_fp
+NOMBRE: Little Red Sleep Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051038.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000314
+ICON ID: Icon_box_3
+NOMBRE: Hộp 8/3
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Tôn vinh phụ nữ Việt Nam
+IMAGEN: ROPA/imagenes/400000314.png

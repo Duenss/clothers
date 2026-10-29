@@ -1,0 +1,8 @@
+ITEM ID: 204050005
+ICON ID: Icon_avatar_male_cos_bottom_cloudyday
+NOMBRE: Solar Cloud (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050005.png

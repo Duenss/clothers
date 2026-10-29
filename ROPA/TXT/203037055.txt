@@ -1,0 +1,8 @@
+ITEM ID: 203037055
+ICON ID: Icon_avatar_female_cos_top_syntheticangel_01
+NOMBRE: Risen Dawnvictor (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037055.png

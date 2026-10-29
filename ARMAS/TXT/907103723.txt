@@ -1,0 +1,8 @@
+ITEM ID: 907103723
+ICON ID: Icon_Machete_Winterfest22
+NOMBRE: Parang - Frost-edge Axe
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103723.png

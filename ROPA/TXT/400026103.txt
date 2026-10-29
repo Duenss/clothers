@@ -1,0 +1,8 @@
+ITEM ID: 400026103
+ICON ID: Icon_box_3
+NOMBRE: Super Valentine Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Super Surprise for Super Valentine
+IMAGEN: ROPA/imagenes/400026103.png

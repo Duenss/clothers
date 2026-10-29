@@ -1,0 +1,8 @@
+ITEM ID: 170054005
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Your Choice Crate 5
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170054005.png

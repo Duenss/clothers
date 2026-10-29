@@ -1,0 +1,8 @@
+ITEM ID: 204042030
+ICON ID: Icon_avatar_male_cos_bottom_brazilgum
+NOMBRE: Trident Suit (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042030.png

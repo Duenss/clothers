@@ -1,0 +1,8 @@
+ITEM ID: 400026011
+ICON ID: Icon_box_3
+NOMBRE: Flower Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Women's Day 2021
+IMAGEN: ROPA/imagenes/400026011.png

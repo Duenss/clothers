@@ -1,0 +1,8 @@
+ITEM ID: 204000069
+ICON ID: Icon_Avatar_Male_GSL_Jean
+NOMBRE: GW2018 Jeans (Male)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000069.png

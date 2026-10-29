@@ -1,0 +1,8 @@
+ITEM ID: 801040018
+ICON ID: Icon_exchange_EXP_Piece_40
+NOMBRE: BP EXP Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801040018.png

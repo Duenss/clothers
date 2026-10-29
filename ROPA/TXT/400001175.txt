@@ -1,0 +1,8 @@
+ITEM ID: 400001175
+ICON ID: Icon_box_3
+NOMBRE: Music Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: It's party time!
+IMAGEN: ROPA/imagenes/400001175.png

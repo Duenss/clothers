@@ -1,0 +1,8 @@
+ITEM ID: 400050543
+ICON ID: Icon_box_SLB1_TH_50
+NOMBRE: Soul Land Box 1
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050543.png

@@ -1,0 +1,8 @@
+ITEM ID: 903052002
+ICON ID: Icon_Deadloot_Graffiti26
+NOMBRE: Loot Box - Shadow's Grasp
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903052002.png

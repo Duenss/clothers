@@ -1,0 +1,8 @@
+ITEM ID: 907136006
+ICON ID: Icon_Pan_Icewizard
+NOMBRE: Pan - Silver Frost
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136006.png

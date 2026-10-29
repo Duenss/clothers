@@ -1,0 +1,8 @@
+ITEM ID: 906052009
+ICON ID: Icon_Avatar_Surfboard_Summer26
+NOMBRE: Skyboard - Summer
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906052009.png

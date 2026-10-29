@@ -1,0 +1,8 @@
+ITEM ID: 902050020
+ICON ID: Icon_face_CSPeakTournament
+NOMBRE: CS-Peak Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Peak Rewards are reset when a new season starts
+IMAGEN: AVATARES/imagenes/902050020.png

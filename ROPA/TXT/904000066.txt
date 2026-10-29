@@ -1,0 +1,8 @@
+ITEM ID: 904000066
+ICON ID: Icon_Bag_element_earth
+NOMBRE: Backpack - Earth Elemental
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000066.png

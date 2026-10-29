@@ -1,0 +1,8 @@
+ITEM ID: 802000019
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: One Punch Man Royale Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the One Punch Man Royale
+IMAGEN: OTROS/imagenes/802000019.png

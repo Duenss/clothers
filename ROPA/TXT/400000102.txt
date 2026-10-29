@@ -1,0 +1,8 @@
+ITEM ID: 400000102
+ICON ID: Icon_box_3
+NOMBRE: Skyline Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin from the Skyline set.
+IMAGEN: ROPA/imagenes/400000102.png

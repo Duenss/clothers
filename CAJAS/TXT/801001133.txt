@@ -1,0 +1,8 @@
+ITEM ID: 801001133
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Patch Sign Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Best sign ever!
+IMAGEN: CAJAS/imagenes/801001133.png

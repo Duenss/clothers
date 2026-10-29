@@ -1,0 +1,8 @@
+ITEM ID: 801053520
+ICON ID: Icon_exchange_brut_th_53
+NOMBRE: BRU Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053520.png

@@ -1,0 +1,8 @@
+ITEM ID: 902037007
+ICON ID: Icon_face_CSRank16_B
+NOMBRE: CS-Ranked S16 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037007.png

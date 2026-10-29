@@ -1,0 +1,8 @@
+ITEM ID: 170035003
+ICON ID: Icon_OptionalBundle_Evogun
+NOMBRE: Evo Gun Token Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Get an evo gun token of your choice
+IMAGEN: CAJAS/imagenes/170035003.png

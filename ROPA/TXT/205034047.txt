@@ -1,0 +1,8 @@
+ITEM ID: 205034047
+ICON ID: Icon_avatar_male_cos_shoe_rampage4_fire_blue
+NOMBRE: Neptune Icestomper (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205034047.png

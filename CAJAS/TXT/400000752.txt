@@ -1,0 +1,8 @@
+ITEM ID: 400000752
+ICON ID: Icon_box_sg_ff_premium
+NOMBRE: Prime Box A
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400000752.png

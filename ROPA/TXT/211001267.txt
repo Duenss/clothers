@@ -1,0 +1,8 @@
+ITEM ID: 211001267
+ICON ID: Icon_avatar_cos_hair_winterfest21_hair
+NOMBRE: Reindeer Taunt
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001267.png

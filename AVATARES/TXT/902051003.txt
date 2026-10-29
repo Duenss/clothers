@@ -1,0 +1,8 @@
+ITEM ID: 902051003
+ICON ID: Icon_face_Dreamland
+NOMBRE: Dreamspace Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051003.png

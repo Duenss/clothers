@@ -1,0 +1,8 @@
+ITEM ID: 400001194
+ICON ID: Icon_box_3
+NOMBRE: Winterlands Tree Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy Holidays!
+IMAGEN: ROPA/imagenes/400001194.png

@@ -1,0 +1,8 @@
+ITEM ID: 929005502
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_02
+NOMBRE: Sakura Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Sakura Sticker
+IMAGEN: AVATARES/imagenes/929005502.png

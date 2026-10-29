@@ -1,0 +1,8 @@
+ITEM ID: 902053013
+ICON ID: Icon_face_Social26
+NOMBRE: Community Star Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902053013.png

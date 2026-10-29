@@ -1,0 +1,8 @@
+ITEM ID: 203051051
+ICON ID: Icon_avatar_cos_top_sports_me01
+NOMBRE: Football Champion Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051051.png

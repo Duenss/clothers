@@ -1,0 +1,8 @@
+ITEM ID: 204047016
+ICON ID: Icon_avatar_male_cos_bottom_winterfest25
+NOMBRE: Frosty Furry (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047016.png

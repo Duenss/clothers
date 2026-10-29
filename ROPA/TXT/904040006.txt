@@ -1,0 +1,8 @@
+ITEM ID: 904040006
+ICON ID: Icon_Bag_Festivalme_22
+NOMBRE: Backpack - Electrify Bunny
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904040006.png

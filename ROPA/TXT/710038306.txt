@@ -1,0 +1,8 @@
+ITEM ID: 710038306
+ICON ID: Icon_box_3
+NOMBRE: Evo Gun Selectable Token Pack
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710038306.png

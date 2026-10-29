@@ -1,0 +1,8 @@
+ITEM ID: 203043035
+ICON ID: Icon_avatar_cos_top_frog_01
+NOMBRE: Ribbit Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043035.png

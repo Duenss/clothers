@@ -1,0 +1,8 @@
+ITEM ID: 907103517
+ICON ID: Icon_P90_Kun
+NOMBRE: P90 - Riverdust Splasher
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103517.png

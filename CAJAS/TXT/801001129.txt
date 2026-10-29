@@ -1,0 +1,8 @@
+ITEM ID: 801001129
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Flag Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Wave it like you mean it
+IMAGEN: CAJAS/imagenes/801001129.png

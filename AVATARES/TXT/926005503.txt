@@ -1,0 +1,8 @@
+ITEM ID: 926005503
+ICON ID: Icon_PhotoFrameitem_Halloween26
+NOMBRE: The Unseen Frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: The Unseen Frame
+IMAGEN: AVATARES/imagenes/926005503.png

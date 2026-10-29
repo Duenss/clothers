@@ -1,0 +1,8 @@
+ITEM ID: 903041001
+ICON ID: Icon_Deadloot_Slime
+NOMBRE: Loot Box - Jelly Monster
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903041001.png

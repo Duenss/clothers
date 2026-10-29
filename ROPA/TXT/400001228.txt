@@ -1,0 +1,8 @@
+ITEM ID: 400001228
+ICON ID: Icon_box_3
+NOMBRE: Box 5
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400001228.png

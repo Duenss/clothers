@@ -1,0 +1,8 @@
+ITEM ID: 903033011
+ICON ID: Icon_Deadloot_FoolsDinosauria
+NOMBRE: Loot Box - Dizzy Dino
+TIPO: Loot Box
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903033011.png

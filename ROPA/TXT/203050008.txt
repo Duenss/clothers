@@ -1,0 +1,8 @@
+ITEM ID: 203050008
+ICON ID: Icon_avatar_male_cos_top_va_darkstroke
+NOMBRE: Doodle Trouble (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050008.png

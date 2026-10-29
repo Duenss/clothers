@@ -1,0 +1,8 @@
+ITEM ID: 203034020
+ICON ID: Icon_avatar_female_cos_top_bloody_evil
+NOMBRE: Enflamed Immortal (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034020.png

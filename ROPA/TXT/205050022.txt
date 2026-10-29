@@ -1,0 +1,8 @@
+ITEM ID: 205050022
+ICON ID: Icon_avatar_male_cos_shoe_stitchhop
+NOMBRE: Soaring Crane (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050022.png

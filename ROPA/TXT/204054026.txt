@@ -1,0 +1,8 @@
+ITEM ID: 204054026
+ICON ID: Icon_avatar_male_cos_bottom_ninth_orange
+NOMBRE: Flowing Fracture (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054026.png

@@ -1,0 +1,8 @@
+ITEM ID: 170044003
+ICON ID: Icon_slot_M4A1
+NOMBRE: Unknown
+TIPO: Choice Crates
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/170044003.png

@@ -1,0 +1,8 @@
+ITEM ID: 203001039
+ICON ID: Icon_avatar_male_top_cos_crystalslipper_a
+NOMBRE: Evil Enchanted Vest
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001039.png

@@ -1,0 +1,8 @@
+ITEM ID: 911004501
+ICON ID: Icon_Mounts_Spirit24
+NOMBRE: Multiplayer Skywing - Lore Train
+TIPO: Skywings
+RAREZA: RED (Artifact)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004501.png

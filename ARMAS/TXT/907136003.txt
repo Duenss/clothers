@@ -1,0 +1,8 @@
+ITEM ID: 907136003
+ICON ID: Icon_SKS_Frankenstein
+NOMBRE: SKS - Gnarl Electrocution
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136003.png

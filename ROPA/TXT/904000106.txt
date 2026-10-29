@@ -1,0 +1,8 @@
+ITEM ID: 904000106
+ICON ID: Icon_Bag_Death2020
+NOMBRE: Backpack - Death
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000106.png

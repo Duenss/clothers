@@ -1,0 +1,8 @@
+ITEM ID: 203001360
+ICON ID: Icon_avatar_cos_top_whitesweater
+NOMBRE: White Turtleneck
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001360.png

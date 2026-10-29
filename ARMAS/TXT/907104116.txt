@@ -1,0 +1,8 @@
+ITEM ID: 907104116
+ICON ID: Icon_Fisherman_Grenade
+NOMBRE: Grenade - A Reel Puffer
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104116.png

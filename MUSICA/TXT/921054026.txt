@@ -1,0 +1,8 @@
+ITEM ID: 921054026
+ICON ID: FF_UI_Voiceitem_US54A
+NOMBRE: Time to sleep!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The LATAM Meme voice pack 1
+IMAGEN: MUSICA/imagenes/921054026.png

@@ -1,0 +1,8 @@
+ITEM ID: 926004904
+ICON ID: UI_PhotoFrame_SEAFOOD_02_Small
+NOMBRE: Squid Game frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Squid Game frame
+IMAGEN: AVATARES/imagenes/926004904.png

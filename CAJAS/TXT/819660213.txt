@@ -1,0 +1,8 @@
+ITEM ID: 819660213
+ICON ID: FF_Lottery_5T5TT_Voucher_52
+NOMBRE: Jujutsu Universal Shard
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/819660213.png

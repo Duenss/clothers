@@ -1,0 +1,8 @@
+ITEM ID: 204055008
+ICON ID: Icon_avatar_male_cos_bottom_ninja_watermelon
+NOMBRE: Melon Ninja (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055008.png

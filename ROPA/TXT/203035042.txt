@@ -1,0 +1,8 @@
+ITEM ID: 203035042
+ICON ID: Icon_avatar_male_cos_top_deepseasharksa
+NOMBRE: Hungry Fishy T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035042.png

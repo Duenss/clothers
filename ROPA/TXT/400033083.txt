@@ -1,0 +1,8 @@
+ITEM ID: 400033083
+ICON ID: Icon_box_3
+NOMBRE: Bear Slippers Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Which colors do you want?
+IMAGEN: ROPA/imagenes/400033083.png

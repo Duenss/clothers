@@ -1,0 +1,8 @@
+ITEM ID: 214035013
+ICON ID: Icon_avatar_cos_headadditive_cateam_001
+NOMBRE: Monumental Colors
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214035013.png

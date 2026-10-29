@@ -1,0 +1,8 @@
+ITEM ID: 246754021
+ICON ID: Icon_SparkPet_Back_SkateBoard_Black
+NOMBRE: Black Skateboard
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Black Skateboard
+IMAGEN: MASCOTAS/imagenes/246754021.png

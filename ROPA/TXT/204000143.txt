@@ -1,0 +1,8 @@
+ITEM ID: 204000143
+ICON ID: Icon_avatar_male_bottom_cos_lansquenet
+NOMBRE: Commando (Pants)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000143.png

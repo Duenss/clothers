@@ -1,0 +1,8 @@
+ITEM ID: 211000481
+ICON ID: Icon_avatar_male_hair_cos_evilbone
+NOMBRE: Capt. Punisher (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000481.png

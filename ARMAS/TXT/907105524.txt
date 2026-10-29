@@ -1,0 +1,8 @@
+ITEM ID: 907105524
+ICON ID: Icon_Pan_Flamedino
+NOMBRE: Pan - Flameborn
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105524.png

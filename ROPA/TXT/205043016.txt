@@ -1,0 +1,8 @@
+ITEM ID: 205043016
+ICON ID: Icon_avatar_male_cos_shoe_aprilfool24
+NOMBRE: Emperor's New Clothes (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043016.png

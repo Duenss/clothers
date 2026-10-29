@@ -1,0 +1,8 @@
+ITEM ID: 801001057
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion T Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Turn back the hands of time
+IMAGEN: CAJAS/imagenes/801001057.png

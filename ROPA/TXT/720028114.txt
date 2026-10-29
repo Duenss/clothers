@@ -1,0 +1,8 @@
+ITEM ID: 720028114
+ICON ID: Icon_box_3
+NOMBRE: Unknown
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/720028114.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001428
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lunar Coin
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Great luck and great profit
+IMAGEN: CAJAS/imagenes/801001428.png

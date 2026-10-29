@@ -1,0 +1,8 @@
+ITEM ID: 211035013
+ICON ID: Icon_avatar_male_cos_hair_light_darkness
+NOMBRE: Paradise Defender (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035013.png

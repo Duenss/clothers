@@ -1,0 +1,8 @@
+ITEM ID: 909854002
+ICON ID: FF_UI_Vault_Icon_FinishMove_Card_Killing
+NOMBRE: Red Card
+TIPO: Finishing Move
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909854002.png

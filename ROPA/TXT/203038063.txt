@@ -1,0 +1,8 @@
+ITEM ID: 203038063
+ICON ID: Icon_avatar_female_cos_top_royal_new
+NOMBRE: Elite Trigger Happy (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038063.png

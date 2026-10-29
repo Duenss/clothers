@@ -1,0 +1,8 @@
+ITEM ID: 211000798
+ICON ID: Icon_avatar_male_hair_cos_timemachine
+NOMBRE: Gold Time-Skipper (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000798.png

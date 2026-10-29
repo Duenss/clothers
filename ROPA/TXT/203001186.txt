@@ -1,0 +1,8 @@
+ITEM ID: 203001186
+ICON ID: Icon_avatar_female_top_cos_playingcard_a
+NOMBRE: Poker's Tyranny Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001186.png

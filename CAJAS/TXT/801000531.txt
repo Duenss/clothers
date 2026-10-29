@@ -1,0 +1,8 @@
+ITEM ID: 801000531
+ICON ID: Icon_exchange_ob22_backpack_token
+NOMBRE: Backpack Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Never leave home without it
+IMAGEN: CAJAS/imagenes/801000531.png

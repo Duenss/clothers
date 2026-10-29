@@ -1,0 +1,8 @@
+ITEM ID: 801000496
+ICON ID: Icon_exchange_ob22_best_squad_token
+NOMBRE: Best Squad Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: We are the best squad
+IMAGEN: CAJAS/imagenes/801000496.png

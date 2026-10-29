@@ -1,0 +1,8 @@
+ITEM ID: 910002803
+ICON ID: Pin_Small_Foursymbols_C
+NOMBRE: Whirlwind Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910002803.png

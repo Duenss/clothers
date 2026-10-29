@@ -1,0 +1,8 @@
+ITEM ID: 400000038
+ICON ID: Icon_box_3
+NOMBRE: Dominator Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive any one of these
+IMAGEN: ROPA/imagenes/400000038.png

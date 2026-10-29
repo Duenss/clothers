@@ -1,0 +1,8 @@
+ITEM ID: 400029018
+ICON ID: Icon_box_3
+NOMBRE: Medal box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open up to get amazing rewards
+IMAGEN: ROPA/imagenes/400029018.png

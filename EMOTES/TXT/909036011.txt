@@ -1,0 +1,8 @@
+ITEM ID: 909036011
+ICON ID: Icon_Emote_Undead_Freeze
+NOMBRE: Eternal Descent
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909036011.png

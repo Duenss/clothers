@@ -1,0 +1,8 @@
+ITEM ID: 913051002
+ICON ID: FF_UI_Vault_Music_FA51
+NOMBRE: Burn Bright
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Flame Arena theme song
+IMAGEN: MUSICA/imagenes/913051002.png

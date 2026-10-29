@@ -1,0 +1,8 @@
+ITEM ID: 801000424
+ICON ID: Icon_exchange_ob21_bedug
+NOMBRE: Bedug Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Sound it loud
+IMAGEN: CAJAS/imagenes/801000424.png

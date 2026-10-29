@@ -1,0 +1,8 @@
+ITEM ID: 211045023
+ICON ID: Icon_avatar_male_cos_accessory_medusa
+NOMBRE: Blu Serpent (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045023.png

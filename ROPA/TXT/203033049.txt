@@ -1,0 +1,8 @@
+ITEM ID: 203033049
+ICON ID: Icon_avatar_male_cos_top_fastbreaking22_02
+NOMBRE: Timbered Charmer - Nebula (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033049.png

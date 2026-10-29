@@ -1,0 +1,8 @@
+ITEM ID: 921047014
+ICON ID: FF_UI_Voiceitem_Woodcrafter
+NOMBRE: Pushpa ko national Khiladi samjhe kya? International hai
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921047014.png

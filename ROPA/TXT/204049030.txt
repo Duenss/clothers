@@ -1,0 +1,8 @@
+ITEM ID: 204049030
+ICON ID: Icon_avatar_cos_bottom_football25_idwhite
+NOMBRE: White Timnas Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204049030.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105346
+ICON ID: Icon_Katana_SH_White
+NOMBRE: Katana - Toyako
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105346.png

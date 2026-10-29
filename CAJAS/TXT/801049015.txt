@@ -1,0 +1,8 @@
+ITEM ID: 801049015
+ICON ID: Icon_exchange_Pony_Sys_4_49
+NOMBRE: Infinite Solara Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Token used to exchange for rewards in the 8th Anniversary event
+IMAGEN: CAJAS/imagenes/801049015.png

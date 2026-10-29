@@ -1,0 +1,8 @@
+ITEM ID: 400000206
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: SCAR Violet Terror Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random SCAR Violet Terror weapon Skin.
+IMAGEN: CAJAS/imagenes/400000206.png

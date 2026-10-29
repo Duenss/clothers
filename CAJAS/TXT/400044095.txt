@@ -1,0 +1,8 @@
+ITEM ID: 400044095
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: MP5 Mr. Nutcracker Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive a MP5 Mr. Nutcracker
+IMAGEN: CAJAS/imagenes/400044095.png

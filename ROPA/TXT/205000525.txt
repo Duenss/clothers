@@ -1,0 +1,8 @@
+ITEM ID: 205000525
+ICON ID: Icon_avatar_female_shoe_cos_steelfortress
+NOMBRE: Iron Fortress (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000525.png

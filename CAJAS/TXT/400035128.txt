@@ -1,0 +1,8 @@
+ITEM ID: 400035128
+ICON ID: Icon_box_Choki1_ID_35
+NOMBRE: Choki Choki Crate 14
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Congratulations! Keep playing Free Fire while enjoying Choki Choki!
+IMAGEN: CAJAS/imagenes/400035128.png

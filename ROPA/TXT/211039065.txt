@@ -1,0 +1,8 @@
+ITEM ID: 211039065
+ICON ID: Icon_avatar_cos_accessory_hannya
+NOMBRE: Oni's Veil
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039065.png

@@ -1,0 +1,8 @@
+ITEM ID: 904035011
+ICON ID: Icon_Bag_School35
+NOMBRE: Backpack - Blue Beast
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035011.png

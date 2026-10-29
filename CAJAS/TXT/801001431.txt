@@ -1,0 +1,8 @@
+ITEM ID: 801001431
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Heartbeat
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Follow your heart
+IMAGEN: CAJAS/imagenes/801001431.png

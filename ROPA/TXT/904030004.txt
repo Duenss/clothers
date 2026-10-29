@@ -1,0 +1,8 @@
+ITEM ID: 904030004
+ICON ID: Icon_Bag_Booyahday21
+NOMBRE: Backpack - Winged Bones
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030004.png

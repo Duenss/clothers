@@ -1,0 +1,8 @@
+ITEM ID: 203046050
+ICON ID: Icon_avatar_cos_top_ffws_sf13
+NOMBRE: FFWS 2024 GF - Six Karma (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046050.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101420
+ICON ID: Icon_AK47_PurpleUnicon
+NOMBRE: AK47 - Unicorn's Rage (Violet)
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101420.png

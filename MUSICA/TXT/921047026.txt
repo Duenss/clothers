@@ -1,0 +1,8 @@
+ITEM ID: 921047026
+ICON ID: FF_UI_Voiceitem_VN47
+NOMBRE: Three strong, one weak
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Free Fire VN Creator
+IMAGEN: MUSICA/imagenes/921047026.png

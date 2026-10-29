@@ -1,0 +1,8 @@
+ITEM ID: 170038006
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Jersey Choice Box
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170038006.png

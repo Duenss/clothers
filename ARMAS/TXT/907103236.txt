@@ -1,0 +1,8 @@
+ITEM ID: 907103236
+ICON ID: Icon_ThrowingKnife_Hoodedkiller
+NOMBRE: Dagger - Hunter's Blade
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103236.png

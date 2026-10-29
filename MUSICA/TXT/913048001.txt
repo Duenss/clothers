@@ -1,0 +1,8 @@
+ITEM ID: 913048001
+ICON ID: FF_UI_Vault_Music_Ramadan25
+NOMBRE: Blessing Festival - Ramadan 2025
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Ramadan 2025 lobby music
+IMAGEN: MUSICA/imagenes/913048001.png

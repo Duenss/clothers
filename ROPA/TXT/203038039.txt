@@ -1,0 +1,8 @@
+ITEM ID: 203038039
+ICON ID: Icon_avatar_male_cos_top_cybermech_red
+NOMBRE: Project Cosmos (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038039.png

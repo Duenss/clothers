@@ -1,0 +1,8 @@
+ITEM ID: 904029010
+ICON ID: Icon_Bag_Guerrilla
+NOMBRE: Backpack - Tactical Soldier
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029010.png

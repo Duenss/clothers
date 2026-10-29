@@ -1,0 +1,8 @@
+ITEM ID: 902040005
+ICON ID: Icon_face_female_head_sc_Nanoscientist_B
+NOMBRE: Nano Scientists Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040005.png

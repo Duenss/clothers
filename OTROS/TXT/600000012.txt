@@ -1,0 +1,8 @@
+ITEM ID: 600000012
+ICON ID: Icon_ff_ClanRoomcard
+NOMBRE: Guild Room Card
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use the Guild Room Card to create an exclusive guild room. One card will be used for one match.
+IMAGEN: OTROS/imagenes/600000012.png

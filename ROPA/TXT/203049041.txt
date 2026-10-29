@@ -1,0 +1,8 @@
+ITEM ID: 203049041
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Wicket Smasher (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

@@ -1,0 +1,8 @@
+ITEM ID: 907136005
+ICON ID: Icon_Superheat_Gun_Icewizard
+NOMBRE: PLASMA - Drowning Blizzard
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136005.png

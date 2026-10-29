@@ -1,0 +1,8 @@
+ITEM ID: 203037022
+ICON ID: Icon_avatar_male_cos_top_hooligan
+NOMBRE: Candid Casuals (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037022.png

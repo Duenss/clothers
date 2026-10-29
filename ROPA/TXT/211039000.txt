@@ -1,0 +1,8 @@
+ITEM ID: 211039000
+ICON ID: Icon_avatar_male_cos_hair_phantomjazz
+NOMBRE: Golden Bebop (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039000.png

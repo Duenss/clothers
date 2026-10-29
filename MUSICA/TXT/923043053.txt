@@ -1,0 +1,8 @@
+ITEM ID: 923043053
+ICON ID: FF_UI_Voiceitem_TET43
+NOMBRE: The enemy is almost down!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923043053.png

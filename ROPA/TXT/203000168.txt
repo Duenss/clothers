@@ -1,0 +1,8 @@
+ITEM ID: 203000168
+ICON ID: Icon_avatar_male_cos_offwhite_top_obt7Th
+NOMBRE: Officer Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000168.png

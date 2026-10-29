@@ -1,0 +1,8 @@
+ITEM ID: 904029006
+ICON ID: Icon_Bag_Musicfest_B
+NOMBRE: Backpack - Thrash Goth
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029006.png

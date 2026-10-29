@@ -1,0 +1,8 @@
+ITEM ID: 211001226
+ICON ID: Icon_avatar_male_cos_hair_memecha
+NOMBRE: Heatbound Desert (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001226.png

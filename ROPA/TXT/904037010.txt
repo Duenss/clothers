@@ -1,0 +1,8 @@
+ITEM ID: 904037010
+ICON ID: Icon_Bag_Angelik_01
+NOMBRE: Backpack - Streetstyle Angel
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037010.png

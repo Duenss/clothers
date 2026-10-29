@@ -1,0 +1,8 @@
+ITEM ID: 907105249
+ICON ID: Icon_GlooShield_Emoji26
+NOMBRE: Gloo Wall - In the Face
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105249.png

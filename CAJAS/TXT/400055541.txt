@@ -1,0 +1,8 @@
+ITEM ID: 400055541
+ICON ID: Icon_box_Awmtc_IND_SG_BD_EU_CIS_NA_PK_55
+NOMBRE: Cosmic Pulse (AWM) Token Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Players can obtain either 3, 4, 5, 10, 100, or 1000 Cosmic Pulse AWM Evo tokens.
+IMAGEN: CAJAS/imagenes/400055541.png

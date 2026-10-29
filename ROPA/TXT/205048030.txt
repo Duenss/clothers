@@ -1,0 +1,8 @@
+ITEM ID: 205048030
+ICON ID: Icon_avatar_cos_shoe_waterfest25
+NOMBRE: Sea Foam (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048030.png

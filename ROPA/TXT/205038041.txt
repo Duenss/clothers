@@ -1,0 +1,8 @@
+ITEM ID: 205038041
+ICON ID: Icon_avatar_female_cos_shoe_corvus
+NOMBRE: Lacuna Genotype (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038041.png

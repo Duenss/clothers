@@ -1,0 +1,8 @@
+ITEM ID: 700000089
+ICON ID: Icon_face_female_sc_Nurse
+NOMBRE: Olivia's Fragment Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Memory Fragment (Olivia) x30
+IMAGEN: ROPA/imagenes/700000089.png

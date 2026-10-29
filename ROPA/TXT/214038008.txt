@@ -1,0 +1,8 @@
+ITEM ID: 214038008
+ICON ID: Icon_avatar_male_cos_headadditive_elder_yellow
+NOMBRE: Luminus Kami (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214038008.png

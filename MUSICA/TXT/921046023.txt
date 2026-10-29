@@ -1,0 +1,8 @@
+ITEM ID: 921046023
+ICON ID: FF_UI_Voiceitem_IHPopular
+NOMBRE: Thann Khachh Booyah!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: From the FFM community, for the FFM community!
+IMAGEN: MUSICA/imagenes/921046023.png

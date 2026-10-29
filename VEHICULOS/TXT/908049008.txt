@@ -1,0 +1,8 @@
+ITEM ID: 908049008
+ICON ID: Icon_slot_SUV_Pony25
+NOMBRE: Pickup Truck - Solara Dash
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049008.png

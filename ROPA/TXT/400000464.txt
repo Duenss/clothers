@@ -1,0 +1,8 @@
+ITEM ID: 400000464
+ICON ID: Icon_box_3
+NOMBRE: Water Elemental Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Water Elemental Bundle.
+IMAGEN: ROPA/imagenes/400000464.png

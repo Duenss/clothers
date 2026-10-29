@@ -1,0 +1,8 @@
+ITEM ID: 760029165
+ICON ID: FF_UI_CupMatchBox_04A
+NOMBRE: Clash Squad Cup (Advanced) 3-wins Chest
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Clash Squad Cup (Advanced) 3-wins Chest
+IMAGEN: OTROS/imagenes/760029165.png

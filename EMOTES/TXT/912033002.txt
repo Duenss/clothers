@@ -1,0 +1,8 @@
+ITEM ID: 912033002
+ICON ID: Icon_GroupAnim_FFWS03
+NOMBRE: FFWS Pride
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912033002.png

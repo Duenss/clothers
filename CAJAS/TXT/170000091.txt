@@ -1,0 +1,8 @@
+ITEM ID: 170000091
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Your Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Pick one
+IMAGEN: CAJAS/imagenes/170000091.png

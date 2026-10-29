@@ -1,0 +1,8 @@
+ITEM ID: 801047505
+ICON ID: Icon_exchange_FTT_us-es_47
+NOMBRE: Festivities Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047505.png

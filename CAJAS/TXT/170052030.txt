@@ -1,0 +1,8 @@
+ITEM ID: 170052030
+ICON ID: Icon_OptionalBundle_nbpscc1_LOT_52
+NOMBRE: Newbie Blue Pet Skin Choice Crate 1
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052030.png

@@ -1,0 +1,8 @@
+ITEM ID: 928005507
+ICON ID: Icon_GroupPhoto_Halloween26_02_icon
+NOMBRE: The Twins
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: The Twins
+IMAGEN: AVATARES/imagenes/928005507.png

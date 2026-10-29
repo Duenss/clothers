@@ -1,0 +1,8 @@
+ITEM ID: 211046022
+ICON ID: Icon_avatar_male_cos_accessory_ffws2204
+NOMBRE: On Vacation (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046022.png

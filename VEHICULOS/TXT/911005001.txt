@@ -1,0 +1,8 @@
+ITEM ID: 911005001
+ICON ID: Icon_Mounts_flymove_2NBCT_Bro
+NOMBRE: Skydive - Itachi's Susano'o
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005001.png

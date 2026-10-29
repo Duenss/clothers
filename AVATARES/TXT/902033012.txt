@@ -1,0 +1,8 @@
+ITEM ID: 902033012
+ICON ID: Icon_face_FFWS03
+NOMBRE: Honorable Fighters Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033012.png

@@ -1,0 +1,8 @@
+ITEM ID: 407103710
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Defier's Anthem (M1014 +M14) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (M1014 +M14) from the BDefier's Anthem weapon set
+IMAGEN: ARMAS/imagenes/407103710.png

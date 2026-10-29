@@ -1,0 +1,8 @@
+ITEM ID: 907105202
+ICON ID: Icon_Fist_IIV_CT_Pink
+NOMBRE: Fist - Divergent Fist
+TIPO: Fist Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105202.png

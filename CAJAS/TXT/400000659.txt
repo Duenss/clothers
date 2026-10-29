@@ -1,0 +1,8 @@
+ITEM ID: 400000659
+ICON ID: Icon_face_male_sc_Demolitionist
+NOMBRE: Alvaro's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to Receive Memory Fragment (Alvaro)
+IMAGEN: CAJAS/imagenes/400000659.png

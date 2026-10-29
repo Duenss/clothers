@@ -1,0 +1,8 @@
+ITEM ID: 205045018
+ICON ID: Icon_avatar_male_cos_shoe_baseball24
+NOMBRE: Grand Slam (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205045018.png

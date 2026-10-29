@@ -1,0 +1,8 @@
+ITEM ID: 902046016
+ICON ID: Icon_face_CSRank28_02
+NOMBRE: CS-Ranked S28 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046016.png

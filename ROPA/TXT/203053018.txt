@@ -1,0 +1,8 @@
+ITEM ID: 203053018
+ICON ID: Icon_avatar_male_cos_top_festivalme_25
+NOMBRE: Cyber Invader (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053018.png

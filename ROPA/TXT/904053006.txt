@@ -1,0 +1,8 @@
+ITEM ID: 904053006
+ICON ID: Icon_Bag_Sketch
+NOMBRE: Backpack - Sculpted Sharpener
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053006.png

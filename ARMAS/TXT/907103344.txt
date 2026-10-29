@@ -1,0 +1,8 @@
+ITEM ID: 907103344
+ICON ID: Icon_Cyberthief_Grenade
+NOMBRE: Grenade - Hypercore Blues
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103344.png

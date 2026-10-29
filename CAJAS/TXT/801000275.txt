@@ -1,0 +1,8 @@
+ITEM ID: 801000275
+ICON ID: Icon_exchange_2020_Present
+NOMBRE: 2020 Present
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Good luck!
+IMAGEN: CAJAS/imagenes/801000275.png

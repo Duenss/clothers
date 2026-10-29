@@ -1,0 +1,8 @@
+ITEM ID: 907104343
+ICON ID: Icon_Fastbreaking24_Grenade
+NOMBRE: Grenade - Glistening Nightstar
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104343.png

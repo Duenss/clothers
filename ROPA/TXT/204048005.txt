@@ -1,0 +1,8 @@
+ITEM ID: 204048005
+ICON ID: Icon_avatar_male_cos_bottom_cupnoodle
+NOMBRE: Cup Ramen (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048005.png

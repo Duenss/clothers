@@ -1,0 +1,8 @@
+ITEM ID: 921054006
+ICON ID: FF_UI_Voiceitem_Bloodmoon26Female
+NOMBRE: Don't be afraid, I'm right beside you.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The Scarlet Whisperer voice pack
+IMAGEN: MUSICA/imagenes/921054006.png

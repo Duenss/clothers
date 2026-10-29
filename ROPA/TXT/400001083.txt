@@ -1,0 +1,8 @@
+ITEM ID: 400001083
+ICON ID: Icon_box_3
+NOMBRE: Children's Day Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400001083.png

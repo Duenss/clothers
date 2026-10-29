@@ -1,0 +1,8 @@
+ITEM ID: 205054006
+ICON ID: Icon_avatar_female_cos_shoe_virgo26
+NOMBRE: Flawless Spica (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054006.png

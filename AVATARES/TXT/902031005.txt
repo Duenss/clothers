@@ -1,0 +1,8 @@
+ITEM ID: 902031005
+ICON ID: Icon_face_Origami_B
+NOMBRE: Folded Flap
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031005.png

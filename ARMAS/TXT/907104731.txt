@@ -1,0 +1,8 @@
+ITEM ID: 907104731
+ICON ID: Icon_GlooShield_Woodcrafter
+NOMBRE: Gloo Wall - I am FIRE
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104731.png

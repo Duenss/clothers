@@ -1,0 +1,8 @@
+ITEM ID: 903050004
+ICON ID: Icon_Deadloot_Mooncake_VN
+NOMBRE: Loot Box - Moon Cake
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903050004.png

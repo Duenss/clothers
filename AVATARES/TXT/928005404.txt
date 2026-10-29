@@ -1,0 +1,8 @@
+ITEM ID: 928005404
+ICON ID: Icon_GroupPhoto_Bloodmoon26_icon
+NOMBRE: Under the Scarlet Moon
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Under the Scarlet Moon
+IMAGEN: AVATARES/imagenes/928005404.png

@@ -1,0 +1,8 @@
+ITEM ID: 710033067
+ICON ID: Icon_bundle_male_Fastbreaking22_02_33
+NOMBRE: Timbered Charmer (Nebula) Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710033067.png

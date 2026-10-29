@@ -1,0 +1,8 @@
+ITEM ID: 400030142
+ICON ID: Icon_box_3
+NOMBRE: Fashion III
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Common use
+IMAGEN: ROPA/imagenes/400030142.png

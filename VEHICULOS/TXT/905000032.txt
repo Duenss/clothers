@@ -1,0 +1,8 @@
+ITEM ID: 905000032
+ICON ID: Icon_Avatar_PARACHUTE_8bit_EP1
+NOMBRE: Parachute - Level 1
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000032.png

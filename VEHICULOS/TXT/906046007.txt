@@ -1,0 +1,8 @@
+ITEM ID: 906046007
+ICON ID: Icon_Avatar_Surfboard_Loyfest
+NOMBRE: Skyboard - Loy Float
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906046007.png

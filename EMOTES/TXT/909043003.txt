@@ -1,0 +1,8 @@
+ITEM ID: 909043003
+ICON ID: Icon_Emote_Aprilfool24
+NOMBRE: Emperor's Treasure Machine
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909043003.png

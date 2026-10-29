@@ -1,0 +1,8 @@
+ITEM ID: 204037045
+ICON ID: Icon_avatar_male_cos_bottom_emoji_01
+NOMBRE: Neon Blast (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037045.png

@@ -1,0 +1,8 @@
+ITEM ID: 204040042
+ICON ID: Icon_avatar_cos_bottom_elephant_black
+NOMBRE: Plaid Casual Pants
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040042.png

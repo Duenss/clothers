@@ -1,0 +1,8 @@
+ITEM ID: 400029044
+ICON ID: Icon_box_3
+NOMBRE: Box 62
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400029044.png

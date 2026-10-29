@@ -1,0 +1,8 @@
+ITEM ID: 903050010
+ICON ID: Icon_Deadloot_Cloudyday
+NOMBRE: Loot Box - Cloud Spark
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903050010.png

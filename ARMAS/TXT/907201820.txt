@@ -1,0 +1,8 @@
+ITEM ID: 907201820
+ICON ID: Icon_SKS_Fireskeleton
+NOMBRE: SKS - Flaming Skull
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201820.png

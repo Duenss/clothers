@@ -1,0 +1,8 @@
+ITEM ID: 710053100
+ICON ID: FF_UI_Voiceitem_RonaldoLATAM53
+NOMBRE: Ronaldinho Voice Pack
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho voice pack
+IMAGEN: MUSICA/imagenes/710053100.png

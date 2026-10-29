@@ -1,0 +1,8 @@
+ITEM ID: 906033002
+ICON ID: Icon_Avatar_Surfboard_Chess
+NOMBRE: Skyboard - Knight Gleam
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906033002.png

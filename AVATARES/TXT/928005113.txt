@@ -1,0 +1,8 @@
+ITEM ID: 928005113
+ICON ID: Icon_GroupPhoto_Booyahtogather_icon
+NOMBRE: Super Squad
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Super Squad
+IMAGEN: AVATARES/imagenes/928005113.png

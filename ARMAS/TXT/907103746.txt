@@ -1,0 +1,8 @@
+ITEM ID: 907103746
+ICON ID: Icon_GlooShield_Culture_VN
+NOMBRE: Gloo Wall - Floral Flair
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103746.png

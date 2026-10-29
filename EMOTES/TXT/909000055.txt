@@ -1,0 +1,8 @@
+ITEM ID: 909000055
+ICON ID: Icon_Emote_Jumpsuit1
+NOMBRE: I'm Rich!
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000055.png

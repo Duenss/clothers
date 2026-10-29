@@ -1,0 +1,8 @@
+ITEM ID: 907104647
+ICON ID: Icon_GlooShield_Lightfest24
+NOMBRE: Gloo Wall - Light Fest
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104647.png

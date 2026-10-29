@@ -1,0 +1,8 @@
+ITEM ID: 211055020
+ICON ID: Icon_avatar_male_cos_accessory_sugarskull26
+NOMBRE: Phantom Desperado (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055020.png

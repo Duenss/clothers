@@ -1,0 +1,8 @@
+ITEM ID: 907103809
+ICON ID: Icon_Superheat_Gun_Valentine23
+NOMBRE: PLASMA - Sickly Sweet
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103809.png

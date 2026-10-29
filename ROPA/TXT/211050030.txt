@@ -1,0 +1,8 @@
+ITEM ID: 211050030
+ICON ID: Icon_avatar_cos_accessory_batik
+NOMBRE: Golden Twilight (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050030.png

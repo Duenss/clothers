@@ -1,0 +1,8 @@
+ITEM ID: 214043009
+ICON ID: Icon_avatar_cos_headadditive_fashionist3_fp
+NOMBRE: Rider Facepaint
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214043009.png

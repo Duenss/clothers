@@ -1,0 +1,8 @@
+ITEM ID: 211047040
+ICON ID: Icon_avatar_female_cos_accessory_brrapper_47
+NOMBRE: Groupie Style (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047040.png

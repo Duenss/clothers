@@ -1,0 +1,8 @@
+ITEM ID: 400031013
+ICON ID: Icon_ff_Petfood
+NOMBRE: Pet Food Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive exciting rewards.
+IMAGEN: CAJAS/imagenes/400031013.png

@@ -1,0 +1,8 @@
+ITEM ID: 203040008
+ICON ID: Icon_avatar_male_cos_top_traphiphop22_silver
+NOMBRE: T.R.A.P. Hall (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040008.png

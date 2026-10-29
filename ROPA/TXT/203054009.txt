@@ -1,0 +1,8 @@
+ITEM ID: 203054009
+ICON ID: Icon_avatar_male_cos_top_bloodmoon26
+NOMBRE: Scarlet Warrior (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054009.png

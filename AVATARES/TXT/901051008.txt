@@ -1,0 +1,8 @@
+ITEM ID: 901051008
+ICON ID: Icon_callsign_storebg_CSRank34_01
+NOMBRE: CS-Ranked S34 Heroic Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901051008.png

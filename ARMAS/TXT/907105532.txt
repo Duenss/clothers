@@ -1,0 +1,8 @@
+ITEM ID: 907105532
+ICON ID: Icon_Fist_Blackdress26
+NOMBRE: Fist - Cosmic Comet
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105532.png

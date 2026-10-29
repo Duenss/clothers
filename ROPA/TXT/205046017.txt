@@ -1,0 +1,8 @@
+ITEM ID: 205046017
+ICON ID: Icon_avatar_male_cos_shoe_lightfest24_bear
+NOMBRE: Grizzly Born (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046017.png

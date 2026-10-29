@@ -1,0 +1,8 @@
+ITEM ID: 400026112
+ICON ID: Icon_face_male_sc_Delivery
+NOMBRE: Shirou's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Open to Receive Memory Fragment (Shirou)
+IMAGEN: CAJAS/imagenes/400026112.png

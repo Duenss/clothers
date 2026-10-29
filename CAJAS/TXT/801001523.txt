@@ -1,0 +1,8 @@
+ITEM ID: 801001523
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Bear Slippers Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Bear Slippers Token
+IMAGEN: CAJAS/imagenes/801001523.png

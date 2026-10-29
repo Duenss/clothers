@@ -1,0 +1,8 @@
+ITEM ID: 912053004
+ICON ID: Icon_GroupAnim_Bluetears
+NOMBRE: Undersea Splatter
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912053004.png

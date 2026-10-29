@@ -1,0 +1,8 @@
+ITEM ID: 904000076
+ICON ID: Icon_Bag_BloodMoonMK202
+NOMBRE: Backpack - Blood Rush
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000076.png

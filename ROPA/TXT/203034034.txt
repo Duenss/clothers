@@ -1,0 +1,8 @@
+ITEM ID: 203034034
+ICON ID: Icon_avatar_cos_top_bis
+NOMBRE: Digital Dasher (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034034.png

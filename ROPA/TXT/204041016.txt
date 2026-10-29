@@ -1,0 +1,8 @@
+ITEM ID: 204041016
+ICON ID: Icon_avatar_male_cos_bottom_urbanblock
+NOMBRE: Concrete Warrior (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041016.png

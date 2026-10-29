@@ -1,0 +1,8 @@
+ITEM ID: 905050006
+ICON ID: Icon_Avatar_PARACHUTE_Bull25
+NOMBRE: Parachute - Red Bull Energy
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905050006.png

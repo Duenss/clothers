@@ -1,0 +1,8 @@
+ITEM ID: 211050027
+ICON ID: Icon_avatar_male_cos_accessory_fighter_duo
+NOMBRE: Volcanic Might (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050027.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030196
+ICON ID: Icon_box_3
+NOMBRE: Chrono Top Scorer Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Chrono Top Scorer and all it's pieces
+IMAGEN: ROPA/imagenes/400030196.png

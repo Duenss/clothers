@@ -1,0 +1,8 @@
+ITEM ID: 400001045
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda Ultimate Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive all Plan Bermuda rewards
+IMAGEN: ROPA/imagenes/400001045.png

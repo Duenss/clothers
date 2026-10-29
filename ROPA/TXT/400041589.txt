@@ -1,0 +1,8 @@
+ITEM ID: 400041589
+ICON ID: Icon_box_3
+NOMBRE: Time-limited Rank Store Outfit Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive a random piece of outfit from the Rank Exchange Store (Past Season)
+IMAGEN: ROPA/imagenes/400041589.png

@@ -1,0 +1,8 @@
+ITEM ID: 204044011
+ICON ID: Icon_avatar_male_cos_bottom_crystal
+NOMBRE: Icicle Edge (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044011.png

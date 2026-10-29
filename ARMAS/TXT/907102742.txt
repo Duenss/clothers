@@ -1,0 +1,8 @@
+ITEM ID: 907102742
+ICON ID: Icon_GlooShield_Thunder
+NOMBRE: Gloo Wall - Ultra Voltage
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102742.png

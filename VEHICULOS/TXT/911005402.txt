@@ -1,0 +1,8 @@
+ITEM ID: 911005402
+ICON ID: Icon_Mounts_flymove_Ninth
+NOMBRE: Fractured Descent
+TIPO: Skywings
+RAREZA: RED (Artifact)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005402.png

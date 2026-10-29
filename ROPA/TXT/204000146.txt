@@ -1,0 +1,8 @@
+ITEM ID: 204000146
+ICON ID: Icon_avatar_bottom_cos_rog
+NOMBRE: ROG Exclusive Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000146.png

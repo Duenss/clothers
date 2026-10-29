@@ -1,0 +1,8 @@
+ITEM ID: 170042505
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Rare Choice Box
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170042505.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000221
+ICON ID: Icon_face_male_sc_gangleader
+NOMBRE: Antonio's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to Receive Memory Fragment (Antonio)
+IMAGEN: CAJAS/imagenes/400000221.png

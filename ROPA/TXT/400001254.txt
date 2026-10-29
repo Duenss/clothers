@@ -1,0 +1,8 @@
+ITEM ID: 400001254
+ICON ID: Icon_box_3
+NOMBRE: Mad Brickman Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Mad Brickman and all its pieces
+IMAGEN: ROPA/imagenes/400001254.png

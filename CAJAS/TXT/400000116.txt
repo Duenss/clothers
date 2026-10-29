@@ -1,0 +1,8 @@
+ITEM ID: 400000116
+ICON ID: Icon_box_special
+NOMBRE: E-Money Bank Mandiri Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a randomly selected item
+IMAGEN: CAJAS/imagenes/400000116.png

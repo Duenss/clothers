@@ -1,0 +1,8 @@
+ITEM ID: 805000014
+ICON ID: FF_UI_Character_Icon_A_Alvaro_Emblem
+NOMBRE: Alvaro Awakening Emblem
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Holding a mysterious power within, this Emblem may be used to awaken Alvaro
+IMAGEN: OTROS/imagenes/805000014.png

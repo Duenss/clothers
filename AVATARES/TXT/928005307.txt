@@ -1,0 +1,8 @@
+ITEM ID: 928005307
+ICON ID: Icon_GroupPhoto_TH_NY_icon
+NOMBRE: Nanyang Style
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Nanyang Style
+IMAGEN: AVATARES/imagenes/928005307.png

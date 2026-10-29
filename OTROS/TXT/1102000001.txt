@@ -1,0 +1,8 @@
+ITEM ID: 1102000001
+ICON ID: Icon_exp_up_card_50
+NOMBRE: 50% EXP Card
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: 50% EXP UP
+IMAGEN: OTROS/imagenes/1102000001.png

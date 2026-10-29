@@ -1,0 +1,8 @@
+ITEM ID: 902028002
+ICON ID: Icon_face_Pursuer_EP_B
+NOMBRE: Guns for Hire
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028002.png

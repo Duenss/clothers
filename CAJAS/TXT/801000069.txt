@@ -1,0 +1,8 @@
+ITEM ID: 801000069
+ICON ID: Icon_exchange_bianpaotong
+NOMBRE: Firecracker
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000069.png

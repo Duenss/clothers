@@ -1,0 +1,8 @@
+ITEM ID: 204037003
+ICON ID: Icon_avatar_male_cos_bottom_surveillance_yellow
+NOMBRE: Cloaked Doom (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037003.png

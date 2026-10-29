@@ -1,0 +1,8 @@
+ITEM ID: 800000001
+ICON ID: Icon_face_male_sc_Cop
+NOMBRE: Memory Fragment (Andrew)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000001.png

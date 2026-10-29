@@ -1,0 +1,8 @@
+ITEM ID: 907102534
+ICON ID: Icon_M4A1_Megapunch
+NOMBRE: M4A1 - Genos
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102534.png

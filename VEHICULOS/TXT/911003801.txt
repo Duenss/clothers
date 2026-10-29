@@ -1,0 +1,8 @@
+ITEM ID: 911003801
+ICON ID: Icon_Mounts_Koi
+NOMBRE: Koi Skyfin
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911003801.png

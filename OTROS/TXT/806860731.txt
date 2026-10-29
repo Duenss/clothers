@@ -1,0 +1,8 @@
+ITEM ID: 806860731
+ICON ID: Icon_Vbadge01
+NOMBRE: Rising Star
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: User can put secret presents such as loadout, Gold, or Vouchers in the cabin. Presents available for 10 players.
+IMAGEN: (no disponible)

@@ -1,0 +1,8 @@
+ITEM ID: 908028006
+ICON ID: Icon_slot_SUV_Scarecrow
+NOMBRE: Pickup Truck - Wildland Walkers
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028006.png

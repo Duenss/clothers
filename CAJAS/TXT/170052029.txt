@@ -1,0 +1,8 @@
+ITEM ID: 170052029
+ICON ID: Icon_OptionalBundle_ngpscc_LOT_52
+NOMBRE: Newbie Green Pet Skin Choice Crate
+TIPO: Choice Crates
+RAREZA: GREEN (Uncommon)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052029.png

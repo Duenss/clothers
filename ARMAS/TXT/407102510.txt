@@ -1,0 +1,8 @@
+ITEM ID: 407102510
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Vector Taunting Smile Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: Open to receive the Vector Taunting Smile gun skin
+IMAGEN: ARMAS/imagenes/407102510.png

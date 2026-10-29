@@ -1,0 +1,8 @@
+ITEM ID: 906032003
+ICON ID: Icon_Avatar_Surfboard_Falconer
+NOMBRE: Skyboard - Number 1
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906032003.png

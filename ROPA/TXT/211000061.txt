@@ -1,0 +1,8 @@
+ITEM ID: 211000061
+ICON ID: Icon_avatar_male_hair_cos_sponsor
+NOMBRE: Racer Cap (Male)
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000061.png

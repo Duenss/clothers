@@ -1,0 +1,8 @@
+ITEM ID: 922042006
+ICON ID: UI_Icon_SkillSkin_MonkeyGod
+NOMBRE: Skill Skin: Camouflage
+TIPO: Skill Skins
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922042006.png

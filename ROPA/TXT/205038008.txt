@@ -1,0 +1,8 @@
+ITEM ID: 205038008
+ICON ID: Icon_avatar_female_cos_shoe_cloisonne
+NOMBRE: Neo Evergreen (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038008.png

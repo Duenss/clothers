@@ -1,0 +1,8 @@
+ITEM ID: 205000880
+ICON ID: Icon_avatar_male_cos_shoe_hurricane_la
+NOMBRE: Thunder Electrified (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000880.png

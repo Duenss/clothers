@@ -1,0 +1,8 @@
+ITEM ID: 909047006
+ICON ID: Icon_Emote_Superstar24
+NOMBRE: Acceptance Speech
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047006.png

@@ -1,0 +1,8 @@
+ITEM ID: 818350831
+ICON ID: FF_Lottery_Obito_Voucher
+NOMBRE: Obito Wheel Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/818350831.png

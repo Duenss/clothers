@@ -1,0 +1,8 @@
+ITEM ID: 907105207
+ICON ID: Icon_M14_Carnival26
+NOMBRE: M14 - Flamed Beat
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105207.png

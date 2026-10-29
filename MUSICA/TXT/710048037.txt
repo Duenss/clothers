@@ -1,0 +1,8 @@
+ITEM ID: 710048037
+ICON ID: FF_UI_Voiceitem_ID48PT
+NOMBRE: Pemuda Tersesat Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Pemuda Tersesat Voice Pack
+IMAGEN: MUSICA/imagenes/710048037.png

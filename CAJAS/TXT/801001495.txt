@@ -1,0 +1,8 @@
+ITEM ID: 801001495
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Children's Day Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy Children's Day!
+IMAGEN: CAJAS/imagenes/801001495.png

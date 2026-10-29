@@ -1,0 +1,8 @@
+ITEM ID: 400000514
+ICON ID: Icon_box_3
+NOMBRE: Birthday Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A cake that says "08.25 2nd Anniversary"\n on it.
+IMAGEN: ROPA/imagenes/400000514.png

@@ -1,0 +1,8 @@
+ITEM ID: 801040542
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Token Buku
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Back to school
+IMAGEN: CAJAS/imagenes/801040542.png

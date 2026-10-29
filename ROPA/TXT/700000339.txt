@@ -1,0 +1,8 @@
+ITEM ID: 700000339
+ICON ID: Icon_box_3
+NOMBRE: Special Luck Royale Voucher Package
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a lot of Luck Royale vouchers!
+IMAGEN: ROPA/imagenes/700000339.png

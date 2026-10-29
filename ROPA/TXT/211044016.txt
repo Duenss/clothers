@@ -1,0 +1,8 @@
+ITEM ID: 211044016
+ICON ID: Icon_avatar_male_cos_hair_chosen
+NOMBRE: The Destined One (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044016.png

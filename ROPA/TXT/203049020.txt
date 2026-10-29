@@ -1,0 +1,8 @@
+ITEM ID: 203049020
+ICON ID: Icon_avatar_male_cos_top_eighth_free
+NOMBRE: Beyond Infinity (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049020.png

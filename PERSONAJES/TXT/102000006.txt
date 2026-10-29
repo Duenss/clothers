@@ -1,0 +1,8 @@
+ITEM ID: 102000006
+ICON ID: Icon_face_male_head_sc_seaman
+NOMBRE: Ford
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Ford is trained at sea and extremely tough.
+IMAGEN: PERSONAJES/imagenes/102000006.png

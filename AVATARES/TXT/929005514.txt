@@ -1,0 +1,8 @@
+ITEM ID: 929005514
+ICON ID: Icon_Photostickeritem_Storm26_02
+NOMBRE: FFWS Champion Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: FFWS Champion Sticker
+IMAGEN: AVATARES/imagenes/929005514.png

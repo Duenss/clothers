@@ -1,0 +1,8 @@
+ITEM ID: 801039055
+ICON ID: FF_UI_Fishtank_Token
+NOMBRE: BP S4 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: Use to purchase tailor options for the Wave Watchers theme in the Tailor system.
+IMAGEN: CAJAS/imagenes/801039055.png

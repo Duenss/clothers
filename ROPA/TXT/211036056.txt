@@ -1,0 +1,8 @@
+ITEM ID: 211036056
+ICON ID: Icon_avatar_cos_accessory_lightfest22_mask
+NOMBRE: The Royal Bite
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036056.png

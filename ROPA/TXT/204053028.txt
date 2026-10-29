@@ -1,0 +1,8 @@
+ITEM ID: 204053028
+ICON ID: Icon_avatar_cos_bottom_br_soccer_blue
+NOMBRE: Brazil 2026 Away Jersey (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053028.png

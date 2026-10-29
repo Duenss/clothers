@@ -1,0 +1,8 @@
+ITEM ID: 907001428
+ICON ID: Icon_Songkran_Grenade
+NOMBRE: Angry Shark
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001428.png

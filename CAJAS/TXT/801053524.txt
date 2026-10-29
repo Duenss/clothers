@@ -1,0 +1,8 @@
+ITEM ID: 801053524
+ICON ID: Icon_exchange_avdt_th_53
+NOMBRE: AVD Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053524.png

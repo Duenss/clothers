@@ -1,0 +1,8 @@
+ITEM ID: 801000086
+ICON ID: Icon_exchange_TH_Championship_2019
+NOMBRE: Thai League Trophy
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000086.png

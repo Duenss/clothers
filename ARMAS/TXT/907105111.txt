@@ -1,0 +1,8 @@
+ITEM ID: 907105111
+ICON ID: Icon_M1917_Bathtub_Blue
+NOMBRE: M1917 - Bubble Trouble
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105111.png

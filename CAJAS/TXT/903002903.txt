@@ -1,0 +1,8 @@
+ITEM ID: 903002903
+ICON ID: Icon_Deadloot_Musicfest_A
+NOMBRE: Loot Box - Thrash Goth
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002903.png

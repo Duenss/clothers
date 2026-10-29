@@ -1,0 +1,8 @@
+ITEM ID: 907105434
+ICON ID: Icon_Baseballbat_Virgo26
+NOMBRE: Bat - Spica Shimmer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105434.png

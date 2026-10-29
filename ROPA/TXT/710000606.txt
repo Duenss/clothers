@@ -1,0 +1,8 @@
+ITEM ID: 710000606
+ICON ID: Icon_female_valentine2020
+NOMBRE: Heartthrob (Female) Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000606.png

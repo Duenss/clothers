@@ -1,0 +1,8 @@
+ITEM ID: 904590059
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Headshot Artist
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "Headshot Prodigy" achievement
+IMAGEN: AVATARES/imagenes/904590059.png

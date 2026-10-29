@@ -1,0 +1,8 @@
+ITEM ID: 907105225
+ICON ID: Icon_ThrowingKnife_Aprilfool26
+NOMBRE: Dagger - Silent Quack
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105225.png

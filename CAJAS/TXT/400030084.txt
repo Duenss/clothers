@@ -1,0 +1,8 @@
+ITEM ID: 400030084
+ICON ID: Icon_box_BooyahDay_blue_30
+NOMBRE: UMP - Booyah Day Token Box 1
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400030084.png

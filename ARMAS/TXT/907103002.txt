@@ -1,0 +1,8 @@
+ITEM ID: 907103002
+ICON ID: Icon_Kord_Sugarskull21
+NOMBRE: Kord - Goldrim Tribute
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103002.png

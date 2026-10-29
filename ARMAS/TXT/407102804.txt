@@ -1,0 +1,8 @@
+ITEM ID: 407102804
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Lethal Finstooth Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive a random gun skin (MAG-7, PARAFAL) from the Lethal Finstooth weapon set.
+IMAGEN: ARMAS/imagenes/407102804.png

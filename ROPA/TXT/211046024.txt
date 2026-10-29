@@ -1,0 +1,8 @@
+ITEM ID: 211046024
+ICON ID: Icon_avatar_cos_hair_school_vn
+NOMBRE: Top of Class (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046024.png

@@ -1,0 +1,8 @@
+ITEM ID: 710034020
+ICON ID: Icon_bundle_male_madbionic_34
+NOMBRE: Magma Bionicon Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710034020.png

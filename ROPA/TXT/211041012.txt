@@ -1,0 +1,8 @@
+ITEM ID: 211041012
+ICON ID: Icon_avatar_male_cos_accessory_slime_01
+NOMBRE: Jelly Possession (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041012.png

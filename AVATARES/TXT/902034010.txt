@@ -1,0 +1,8 @@
+ITEM ID: 902034010
+ICON ID: Icon_face_Rampage4_04
+NOMBRE: Rampage Myst Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034010.png

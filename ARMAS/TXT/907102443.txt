@@ -1,0 +1,8 @@
+ITEM ID: 907102443
+ICON ID: Icon_GlooShield_Booyahday
+NOMBRE: Gloo Wall - Booyah Day
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102443.png

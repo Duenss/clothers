@@ -1,0 +1,8 @@
+ITEM ID: 907104416
+ICON ID: Icon_Baseballbat_Festivalpk24
+NOMBRE: Bat - Beam of Silence
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104416.png

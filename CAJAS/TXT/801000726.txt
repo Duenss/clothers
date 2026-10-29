@@ -1,0 +1,8 @@
+ITEM ID: 801000726
+ICON ID: Icon_exchange_ob25_12_12_token
+NOMBRE: 12/12 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Happy 12/12
+IMAGEN: CAJAS/imagenes/801000726.png

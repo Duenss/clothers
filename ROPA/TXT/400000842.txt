@@ -1,0 +1,8 @@
+ITEM ID: 400000842
+ICON ID: Icon_box_3
+NOMBRE: Backpack Villain 3-in-1 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Backpack Villain and other rewards
+IMAGEN: ROPA/imagenes/400000842.png

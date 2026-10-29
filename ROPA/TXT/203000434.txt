@@ -1,0 +1,8 @@
+ITEM ID: 203000434
+ICON ID: Icon_avatar_top_kingsglaive_N
+NOMBRE: FFWC T-Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000434.png

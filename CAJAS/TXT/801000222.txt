@@ -1,0 +1,8 @@
+ITEM ID: 801000222
+ICON ID: Icon_exchange_Pro_League_10
+NOMBRE: Pro League Badge 10
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000222.png

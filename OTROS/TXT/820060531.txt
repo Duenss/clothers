@@ -1,0 +1,8 @@
+ITEM ID: 820060531
+ICON ID: FF_Lottery_FlipBooth_53_Voucher
+NOMBRE: Flip Booth Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use this voucher to purchase exciting prizes in the Deluxe Menu!
+IMAGEN: OTROS/imagenes/820060531.png

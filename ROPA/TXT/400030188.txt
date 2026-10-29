@@ -1,0 +1,8 @@
+ITEM ID: 400030188
+ICON ID: Icon_box_3
+NOMBRE: Cosmic Teleportia Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Cosmic Teleportia and all it's pieces
+IMAGEN: ROPA/imagenes/400030188.png

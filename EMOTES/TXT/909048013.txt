@@ -1,0 +1,8 @@
+ITEM ID: 909048013
+ICON ID: Icon_Emote_Carnival25
+NOMBRE: Carnival Funk
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048013.png

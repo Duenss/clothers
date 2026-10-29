@@ -1,0 +1,8 @@
+ITEM ID: 902027025
+ICON ID: Icon_face_CSRANK_TOP_LV4
+NOMBRE: Clash Squad Grandmaster Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027025.png

@@ -1,0 +1,8 @@
+ITEM ID: 211048041
+ICON ID: Icon_avatar_male_cos_accessory_blackdress
+NOMBRE: Dark Matter (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048041.png

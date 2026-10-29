@@ -1,0 +1,8 @@
+ITEM ID: 211042035
+ICON ID: Icon_avatar_cos_hair_winterfest23_headphone
+NOMBRE: Icy Goggles
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042035.png

@@ -1,0 +1,8 @@
+ITEM ID: 407103602
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Pigment Splash (AK47 + MP5) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Open to receive a random gun skin (AK47 + MP5) from the Pigment Splash weapon set
+IMAGEN: ARMAS/imagenes/407103602.png

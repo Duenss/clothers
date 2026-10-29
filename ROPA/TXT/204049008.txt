@@ -1,0 +1,8 @@
+ITEM ID: 204049008
+ICON ID: Icon_avatar_male_cos_bottom_prison25
+NOMBRE: Striped Swag (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204049008.png

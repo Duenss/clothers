@@ -1,0 +1,8 @@
+ITEM ID: 211046028
+ICON ID: Icon_avatar_cos_hair_loyfest
+NOMBRE: Loy Lotus (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046028.png

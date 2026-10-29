@@ -1,0 +1,8 @@
+ITEM ID: 204000009
+ICON ID: Icon_avatar_jeans_1
+NOMBRE: Jeans (Blue)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000009.png

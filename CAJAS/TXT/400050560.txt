@@ -1,0 +1,8 @@
+ITEM ID: 400050560
+ICON ID: Icon_box_TSFB1_TH_50
+NOMBRE: Trend Setter Fashion Box 3
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050560.png

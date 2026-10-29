@@ -1,0 +1,8 @@
+ITEM ID: 400033100
+ICON ID: Icon_box_3
+NOMBRE: Jewel Mystified Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Jewel Mystified and all it's pieces
+IMAGEN: ROPA/imagenes/400033100.png

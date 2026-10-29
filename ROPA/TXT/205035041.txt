@@ -1,0 +1,8 @@
+ITEM ID: 205035041
+ICON ID: Icon_avatar_cos_shoe_cateam_01
+NOMBRE: Club America Home (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205035041.png

@@ -1,0 +1,8 @@
+ITEM ID: 214049006
+ICON ID: Icon_avatar_cos_headadditive_monogram_fp
+NOMBRE: Monson Mark Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214049006.png

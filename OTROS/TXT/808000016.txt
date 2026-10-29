@@ -1,0 +1,8 @@
+ITEM ID: 808000016
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Tagger Set
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Tagger Set
+IMAGEN: OTROS/imagenes/808000016.png

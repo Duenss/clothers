@@ -1,0 +1,8 @@
+ITEM ID: 400000457
+ICON ID: Icon_box_3
+NOMBRE: Random Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Random Box
+IMAGEN: ROPA/imagenes/400000457.png

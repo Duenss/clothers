@@ -1,0 +1,8 @@
+ITEM ID: 400035131
+ICON ID: Icon_box_3
+NOMBRE: Iris Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains Character Iris and many other rewards
+IMAGEN: ROPA/imagenes/400035131.png

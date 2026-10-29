@@ -1,0 +1,8 @@
+ITEM ID: 203001089
+ICON ID: Icon_avatar_male_top_cos_foursymbols_a
+NOMBRE: Azure Stormbringer (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001089.png

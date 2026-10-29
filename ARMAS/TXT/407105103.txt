@@ -1,0 +1,8 @@
+ITEM ID: 407105103
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Dreamspace (XM8) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a random gun skin (XM8) from the Dreamspace set
+IMAGEN: ARMAS/imagenes/407105103.png

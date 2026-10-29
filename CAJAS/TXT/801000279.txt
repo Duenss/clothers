@@ -1,0 +1,8 @@
+ITEM ID: 801000279
+ICON ID: Icon_exchange_Flashbang
+NOMBRE: Flashbang Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: It does seem quite flashy.
+IMAGEN: CAJAS/imagenes/801000279.png

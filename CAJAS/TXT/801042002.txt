@@ -1,0 +1,8 @@
+ITEM ID: 801042002
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Light Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801042002.png

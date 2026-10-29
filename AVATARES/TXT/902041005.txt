@@ -1,0 +1,8 @@
+ITEM ID: 902041005
+ICON ID: Icon_face_Assassingirl_Q
+NOMBRE: Suzy Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902041005.png

@@ -1,0 +1,8 @@
+ITEM ID: 204039030
+ICON ID: Icon_avatar_cos_bottom_braveman
+NOMBRE: FFML Phantom Eagle (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039030.png

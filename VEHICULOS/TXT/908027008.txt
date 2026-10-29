@@ -1,0 +1,8 @@
+ITEM ID: 908027008
+ICON ID: Icon_slot_SUV_Waterfest21
+NOMBRE: Pickup Truck - Summer Heat
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908027008.png

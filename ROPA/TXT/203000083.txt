@@ -1,0 +1,8 @@
+ITEM ID: 203000083
+ICON ID: Icon_avatar_tshirt_animal_pufferfish
+NOMBRE: Puffyfish
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000083.png

@@ -1,0 +1,8 @@
+ITEM ID: 770000009
+ICON ID: Icon_box_3
+NOMBRE: Daily Bonus Reward
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: G18 - Lava Lustre
+IMAGEN: ROPA/imagenes/770000009.png

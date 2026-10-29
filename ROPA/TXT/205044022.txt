@@ -1,0 +1,8 @@
+ITEM ID: 205044022
+ICON ID: Icon_avatar_male_cos_shoe_carnivore
+NOMBRE: Poison Flytrap (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044022.png

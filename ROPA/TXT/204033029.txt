@@ -1,0 +1,8 @@
+ITEM ID: 204033029
+ICON ID: Icon_avatar_male_cos_bottom_ffunit2
+NOMBRE: Shadow Rogue (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033029.png

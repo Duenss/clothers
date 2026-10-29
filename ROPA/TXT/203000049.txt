@@ -1,0 +1,8 @@
+ITEM ID: 203000049
+ICON ID: Icon_avatar_undershirt_newyear_1
+NOMBRE: Singlet (Black 2018)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000049.png

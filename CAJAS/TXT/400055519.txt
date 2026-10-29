@@ -1,0 +1,8 @@
+ITEM ID: 400055519
+ICON ID: Icon_box_Campuslb2_TW_55
+NOMBRE: Campus Lucky Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055519.png

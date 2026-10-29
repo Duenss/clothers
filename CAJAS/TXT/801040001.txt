@@ -1,0 +1,8 @@
+ITEM ID: 801040001
+ICON ID: FF_UI_Traphiphop22_Token
+NOMBRE: BP S7 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801040001.png

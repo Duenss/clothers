@@ -1,0 +1,8 @@
+ITEM ID: 1310000235
+ICON ID: Icon_Pet_Wolf_Scarlet
+NOMBRE: Pet Skin: Scorpio Fang
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Ferocious!
+IMAGEN: MASCOTAS/imagenes/1310000235.png

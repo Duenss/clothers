@@ -1,0 +1,8 @@
+ITEM ID: 801046008
+ICON ID: Icon_exchange_ntk9_47
+NOMBRE: Water Scroll
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046008.png

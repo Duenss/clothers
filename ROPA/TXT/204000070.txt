@@ -1,0 +1,8 @@
+ITEM ID: 204000070
+ICON ID: Icon_Avatar_Male_GSL_Short
+NOMBRE: GW2018 Shorts (Male)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000070.png

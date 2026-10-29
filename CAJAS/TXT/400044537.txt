@@ -1,0 +1,8 @@
+ITEM ID: 400044537
+ICON ID: Icon_box_Top_notch_Fashion_TH_44
+NOMBRE: Top-Notch Fashion Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044537.png

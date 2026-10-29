@@ -1,0 +1,8 @@
+ITEM ID: 710043140
+ICON ID: Icon_box_3
+NOMBRE: Special Chest
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: Special Chest
+IMAGEN: ROPA/imagenes/710043140.png

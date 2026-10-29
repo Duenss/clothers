@@ -1,0 +1,8 @@
+ITEM ID: 909045006
+ICON ID: Icon_Emote_Meme3
+NOMBRE: You Know I'm Good
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909045006.png

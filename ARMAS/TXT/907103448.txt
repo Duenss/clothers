@@ -1,0 +1,8 @@
+ITEM ID: 907103448
+ICON ID: Icon_GlooShield_BIS
+NOMBRE: Gloo Wall - Digi Smiley
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103448.png

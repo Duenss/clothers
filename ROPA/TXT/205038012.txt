@@ -1,0 +1,8 @@
+ITEM ID: 205038012
+ICON ID: Icon_avatar_female_cos_shoe_valentine23
+NOMBRE: Cutthroat Candy (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038012.png

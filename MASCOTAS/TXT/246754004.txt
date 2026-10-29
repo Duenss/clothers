@@ -1,0 +1,8 @@
+ITEM ID: 246754004
+ICON ID: Icon_SparkPet_Hand_Balloon_Red
+NOMBRE: Red & Purple Balloons
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Red & Purple Balloons
+IMAGEN: MASCOTAS/imagenes/246754004.png

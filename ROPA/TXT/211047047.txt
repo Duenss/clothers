@@ -1,0 +1,8 @@
+ITEM ID: 211047047
+ICON ID: Icon_avatar_male_cos_accessory_nb_ji
+NOMBRE: Jiraiya Headwear
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047047.png

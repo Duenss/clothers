@@ -1,0 +1,8 @@
+ITEM ID: 907105337
+ICON ID: Icon_Gemini25_Grenade
+NOMBRE: Grenade - Twinstars Aura
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105337.png

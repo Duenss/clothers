@@ -1,0 +1,8 @@
+ITEM ID: 205048007
+ICON ID: Icon_avatar_male_cos_shoe_cityhero_blue
+NOMBRE: Midnight Vanguard (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048007.png

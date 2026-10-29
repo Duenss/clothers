@@ -1,0 +1,8 @@
+ITEM ID: 904038005
+ICON ID: Icon_Bag_Valentine23
+NOMBRE: Backpack - Feathering
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038005.png

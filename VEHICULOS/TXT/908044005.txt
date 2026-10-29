@@ -1,0 +1,8 @@
+ITEM ID: 908044005
+ICON ID: Icon_slot_Motobike_Collage
+NOMBRE: Motorbike - Thunderstrokes
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908044005.png

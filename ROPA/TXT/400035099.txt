@@ -1,0 +1,8 @@
+ITEM ID: 400035099
+ICON ID: Icon_box_3
+NOMBRE: Choco Booster Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Contains Choco Booster and all its pieces
+IMAGEN: ROPA/imagenes/400035099.png

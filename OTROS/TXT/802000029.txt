@@ -1,0 +1,8 @@
+ITEM ID: 802000029
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: Football Royale Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use in Football Royale
+IMAGEN: OTROS/imagenes/802000029.png

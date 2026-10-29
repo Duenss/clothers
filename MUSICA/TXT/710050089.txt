@@ -1,0 +1,8 @@
+ITEM ID: 710050089
+ICON ID: FF_UI_Voiceitem_VA50
+NOMBRE: Trouble Night Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Trouble Night Voice Pack
+IMAGEN: MUSICA/imagenes/710050089.png

@@ -1,0 +1,8 @@
+ITEM ID: 400033099
+ICON ID: Icon_box_3
+NOMBRE: Night Provocateur Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Night Provocateur and all it's pieces
+IMAGEN: ROPA/imagenes/400033099.png

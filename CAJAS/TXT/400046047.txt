@@ -1,0 +1,8 @@
+ITEM ID: 400046047
+ICON ID: Icon_box_BP_S21_Pinata_46
+NOMBRE: BP S24 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046047.png

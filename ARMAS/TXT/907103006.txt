@@ -1,0 +1,8 @@
+ITEM ID: 907103006
+ICON ID: Icon_M21A5_ZAtribal
+NOMBRE: Woodpecker - Crimson Heir
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103006.png

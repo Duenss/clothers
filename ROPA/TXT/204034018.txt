@@ -1,0 +1,8 @@
+ITEM ID: 204034018
+ICON ID: Icon_avatar_male_cos_bottom_bloody_evil
+NOMBRE: Enflamed Terror (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034018.png

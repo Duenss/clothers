@@ -1,0 +1,8 @@
+ITEM ID: 906046004
+ICON ID: Icon_Avatar_Surfboard_Microwaves_Blue
+NOMBRE: Skyboard - Complete Combustion
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906046004.png

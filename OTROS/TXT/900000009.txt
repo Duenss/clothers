@@ -1,0 +1,8 @@
+ITEM ID: 900000009
+ICON ID: Icon_slot_MonsterTruck_Default
+NOMBRE: Default Monster Truck
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 4-seater with medium speed and high durability
+IMAGEN: OTROS/imagenes/900000009.png

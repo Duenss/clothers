@@ -1,0 +1,8 @@
+ITEM ID: 903041004
+ICON ID: Icon_Deadloot_Designertoys
+NOMBRE: Loot Box - Puppet Blind
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903041004.png

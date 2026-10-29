@@ -1,0 +1,8 @@
+ITEM ID: 801001459
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Neon Stick
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Use in Gen FF (Color Cheer) to win rewards!
+IMAGEN: CAJAS/imagenes/801001459.png

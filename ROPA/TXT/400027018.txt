@@ -1,0 +1,8 @@
+ITEM ID: 400027018
+ICON ID: Icon_box_3
+NOMBRE: Moony Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Pet Moony and many other rewards
+IMAGEN: ROPA/imagenes/400027018.png

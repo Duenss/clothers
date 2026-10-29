@@ -1,0 +1,8 @@
+ITEM ID: 907202023
+ICON ID: Icon_M14_Taggercrewgirl
+NOMBRE: M14 - Vandal Revolt
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202023.png

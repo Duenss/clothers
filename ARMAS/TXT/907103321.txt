@@ -1,0 +1,8 @@
+ITEM ID: 907103321
+ICON ID: Icon_SPAS12_Spiderlily
+NOMBRE: SPAS12 - Burning Lily
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103321.png

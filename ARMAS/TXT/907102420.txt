@@ -1,0 +1,8 @@
+ITEM ID: 907102420
+ICON ID: Icon_M500_Partygirl
+NOMBRE: M500 - Party Animal
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102420.png

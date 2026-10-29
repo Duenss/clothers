@@ -1,0 +1,8 @@
+ITEM ID: 921055008
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Black
+NOMBRE: Loser ninja.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Sasuke Voice Pack
+IMAGEN: MUSICA/imagenes/921055008.png

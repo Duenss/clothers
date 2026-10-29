@@ -1,0 +1,8 @@
+ITEM ID: 928005502
+ICON ID: Icon_GroupPhoto_NB1RE_CT_Pose_02_icon
+NOMBRE: Charging Rasengan
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Charging Rasengan
+IMAGEN: AVATARES/imagenes/928005502.png

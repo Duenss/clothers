@@ -1,0 +1,8 @@
+ITEM ID: 204051007
+ICON ID: Icon_avatar_cos_bottom_dreamland_nightmare
+NOMBRE: Nightmare (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051007.png

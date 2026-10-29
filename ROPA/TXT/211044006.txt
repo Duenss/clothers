@@ -1,0 +1,8 @@
+ITEM ID: 211044006
+ICON ID: Icon_avatar_male_cos_accessory_persona_yellow
+NOMBRE: Golden Paradox (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044006.png

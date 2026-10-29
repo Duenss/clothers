@@ -1,0 +1,8 @@
+ITEM ID: 407102807
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Merciless Necromancer (Kord) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive a random gun skin (Kord) from the Merciless Necromancer weapon set.
+IMAGEN: ARMAS/imagenes/407102807.png

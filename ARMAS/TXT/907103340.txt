@@ -1,0 +1,8 @@
+ITEM ID: 907103340
+ICON ID: Icon_FIST_Luchalibre2
+NOMBRE: Fist - Ember
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103340.png

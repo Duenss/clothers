@@ -1,0 +1,8 @@
+ITEM ID: 203000195
+ICON ID: Icon_avatar_tshirt_Germany
+NOMBRE: Iron Tank
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000195.png

@@ -1,0 +1,8 @@
+ITEM ID: 929005403
+ICON ID: Icon_Photostickeritem_Nineth_02
+NOMBRE: Anniversary Fracture Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Anniversary Fracture Sticker
+IMAGEN: AVATARES/imagenes/929005403.png

@@ -1,0 +1,8 @@
+ITEM ID: 908051005
+ICON ID: Icon_slot_Roadster_Gangster_Gold
+NOMBRE: Sports Car - Goldhand Wrecker
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051005.png

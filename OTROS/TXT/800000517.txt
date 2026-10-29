@@ -1,0 +1,8 @@
+ITEM ID: 800000517
+ICON ID: Icon_WSM_G18_Goal
+NOMBRE: G18 - Ultimate Achiever Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the G18 skin. Obtain from events or buy directly from the weapon upgrade store.
+IMAGEN: OTROS/imagenes/800000517.png

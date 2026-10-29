@@ -1,0 +1,8 @@
+ITEM ID: 921047017
+ICON ID: FF_UI_Voiceitem_Woodcrafter
+NOMBRE: Pushpa ante national anukuntiraa? Internationallu
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921047017.png

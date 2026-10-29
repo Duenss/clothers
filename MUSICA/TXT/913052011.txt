@@ -1,0 +1,8 @@
+ITEM ID: 913052011
+ICON ID: FF_UI_Vault_Music_Trea25
+NOMBRE: Lost Treasure
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Ramadan
+IMAGEN: MUSICA/imagenes/913052011.png

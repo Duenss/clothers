@@ -1,0 +1,8 @@
+ITEM ID: 203000149
+ICON ID: Icon_avatar_tshirt_mother
+NOMBRE: Mother's Day
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000149.png

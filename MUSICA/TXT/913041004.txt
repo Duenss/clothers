@@ -1,0 +1,8 @@
+ITEM ID: 913041004
+ICON ID: FF_UI_Vault_Music_Booyahday23
+NOMBRE: Booyah Day 2023
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Booyah Day 2023 lobby music
+IMAGEN: MUSICA/imagenes/913041004.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000207
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive tons of exclusive weapon supplies
+IMAGEN: ROPA/imagenes/700000207.png

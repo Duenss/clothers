@@ -1,0 +1,8 @@
+ITEM ID: 211000003
+ICON ID: Icon_Avatar_hair_cos_outdoor_Camouflage
+NOMBRE: Jungle Hat
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000003.png

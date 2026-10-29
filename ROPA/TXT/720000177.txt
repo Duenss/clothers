@@ -1,0 +1,8 @@
+ITEM ID: 720000177
+ICON ID: Icon_avatar_accessory_cos_prajna
+NOMBRE: Warrior Box
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to get exciting rewards!
+IMAGEN: ROPA/imagenes/720000177.png

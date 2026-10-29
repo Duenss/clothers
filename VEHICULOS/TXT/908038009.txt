@@ -1,0 +1,8 @@
+ITEM ID: 908038009
+ICON ID: Icon_slot_SUV_Kitchen
+NOMBRE: Pickup Truck - Mochi Food Truck
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908038009.png

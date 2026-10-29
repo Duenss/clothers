@@ -1,0 +1,8 @@
+ITEM ID: 908046009
+ICON ID: Icon_slot_Motobike_FB
+NOMBRE: Motorbike - BLUE LOCK
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908046009.png

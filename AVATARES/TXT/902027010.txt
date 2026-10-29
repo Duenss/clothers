@@ -1,0 +1,8 @@
+ITEM ID: 902027010
+ICON ID: Icon_face_Xtreme_Q
+NOMBRE: Xayne Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027010.png

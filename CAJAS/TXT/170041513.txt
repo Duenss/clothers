@@ -1,0 +1,8 @@
+ITEM ID: 170041513
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Crate 1
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170041513.png

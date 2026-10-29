@@ -1,0 +1,8 @@
+ITEM ID: 912037002
+ICON ID: Icon_GroupAnim_BlackHole
+NOMBRE: Black Hole
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912037002.png

@@ -1,0 +1,8 @@
+ITEM ID: 400042575
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AK47 Flaming Dragon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042575.png

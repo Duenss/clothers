@@ -1,0 +1,8 @@
+ITEM ID: 801000410
+ICON ID: Icon_exchange_songkran2020
+NOMBRE: SongKran
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Ready to get wet?
+IMAGEN: CAJAS/imagenes/801000410.png

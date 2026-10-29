@@ -1,0 +1,8 @@
+ITEM ID: 908055011
+ICON ID: Icon_slot_TUTU_CSRank40
+NOMBRE: Tuk Tuk - S40 Exclusive: Ninja
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: VEHICULOS/imagenes/908055011.png

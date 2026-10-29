@@ -1,0 +1,8 @@
+ITEM ID: 801000620
+ICON ID: Icon_exchange_ob24_Pink_Trumpet_Tree
+NOMBRE: Pink Trumpet Tree
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000620.png

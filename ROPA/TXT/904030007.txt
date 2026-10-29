@@ -1,0 +1,8 @@
+ITEM ID: 904030007
+ICON ID: Icon_Bag_Darkdragon_EP
+NOMBRE: Backpack - Beastly Wrath
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030007.png

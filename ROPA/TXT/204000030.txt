@@ -1,0 +1,8 @@
+ITEM ID: 204000030
+ICON ID: Icon_avatar_male_suit_pants_001_2
+NOMBRE: Yellow Leather Pants (male)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000030.png

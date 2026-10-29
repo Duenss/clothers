@@ -1,0 +1,8 @@
+ITEM ID: 400029078
+ICON ID: Icon_box_3
+NOMBRE: Sensei Tig Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Contains Pet Sensei Tig and many other rewards
+IMAGEN: ROPA/imagenes/400029078.png

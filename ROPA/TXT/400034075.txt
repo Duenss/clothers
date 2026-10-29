@@ -1,0 +1,8 @@
+ITEM ID: 400034075
+ICON ID: Icon_box_3
+NOMBRE: Strapped Trance Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Strapped Trance and all its pieces
+IMAGEN: ROPA/imagenes/400034075.png

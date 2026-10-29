@@ -1,0 +1,8 @@
+ITEM ID: 801000295
+ICON ID: Icon_exchange_Pyramid
+NOMBRE: Pyramid
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Reminiscence of the past.
+IMAGEN: CAJAS/imagenes/801000295.png

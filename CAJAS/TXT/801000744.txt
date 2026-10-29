@@ -1,0 +1,8 @@
+ITEM ID: 801000744
+ICON ID: Icon_exchange_ob25_kagami_mochi_red
+NOMBRE: Kagami Mochi Red
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Happy New Year!
+IMAGEN: CAJAS/imagenes/801000744.png

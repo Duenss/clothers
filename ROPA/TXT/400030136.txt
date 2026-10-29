@@ -1,0 +1,8 @@
+ITEM ID: 400030136
+ICON ID: Icon_box_3
+NOMBRE: Vodafone Box 2
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Partnership Box
+IMAGEN: ROPA/imagenes/400030136.png

@@ -1,0 +1,8 @@
+ITEM ID: 400051087
+ICON ID: Icon_box_Fire25Event2_51
+NOMBRE: Flame Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400051087.png

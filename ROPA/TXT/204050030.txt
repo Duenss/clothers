@@ -1,0 +1,8 @@
+ITEM ID: 204050030
+ICON ID: Icon_avatar_cos_bottom_elephant25
+NOMBRE: Pink Dream Pants
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050030.png

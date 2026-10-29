@@ -1,0 +1,8 @@
+ITEM ID: 203001187
+ICON ID: Icon_avatar_top_cos_tshirt_playingcard
+NOMBRE: Crimson Checkered T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001187.png

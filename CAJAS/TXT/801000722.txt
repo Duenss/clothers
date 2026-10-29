@@ -1,0 +1,8 @@
+ITEM ID: 801000722
+ICON ID: Icon_exchange_ob25_2020_memory
+NOMBRE: 2020 Memory
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: The best of 2020 can be found inside this sparkle
+IMAGEN: CAJAS/imagenes/801000722.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104055
+ICON ID: Icon_UMP45_Penguin_W
+NOMBRE: UMP - Waggor's Wonder
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104055.png

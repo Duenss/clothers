@@ -1,0 +1,8 @@
+ITEM ID: 921055018
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Ji
+NOMBRE: Bet I won't make it.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Jiraiya Voice Pack
+IMAGEN: MUSICA/imagenes/921055018.png

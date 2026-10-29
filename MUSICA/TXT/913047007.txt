@@ -1,0 +1,8 @@
+ITEM ID: 913047007
+ICON ID: FF_UI_Vault_Music_BRrapper
+NOMBRE: Bang Bang
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: The official collaboration music of Free Fire x Matuê
+IMAGEN: MUSICA/imagenes/913047007.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000434
+ICON ID: Icon_exchange_ob21_coffee
+NOMBRE: Coffee Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Perfection in a pot
+IMAGEN: CAJAS/imagenes/801000434.png

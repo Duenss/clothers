@@ -1,0 +1,8 @@
+ITEM ID: 400026031
+ICON ID: Icon_box_3
+NOMBRE: Love Flow Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Love is in the air!
+IMAGEN: ROPA/imagenes/400026031.png

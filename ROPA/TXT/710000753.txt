@@ -1,0 +1,8 @@
+ITEM ID: 710000753
+ICON ID: Icon_CharGunbox_23
+NOMBRE: Character & Gun Box Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive character & gun box rewards
+IMAGEN: ROPA/imagenes/710000753.png

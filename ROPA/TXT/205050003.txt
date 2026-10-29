@@ -1,0 +1,8 @@
+ITEM ID: 205050003
+ICON ID: Icon_avatar_male_cos_shoe_dunelord
+NOMBRE: King of Desert (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050003.png

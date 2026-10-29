@@ -1,0 +1,8 @@
+ITEM ID: 400029053
+ICON ID: Icon_box_3
+NOMBRE: Summer box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400029053.png

@@ -1,0 +1,8 @@
+ITEM ID: 211044011
+ICON ID: Icon_avatar_cos_hair_festivalme_24
+NOMBRE: Blade of the Silence (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044011.png

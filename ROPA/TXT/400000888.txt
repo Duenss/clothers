@@ -1,0 +1,8 @@
+ITEM ID: 400000888
+ICON ID: Icon_box_3
+NOMBRE: Purple Crystal Bead Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000888.png

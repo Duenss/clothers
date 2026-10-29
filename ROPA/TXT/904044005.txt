@@ -1,0 +1,8 @@
+ITEM ID: 904044005
+ICON ID: Icon_Bag_Jeans
+NOMBRE: Backpack - Jean Mechalution
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904044005.png

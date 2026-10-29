@@ -1,0 +1,8 @@
+ITEM ID: 710054039
+ICON ID: FF_UI_Voiceitem_US54A
+NOMBRE: LATAM Meme Voice Pack 1
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The LATAM Meme voice pack 1
+IMAGEN: MUSICA/imagenes/710054039.png

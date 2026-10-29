@@ -1,0 +1,8 @@
+ITEM ID: 205037031
+ICON ID: Icon_avatar_male_cos_shoe_thkol
+NOMBRE: Blaze Banish (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037031.png

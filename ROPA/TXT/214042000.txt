@@ -1,0 +1,8 @@
+ITEM ID: 214042000
+ICON ID: Icon_avatar_female_cos_headadditive_voltage
+NOMBRE: Electro Spark (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214042000.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000037
+ICON ID: Icon_exchange_christmas_sweets_blue
+NOMBRE: Blue Star Candy
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Candy collections can be used in the exchange store.
+IMAGEN: CAJAS/imagenes/801000037.png

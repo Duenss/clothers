@@ -1,0 +1,8 @@
+ITEM ID: 801051003
+ICON ID: Icon_exchange_datt_51
+NOMBRE: Digimon Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051003.png

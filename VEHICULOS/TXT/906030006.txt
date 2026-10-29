@@ -1,0 +1,8 @@
+ITEM ID: 906030006
+ICON ID: Icon_Avatar_Surfboard_Darkdragon
+NOMBRE: Skyboard - Beastly Wrath
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906030006.png

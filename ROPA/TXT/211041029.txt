@@ -1,0 +1,8 @@
+ITEM ID: 211041029
+ICON ID: Icon_avatar_male_cos_accessory_ninja_th
+NOMBRE: Fiery Flash (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041029.png

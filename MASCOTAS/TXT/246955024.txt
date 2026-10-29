@@ -1,0 +1,8 @@
+ITEM ID: 246955024
+ICON ID: Pet_Spark3_Face_PixelGlass
+NOMBRE: Monochrome Pixel Glasses
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Monochrome Pixel Glasses
+IMAGEN: MASCOTAS/imagenes/246955024.png

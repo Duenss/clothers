@@ -1,0 +1,8 @@
+ITEM ID: 902027008
+ICON ID: Icon_face_female_head_sc_Xtreme_B
+NOMBRE: Xayne's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027008.png

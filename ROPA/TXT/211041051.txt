@@ -1,0 +1,8 @@
+ITEM ID: 211041051
+ICON ID: Icon_avatar_male_cos_accessory_ds_smith
+NOMBRE: Haganezuka Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041051.png

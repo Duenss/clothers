@@ -1,0 +1,8 @@
+ITEM ID: 909046017
+ICON ID: Icon_Emote_Stardance
+NOMBRE: Soaring Up
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046017.png

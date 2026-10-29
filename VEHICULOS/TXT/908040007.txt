@@ -1,0 +1,8 @@
+ITEM ID: 908040007
+ICON ID: Icon_slot_Motobike_Sixth
+NOMBRE: Motorbike - 6th Anniversary
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908040007.png

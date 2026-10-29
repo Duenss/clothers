@@ -1,0 +1,8 @@
+ITEM ID: 205000719
+ICON ID: Icon_avatar_male_cos_shoe_scorpion
+NOMBRE: Venomous Skorpios (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000719.png

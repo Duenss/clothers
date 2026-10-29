@@ -1,0 +1,8 @@
+ITEM ID: 908028008
+ICON ID: Icon_slot_Jeep_Foursymbols
+NOMBRE: Jeep - Stormbringer
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028008.png

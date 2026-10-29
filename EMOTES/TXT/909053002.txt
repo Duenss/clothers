@@ -1,0 +1,8 @@
+ITEM ID: 909053002
+ICON ID: Icon_Emote_Eclipse_Duo
+NOMBRE: Eclipse Creation
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909053002.png

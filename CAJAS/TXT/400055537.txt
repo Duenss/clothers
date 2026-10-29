@@ -1,0 +1,8 @@
+ITEM ID: 400055537
+ICON ID: Icon_box_Boovahb5_TH_55
+NOMBRE: Booyah! Box 5
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055537.png

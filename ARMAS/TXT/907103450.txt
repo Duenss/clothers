@@ -1,0 +1,8 @@
+ITEM ID: 907103450
+ICON ID: Icon_GlooShield_Guerrilla
+NOMBRE: Gloo Wall - Gray Ambush
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103450.png

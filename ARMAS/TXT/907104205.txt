@@ -1,0 +1,8 @@
+ITEM ID: 907104205
+ICON ID: Icon_Smudge_Grenade
+NOMBRE: Grenade - Feline Shadow
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104205.png

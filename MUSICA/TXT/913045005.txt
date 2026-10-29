@@ -1,0 +1,8 @@
+ITEM ID: 913045005
+ICON ID: FF_UI_Vault_Music_POPID
+NOMBRE: Love, Friendship & Struggle
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: Play together and celebrate the 7th anniversary with JKT48!
+IMAGEN: MUSICA/imagenes/913045005.png

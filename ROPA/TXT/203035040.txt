@@ -1,0 +1,8 @@
+ITEM ID: 203035040
+ICON ID: Icon_avatar_male_cos_top_fcninjaa
+NOMBRE: Flame Endure Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035040.png

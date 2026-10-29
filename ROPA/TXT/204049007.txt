@@ -1,0 +1,8 @@
+ITEM ID: 204049007
+ICON ID: Icon_avatar_female_cos_bottom_wrestling
+NOMBRE: Tiger Wrestler (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204049007.png

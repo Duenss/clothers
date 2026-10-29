@@ -1,0 +1,8 @@
+ITEM ID: 204047027
+ICON ID: Icon_avatar_male_cos_bottom_nb_black
+NOMBRE: Sasuke Bottom
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047027.png

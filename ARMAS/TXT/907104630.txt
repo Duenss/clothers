@@ -1,0 +1,8 @@
+ITEM ID: 907104630
+ICON ID: Icon_SPAS12_Sculpture
+NOMBRE: SPAS12 - Rip and Tear
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104630.png

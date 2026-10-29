@@ -1,0 +1,8 @@
+ITEM ID: 205054030
+ICON ID: Icon_avatar_cos_shoe_virgo26_fp
+NOMBRE: Spica Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054030.png

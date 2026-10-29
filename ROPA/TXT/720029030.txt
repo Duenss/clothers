@@ -1,0 +1,8 @@
+ITEM ID: 720029030
+ICON ID: Icon_bundle_female_BRninja_29
+NOMBRE: Chrome Swordmaven Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/720029030.png

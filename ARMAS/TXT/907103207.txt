@@ -1,0 +1,8 @@
+ITEM ID: 907103207
+ICON ID: Icon_Groza_Hurricane_BR
+NOMBRE: Groza - Flames Enchanted
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103207.png

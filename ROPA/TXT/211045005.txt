@@ -1,0 +1,8 @@
+ITEM ID: 211045005
+ICON ID: Icon_avatar_male_cos_hair_octopus
+NOMBRE: Captain Tentacles (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045005.png

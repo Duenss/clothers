@@ -1,0 +1,8 @@
+ITEM ID: 400032060
+ICON ID: Icon_box_3
+NOMBRE: Wishing Star Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Make a wish and open it
+IMAGEN: ROPA/imagenes/400032060.png

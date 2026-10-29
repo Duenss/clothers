@@ -1,0 +1,8 @@
+ITEM ID: 906049005
+ICON ID: Icon_Avatar_Surfboard_Eighth
+NOMBRE: Skyboard - Astro Infinity
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906049005.png

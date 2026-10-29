@@ -1,0 +1,8 @@
+ITEM ID: 908038003
+ICON ID: Icon_slot_TuTu_Goal
+NOMBRE: Tuk Tuk - Achiever
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908038003.png

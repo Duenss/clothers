@@ -1,0 +1,8 @@
+ITEM ID: 907104852
+ICON ID: Icon_GlooShield_Holi25
+NOMBRE: Gloo Wall - Wonder Balloons
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104852.png

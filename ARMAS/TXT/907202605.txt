@@ -1,0 +1,8 @@
+ITEM ID: 907202605
+ICON ID: Icon_Pan_Vampirebat
+NOMBRE: Pan - Bloodwing City
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202605.png

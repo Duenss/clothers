@@ -1,0 +1,8 @@
+ITEM ID: 205000240
+ICON ID: Icon_avatar_male_shoe_cos_starsoul_2
+NOMBRE: Silvery Beast (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000240.png

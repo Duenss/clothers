@@ -1,0 +1,8 @@
+ITEM ID: 904000099
+ICON ID: Icon_Bag_Borderlands_Model
+NOMBRE: Backpack - Wasteland
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000099.png

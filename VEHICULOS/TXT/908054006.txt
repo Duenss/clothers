@@ -1,0 +1,8 @@
+ITEM ID: 908054006
+ICON ID: Icon_slot_Jeep_Bloodmoon26
+NOMBRE: Jeep - Scarlet Samurai
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054006.png

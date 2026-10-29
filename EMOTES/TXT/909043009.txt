@@ -1,0 +1,8 @@
+ITEM ID: 909043009
+ICON ID: Icon_Emote_Waterfest24
+NOMBRE: Speed Summon
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909043009.png

@@ -1,0 +1,8 @@
+ITEM ID: 801052015
+ICON ID: Icon_exchange_cgst_52
+NOMBRE: Flamed Beat Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052015.png

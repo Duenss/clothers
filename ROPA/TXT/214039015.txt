@@ -1,0 +1,8 @@
+ITEM ID: 214039015
+ICON ID: Icon_avatar_cos_headadditive_fruit
+NOMBRE: Fruit Mix Stickers
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214039015.png

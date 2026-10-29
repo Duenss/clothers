@@ -1,0 +1,8 @@
+ITEM ID: 921052031
+ICON ID: FF_UI_Voiceitem_Trea25
+NOMBRE: X marks the gold, let's go!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure Voice Pack
+IMAGEN: MUSICA/imagenes/921052031.png

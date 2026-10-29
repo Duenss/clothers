@@ -1,0 +1,8 @@
+ITEM ID: 907104022
+ICON ID: Icon_Thompson_Rank35
+NOMBRE: Thompson - S35 Exclusive: Tatsuya
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104022.png

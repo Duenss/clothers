@@ -1,0 +1,8 @@
+ITEM ID: 204039038
+ICON ID: Icon_avatar_cos_bottom_banana
+NOMBRE: Banana Miniskirt
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039038.png

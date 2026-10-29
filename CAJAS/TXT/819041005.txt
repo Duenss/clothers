@@ -1,0 +1,8 @@
+ITEM ID: 819041005
+ICON ID: FF_UI_VFX_Designertoys_Basic_02
+NOMBRE: Sprinting Effect (Rise of the Puppets)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: Special sprinting effects when wearing the Rise of the Puppets themed top.
+IMAGEN: CAJAS/imagenes/819041005.png

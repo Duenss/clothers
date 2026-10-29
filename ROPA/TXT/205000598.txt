@@ -1,0 +1,8 @@
+ITEM ID: 205000598
+ICON ID: Icon_avatar_male_shoe_cos_cobra_red
+NOMBRE: Cobra Rage (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000598.png

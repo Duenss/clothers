@@ -1,0 +1,8 @@
+ITEM ID: 204045009
+ICON ID: Icon_avatar_male_cos_bottom_skeleton24
+NOMBRE: Cool Bones (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204045009.png

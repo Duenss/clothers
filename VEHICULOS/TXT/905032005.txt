@@ -1,0 +1,8 @@
+ITEM ID: 905032005
+ICON ID: Icon_Avatar_PARACHUTE_Inkbrush
+NOMBRE: Parachute - Bamboo Moon
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905032005.png

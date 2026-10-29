@@ -1,0 +1,8 @@
+ITEM ID: 203000047
+ICON ID: Icon_avatar_shirt_plaid_3
+NOMBRE: Programmers' Favorite (Blue)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000047.png

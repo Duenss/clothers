@@ -1,0 +1,8 @@
+ITEM ID: 929005405
+ICON ID: Icon_Photostickeritem_FB2_02
+NOMBRE: Nagi Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Nagi Sticker
+IMAGEN: AVATARES/imagenes/929005405.png

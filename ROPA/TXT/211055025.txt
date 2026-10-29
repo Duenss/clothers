@@ -1,0 +1,8 @@
+ITEM ID: 211055025
+ICON ID: Icon_avatar_female_cos_hair_spiritmask
+NOMBRE: Masked Rabbit (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055025.png

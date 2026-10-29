@@ -1,0 +1,8 @@
+ITEM ID: 907103220
+ICON ID: Icon_SPAS12_FFChar_S27
+NOMBRE: SPAS12 - S27 Exclusive: Caroline
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103220.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103146
+ICON ID: Icon_Alienpilot_Grenade
+NOMBRE: Grenade - Sponge Planet
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103146.png

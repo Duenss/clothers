@@ -1,0 +1,8 @@
+ITEM ID: 907102823
+ICON ID: Icon_Thompson_Crimsonbride
+NOMBRE: Thompson- Scarlet Groom
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102823.png

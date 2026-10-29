@@ -1,0 +1,8 @@
+ITEM ID: 400033102
+ICON ID: Icon_box_3
+NOMBRE: Goldlined Mummy Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Goldlined Mummy and all it's pieces
+IMAGEN: ROPA/imagenes/400033102.png

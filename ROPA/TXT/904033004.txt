@@ -1,0 +1,8 @@
+ITEM ID: 904033004
+ICON ID: Icon_Bag_Chess_Pre
+NOMBRE: Backpack - King of Lune
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033004.png

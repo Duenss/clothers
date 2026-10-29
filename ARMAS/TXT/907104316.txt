@@ -1,0 +1,8 @@
+ITEM ID: 907104316
+ICON ID: Icon_M4A1_Zombie23
+NOMBRE: M4A1 - Zombie Attack
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104316.png

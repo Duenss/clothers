@@ -1,0 +1,8 @@
+ITEM ID: 170034019
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Popular Choice Box
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170034019.png

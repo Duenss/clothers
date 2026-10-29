@@ -1,0 +1,8 @@
+ITEM ID: 211039054
+ICON ID: Icon_avatar_cos_hair_fastbreaking23_hw02
+NOMBRE: Round Traditional Scarf
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039054.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001639
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Defusal Kit Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: It is not easy to be the good guys
+IMAGEN: CAJAS/imagenes/801001639.png

@@ -1,0 +1,8 @@
+ITEM ID: 400035104
+ICON ID: Icon_box_3
+NOMBRE: Mystic Evil Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Contains Mystic Evil and all its pieces
+IMAGEN: ROPA/imagenes/400035104.png

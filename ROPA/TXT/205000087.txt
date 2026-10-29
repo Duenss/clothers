@@ -1,0 +1,8 @@
+ITEM ID: 205000087
+ICON ID: Icon_shoe_sports_05
+NOMBRE: Sports Shoes (Gold)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000087.png

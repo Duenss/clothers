@@ -1,0 +1,8 @@
+ITEM ID: 205034042
+ICON ID: Icon_avatar_cos_shoe_boots34
+NOMBRE: Floral Boots
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205034042.png

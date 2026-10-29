@@ -1,0 +1,8 @@
+ITEM ID: 801001563
+ICON ID: Icon_exchange_Rampage4_Hyperbook_34
+NOMBRE: Rampage Hyperbook Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: Use to exchange for exciting rewards!
+IMAGEN: CAJAS/imagenes/801001563.png

@@ -1,0 +1,8 @@
+ITEM ID: 400042135
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Vector Hypercore Blues Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Open to receive a Vector Hypercore Blues Skin
+IMAGEN: CAJAS/imagenes/400042135.png

@@ -1,0 +1,8 @@
+ITEM ID: 214000027
+ICON ID: Icon_avatar_headadditive_cos_facepaint_ru2
+NOMBRE: Steppe Eagle Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000027.png

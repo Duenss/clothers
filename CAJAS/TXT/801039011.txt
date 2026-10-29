@@ -1,0 +1,8 @@
+ITEM ID: 801039011
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fiery Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB39
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801039011.png

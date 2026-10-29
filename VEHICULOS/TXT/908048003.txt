@@ -1,0 +1,8 @@
+ITEM ID: 908048003
+ICON ID: Icon_slot_Motobike_Comic24
+NOMBRE: Motorbike - Swoosh!
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048003.png

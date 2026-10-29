@@ -1,0 +1,8 @@
+ITEM ID: 205000050
+ICON ID: Icon_Avatar_shoe_cos_soldier_yellow
+NOMBRE: Soldier Boots
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000050.png

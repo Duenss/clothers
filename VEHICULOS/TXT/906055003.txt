@@ -1,0 +1,8 @@
+ITEM ID: 906055003
+ICON ID: Icon_Avatar_Surfboard_Gen_Z
+NOMBRE: Skyboard - Academy Notecase
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906055003.png

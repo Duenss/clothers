@@ -1,0 +1,8 @@
+ITEM ID: 400000094
+ICON ID: Icon_box_3
+NOMBRE: Purple Quartz Skin Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a 3D, 7D, or permanent Purple Quartz Skin.
+IMAGEN: ROPA/imagenes/400000094.png

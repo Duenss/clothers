@@ -1,0 +1,8 @@
+ITEM ID: 901042010
+ICON ID: Icon_callsign_storebg_CSRank22_06
+NOMBRE: CS-Ranked S22 Master Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901042010.png

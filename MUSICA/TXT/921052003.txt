@@ -1,0 +1,8 @@
+ITEM ID: 921052003
+ICON ID: FF_UI_Voiceitem_IIV_01
+NOMBRE: Let's win!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Yuji Itadori Voice Pack
+IMAGEN: MUSICA/imagenes/921052003.png

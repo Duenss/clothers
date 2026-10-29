@@ -1,0 +1,8 @@
+ITEM ID: 211001005
+ICON ID: Icon_avatar_hair_cos_shinobi_red
+NOMBRE: Killspark Lava (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001005.png

@@ -1,0 +1,8 @@
+ITEM ID: 211046002
+ICON ID: Icon_avatar_male_cos_accessory_microwaves
+NOMBRE: Complete Combustion (Head)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046002.png

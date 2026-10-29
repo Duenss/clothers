@@ -1,0 +1,8 @@
+ITEM ID: 204000861
+ICON ID: Icon_avatar_male_sc_booyahguy_bottom
+NOMBRE: B-baller (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000861.png

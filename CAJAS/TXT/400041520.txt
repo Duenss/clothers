@@ -1,0 +1,8 @@
+ITEM ID: 400041520
+ICON ID: Icon_box_Wildfire_SkeletonB_37
+NOMBRE: Evil Howler (AN94) Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041520.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104143
+ICON ID: Icon_G36_Potentia_Basic
+NOMBRE: G36 - Fundamentality
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104143.png

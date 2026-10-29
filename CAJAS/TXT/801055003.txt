@@ -1,0 +1,8 @@
+ITEM ID: 801055003
+ICON ID: Icon_exchange_nb1reut2_55
+NOMBRE: Hidden Leaf Special Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055003.png

@@ -1,0 +1,8 @@
+ITEM ID: 204035047
+ICON ID: Icon_avatar_cos_bottom_singers
+NOMBRE: Indigo - Exclusive (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035047.png

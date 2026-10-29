@@ -1,0 +1,8 @@
+ITEM ID: 801000467
+ICON ID: Icon_exchange_ob22_crow_statue
+NOMBRE: Crow Statue
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000467.png

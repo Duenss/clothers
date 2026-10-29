@@ -1,0 +1,8 @@
+ITEM ID: 801001473
+ICON ID: Icon_box_newplayer
+NOMBRE: Black Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Black Pieces to unlock the Black Card
+IMAGEN: CAJAS/imagenes/801001473.png

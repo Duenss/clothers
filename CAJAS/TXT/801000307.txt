@@ -1,0 +1,8 @@
+ITEM ID: 801000307
+ICON ID: Icon_exchange_red_bouquet
+NOMBRE: Heart Bouquet (Red)
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000307.png

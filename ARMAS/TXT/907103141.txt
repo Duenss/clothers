@@ -1,0 +1,8 @@
+ITEM ID: 907103141
+ICON ID: Icon_Vector_Jumpsuit2
+NOMBRE: Vector - Red Robster
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103141.png

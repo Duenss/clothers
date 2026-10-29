@@ -1,0 +1,8 @@
+ITEM ID: 203000024
+ICON ID: Icon_avatar_shirt_camo_004
+NOMBRE: Shirt (Ruins)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000024.png

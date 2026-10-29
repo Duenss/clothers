@@ -1,0 +1,8 @@
+ITEM ID: 407103406
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Enflamed Terror (MAC10 + Kingfisher) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Open to receive a random gun skin (MAC10 + Kingfisher) from the Enflamed Terror weapon set
+IMAGEN: ARMAS/imagenes/407103406.png

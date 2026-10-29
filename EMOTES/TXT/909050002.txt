@@ -1,0 +1,8 @@
+ITEM ID: 909050002
+ICON ID: Icon_Emote_2NBCT_Revive
+NOMBRE: Reanimation Jutsu
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909050002.png

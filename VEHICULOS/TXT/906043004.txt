@@ -1,0 +1,8 @@
+ITEM ID: 906043004
+ICON ID: Icon_Avatar_Surfboard_Asura
+NOMBRE: Skyboard - Wrathful Punch
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906043004.png

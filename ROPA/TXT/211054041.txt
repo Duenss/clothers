@@ -1,0 +1,8 @@
+ITEM ID: 211054041
+ICON ID: Icon_avatar_cos_accessory_wolf_sheep_fp
+NOMBRE: Woolly Wolf Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054041.png

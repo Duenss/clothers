@@ -1,0 +1,8 @@
+ITEM ID: 921047028
+ICON ID: FF_UI_Voiceitem_Woodcrafter
+NOMBRE: Ekdom nichu hobo na
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921047028.png

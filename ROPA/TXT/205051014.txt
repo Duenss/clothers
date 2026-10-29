@@ -1,0 +1,8 @@
+ITEM ID: 205051014
+ICON ID: Icon_avatar_male_cos_shoe_captain_id
+NOMBRE: Blazing Trials (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051014.png

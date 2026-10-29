@@ -1,0 +1,8 @@
+ITEM ID: 801001211
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Friendship Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: For your best friends!
+IMAGEN: CAJAS/imagenes/801001211.png

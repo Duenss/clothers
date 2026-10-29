@@ -1,0 +1,8 @@
+ITEM ID: 407102407
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Party Animal Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: Open to receive a random gun skin from the Party Animal weapon set
+IMAGEN: ARMAS/imagenes/407102407.png

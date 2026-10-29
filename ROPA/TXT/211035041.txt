@@ -1,0 +1,8 @@
+ITEM ID: 211035041
+ICON ID: Icon_avatar_male_cos_accessory_riders
+NOMBRE: Grim Rider (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035041.png

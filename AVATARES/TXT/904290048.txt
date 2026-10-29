@@ -1,0 +1,8 @@
+ITEM ID: 904290048
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Dawn Valor
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: Obtain by reaching Heroic in BR or CS 12 times in 2024.
+IMAGEN: AVATARES/imagenes/904290048.png

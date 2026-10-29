@@ -1,0 +1,8 @@
+ITEM ID: 400049506
+ICON ID: Icon_box_3
+NOMBRE: Box 232
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400049506.png

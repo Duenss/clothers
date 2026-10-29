@@ -1,0 +1,8 @@
+ITEM ID: 400000002
+ICON ID: Icon_box_2
+NOMBRE: Silver Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Obtain rare Avatar/Loadout items with higher probability.
+IMAGEN: CAJAS/imagenes/400000002.png

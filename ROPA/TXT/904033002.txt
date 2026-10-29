@@ -1,0 +1,8 @@
+ITEM ID: 904033002
+ICON ID: Icon_Bag_Cyberopera
+NOMBRE: Backpack - Skull Opera
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033002.png

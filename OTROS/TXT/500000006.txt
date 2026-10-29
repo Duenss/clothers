@@ -1,0 +1,8 @@
+ITEM ID: 500000006
+ICON ID: Icon_AirdropBar
+NOMBRE: Airdrop Aid
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Get some help from above. This item has different effects in Battle Royale and Clash Squad.
+IMAGEN: OTROS/imagenes/500000006.png

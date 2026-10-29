@@ -1,0 +1,8 @@
+ITEM ID: 400000543
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Deadly Bat Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Deadly Bat set.
+IMAGEN: CAJAS/imagenes/400000543.png

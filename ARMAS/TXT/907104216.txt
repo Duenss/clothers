@@ -1,0 +1,8 @@
+ITEM ID: 907104216
+ICON ID: Icon_UMP45_Watcher
+NOMBRE: UMP - Interstellar Impulse
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104216.png

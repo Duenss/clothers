@@ -1,0 +1,8 @@
+ITEM ID: 204000053
+ICON ID: Icon_avatar_male_bottom_cos_hoodshirt_black
+NOMBRE: Cool Activewear (Sweatpants)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000053.png

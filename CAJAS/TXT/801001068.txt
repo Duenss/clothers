@@ -1,0 +1,8 @@
+ITEM ID: 801001068
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Beach Umbrella Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Because our skins are precious
+IMAGEN: CAJAS/imagenes/801001068.png

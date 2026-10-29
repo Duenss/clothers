@@ -1,0 +1,8 @@
+ITEM ID: 801000765
+ICON ID: Icon_exchange_ob25_facepaint_token
+NOMBRE: Facepaint Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: A work of art
+IMAGEN: CAJAS/imagenes/801000765.png

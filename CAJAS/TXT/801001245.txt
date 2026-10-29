@@ -1,0 +1,8 @@
+ITEM ID: 801001245
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: dtac 3
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: TH partner
+IMAGEN: CAJAS/imagenes/801001245.png

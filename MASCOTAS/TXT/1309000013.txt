@@ -1,0 +1,8 @@
+ITEM ID: 1309000013
+ICON ID: FF_UI_Pet_Dog_Scare
+NOMBRE: Scared
+TIPO: Pet Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Action that trigger when the pet is scared. For example, when entering a red zone.
+IMAGEN: MASCOTAS/imagenes/1309000013.png

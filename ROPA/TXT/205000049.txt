@@ -1,0 +1,8 @@
+ITEM ID: 205000049
+ICON ID: Icon_Avatar_shoe_cos_canvas_black
+NOMBRE: Survivor Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000049.png

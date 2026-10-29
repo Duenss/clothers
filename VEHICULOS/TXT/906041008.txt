@@ -1,0 +1,8 @@
+ITEM ID: 906041008
+ICON ID: Icon_Avatar_Surfboard_Gs_Upgrade
+NOMBRE: Skyboard - Joyful Beat
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906041008.png

@@ -1,0 +1,8 @@
+ITEM ID: 925048001
+ICON ID: Icon_BattleCard_Cityhero
+NOMBRE: Battle Card - Midnight Ace
+TIPO: Battle Card
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/925048001.png

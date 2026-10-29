@@ -1,0 +1,8 @@
+ITEM ID: 407103104
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Red Robster (Woodpecker + Vector) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Open to receive a random gun skin (Woodpecker + Vector) from the Red Robster weapon set
+IMAGEN: ARMAS/imagenes/407103104.png

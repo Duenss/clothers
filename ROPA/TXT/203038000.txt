@@ -1,0 +1,8 @@
+ITEM ID: 203038000
+ICON ID: Icon_avatar_male_cos_top_hellcat
+NOMBRE: Dusk Wildcat (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038000.png

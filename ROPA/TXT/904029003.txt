@@ -1,0 +1,8 @@
+ITEM ID: 904029003
+ICON ID: Icon_Bag_Scorpion_FP
+NOMBRE: Backpack - Quantic Unknown
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029003.png

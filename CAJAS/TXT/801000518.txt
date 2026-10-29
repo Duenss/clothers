@@ -1,0 +1,8 @@
+ITEM ID: 801000518
+ICON ID: Icon_exchange_ob22_wolfrahh
+NOMBRE: Wolfrahh
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: GG
+IMAGEN: CAJAS/imagenes/801000518.png

@@ -1,0 +1,8 @@
+ITEM ID: 204041020
+ICON ID: Icon_avatar_male_cos_bottom_potentia_basic
+NOMBRE: Staple Wanderer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041020.png

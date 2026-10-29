@@ -1,0 +1,8 @@
+ITEM ID: 902000343
+ICON ID: Icon_face_Fashiontrends_EP_B
+NOMBRE: Golden headphones
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000343.png

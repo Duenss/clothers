@@ -1,0 +1,8 @@
+ITEM ID: 203041042
+ICON ID: Icon_avatar_male_cos_top_ds_green
+NOMBRE: Tanjiro's Top
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041042.png

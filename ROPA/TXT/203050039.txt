@@ -1,0 +1,8 @@
+ITEM ID: 203050039
+ICON ID: Icon_avatar_cos_top_bull25
+NOMBRE: Red Bull Energy Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050039.png

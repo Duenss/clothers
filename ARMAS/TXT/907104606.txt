@@ -1,0 +1,8 @@
+ITEM ID: 907104606
+ICON ID: Icon_Baseballbat_Pinata
+NOMBRE: Bat - Horsin' Holiday
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104606.png

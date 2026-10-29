@@ -1,0 +1,8 @@
+ITEM ID: 907102439
+ICON ID: Icon_Fashiontrends_Grenade
+NOMBRE: Grenade - Mic Drop
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102439.png

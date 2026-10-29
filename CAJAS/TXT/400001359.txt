@@ -1,0 +1,8 @@
+ITEM ID: 400001359
+ICON ID: Icon_box_token_dragon_24
+NOMBRE: Blue Flame Draco Token Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400001359.png

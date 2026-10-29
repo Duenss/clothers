@@ -1,0 +1,8 @@
+ITEM ID: 710051017
+ICON ID: Icon_bundle_female_Urbancyber_51
+NOMBRE: Cyber Nova Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710051017.png

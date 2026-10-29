@@ -1,0 +1,8 @@
+ITEM ID: 801000623
+ICON ID: Icon_exchange_ob24_Purple_Trumpet_Tree
+NOMBRE: Purple Trumpet Tree
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000623.png

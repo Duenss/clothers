@@ -1,0 +1,8 @@
+ITEM ID: 801000749
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion L
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Love from above
+IMAGEN: CAJAS/imagenes/801000749.png

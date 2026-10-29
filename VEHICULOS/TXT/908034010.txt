@@ -1,0 +1,8 @@
+ITEM ID: 908034010
+ICON ID: Icon_slot_Motobike_Wildfire_Skeleton
+NOMBRE: Motorbike - Skeleton Wildfire
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034010.png

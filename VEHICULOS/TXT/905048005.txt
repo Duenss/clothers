@@ -1,0 +1,8 @@
+ITEM ID: 905048005
+ICON ID: Icon_Avatar_PARACHUTE_Rank45
+NOMBRE: Parachute - S45 Exclusive: Ramen
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: BR-Ranked S45 Reward
+IMAGEN: VEHICULOS/imagenes/905048005.png

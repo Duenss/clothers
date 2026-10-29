@@ -1,0 +1,8 @@
+ITEM ID: 211001304
+ICON ID: Icon_avatar_male_cos_hair_hurricane_la
+NOMBRE: Thunder Electrified (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001304.png

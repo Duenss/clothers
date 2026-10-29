@@ -1,0 +1,8 @@
+ITEM ID: 204000908
+ICON ID: Icon_avatar_cos_bottom_silversword_white
+NOMBRE: Metallic Circalight (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000908.png

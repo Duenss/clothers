@@ -1,0 +1,8 @@
+ITEM ID: 203053025
+ICON ID: Icon_avatar_cos_top_eclipse_free
+NOMBRE: Eclipse Hoodie
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053025.png

@@ -1,0 +1,8 @@
+ITEM ID: 801050006
+ICON ID: Icon_exchange_2nbsys_2_50
+NOMBRE: Epic Ninja Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050006.png

@@ -1,0 +1,8 @@
+ITEM ID: 204042002
+ICON ID: Icon_avatar_male_cos_bottom_voltage_basic
+NOMBRE: Electro Whisper (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042002.png

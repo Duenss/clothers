@@ -1,0 +1,8 @@
+ITEM ID: 902047009
+ICON ID: Icon_face_BRrapper_47
+NOMBRE: Final Card Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047009.png

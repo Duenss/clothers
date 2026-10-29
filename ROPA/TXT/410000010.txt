@@ -1,0 +1,8 @@
+ITEM ID: 410000010
+ICON ID: Icon_box_3
+NOMBRE: Keep Calm Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a t-shirt from the Keep Calm series, 12.5% for each T-Shirt.
+IMAGEN: ROPA/imagenes/410000010.png

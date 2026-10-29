@@ -1,0 +1,8 @@
+ITEM ID: 913034004
+ICON ID: FF_UI_Vault_Music_BIS2021
+NOMBRE: Battle In Style 2021
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Battle In Style 2021 Campaign Theme Song
+IMAGEN: MUSICA/imagenes/913034004.png

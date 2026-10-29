@@ -1,0 +1,8 @@
+ITEM ID: 801001270
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Heist Cash
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Exclusive event token
+IMAGEN: CAJAS/imagenes/801001270.png

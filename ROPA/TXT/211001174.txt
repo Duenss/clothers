@@ -1,0 +1,8 @@
+ITEM ID: 211001174
+ICON ID: Icon_avatar_male_cos_accessory_booyahday21_purple
+NOMBRE: Beta Flameborn (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001174.png

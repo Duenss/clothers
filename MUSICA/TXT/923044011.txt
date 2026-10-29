@@ -1,0 +1,8 @@
+ITEM ID: 923044011
+ICON ID: FF_UI_Voiceitem_Basic
+NOMBRE: Yeah, yeah, sure
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Express your emotions! (Exclusively available at the Guild Exchange Store.)
+IMAGEN: MUSICA/imagenes/923044011.png

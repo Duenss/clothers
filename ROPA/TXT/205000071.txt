@@ -1,0 +1,8 @@
+ITEM ID: 205000071
+ICON ID: Icon_avatar_male_sc_foodieboy_shoe_001
+NOMBRE: Foodie shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000071.png

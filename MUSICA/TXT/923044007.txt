@@ -1,0 +1,8 @@
+ITEM ID: 923044007
+ICON ID: FF_UI_Voiceitem_PARADOX44_03
+NOMBRE: III - Mayday, Mayday!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Event Exclusive Voice Pack
+IMAGEN: MUSICA/imagenes/923044007.png

@@ -1,0 +1,8 @@
+ITEM ID: 908040001
+ICON ID: Icon_slot_Motobike_Artificial
+NOMBRE: Motorbike - Wisdom Cruiser
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908040001.png

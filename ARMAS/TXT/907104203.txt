@@ -1,0 +1,8 @@
+ITEM ID: 907104203
+ICON ID: Icon_Watcher_Grenade
+NOMBRE: Grenade - Interstellar Explosion
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104203.png

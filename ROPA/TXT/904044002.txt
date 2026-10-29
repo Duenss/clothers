@@ -1,0 +1,8 @@
+ITEM ID: 904044002
+ICON ID: Icon_Bag_Fragment
+NOMBRE: Backpack - Stonebreaker
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904044002.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030238
+ICON ID: Icon_box_3
+NOMBRE: Jai's Microchip Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Open to get Jai's Microchip and Universal Fragment
+IMAGEN: ROPA/imagenes/400030238.png

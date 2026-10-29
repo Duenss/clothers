@@ -1,0 +1,8 @@
+ITEM ID: 710034060
+ICON ID: FF_Icon_sc_cop_deluxe
+NOMBRE: Andrew's Officer Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Contains Andrew character, Andrew's outfit, and 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710034060.png

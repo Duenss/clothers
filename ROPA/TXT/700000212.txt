@@ -1,0 +1,8 @@
+ITEM ID: 700000212
+ICON ID: Icon_box_3
+NOMBRE: Explosive Badge Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Explosive Badge x10
+IMAGEN: ROPA/imagenes/700000212.png

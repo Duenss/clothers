@@ -1,0 +1,8 @@
+ITEM ID: 211001025
+ICON ID: Icon_avatar_male_hair_cos_fantasyeye
+NOMBRE: Merciless Necromancer (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001025.png

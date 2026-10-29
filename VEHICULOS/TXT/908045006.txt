@@ -1,0 +1,8 @@
+ITEM ID: 908045006
+ICON ID: Icon_slot_Roadster_Pop
+NOMBRE: Sports Car - Pyramid Edge
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908045006.png

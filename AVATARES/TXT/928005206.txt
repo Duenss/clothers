@@ -1,0 +1,8 @@
+ITEM ID: 928005206
+ICON ID: Icon_GroupPhotoTeamTopup_icon
+NOMBRE: Treasure Squad
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Treasure Squad
+IMAGEN: AVATARES/imagenes/928005206.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105218
+ICON ID: Icon_MP5_CSRank35
+NOMBRE: MP5 - S35 Exclusive: Fin
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105218.png

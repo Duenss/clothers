@@ -1,0 +1,8 @@
+ITEM ID: 203045003
+ICON ID: Icon_avatar_female_cos_top_leo
+NOMBRE: Leo Gut (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045003.png

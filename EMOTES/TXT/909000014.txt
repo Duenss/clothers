@@ -1,0 +1,8 @@
+ITEM ID: 909000014
+ICON ID: Icon_Emote_GW
+NOMBRE: FFWC Throne
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000014.png

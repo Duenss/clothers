@@ -1,0 +1,8 @@
+ITEM ID: 902000132
+ICON ID: Icon_face_easter_02
+NOMBRE: Red Stripes
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000132.png

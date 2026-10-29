@@ -1,0 +1,8 @@
+ITEM ID: 904190041
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Sharpshooter
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "Sharpshooter" achievement
+IMAGEN: AVATARES/imagenes/904190041.png

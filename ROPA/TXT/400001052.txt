@@ -1,0 +1,8 @@
+ITEM ID: 400001052
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda P90 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains P90 Make it Rain and Plan Bermuda Tokens
+IMAGEN: ROPA/imagenes/400001052.png

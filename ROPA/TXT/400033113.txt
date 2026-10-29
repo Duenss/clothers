@@ -1,0 +1,8 @@
+ITEM ID: 400033113
+ICON ID: Icon_box_3
+NOMBRE: Moonlight Ballad Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Moonlight Ballad weapon & token
+IMAGEN: ROPA/imagenes/400033113.png

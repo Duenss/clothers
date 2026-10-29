@@ -1,0 +1,8 @@
+ITEM ID: 400033103
+ICON ID: Icon_box_3
+NOMBRE: Moody Lavisher Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Moody Lavisher and all it's pieces
+IMAGEN: ROPA/imagenes/400033103.png

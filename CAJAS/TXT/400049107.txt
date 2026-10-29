@@ -1,0 +1,8 @@
+ITEM ID: 400049107
+ICON ID: Icon_box_SeafoodEvent2_49
+NOMBRE: Squid Game Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400049107.png

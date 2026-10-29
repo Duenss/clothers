@@ -1,0 +1,8 @@
+ITEM ID: 902051002
+ICON ID: Icon_face_Dreamlandboy_Q
+NOMBRE: Nero Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051002.png

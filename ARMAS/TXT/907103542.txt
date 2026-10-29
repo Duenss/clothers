@@ -1,0 +1,8 @@
+ITEM ID: 907103542
+ICON ID: Icon_Pirates_Grenade
+NOMBRE: Grenade - Rowdy Searuler
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103542.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000124
+ICON ID: Icon_avatar_tshirt_elephant_2
+NOMBRE: Songkran Elephant #2
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000124.png

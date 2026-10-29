@@ -1,0 +1,8 @@
+ITEM ID: 803040001
+ICON ID: UI_Customize_UGC_Token
+NOMBRE: Craftland Token
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: 1. Players can obtain Craftland Tokens through playing Craftland maps and completing missions.\n2. Craftland Tokens can be used to exchange for in-game items.\n3. Craftland Tokens can be used inside Craftland maps.
+IMAGEN: OTROS/imagenes/803040001.png

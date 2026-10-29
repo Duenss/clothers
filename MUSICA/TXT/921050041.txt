@@ -1,0 +1,8 @@
+ITEM ID: 921050041
+ICON ID: FF_UI_Voiceitem_SAC50
+NOMBRE: Be patient!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: LATAM Party Voice Pack 2
+IMAGEN: MUSICA/imagenes/921050041.png

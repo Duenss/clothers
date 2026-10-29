@@ -1,0 +1,8 @@
+ITEM ID: 400033080
+ICON ID: Icon_box_3
+NOMBRE: School Holiday Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Time to play
+IMAGEN: ROPA/imagenes/400033080.png

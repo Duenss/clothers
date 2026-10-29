@@ -1,0 +1,8 @@
+ITEM ID: 908049005
+ICON ID: Icon_slot_Roadster_Jumpsuit25
+NOMBRE: Sports Car - Top Criminal Golden
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049005.png

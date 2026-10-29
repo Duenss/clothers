@@ -1,0 +1,8 @@
+ITEM ID: 400053521
+ICON ID: Icon_box_cybb_ME_53
+NOMBRE: Cyber Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053521.png

@@ -1,0 +1,8 @@
+ITEM ID: 910038009
+ICON ID: Pin_Small_VN_Playoffs4
+NOMBRE: Fist Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910038009.png

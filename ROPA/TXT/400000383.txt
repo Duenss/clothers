@@ -1,0 +1,8 @@
+ITEM ID: 400000383
+ICON ID: Icon_box_3
+NOMBRE: Pro league Loot Crate 1
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Pro league Loot Crate 1
+IMAGEN: ROPA/imagenes/400000383.png

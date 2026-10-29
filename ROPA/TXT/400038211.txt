@@ -1,0 +1,8 @@
+ITEM ID: 400038211
+ICON ID: Icon_box_3
+NOMBRE: Pearl Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400038211.png

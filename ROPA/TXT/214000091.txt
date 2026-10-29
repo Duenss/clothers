@@ -1,0 +1,8 @@
+ITEM ID: 214000091
+ICON ID: Icon_avatar_male_cos_headadditive_musicfest_red
+NOMBRE: Enharmonic Treblerock (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000091.png

@@ -1,0 +1,8 @@
+ITEM ID: 203040012
+ICON ID: Icon_avatar_female_cos_top_kwave
+NOMBRE: Pop Vedette (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040012.png

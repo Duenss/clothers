@@ -1,0 +1,8 @@
+ITEM ID: 211047004
+ICON ID: Icon_avatar_female_cos_accessory_tailor
+NOMBRE: Stitched Tailoress (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047004.png

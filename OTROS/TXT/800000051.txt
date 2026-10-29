@@ -1,0 +1,8 @@
+ITEM ID: 800000051
+ICON ID: Icon_face_male_sc_Blacksmith
+NOMBRE: Memory Fragment (Kenta)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000051.png

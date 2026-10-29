@@ -1,0 +1,8 @@
+ITEM ID: 907102732
+ICON ID: Icon_M1887_Fireskull
+NOMBRE: M1887 - Freezing Flame
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102732.png

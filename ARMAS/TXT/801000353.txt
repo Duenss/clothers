@@ -1,0 +1,8 @@
+ITEM ID: 801000353
+ICON ID: Icon_exchange_silver_grenade
+NOMBRE: Silver Grenade Medal
+TIPO: Grenade Skin
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: If only they were gold
+IMAGEN: ARMAS/imagenes/801000353.png

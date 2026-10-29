@@ -1,0 +1,8 @@
+ITEM ID: 400046512
+ICON ID: Icon_box_3
+NOMBRE: Box 203
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400046512.png

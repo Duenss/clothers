@@ -1,0 +1,8 @@
+ITEM ID: 203000137
+ICON ID: Icon_avatar_male_tshirt_Mario
+NOMBRE: Plumber top (male)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000137.png

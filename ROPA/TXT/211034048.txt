@@ -1,0 +1,8 @@
+ITEM ID: 211034048
+ICON ID: Icon_avatar_cos_hair_rampage4_004
+NOMBRE: Violet Dreadlocks
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034048.png

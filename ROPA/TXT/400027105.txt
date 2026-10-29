@@ -1,0 +1,8 @@
+ITEM ID: 400027105
+ICON ID: Icon_box_3
+NOMBRE: Fearless Warrior Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Fearless Warrior and all its pieces
+IMAGEN: ROPA/imagenes/400027105.png

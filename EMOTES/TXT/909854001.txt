@@ -1,0 +1,8 @@
+ITEM ID: 909854001
+ICON ID: FF_UI_Vault_Icon_FinishMove_Darkdesires
+NOMBRE: Pride Judgment
+TIPO: Finishing Move
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909854001.png

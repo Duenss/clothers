@@ -1,0 +1,8 @@
+ITEM ID: 204043010
+ICON ID: Icon_avatar_female_cos_bottom_vnnewyear24
+NOMBRE: Dragon Scales (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043010.png

@@ -1,0 +1,8 @@
+ITEM ID: 170055023
+ICON ID: Icon_OptionalBundle_guncbr1_BR_55
+NOMBRE: Gun Choice Box 3
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170055023.png

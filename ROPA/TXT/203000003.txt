@@ -1,0 +1,8 @@
+ITEM ID: 203000003
+ICON ID: Icon_avatar_vest_3
+NOMBRE: Singlet (Green)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000003.png

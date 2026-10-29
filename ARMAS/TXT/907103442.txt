@@ -1,0 +1,8 @@
+ITEM ID: 907103442
+ICON ID: Icon_GlooShield_Rhythmgirl
+NOMBRE: Gloo Wall - Color Vibes
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103442.png

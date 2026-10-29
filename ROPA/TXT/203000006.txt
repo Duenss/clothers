@@ -1,0 +1,8 @@
+ITEM ID: 203000006
+ICON ID: Icon_avatar_shirt_2
+NOMBRE: Shirt (Red)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000006.png

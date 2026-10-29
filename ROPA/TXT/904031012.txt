@@ -1,0 +1,8 @@
+ITEM ID: 904031012
+ICON ID: Icon_Bag_VNspace
+NOMBRE: Backpack - Iced Glare
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031012.png

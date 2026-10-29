@@ -1,0 +1,8 @@
+ITEM ID: 203051038
+ICON ID: Icon_avatar_cos_top_ffws25_07
+NOMBRE: Fluxo Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051038.png

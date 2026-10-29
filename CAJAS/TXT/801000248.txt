@@ -1,0 +1,8 @@
+ITEM ID: 801000248
+ICON ID: Icon_exchange_sunglasses_red
+NOMBRE: Sunglasses (Red)
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000248.png

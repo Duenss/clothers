@@ -1,0 +1,8 @@
+ITEM ID: 203000167
+ICON ID: Icon_avatar_female_top_cos_hoodshirt_obt7Th
+NOMBRE: Blue Activewear
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000167.png

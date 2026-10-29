@@ -1,0 +1,8 @@
+ITEM ID: 906047005
+ICON ID: Icon_Avatar_Surfboard_Express
+NOMBRE: Skyboard - Spilled Delivery
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906047005.png

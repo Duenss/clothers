@@ -1,0 +1,8 @@
+ITEM ID: 801000273
+ICON ID: Icon_exchange_Mr_Santa
+NOMBRE: Mr. Santa
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Ho! Ho! Ho!
+IMAGEN: CAJAS/imagenes/801000273.png

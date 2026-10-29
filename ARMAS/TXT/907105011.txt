@@ -1,0 +1,8 @@
+ITEM ID: 907105011
+ICON ID: Icon_AN94_Inktiger
+NOMBRE: AN94 - Inky Roar
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105011.png

@@ -1,0 +1,8 @@
+ITEM ID: 923045007
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Bhai matter ho gaya
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: Bhaichara Voice Pack
+IMAGEN: MUSICA/imagenes/923045007.png

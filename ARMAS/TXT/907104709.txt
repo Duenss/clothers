@@ -1,0 +1,8 @@
+ITEM ID: 907104709
+ICON ID: Icon_AUG_Aurora
+NOMBRE: AUG - Aurora's Holler
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104709.png

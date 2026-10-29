@@ -1,0 +1,8 @@
+ITEM ID: 246954007
+ICON ID: Icon_SparkPet_Color_LakeBlue
+NOMBRE: Cyan
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Cyan
+IMAGEN: MASCOTAS/imagenes/246954007.png

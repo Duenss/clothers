@@ -1,0 +1,8 @@
+ITEM ID: 205054035
+ICON ID: Icon_avatar_shoes_9
+NOMBRE: Boots
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054035.png

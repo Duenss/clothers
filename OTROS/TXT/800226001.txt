@@ -1,0 +1,8 @@
+ITEM ID: 800226001
+ICON ID: UI_Character_icon_AddSkill
+NOMBRE: Skill Slot
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Skills of owned Characters can be equipped.
+IMAGEN: OTROS/imagenes/800226001.png

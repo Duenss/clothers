@@ -1,0 +1,8 @@
+ITEM ID: 902000080
+ICON ID: Icon_face_female_head_sc_armsdealer_B
+NOMBRE: Paloma
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000080.png

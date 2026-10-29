@@ -1,0 +1,8 @@
+ITEM ID: 204033007
+ICON ID: Icon_avatar_female_cos_bottom_cyberopera
+NOMBRE: Cybersword Neon (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033007.png

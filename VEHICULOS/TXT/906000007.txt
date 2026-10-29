@@ -1,0 +1,8 @@
+ITEM ID: 906000007
+ICON ID: Icon_Avatar_Surfboard_BOOYAH
+NOMBRE: Skyboard - Green Star
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000007.png

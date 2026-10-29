@@ -1,0 +1,8 @@
+ITEM ID: 801001440
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFIM 2022 Spring Badge Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Dominate the summit
+IMAGEN: CAJAS/imagenes/801001440.png

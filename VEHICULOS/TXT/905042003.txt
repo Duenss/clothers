@@ -1,0 +1,8 @@
+ITEM ID: 905042003
+ICON ID: Icon_Avatar_PARACHUTE_Winterfest23
+NOMBRE: Parachute - Iceflake
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905042003.png

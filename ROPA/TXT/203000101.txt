@@ -1,0 +1,8 @@
+ITEM ID: 203000101
+ICON ID: Icon_Avatar_TSHIRT_FB_2MILLION
+NOMBRE: 2M Fans on Facebook!
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000101.png

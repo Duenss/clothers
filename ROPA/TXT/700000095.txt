@@ -1,0 +1,8 @@
+ITEM ID: 700000095
+ICON ID: Icon_royal_badge_05
+NOMBRE: Royal Badge Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Royal Badge x5
+IMAGEN: ROPA/imagenes/700000095.png

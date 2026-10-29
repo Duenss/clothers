@@ -1,0 +1,8 @@
+ITEM ID: 923042022
+ICON ID: FF_UI_Voiceitem_Primkung
+NOMBRE: Hi there
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042022.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000868
+ICON ID: Icon_avatar_male_hair_cos_cobra_red
+NOMBRE: Cobra Rage (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000868.png

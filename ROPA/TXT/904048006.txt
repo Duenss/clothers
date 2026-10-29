@@ -1,0 +1,8 @@
+ITEM ID: 904048006
+ICON ID: Icon_Bag_Cityhero
+NOMBRE: Backpack - Midnight Monster
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904048006.png

@@ -1,0 +1,8 @@
+ITEM ID: 803000000
+ICON ID: icon_bp_activate_card
+NOMBRE: Booyah Pass Premium
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to activate the current season's Booyah Pass Premium
+IMAGEN: OTROS/imagenes/803000000.png

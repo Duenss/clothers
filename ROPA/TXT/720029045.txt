@@ -1,0 +1,8 @@
+ITEM ID: 720029045
+ICON ID: Icon_box_3
+NOMBRE: Mesmerizing Nights Badge Bundle (50)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Mesmerizing Nights Badge x50
+IMAGEN: ROPA/imagenes/720029045.png

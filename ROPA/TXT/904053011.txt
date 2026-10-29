@@ -1,0 +1,8 @@
+ITEM ID: 904053011
+ICON ID: Icon_Bag_GB_CT
+NOMBRE: Backpack - Spot Kick
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053011.png

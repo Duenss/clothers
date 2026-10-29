@@ -1,0 +1,8 @@
+ITEM ID: 211051046
+ICON ID: Icon_avatar_cos_accessory_football25_th
+NOMBRE: SEA Games Thailand Jersey (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051046.png

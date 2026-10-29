@@ -1,0 +1,8 @@
+ITEM ID: 205041012
+ICON ID: Icon_avatar_male_cos_shoe_slime_basic
+NOMBRE: Jelly Ready (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041012.png

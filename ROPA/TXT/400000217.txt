@@ -1,0 +1,8 @@
+ITEM ID: 400000217
+ICON ID: Icon_box_3
+NOMBRE: Winterlands Triple Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this box to get exciting rewards
+IMAGEN: ROPA/imagenes/400000217.png

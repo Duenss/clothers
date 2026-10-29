@@ -1,0 +1,8 @@
+ITEM ID: 203000493
+ICON ID: Icon_avatar_tshirt_twzhubot_huang
+NOMBRE: Huang Brothers
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000493.png

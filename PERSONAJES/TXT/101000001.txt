@@ -1,0 +1,8 @@
+ITEM ID: 101000001
+ICON ID: Icon_face_female01_head
+NOMBRE: Nulla
+TIPO: Characters
+RAREZA: NONE (None)
+TAG: (sin tag)
+DESCRIPCION: Nobody knows how she got onto Bermuda, except that she was here before everyone else. Extremely good at adapting to the environment, she is like a chameleon that survives and thrives.
+IMAGEN: PERSONAJES/imagenes/101000001.png

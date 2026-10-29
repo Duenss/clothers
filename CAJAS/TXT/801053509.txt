@@ -1,0 +1,8 @@
+ITEM ID: 801053509
+ICON ID: Icon_exchange_ghot_me_53
+NOMBRE: Ghost Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053509.png

@@ -1,0 +1,8 @@
+ITEM ID: 211048008
+ICON ID: Icon_avatar_male_cos_accessory_cityhero_blue
+NOMBRE: Midnight Vanguard (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048008.png

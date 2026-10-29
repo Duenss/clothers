@@ -1,0 +1,8 @@
+ITEM ID: 170042007
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Winterlands: Frostfire Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170042007.png

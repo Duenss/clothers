@@ -1,0 +1,8 @@
+ITEM ID: 205053023
+ICON ID: Icon_avatar_cos_shoe_gemini25_fp
+NOMBRE: Twinstars Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053023.png

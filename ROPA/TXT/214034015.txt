@@ -1,0 +1,8 @@
+ITEM ID: 214034015
+ICON ID: Icon_avatar_male_cos_headadditive_rampage4_fire_blue
+NOMBRE: Neptune Icestomper (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214034015.png

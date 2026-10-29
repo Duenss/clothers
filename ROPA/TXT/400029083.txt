@@ -1,0 +1,8 @@
+ITEM ID: 400029083
+ICON ID: Icon_box_3
+NOMBRE: Pink Devil Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Contains Pink Devil Bundle and all of its pieces
+IMAGEN: ROPA/imagenes/400029083.png

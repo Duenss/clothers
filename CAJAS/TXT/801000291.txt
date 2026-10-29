@@ -1,0 +1,8 @@
+ITEM ID: 801000291
+ICON ID: Icon_exchange_Arab_Eagle
+NOMBRE: Arab Eagle Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Soaring through the blue sky.
+IMAGEN: CAJAS/imagenes/801000291.png

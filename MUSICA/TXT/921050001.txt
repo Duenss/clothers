@@ -1,0 +1,8 @@
+ITEM ID: 921050001
+ICON ID: FF_UI_Voiceitem_BR50
+NOMBRE: Cleared for takeoff!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: FFWS Voice Pack
+IMAGEN: MUSICA/imagenes/921050001.png

@@ -1,0 +1,8 @@
+ITEM ID: 801051517
+ICON ID: Icon_exchange_vrtt_us-es_51
+NOMBRE: Virtual Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051517.png

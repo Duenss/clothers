@@ -1,0 +1,8 @@
+ITEM ID: 903032001
+ICON ID: Icon_Deadloot_Hurricane_1
+NOMBRE: Brassy Audiobomb Loot Box
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903032001.png

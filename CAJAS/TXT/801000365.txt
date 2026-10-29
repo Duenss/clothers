@@ -1,0 +1,8 @@
+ITEM ID: 801000365
+ICON ID: Icon_exchange_prime_c
+NOMBRE: Prime Token C
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Can be used to exchange for rewards
+IMAGEN: CAJAS/imagenes/801000365.png

@@ -1,0 +1,8 @@
+ITEM ID: 211047008
+ICON ID: Icon_avatar_cos_accessory_aurora_black
+NOMBRE: Aurora Shade (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047008.png

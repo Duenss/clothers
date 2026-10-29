@@ -1,0 +1,8 @@
+ITEM ID: 907102826
+ICON ID: Icon_M1014_Clashgold_S7
+NOMBRE: The Golden M1014
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102826.png

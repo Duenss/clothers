@@ -1,0 +1,8 @@
+ITEM ID: 905290001
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Bootcamp Graduate
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by completing Session 1 tasks in the Bootcamp
+IMAGEN: AVATARES/imagenes/905290001.png

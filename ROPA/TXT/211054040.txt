@@ -1,0 +1,8 @@
+ITEM ID: 211054040
+ICON ID: Icon_avatar_cos_hair_us_depend26_hw
+NOMBRE: Baby Eagle (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054040.png

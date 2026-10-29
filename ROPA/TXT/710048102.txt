@@ -1,0 +1,8 @@
+ITEM ID: 710048102
+ICON ID: Icon_box_3
+NOMBRE: Festiwall
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Get an interesting Gloo Wall skin
+IMAGEN: ROPA/imagenes/710048102.png

@@ -1,0 +1,8 @@
+ITEM ID: 800000006
+ICON ID: Icon_face_female_sc_Racergirl
+NOMBRE: Misha's Memory Fragments
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000006.png

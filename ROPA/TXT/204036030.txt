@@ -1,0 +1,8 @@
+ITEM ID: 204036030
+ICON ID: Icon_avatar_male_cos_bottom_surveillance
+NOMBRE: Team Spy (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036030.png

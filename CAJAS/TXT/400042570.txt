@@ -1,0 +1,8 @@
+ITEM ID: 400042570
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Death's Eye Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042570.png

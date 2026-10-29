@@ -1,0 +1,8 @@
+ITEM ID: 700000110
+ICON ID: Icon_box_newplayer
+NOMBRE: Unknown
+TIPO: Bundles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/700000110.png

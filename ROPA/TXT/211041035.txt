@@ -1,0 +1,8 @@
+ITEM ID: 211041035
+ICON ID: Icon_avatar_cos_accessory_esports_th
+NOMBRE: FFTC The Pro (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041035.png

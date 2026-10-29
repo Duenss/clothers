@@ -1,0 +1,8 @@
+ITEM ID: 400031101
+ICON ID: Icon_box_3
+NOMBRE: Prince Pink Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Contains Prince Pink and all it's pieces
+IMAGEN: ROPA/imagenes/400031101.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102211
+ICON ID: Icon_Kar98k_College
+NOMBRE: Kar98k - Rebel Academy
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102211.png

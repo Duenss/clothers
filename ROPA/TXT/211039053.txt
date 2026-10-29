@@ -1,0 +1,8 @@
+ITEM ID: 211039053
+ICON ID: Icon_avatar_cos_hair_fastbreaking23_hw01
+NOMBRE: Triangular Traditional Scarf
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039053.png

@@ -1,0 +1,8 @@
+ITEM ID: 400028311
+ICON ID: Icon_box_BooyahTV_28
+NOMBRE: Flaming Skull Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: BOOYAH! Reward
+IMAGEN: CAJAS/imagenes/400028311.png

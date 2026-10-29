@@ -1,0 +1,8 @@
+ITEM ID: 903036007
+ICON ID: Icon_Deadloot_Festival_TU
+NOMBRE: Loot Box - Tin Can
+TIPO: Loot Box
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903036007.png

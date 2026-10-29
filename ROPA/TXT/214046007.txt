@@ -1,0 +1,8 @@
+ITEM ID: 214046007
+ICON ID: Icon_avatar_cos_headadditive_yinyang24_fp
+NOMBRE: Grim Aura Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214046007.png

@@ -1,0 +1,8 @@
+ITEM ID: 204047008
+ICON ID: Icon_avatar_male_cos_bottom_equation
+NOMBRE: Linear Theory (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047008.png

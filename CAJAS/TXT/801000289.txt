@@ -1,0 +1,8 @@
+ITEM ID: 801000289
+ICON ID: Icon_exchange_Palm_Tree
+NOMBRE: Palm Tree
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Persevere in the midst of dryness.
+IMAGEN: CAJAS/imagenes/801000289.png

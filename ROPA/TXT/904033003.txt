@@ -1,0 +1,8 @@
+ITEM ID: 904033003
+ICON ID: Icon_Bag_Chess_FP
+NOMBRE: Backpack - Mind Game
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033003.png

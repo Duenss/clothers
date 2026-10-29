@@ -1,0 +1,8 @@
+ITEM ID: 922042002
+ICON ID: UI_Icon_SkillSkin_Tracker_Winterland23B
+NOMBRE: Skill Skin: Frost Shockwave
+TIPO: Skill Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922042002.png

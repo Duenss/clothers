@@ -1,0 +1,8 @@
+ITEM ID: 904046009
+ICON ID: Icon_Bag_FFWS_SF
+NOMBRE: Backpack - Vacation Time
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904046009.png

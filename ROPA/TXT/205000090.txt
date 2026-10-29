@@ -1,0 +1,8 @@
+ITEM ID: 205000090
+ICON ID: Icon_shoe_sports_08
+NOMBRE: Sports Shoes (Blue)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000090.png

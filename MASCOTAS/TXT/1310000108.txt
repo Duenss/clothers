@@ -1,0 +1,8 @@
+ITEM ID: 1310000108
+ICON ID: Icon_Pet_Boyband
+NOMBRE: Pet Skin: Tricky Jolly
+TIPO: Pet Skin
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Have you ever met a penguin in army green?
+IMAGEN: MASCOTAS/imagenes/1310000108.png

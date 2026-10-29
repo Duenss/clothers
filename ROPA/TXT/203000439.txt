@@ -1,0 +1,8 @@
+ITEM ID: 203000439
+ICON ID: Icon_avatar_cos_easter
+NOMBRE: Observer 1937
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000439.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103338
+ICON ID: Icon_AK47_Fugitive
+NOMBRE: AK47 - Wrathful Wackadoo
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103338.png

@@ -1,0 +1,8 @@
+ITEM ID: 400046110
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AN94 Dart Electric Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Open to receive an AN94 Dart Electric
+IMAGEN: CAJAS/imagenes/400046110.png

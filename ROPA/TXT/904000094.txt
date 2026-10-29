@@ -1,0 +1,8 @@
+ITEM ID: 904000094
+ICON ID: Icon_Bag_Nuclear_EP
+NOMBRE: Backpack - Doomsday
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000094.png

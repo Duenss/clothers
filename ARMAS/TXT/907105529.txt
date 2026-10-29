@@ -1,0 +1,8 @@
+ITEM ID: 907105529
+ICON ID: Icon_Pan_CSRank39
+NOMBRE: Pan - S39 Exclusive: Owl
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105529.png

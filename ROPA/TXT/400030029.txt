@@ -1,0 +1,8 @@
+ITEM ID: 400030029
+ICON ID: Icon_box_3
+NOMBRE: Unknown
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

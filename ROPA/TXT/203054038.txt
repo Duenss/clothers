@@ -1,0 +1,8 @@
+ITEM ID: 203054038
+ICON ID: Icon_avatar_male_tshirt_Mario
+NOMBRE: Plumber top (male)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054038.png

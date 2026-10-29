@@ -1,0 +1,8 @@
+ITEM ID: 600000006
+ICON ID: Icon_ff_Time_Roomcard2
+NOMBRE: Premium Room Card (Time Limit)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: When used to create room, unlocks premium customization settings. (Time Limit cards will be used first)
+IMAGEN: OTROS/imagenes/600000006.png

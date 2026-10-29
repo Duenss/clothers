@@ -1,0 +1,8 @@
+ITEM ID: 806000003
+ICON ID: Icon_NB1RE_Sys
+NOMBRE: Gamatatsu
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Gamatatsu's got something for you! (User will be able to place secret presents - random amounts of loadout, Gold, or Vouchers - on the spawn island. Presents available for 10 players.)
+IMAGEN: OTROS/imagenes/806000003.png

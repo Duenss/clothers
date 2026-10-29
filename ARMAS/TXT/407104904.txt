@@ -1,0 +1,8 @@
+ITEM ID: 407104904
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cosmic Chaos (M249 + MAC10) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive a random gun skin (M249 + MAC10) from the Cosmic Chaos set
+IMAGEN: ARMAS/imagenes/407104904.png

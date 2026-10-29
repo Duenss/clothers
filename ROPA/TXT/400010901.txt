@@ -1,0 +1,8 @@
+ITEM ID: 400010901
+ICON ID: Icon_box_3
+NOMBRE: Wanted Order Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB10
+DESCRIPCION: Dead or alive
+IMAGEN: ROPA/imagenes/400010901.png

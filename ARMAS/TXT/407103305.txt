@@ -1,0 +1,8 @@
+ITEM ID: 407103305
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Burning Lily (M14 + SPAS12) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive a random gun skin (M14 + SPAS12) from the Burning Lily weapon set
+IMAGEN: ARMAS/imagenes/407103305.png

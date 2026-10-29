@@ -1,0 +1,8 @@
+ITEM ID: 923042035
+ICON ID: FF_UI_Voiceitem_Streamer
+NOMBRE: You're amazing!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042035.png

@@ -1,0 +1,8 @@
+ITEM ID: 204035044
+ICON ID: Icon_avatar_cos_bottom_cateam_02
+NOMBRE: Club America Away (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035044.png

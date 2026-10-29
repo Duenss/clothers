@@ -1,0 +1,8 @@
+ITEM ID: 211048001
+ICON ID: Icon_avatar_female_cos_hair_comic24
+NOMBRE: Manga Creator (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048001.png

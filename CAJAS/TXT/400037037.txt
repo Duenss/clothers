@@ -1,0 +1,8 @@
+ITEM ID: 400037037
+ICON ID: Icon_box_EmojiB_OptionalA_37
+NOMBRE: BP S1 Deluxe Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: After receiving the basic outfit version, open this box to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400037037.png

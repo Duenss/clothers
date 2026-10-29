@@ -1,0 +1,8 @@
+ITEM ID: 214033004
+ICON ID: Icon_avatar_cos_headadditive_firephoenix_orange_g
+NOMBRE: Phoenix Zeal (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214033004.png

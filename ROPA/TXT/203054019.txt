@@ -1,0 +1,8 @@
+ITEM ID: 203054019
+ICON ID: Icon_avatar_male_cos_top_festival_music
+NOMBRE: Metallic Groove (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054019.png

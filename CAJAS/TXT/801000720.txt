@@ -1,0 +1,8 @@
+ITEM ID: 801000720
+ICON ID: Icon_exchange_ob25_ffl_coin
+NOMBRE: FFL Coin
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Thank you for supporting Free Fire League!
+IMAGEN: CAJAS/imagenes/801000720.png

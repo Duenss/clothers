@@ -1,0 +1,8 @@
+ITEM ID: 907103316
+ICON ID: Icon_M1887_Fastbreaking22
+NOMBRE: M1887 - Emerald Power
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103316.png

@@ -1,0 +1,8 @@
+ITEM ID: 908051007
+ICON ID: Icon_slot_Jeep_Ghost25
+NOMBRE: Jeep - Spooks Car
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051007.png

@@ -1,0 +1,8 @@
+ITEM ID: 170036028
+ICON ID: Icon_OptionalBundle_Bundle
+NOMBRE: Returning Players Gift
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: A special welcome back gift for returning players!
+IMAGEN: CAJAS/imagenes/170036028.png

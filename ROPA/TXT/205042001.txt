@@ -1,0 +1,8 @@
+ITEM ID: 205042001
+ICON ID: Icon_avatar_male_cos_shoe_voltage_black
+NOMBRE: Electro Current (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205042001.png

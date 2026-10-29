@@ -1,0 +1,8 @@
+ITEM ID: 901036007
+ICON ID: Icon_callsign_storebg_Yakuza
+NOMBRE: Thieving Confidence Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036007.png

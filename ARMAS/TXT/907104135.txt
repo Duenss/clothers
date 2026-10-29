@@ -1,0 +1,8 @@
+ITEM ID: 907104135
+ICON ID: Icon_FAL_Rank36
+NOMBRE: PARAFAL - S36 Exclusive: Luna
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104135.png

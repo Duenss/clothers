@@ -1,0 +1,8 @@
+ITEM ID: 904026004
+ICON ID: Icon_Bag_Eggday2021
+NOMBRE: Backpack - Tophat Bunny
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904026004.png

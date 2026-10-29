@@ -1,0 +1,8 @@
+ITEM ID: 902031018
+ICON ID: Icon_face_Jumpsuit2
+NOMBRE: Concealed
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031018.png

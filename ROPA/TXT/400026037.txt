@@ -1,0 +1,8 @@
+ITEM ID: 400026037
+ICON ID: Icon_box_3
+NOMBRE: Clubs Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Normal - Crimson
+IMAGEN: ROPA/imagenes/400026037.png

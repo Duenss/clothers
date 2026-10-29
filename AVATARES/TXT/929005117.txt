@@ -1,0 +1,8 @@
+ITEM ID: 929005117
+ICON ID: Icon_Photostickeritem_Winterland_01
+NOMBRE: Happy 2026 Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Happy 2026 Sticker
+IMAGEN: AVATARES/imagenes/929005117.png

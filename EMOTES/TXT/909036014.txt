@@ -1,0 +1,8 @@
+ITEM ID: 909036014
+ICON ID: Icon_Emote_God
+NOMBRE: Admire
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909036014.png

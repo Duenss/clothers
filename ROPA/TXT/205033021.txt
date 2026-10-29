@@ -1,0 +1,8 @@
+ITEM ID: 205033021
+ICON ID: Icon_avatar_male_cos_shoe_lion_red
+NOMBRE: Bonebruiser Scorch (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033021.png

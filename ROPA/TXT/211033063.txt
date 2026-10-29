@@ -1,0 +1,8 @@
+ITEM ID: 211033063
+ICON ID: Icon_avatar_cos_accessory_angelical_glasses
+NOMBRE: Risen Glasses
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033063.png

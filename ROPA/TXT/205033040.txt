@@ -1,0 +1,8 @@
+ITEM ID: 205033040
+ICON ID: Icon_avatar_cos_shoe_soccer_green
+NOMBRE: Electrified Kick (Footwear)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033040.png

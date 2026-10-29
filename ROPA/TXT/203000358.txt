@@ -1,0 +1,8 @@
+ITEM ID: 203000358
+ICON ID: Icon_avatar_top_cos_master_s7
+NOMBRE: Season 7 Heroic Jacket
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000358.png

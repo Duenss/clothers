@@ -1,0 +1,8 @@
+ITEM ID: 904049010
+ICON ID: Icon_Bag_Local25
+NOMBRE: Backpack - Jersey Woof
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049010.png

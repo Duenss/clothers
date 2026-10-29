@@ -1,0 +1,8 @@
+ITEM ID: 902038001
+ICON ID: Icon_face_Alligator_BP
+NOMBRE: Crocochamp Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038001.png

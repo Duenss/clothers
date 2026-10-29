@@ -1,0 +1,8 @@
+ITEM ID: 801051510
+ICON ID: Icon_exchange_fstt_us-es_51
+NOMBRE: Festive Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051510.png

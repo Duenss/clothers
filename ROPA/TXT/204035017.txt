@@ -1,0 +1,8 @@
+ITEM ID: 204035017
+ICON ID: Icon_avatar_cos_bottom_chameleon_sliver
+NOMBRE: Guerilla Carnizard (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035017.png

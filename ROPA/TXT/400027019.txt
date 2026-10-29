@@ -1,0 +1,8 @@
+ITEM ID: 400027019
+ICON ID: Icon_box_3
+NOMBRE: Cool Presentation Kit
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Get amazing avatars and banners for your profile!
+IMAGEN: ROPA/imagenes/400027019.png

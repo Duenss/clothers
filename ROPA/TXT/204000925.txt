@@ -1,0 +1,8 @@
+ITEM ID: 204000925
+ICON ID: Icon_avatar_cos_bottom_mejersey_18g
+NOMBRE: No. 18 Green Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000925.png

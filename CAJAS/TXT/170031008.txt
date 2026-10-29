@@ -1,0 +1,8 @@
+ITEM ID: 170031008
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Ice Time Choice Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Choose Wisely
+IMAGEN: CAJAS/imagenes/170031008.png

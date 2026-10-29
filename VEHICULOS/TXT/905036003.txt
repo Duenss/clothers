@@ -1,0 +1,8 @@
+ITEM ID: 905036003
+ICON ID: Icon_Avatar_PARACHUTE_Ghostface
+NOMBRE: Parachute - Wicked Red
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905036003.png

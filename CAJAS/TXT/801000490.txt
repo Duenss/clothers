@@ -1,0 +1,8 @@
+ITEM ID: 801000490
+ICON ID: Icon_exchange_ob22_iron_fist_token
+NOMBRE: Iron Fist Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: You have an iron fist
+IMAGEN: CAJAS/imagenes/801000490.png

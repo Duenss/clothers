@@ -1,0 +1,8 @@
+ITEM ID: 205041029
+ICON ID: Icon_avatar_cos_shoe_festival_id
+NOMBRE: Free Spirit (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041029.png

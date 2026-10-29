@@ -1,0 +1,8 @@
+ITEM ID: 801001546
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Pistol Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: One shot, one kill
+IMAGEN: CAJAS/imagenes/801001546.png

@@ -1,0 +1,8 @@
+ITEM ID: 913037009
+ICON ID: FF_UI_Vault_Music_Cricket
+NOMBRE: Aakhri Aadmi
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Aakhri Aadmi PK Music 2022
+IMAGEN: MUSICA/imagenes/913037009.png

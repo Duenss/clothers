@@ -1,0 +1,8 @@
+ITEM ID: 203033018
+ICON ID: Icon_avatar_cos_top_raincoat
+NOMBRE: Raindoll (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033018.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000003
+ICON ID: Icon_avatar_shorts_3
+NOMBRE: Shorts (Red)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000003.png

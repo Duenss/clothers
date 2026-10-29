@@ -1,0 +1,8 @@
+ITEM ID: 204041031
+ICON ID: Icon_avatar_cos_bottom_reputation
+NOMBRE: You Are Honor (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041031.png

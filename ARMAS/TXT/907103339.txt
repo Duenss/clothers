@@ -1,0 +1,8 @@
+ITEM ID: 907103339
+ICON ID: Icon_Pan_FoolsDinosauria
+NOMBRE: Pan - Eggshell Dino
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103339.png

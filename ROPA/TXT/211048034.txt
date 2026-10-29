@@ -1,0 +1,8 @@
+ITEM ID: 211048034
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Caped Shimmer (Mask)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048034.png

@@ -1,0 +1,8 @@
+ITEM ID: 204053011
+ICON ID: Icon_avatar_cos_bottom_eclipse_sun
+NOMBRE: Solar Eclipse (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053011.png

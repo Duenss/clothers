@@ -1,0 +1,8 @@
+ITEM ID: 921055040
+ICON ID: FF_UI_Voiceitem_US55
+NOMBRE: They got me!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Day of the Dead 2026 voice pack
+IMAGEN: MUSICA/imagenes/921055040.png

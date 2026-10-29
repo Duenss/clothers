@@ -1,0 +1,8 @@
+ITEM ID: 902046030
+ICON ID: Icon_face_FFWS_SF14
+NOMBRE: FFWS 2024 GF - Attack All Around Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046030.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000085
+ICON ID: Icon_box_3
+NOMBRE: Female Costumes Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random female costume, with a higher chance of unlocking rare items.
+IMAGEN: ROPA/imagenes/400000085.png

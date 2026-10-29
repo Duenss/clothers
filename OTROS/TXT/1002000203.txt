@@ -1,0 +1,8 @@
+ITEM ID: 1002000203
+ICON ID: FF_UI_Glooworld_Sys_Module_Radar
+NOMBRE: Scanner Gadget
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: After placing a Gloo Wall (with cooldown), marks nearby enemies and scans the larger surrounding area.
+IMAGEN: OTROS/imagenes/1002000203.png

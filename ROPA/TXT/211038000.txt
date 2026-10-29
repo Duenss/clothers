@@ -1,0 +1,8 @@
+ITEM ID: 211038000
+ICON ID: Icon_avatar_male_cos_hair_hellcat
+NOMBRE: Dusk Wildcat (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038000.png

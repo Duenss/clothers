@@ -1,0 +1,8 @@
+ITEM ID: 801000338
+ICON ID: Icon_exchange_sakura
+NOMBRE: Sakura Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Spring is here!
+IMAGEN: CAJAS/imagenes/801000338.png

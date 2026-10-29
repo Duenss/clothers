@@ -1,0 +1,8 @@
+ITEM ID: 204043038
+ICON ID: Icon_avatar_cos_bottom_reputation43
+NOMBRE: An Honor Rest (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043038.png

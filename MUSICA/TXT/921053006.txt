@@ -1,0 +1,8 @@
+ITEM ID: 921053006
+ICON ID: FF_UI_Voiceitem_Worldcup25
+NOMBRE: Charge the field, let's score!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Fire Kickoff Voice Pack
+IMAGEN: MUSICA/imagenes/921053006.png

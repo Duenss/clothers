@@ -1,0 +1,8 @@
+ITEM ID: 400000194
+ICON ID: Icon_box_special
+NOMBRE: Airdrop event
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A box for TH Airdrop event
+IMAGEN: CAJAS/imagenes/400000194.png

@@ -1,0 +1,8 @@
+ITEM ID: 203034056
+ICON ID: Icon_avatar_male_cos_top_rampage4_wind
+NOMBRE: Ventus Rogue (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034056.png

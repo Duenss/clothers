@@ -1,0 +1,8 @@
+ITEM ID: 903002901
+ICON ID: Icon_Deadloot_Arabictales
+NOMBRE: Loot Box - Dome of Genie
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002901.png

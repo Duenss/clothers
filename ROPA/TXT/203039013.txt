@@ -1,0 +1,8 @@
+ITEM ID: 203039013
+ICON ID: Icon_avatar_female_cos_top_muerte
+NOMBRE: Golden Doom (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039013.png

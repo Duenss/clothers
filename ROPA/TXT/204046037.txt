@@ -1,0 +1,8 @@
+ITEM ID: 204046037
+ICON ID: Icon_avatar_cos_bottom_hippo
+NOMBRE: Moo Deng Pants
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046037.png

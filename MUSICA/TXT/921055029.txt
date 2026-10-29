@@ -1,0 +1,8 @@
+ITEM ID: 921055029
+ICON ID: FF_UI_Voiceitem_Storm26
+NOMBRE: Through the storm, to Booyah!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Storm Arena voice pack
+IMAGEN: MUSICA/imagenes/921055029.png

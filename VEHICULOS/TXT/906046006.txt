@@ -1,0 +1,8 @@
+ITEM ID: 906046006
+ICON ID: Icon_Avatar_Surfboard_Booyahday24
+NOMBRE: Skyboard - Booyah Bling
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906046006.png

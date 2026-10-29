@@ -1,0 +1,8 @@
+ITEM ID: 204054001
+ICON ID: Icon_avatar_male_cos_bottom_wolf_sheep
+NOMBRE: Baa Baa Wolf (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054001.png

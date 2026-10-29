@@ -1,0 +1,8 @@
+ITEM ID: 908047007
+ICON ID: Icon_slot_Roadster_Superstar24
+NOMBRE: Sports Car - Road to Stardom
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908047007.png

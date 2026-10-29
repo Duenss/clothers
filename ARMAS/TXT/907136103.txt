@@ -1,0 +1,8 @@
+ITEM ID: 907136103
+ICON ID: Icon_GlooShield_Sugarskull22
+NOMBRE: Gloo Wall - Protection Offering
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136103.png

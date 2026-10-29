@@ -1,0 +1,8 @@
+ITEM ID: 801000112
+ICON ID: Icon_exchange_Partner_1
+NOMBRE: Partner 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000112.png

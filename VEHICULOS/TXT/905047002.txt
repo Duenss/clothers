@@ -1,0 +1,8 @@
+ITEM ID: 905047002
+ICON ID: Icon_Avatar_PARACHUTE_Allseason25
+NOMBRE: Parachute - Stormy Ascent
+TIPO: Parachute
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Obtained by reaching Heroic in BR or CS 4 times in 2025
+IMAGEN: VEHICULOS/imagenes/905047002.png

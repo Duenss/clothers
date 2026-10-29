@@ -1,0 +1,8 @@
+ITEM ID: 500000003
+ICON ID: Icon_NewLoadout_Supplies
+NOMBRE: Super Leg Pockets
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Super Leg Pockets loadout has different effects in BR and CS
+IMAGEN: OTROS/imagenes/500000003.png

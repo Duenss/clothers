@@ -1,0 +1,8 @@
+ITEM ID: 170030016
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Weapon Skin Gift Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Get one 30-day trial gun skin of your choice from the six below: [D048CCFF]SCAR Futuristic, MP40 Sneaky Clown, M1014 Winterlands, Thompson Time Travellers, FAMAS Swagger Ownage, M4A1 Pink Laminate[-]
+IMAGEN: CAJAS/imagenes/170030016.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000746
+ICON ID: Icon_exchange_ob25_celeb_sliver_star
+NOMBRE: CELEB SILVER STAR TOKEN
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Shining like a sliver star
+IMAGEN: CAJAS/imagenes/801000746.png

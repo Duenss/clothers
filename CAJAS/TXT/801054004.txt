@@ -1,0 +1,8 @@
+ITEM ID: 801054004
+ICON ID: Icon_exchange_bm26event1_54
+NOMBRE: Red Orb
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054004.png

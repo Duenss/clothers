@@ -1,0 +1,8 @@
+ITEM ID: 907105503
+ICON ID: Icon_Baseballbat_Underground26
+NOMBRE: Bat - Solar Valor
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105503.png

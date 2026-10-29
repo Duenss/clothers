@@ -1,0 +1,8 @@
+ITEM ID: 904000062
+ICON ID: Icon_Bag_hunter
+NOMBRE: Backpack - Bear's Soul
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000062.png

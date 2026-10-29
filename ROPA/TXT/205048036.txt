@@ -1,0 +1,8 @@
+ITEM ID: 205048036
+ICON ID: Icon_avatar_female_cos_shoe_tape
+NOMBRE: Taped Beauty (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048036.png

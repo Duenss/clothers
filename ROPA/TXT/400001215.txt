@@ -1,0 +1,8 @@
+ITEM ID: 400001215
+ICON ID: Icon_box_3
+NOMBRE: Katana Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Go get your katana
+IMAGEN: ROPA/imagenes/400001215.png

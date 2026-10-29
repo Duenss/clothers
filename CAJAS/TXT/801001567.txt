@@ -1,0 +1,8 @@
+ITEM ID: 801001567
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Firework Voucher
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Good Luck!
+IMAGEN: CAJAS/imagenes/801001567.png

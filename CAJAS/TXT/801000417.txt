@@ -1,0 +1,8 @@
+ITEM ID: 801000417
+ICON ID: Icon_exchange_ob21_white_tiger
+NOMBRE: White Tiger
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Symbol of West
+IMAGEN: CAJAS/imagenes/801000417.png

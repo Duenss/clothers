@@ -1,0 +1,8 @@
+ITEM ID: 400035022
+ICON ID: Icon_box_Digitaluniverse01_blue_35
+NOMBRE: Sterling Conqueror Token Box 1
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400035022.png

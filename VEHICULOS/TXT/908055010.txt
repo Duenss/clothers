@@ -1,0 +1,8 @@
+ITEM ID: 908055010
+ICON ID: Icon_slot_AMPHIBIAN_CSRank39
+NOMBRE: Amphibian - S39 Exclusive: Owl
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: VEHICULOS/imagenes/908055010.png

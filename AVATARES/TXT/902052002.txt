@@ -1,0 +1,8 @@
+ITEM ID: 902052002
+ICON ID: Icon_face_IIV_CT_King
+NOMBRE: Ryomen Sukuna Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052002.png

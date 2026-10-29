@@ -1,0 +1,8 @@
+ITEM ID: 205039030
+ICON ID: Icon_avatar_cos_shoe_braveman
+NOMBRE: FFML Phantom Eagle (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039030.png

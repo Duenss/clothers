@@ -1,0 +1,8 @@
+ITEM ID: 211049043
+ICON ID: Icon_avatar_cos_hair_eighth_hair
+NOMBRE: Infinity Hairstyle
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049043.png

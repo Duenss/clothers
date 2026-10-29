@@ -1,0 +1,8 @@
+ITEM ID: 203046000
+ICON ID: Icon_avatar_male_cos_top_smile
+NOMBRE: Jagged Grin (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046000.png

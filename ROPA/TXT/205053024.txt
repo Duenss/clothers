@@ -1,0 +1,8 @@
+ITEM ID: 205053024
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: The Watchman (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

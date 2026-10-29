@@ -1,0 +1,8 @@
+ITEM ID: 400000726
+ICON ID: Icon_box_3
+NOMBRE: Chocolate Heart Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A symbol of love
+IMAGEN: ROPA/imagenes/400000726.png

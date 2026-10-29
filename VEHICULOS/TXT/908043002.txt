@@ -1,0 +1,8 @@
+ITEM ID: 908043002
+ICON ID: Icon_slot_TUTU_Frog
+NOMBRE: Tuk Tuk - Ribbit Vacation
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908043002.png

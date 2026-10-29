@@ -1,0 +1,8 @@
+ITEM ID: 907104624
+ICON ID: Icon_FAL_CSRank27
+NOMBRE: PARAFAL - S27 Exclusive: Jagged
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: CS-Ranked S27 Reward
+IMAGEN: ARMAS/imagenes/907104624.png

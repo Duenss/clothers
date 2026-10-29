@@ -1,0 +1,8 @@
+ITEM ID: 400034079
+ICON ID: Icon_box_3
+NOMBRE: Wildfire Rogue Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Wildfire Rogue and all its pieces
+IMAGEN: ROPA/imagenes/400034079.png

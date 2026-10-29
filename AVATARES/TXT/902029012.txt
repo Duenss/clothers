@@ -1,0 +1,8 @@
+ITEM ID: 902029012
+ICON ID: Icon_face_Mocomonth
+NOMBRE: Turquoise Warning
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029012.png

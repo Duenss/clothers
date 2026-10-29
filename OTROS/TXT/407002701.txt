@@ -1,0 +1,8 @@
+ITEM ID: 407002701
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Hand of Hope Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Hand of Hope weapon set
+IMAGEN: OTROS/imagenes/407002701.png

@@ -1,0 +1,8 @@
+ITEM ID: 801053511
+ICON ID: Icon_exchange_wavet_us_sac_53
+NOMBRE: Wave Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053511.png

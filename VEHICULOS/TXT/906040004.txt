@@ -1,0 +1,8 @@
+ITEM ID: 906040004
+ICON ID: Icon_Avatar_Surfboard_Farmer
+NOMBRE: Skyboard - Sunset Gears
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906040004.png

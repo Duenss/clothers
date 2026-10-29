@@ -1,0 +1,8 @@
+ITEM ID: 203001298
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Victory Batter (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001298.png

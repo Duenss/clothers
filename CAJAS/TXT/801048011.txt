@@ -1,0 +1,8 @@
+ITEM ID: 801048011
+ICON ID: Icon_exchange_Ninja_Mask02_48
+NOMBRE: Ninja Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048011.png

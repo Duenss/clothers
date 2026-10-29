@@ -1,0 +1,8 @@
+ITEM ID: 1310000246
+ICON ID: Icon_Pet_Flyingcreature_Fb23
+NOMBRE: Pet skin: Green Imp Arvon
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: MASCOTAS/imagenes/1310000246.png

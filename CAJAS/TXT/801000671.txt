@@ -1,0 +1,8 @@
+ITEM ID: 801000671
+ICON ID: Icon_exchange_ob24_High_Voltage_Token
+NOMBRE: High Voltage Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Danger! High voltage
+IMAGEN: CAJAS/imagenes/801000671.png

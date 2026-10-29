@@ -1,0 +1,8 @@
+ITEM ID: 903032006
+ICON ID: Icon_Deadloot_Luchalibre2
+NOMBRE: Loot Box - Wrestling Spirit
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903032006.png

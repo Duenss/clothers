@@ -1,0 +1,8 @@
+ITEM ID: 400000385
+ICON ID: Icon_box_3
+NOMBRE: Endless Summer Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Endless Summer Loot Crate
+IMAGEN: ROPA/imagenes/400000385.png

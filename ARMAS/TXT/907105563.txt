@@ -1,0 +1,8 @@
+ITEM ID: 907105563
+ICON ID: Icon_GlooShield_TH_Cupnoodle_CT
+NOMBRE: Gloo Wall - MAMA
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105563.png

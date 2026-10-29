@@ -1,0 +1,8 @@
+ITEM ID: 400048527
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: P90 Bunny's Order Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Open to receive a P90 Bunny's Order
+IMAGEN: CAJAS/imagenes/400048527.png

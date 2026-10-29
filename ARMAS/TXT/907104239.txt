@@ -1,0 +1,8 @@
+ITEM ID: 907104239
+ICON ID: Icon_UMP45_Allseason
+NOMBRE: UMP - Dawn Voyage
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Obtain by reaching Heroic in BR or CS 6 times in 2024.
+IMAGEN: ARMAS/imagenes/907104239.png

@@ -1,0 +1,8 @@
+ITEM ID: 400041136
+ICON ID: Icon_box_Designertoys_adv_42
+NOMBRE: BP S11 Deluxe Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041136.png

@@ -1,0 +1,8 @@
+ITEM ID: 802000140
+ICON ID: FF_Lottery_Blackgnv_55_Voucher
+NOMBRE: Black God Noir Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000140.png

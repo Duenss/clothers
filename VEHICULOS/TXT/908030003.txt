@@ -1,0 +1,8 @@
+ITEM ID: 908030003
+ICON ID: Icon_slot_MonsterTruck_Playingcard
+NOMBRE: Monster Truck - Poker Monarch
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908030003.png

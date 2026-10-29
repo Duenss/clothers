@@ -1,0 +1,8 @@
+ITEM ID: 203043039
+ICON ID: Icon_avatar_male_cos_top_carnaval24
+NOMBRE: Funky Vibe (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043039.png

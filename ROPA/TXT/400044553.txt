@@ -1,0 +1,8 @@
+ITEM ID: 400044553
+ICON ID: Icon_box_3
+NOMBRE: Booyah Pass Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Get a chance to win the Booyah Pass Premium!
+IMAGEN: ROPA/imagenes/400044553.png

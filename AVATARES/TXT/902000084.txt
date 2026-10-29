@@ -1,0 +1,8 @@
+ITEM ID: 902000084
+ICON ID: Icon_face_pirate_fp
+NOMBRE: Death Wish
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000084.png

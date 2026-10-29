@@ -1,0 +1,8 @@
+ITEM ID: 205000829
+ICON ID: Icon_avatar_cos_shoe_silversword_white
+NOMBRE: Metallic Circalight (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000829.png

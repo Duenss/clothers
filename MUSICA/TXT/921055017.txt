@@ -1,0 +1,8 @@
+ITEM ID: 921055017
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Card
+NOMBRE: I won't let anyone take down my friends!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Kakashi Voice Pack
+IMAGEN: MUSICA/imagenes/921055017.png

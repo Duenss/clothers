@@ -1,0 +1,8 @@
+ITEM ID: 214042009
+ICON ID: Icon_avatar_male_cos_headadditive_vocational
+NOMBRE: Mechanic Masterplan (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214042009.png

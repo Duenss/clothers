@@ -1,0 +1,8 @@
+ITEM ID: 203000194
+ICON ID: Icon_avatar_tshirt_CostaRica
+NOMBRE: Carribean Hurricane
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000194.png

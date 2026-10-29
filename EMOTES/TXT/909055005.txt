@@ -1,0 +1,8 @@
+ITEM ID: 909055005
+ICON ID: Icon_Emote_Halloween26_Cry
+NOMBRE: Broken Cry
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909055005.png

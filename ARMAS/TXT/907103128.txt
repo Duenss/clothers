@@ -1,0 +1,8 @@
+ITEM ID: 907103128
+ICON ID: Icon_FAMAS_FFChar_S26
+NOMBRE: FAMAS - S26 Exclusive: Laura
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103128.png

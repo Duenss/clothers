@@ -1,0 +1,8 @@
+ITEM ID: 904051003
+ICON ID: Icon_Bag_Bathtub
+NOMBRE: Backpack - Bubble Trouble
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051003.png

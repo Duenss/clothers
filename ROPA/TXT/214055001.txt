@@ -1,0 +1,8 @@
+ITEM ID: 214055001
+ICON ID: Icon_avatar_male_cos_headadditive_blackdress26
+NOMBRE: Cosmic Overlord (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214055001.png

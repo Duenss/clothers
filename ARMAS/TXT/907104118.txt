@@ -1,0 +1,8 @@
+ITEM ID: 907104118
+ICON ID: Icon_Inkpainting_Grenade
+NOMBRE: Grenade - Ink Splash
+TIPO: Grenade Skin
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104118.png

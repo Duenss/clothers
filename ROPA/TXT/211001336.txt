@@ -1,0 +1,8 @@
+ITEM ID: 211001336
+ICON ID: Icon_avatar_male_cos_accessory_hurricane_la
+NOMBRE: Thunder Electrified (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001336.png

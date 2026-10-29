@@ -1,0 +1,8 @@
+ITEM ID: 908048002
+ICON ID: Icon_slot_TUTU_Redball
+NOMBRE: Tuk Tuk - Scarlet Mischief
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048002.png

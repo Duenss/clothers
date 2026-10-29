@@ -1,0 +1,8 @@
+ITEM ID: 204047005
+ICON ID: Icon_avatar_female_cos_bottom_express
+NOMBRE: Speedy Delivery (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047005.png

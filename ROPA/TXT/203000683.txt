@@ -1,0 +1,8 @@
+ITEM ID: 203000683
+ICON ID: Icon_avatar_male_top_cos_evilbone
+NOMBRE: Capt. Punisher (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000683.png

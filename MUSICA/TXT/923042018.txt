@@ -1,0 +1,8 @@
+ITEM ID: 923042018
+ICON ID: FF_UI_Voiceitem_Ironbull
+NOMBRE: Got it (Kouki)
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042018.png

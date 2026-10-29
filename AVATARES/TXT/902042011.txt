@@ -1,0 +1,8 @@
+ITEM ID: 902042011
+ICON ID: Icon_face_Theboy
+NOMBRE: Frostfire Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042011.png

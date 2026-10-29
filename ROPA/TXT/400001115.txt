@@ -1,0 +1,8 @@
+ITEM ID: 400001115
+ICON ID: Icon_box_3
+NOMBRE: Thanks Giving Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Appreciate for all the love you give
+IMAGEN: ROPA/imagenes/400001115.png

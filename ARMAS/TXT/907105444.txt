@@ -1,0 +1,8 @@
+ITEM ID: 907105444
+ICON ID: Icon_GlooShield_Esports_MVP
+NOMBRE: Gloo Wall - Thunderwall MVP
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105444.png

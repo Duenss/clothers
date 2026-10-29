@@ -1,0 +1,8 @@
+ITEM ID: 921049014
+ICON ID: FF_UI_Voiceitem_VN49
+NOMBRE: What's going on?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Trendy Sound
+IMAGEN: MUSICA/imagenes/921049014.png

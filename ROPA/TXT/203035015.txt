@@ -1,0 +1,8 @@
+ITEM ID: 203035015
+ICON ID: Icon_avatar_cos_top_chameleon_green
+NOMBRE: Jungle Carnizard (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035015.png

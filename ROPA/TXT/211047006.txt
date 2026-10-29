@@ -1,0 +1,8 @@
+ITEM ID: 211047006
+ICON ID: Icon_avatar_male_cos_accessory_express
+NOMBRE: Taped Delivery (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047006.png

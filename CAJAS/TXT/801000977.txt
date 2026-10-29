@@ -1,0 +1,8 @@
+ITEM ID: 801000977
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Light stick 3 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Light represents Charm
+IMAGEN: CAJAS/imagenes/801000977.png

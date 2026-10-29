@@ -1,0 +1,8 @@
+ITEM ID: 204048001
+ICON ID: Icon_avatar_male_cos_bottom_comic24
+NOMBRE: Manga Artist (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048001.png

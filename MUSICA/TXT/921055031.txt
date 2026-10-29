@@ -1,0 +1,8 @@
+ITEM ID: 921055031
+ICON ID: FF_UI_Voiceitem_Storm26
+NOMBRE: Only the strongest survive the storm
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Storm Arena voice pack
+IMAGEN: MUSICA/imagenes/921055031.png

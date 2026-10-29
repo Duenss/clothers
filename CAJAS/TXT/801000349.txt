@@ -1,0 +1,8 @@
+ITEM ID: 801000349
+ICON ID: Icon_exchange_bronze_weapon
+NOMBRE: Bronze Weapon Medal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A symbol of courage
+IMAGEN: CAJAS/imagenes/801000349.png

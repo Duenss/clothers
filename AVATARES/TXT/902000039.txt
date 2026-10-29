@@ -1,0 +1,8 @@
+ITEM ID: 902000039
+ICON ID: Icon_face_F
+NOMBRE: Fox
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000039.png

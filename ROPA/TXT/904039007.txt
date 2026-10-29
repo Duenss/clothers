@@ -1,0 +1,8 @@
+ITEM ID: 904039007
+ICON ID: Icon_Bag_Thug
+NOMBRE: Backpack - Evil Grenadian
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039007.png

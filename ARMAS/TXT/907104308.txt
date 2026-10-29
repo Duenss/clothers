@@ -1,0 +1,8 @@
+ITEM ID: 907104308
+ICON ID: Icon_BM94_Colorfest24
+NOMBRE: M82B - Prismatic Blaze
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104308.png

@@ -1,0 +1,8 @@
+ITEM ID: 204047006
+ICON ID: Icon_avatar_cos_bottom_aurora_black
+NOMBRE: Aurora Shade (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047006.png

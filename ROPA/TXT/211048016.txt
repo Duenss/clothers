@@ -1,0 +1,8 @@
+ITEM ID: 211048016
+ICON ID: Icon_avatar_cos_hair_rainforest_free
+NOMBRE: Tropical Misfits (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048016.png

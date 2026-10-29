@@ -1,0 +1,8 @@
+ITEM ID: 170035002
+ICON ID: Icon_OptionalBundle_Survey_deluxe
+NOMBRE: Survivor's Deluxe Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170035002.png

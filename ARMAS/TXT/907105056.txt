@@ -1,0 +1,8 @@
+ITEM ID: 907105056
+ICON ID: Icon_GlooShield_Batik
+NOMBRE: Gloo Wall - Golden Twilight
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105056.png

@@ -1,0 +1,8 @@
+ITEM ID: 400030113
+ICON ID: Icon_box_3
+NOMBRE: Friendship Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Welcome back my friend
+IMAGEN: ROPA/imagenes/400030113.png

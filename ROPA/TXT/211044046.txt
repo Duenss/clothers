@@ -1,0 +1,8 @@
+ITEM ID: 211044046
+ICON ID: Icon_avatar_cos_accessory_persona_mask
+NOMBRE: Paradox Mask
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044046.png

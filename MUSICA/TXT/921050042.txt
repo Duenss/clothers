@@ -1,0 +1,8 @@
+ITEM ID: 921050042
+ICON ID: FF_UI_Voiceitem_DIWALI50
+NOMBRE: In this relationship, I'm basically your boss
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bolly Boli: Part 2
+IMAGEN: MUSICA/imagenes/921050042.png

@@ -1,0 +1,8 @@
+ITEM ID: 1310000054
+ICON ID: Icon_Pet_Blackfox
+NOMBRE: Pet Skin: Battle Fox
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A combination between beauty and technology.
+IMAGEN: MASCOTAS/imagenes/1310000054.png

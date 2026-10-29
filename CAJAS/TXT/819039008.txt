@@ -1,0 +1,8 @@
+ITEM ID: 819039008
+ICON ID: FF_UI_VFX_Comic_02
+NOMBRE: Running Effect (Comic Chaos)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Special running effects when wearing Comic Chaos themed bottom and shoes.
+IMAGEN: CAJAS/imagenes/819039008.png

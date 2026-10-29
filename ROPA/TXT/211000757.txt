@@ -1,0 +1,8 @@
+ITEM ID: 211000757
+ICON ID: Icon_avatar_male_hair_cos_jumpsuit_asia
+NOMBRE: Plan Bermuda Shinobi (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000757.png

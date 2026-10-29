@@ -1,0 +1,8 @@
+ITEM ID: 907103745
+ICON ID: Icon_GlooShield_Childrensday22
+NOMBRE: Gloo Wall - Animal Rascal
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103745.png

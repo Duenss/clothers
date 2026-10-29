@@ -1,0 +1,8 @@
+ITEM ID: 913037004
+ICON ID: FF_UI_Vault_Music_Winterfest22
+NOMBRE: SUBZERO
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Winterlands: Subzero theme song
+IMAGEN: MUSICA/imagenes/913037004.png

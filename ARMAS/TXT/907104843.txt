@@ -1,0 +1,8 @@
+ITEM ID: 907104843
+ICON ID: Icon_Firefly_Grenade
+NOMBRE: Grenade - Firefly Glow
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104843.png

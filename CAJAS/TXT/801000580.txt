@@ -1,0 +1,8 @@
+ITEM ID: 801000580
+ICON ID: Icon_exchange_ob23_esports_token
+NOMBRE: eSports Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: eSports coin
+IMAGEN: CAJAS/imagenes/801000580.png

@@ -1,0 +1,8 @@
+ITEM ID: 400027091
+ICON ID: Icon_box_3
+NOMBRE: Graceful Beast Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Graceful Beast and all its pieces
+IMAGEN: ROPA/imagenes/400027091.png

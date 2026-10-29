@@ -1,0 +1,8 @@
+ITEM ID: 801001663
+ICON ID: Icon_exchange_FlashGem_35
+NOMBRE: Time-limited Diamond
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Use to exchange for exciting rewards!
+IMAGEN: CAJAS/imagenes/801001663.png

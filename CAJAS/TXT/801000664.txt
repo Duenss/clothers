@@ -1,0 +1,8 @@
+ITEM ID: 801000664
+ICON ID: Icon_exchange_ob24_Hero_Token
+NOMBRE: Hero Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: With commanding presence
+IMAGEN: CAJAS/imagenes/801000664.png

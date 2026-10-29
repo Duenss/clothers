@@ -1,0 +1,8 @@
+ITEM ID: 920051002
+ICON ID: Icon_Action_Falling_Dreamland
+NOMBRE: Jumping Posture (Dreamspace)
+TIPO: Posture
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Equip this to have a special falling posture in-match.
+IMAGEN: EMOTES/imagenes/920051002.png

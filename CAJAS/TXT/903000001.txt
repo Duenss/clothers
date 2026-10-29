@@ -1,0 +1,8 @@
+ITEM ID: 903000001
+ICON ID: deadloot_express
+NOMBRE: Loot Box - Recycling
+TIPO: Loot Box
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000001.png

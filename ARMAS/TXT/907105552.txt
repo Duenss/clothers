@@ -1,0 +1,8 @@
+ITEM ID: 907105552
+ICON ID: Icon_Ninja_Watermelon_Grenade
+NOMBRE: Grenade - Melon Blast
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105552.png

@@ -1,0 +1,8 @@
+ITEM ID: 211038030
+ICON ID: Icon_avatar_cos_accessory_darkskeleton
+NOMBRE: Myth Nightrider (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038030.png

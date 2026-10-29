@@ -1,0 +1,8 @@
+ITEM ID: 909550001
+ICON ID: Icon_SuperEmote_2NBCT_Fan
+NOMBRE: Susano'o Summoning
+TIPO: Super Emote
+RAREZA: RED (Artifact)
+TAG: OB50
+DESCRIPCION: Change the scene when used in the cabin
+IMAGEN: EMOTES/imagenes/909550001.png

@@ -1,0 +1,8 @@
+ITEM ID: 909038005
+ICON ID: Icon_Emote_Tom_Move
+NOMBRE: Angry Walk
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909038005.png

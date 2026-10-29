@@ -1,0 +1,8 @@
+ITEM ID: 710034049
+ICON ID: Icon_bundle_Cyberwasp10_32
+NOMBRE: Bumble Rumblers Badge Bundle (10)
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Bumble Rumblers Badge x10
+IMAGEN: ROPA/imagenes/710034049.png

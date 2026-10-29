@@ -1,0 +1,8 @@
+ITEM ID: 407104403
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Breath of Silence (AWM) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive a random gun skin (AWM) from the Breath of Silence weapon set
+IMAGEN: ARMAS/imagenes/407104403.png

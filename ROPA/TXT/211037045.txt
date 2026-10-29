@@ -1,0 +1,8 @@
+ITEM ID: 211037045
+ICON ID: Icon_avatar_cos_hair_cdband
+NOMBRE: Carla's Dreams (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037045.png

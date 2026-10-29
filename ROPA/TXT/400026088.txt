@@ -1,0 +1,8 @@
+ITEM ID: 400026088
+ICON ID: Icon_box_3
+NOMBRE: Cyber Melee Weapons Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Cyber Melee Weapons series
+IMAGEN: ROPA/imagenes/400026088.png

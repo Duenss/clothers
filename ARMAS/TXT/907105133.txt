@@ -1,0 +1,8 @@
+ITEM ID: 907105133
+ICON ID: Icon_Baseballbat_Rank49
+NOMBRE: Bat - S49 Exclusive: Woof
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105133.png

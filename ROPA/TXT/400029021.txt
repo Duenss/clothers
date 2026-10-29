@@ -1,0 +1,8 @@
+ITEM ID: 400029021
+ICON ID: Icon_box_3
+NOMBRE: Fighter's Fist Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Happy Fighter's Day! Open up to get amazing rewards!
+IMAGEN: ROPA/imagenes/400029021.png

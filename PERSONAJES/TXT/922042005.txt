@@ -1,0 +1,8 @@
+ITEM ID: 922042005
+ICON ID: UI_Icon_SkillSkin_Tracker
+NOMBRE: Skill Skin: Senses Shockwave
+TIPO: Skill Skins
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922042005.png

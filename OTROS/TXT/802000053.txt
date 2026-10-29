@@ -1,0 +1,8 @@
+ITEM ID: 802000053
+ICON ID: FF_Lottery_Winterland_Royale_Voucher
+NOMBRE: Winterlands Royale Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Winterlands event
+IMAGEN: OTROS/imagenes/802000053.png

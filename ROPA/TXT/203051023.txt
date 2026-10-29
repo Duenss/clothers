@@ -1,0 +1,8 @@
+ITEM ID: 203051023
+ICON ID: Icon_avatar_female_cos_top_ffws25_red
+NOMBRE: Flame Edge (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051023.png

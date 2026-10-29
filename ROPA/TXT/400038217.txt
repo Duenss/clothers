@@ -1,0 +1,8 @@
+ITEM ID: 400038217
+ICON ID: Icon_box_3
+NOMBRE: Floral Fortune Bundle Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: Contains Floral Fortune and all its pieces
+IMAGEN: ROPA/imagenes/400038217.png

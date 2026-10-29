@@ -1,0 +1,8 @@
+ITEM ID: 801000355
+ICON ID: Icon_exchange_bronze_helm
+NOMBRE: Bronze Helm Medal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A keepsake of the bronze age
+IMAGEN: CAJAS/imagenes/801000355.png

@@ -1,0 +1,8 @@
+ITEM ID: 203037013
+ICON ID: Icon_avatar_male_cos_top_homeless
+NOMBRE: Blue Renegade (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037013.png

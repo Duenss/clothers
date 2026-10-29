@@ -1,0 +1,8 @@
+ITEM ID: 214039014
+ICON ID: Icon_avatar_cos_headadditive_angelik
+NOMBRE: Ethereal Bodymark
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214039014.png

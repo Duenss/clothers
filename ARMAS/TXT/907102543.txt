@@ -1,0 +1,8 @@
+ITEM ID: 907102543
+ICON ID: Icon_GlooShield_Winterfest2020
+NOMBRE: Gloo Wall - Winterlands 2020
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102543.png

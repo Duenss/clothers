@@ -1,0 +1,8 @@
+ITEM ID: 400041560
+ICON ID: Icon_box_3
+NOMBRE: Free Fire Pro League 2023 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400041560.png

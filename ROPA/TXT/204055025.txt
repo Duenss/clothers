@@ -1,0 +1,8 @@
+ITEM ID: 204055025
+ICON ID: Icon_avatar_male_cos_bottom_gen_z
+NOMBRE: Academy Influencer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055025.png

@@ -1,0 +1,8 @@
+ITEM ID: 902048023
+ICON ID: Icon_face_LW_ID25_02
+NOMBRE: LW-Ranked Platinum Wolf Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048023.png

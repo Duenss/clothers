@@ -1,0 +1,8 @@
+ITEM ID: 400000234
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M4A1 Griffin's Fury Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random M4A1 skin from the Griffin's Fury set.
+IMAGEN: CAJAS/imagenes/400000234.png

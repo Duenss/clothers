@@ -1,0 +1,8 @@
+ITEM ID: 211000032
+ICON ID: Icon_avatar_male_hair_cos_Hip-hop2
+NOMBRE: Breakdancer (Head)
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000032.png

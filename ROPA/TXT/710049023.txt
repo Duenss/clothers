@@ -1,0 +1,8 @@
+ITEM ID: 710049023
+ICON ID: Icon_bundle_male_VN_Ocean_49
+NOMBRE: Briny Shore Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710049023.png

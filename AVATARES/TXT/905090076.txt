@@ -1,0 +1,8 @@
+ITEM ID: 905090076
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Ninjutsu Master
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Receive by achieving Heroic Rank in Ninjutsu Lone Wolf mode
+IMAGEN: AVATARES/imagenes/905090076.png

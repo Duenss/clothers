@@ -1,0 +1,8 @@
+ITEM ID: 902038023
+ICON ID: Icon_face_VN_Playoffs2
+NOMBRE: Trophy Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038023.png

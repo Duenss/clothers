@@ -1,0 +1,8 @@
+ITEM ID: 710027042
+ICON ID: Icon_box_3
+NOMBRE: Theatre of Torment Badge Bundle (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Theatre of Torment Badge x10
+IMAGEN: ROPA/imagenes/710027042.png

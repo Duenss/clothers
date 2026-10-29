@@ -1,0 +1,8 @@
+ITEM ID: 902030003
+ICON ID: Icon_face_Playingcard_FP
+NOMBRE: Turquoise Royalty
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030003.png

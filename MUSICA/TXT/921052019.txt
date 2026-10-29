@@ -1,0 +1,8 @@
+ITEM ID: 921052019
+ICON ID: FF_UI_Voiceitem_IIV_05
+NOMBRE: We beat it.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Nobara Kugisaki Voice Pack
+IMAGEN: MUSICA/imagenes/921052019.png

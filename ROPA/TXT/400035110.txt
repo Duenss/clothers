@@ -1,0 +1,8 @@
+ITEM ID: 400035110
+ICON ID: Icon_box_3
+NOMBRE: Scarlet Groom Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Contains Scarlet Groom and all its pieces
+IMAGEN: ROPA/imagenes/400035110.png

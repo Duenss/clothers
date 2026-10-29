@@ -1,0 +1,8 @@
+ITEM ID: 801000741
+ICON ID: Icon_exchange_ob25_setsubun_happiness
+NOMBRE: Setsubun Happiness
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Happiness in
+IMAGEN: CAJAS/imagenes/801000741.png

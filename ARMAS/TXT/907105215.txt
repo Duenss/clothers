@@ -1,0 +1,8 @@
+ITEM ID: 907105215
+ICON ID: Icon_AUG_Pisces
+NOMBRE: AUG - Astral Ripples
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105215.png

@@ -1,0 +1,8 @@
+ITEM ID: 904038003
+ICON ID: Icon_Bag_Eldergods
+NOMBRE: Backpack - Serpent
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038003.png

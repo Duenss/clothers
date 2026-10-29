@@ -1,0 +1,8 @@
+ITEM ID: 400030161
+ICON ID: Icon_box_3
+NOMBRE: dtac 8
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400030161.png

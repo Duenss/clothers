@@ -1,0 +1,8 @@
+ITEM ID: 246753003
+ICON ID: Icon_SparkPet_Hand_Balloon
+NOMBRE: Balloon
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Balloon
+IMAGEN: MASCOTAS/imagenes/246753003.png

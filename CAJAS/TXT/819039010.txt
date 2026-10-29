@@ -1,0 +1,8 @@
+ITEM ID: 819039010
+ICON ID: FF_UI_VFX_Scarlet_03
+NOMBRE: EP Greater Than 50 Effect (Scorpio)
+TIPO: Vouchers
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: Special effects when EP is greater than 50 and wearing Scorpio themed top.
+IMAGEN: CAJAS/imagenes/819039010.png

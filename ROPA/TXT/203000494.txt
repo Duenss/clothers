@@ -1,0 +1,8 @@
+ITEM ID: 203000494
+ICON ID: Icon_avatar_tshirt_twzhubot_jiujiuxie
+NOMBRE: Chu Chu Shoes
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000494.png

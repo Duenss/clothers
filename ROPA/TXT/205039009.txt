@@ -1,0 +1,8 @@
+ITEM ID: 205039009
+ICON ID: Icon_avatar_male_cos_shoe_scarlet
+NOMBRE: Legendary Scorpio (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039009.png

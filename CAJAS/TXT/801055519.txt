@@ -1,0 +1,8 @@
+ITEM ID: 801055519
+ICON ID: Icon_exchange_rebornt_us_sac_55
+NOMBRE: Reborn Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055519.png

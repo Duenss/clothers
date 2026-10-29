@@ -1,0 +1,8 @@
+ITEM ID: 211044047
+ICON ID: Icon_avatar_cos_hair_videogame_hw
+NOMBRE: Byte Hat
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044047.png

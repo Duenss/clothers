@@ -1,0 +1,8 @@
+ITEM ID: 170037003
+ICON ID: Icon_box_EmojiB_Evo_37
+NOMBRE: Evo Gun Token Pack
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170037003.png

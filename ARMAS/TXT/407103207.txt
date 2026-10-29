@@ -1,0 +1,8 @@
+ITEM ID: 407103207
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Violet Fear (Charge Buster) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive a random gun skin (Charge Buster) from the Violet Fear weapon set
+IMAGEN: ARMAS/imagenes/407103207.png

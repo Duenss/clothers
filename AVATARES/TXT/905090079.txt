@@ -1,0 +1,8 @@
+ITEM ID: 905090079
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Craftland Top Creator
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: OB90
+DESCRIPCION: Received by becoming a top creator in your region
+IMAGEN: AVATARES/imagenes/905090079.png

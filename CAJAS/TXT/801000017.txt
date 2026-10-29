@@ -1,0 +1,8 @@
+ITEM ID: 801000017
+ICON ID: Icon_exchange_YNdulire
+NOMBRE: Independence Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000017.png

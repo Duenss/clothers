@@ -1,0 +1,8 @@
+ITEM ID: 801000617
+ICON ID: Icon_exchange_ob24_Wooden_Block
+NOMBRE: Wooden Block
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000617.png

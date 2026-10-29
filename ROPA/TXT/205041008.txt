@@ -1,0 +1,8 @@
+ITEM ID: 205041008
+ICON ID: Icon_avatar_male_cos_shoe_designertoys_basic
+NOMBRE: Marionette Wonder (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041008.png

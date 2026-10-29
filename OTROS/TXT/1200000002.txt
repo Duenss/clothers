@@ -1,0 +1,8 @@
+ITEM ID: 1200000002
+ICON ID: Icon_Chat_Emoji_02
+NOMBRE: Mad Chicken
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Mad Chicken
+IMAGEN: OTROS/imagenes/1200000002.png

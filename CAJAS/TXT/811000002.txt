@@ -1,0 +1,8 @@
+ITEM ID: 811000002
+ICON ID: Icon_ff_ReviveToken
+NOMBRE: Shell
+TIPO: Vouchers
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: The currency of Training Grounds
+IMAGEN: CAJAS/imagenes/811000002.png

@@ -1,0 +1,8 @@
+ITEM ID: 710036032
+ICON ID: Icon_bundle_male_vn_playoffs_36
+NOMBRE: Iron Hero Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710036032.png

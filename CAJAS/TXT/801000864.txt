@@ -1,0 +1,8 @@
+ITEM ID: 801000864
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion M
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000864.png

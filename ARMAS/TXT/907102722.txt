@@ -1,0 +1,8 @@
+ITEM ID: 907102722
+ICON ID: Icon_USP_Falconer
+NOMBRE: USP - The Falconer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102722.png

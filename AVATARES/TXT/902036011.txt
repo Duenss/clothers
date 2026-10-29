@@ -1,0 +1,8 @@
+ITEM ID: 902036011
+ICON ID: Icon_face_CSRank15_A
+NOMBRE: CS-Ranked S15 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036011.png

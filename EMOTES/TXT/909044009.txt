@@ -1,0 +1,8 @@
+ITEM ID: 909044009
+ICON ID: Icon_Emote_BR_Vapo
+NOMBRE: Done Deal
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044009.png

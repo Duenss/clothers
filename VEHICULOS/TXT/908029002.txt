@@ -1,0 +1,8 @@
+ITEM ID: 908029002
+ICON ID: Icon_slot_Motobike_Arabictales
+NOMBRE: Motorbike - Mesmerizing Nights
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908029002.png

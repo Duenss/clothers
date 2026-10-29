@@ -1,0 +1,8 @@
+ITEM ID: 203053035
+ICON ID: Icon_avatar_cos_top_tshirt26_france
+NOMBRE: Blue Rhombus Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053035.png

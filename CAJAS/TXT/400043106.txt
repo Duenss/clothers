@@ -1,0 +1,8 @@
+ITEM ID: 400043106
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: G36 Flaring Bionica Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Open to receive a G36 Flaring Bionica
+IMAGEN: CAJAS/imagenes/400043106.png

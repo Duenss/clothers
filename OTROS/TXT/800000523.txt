@@ -1,0 +1,8 @@
+ITEM ID: 800000523
+ICON ID: Icon_WSM_P90_Jumpsuit25
+NOMBRE: P90 - Gilded Corrosion Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the P90 skin. Obtain from events or buy directly from Store.
+IMAGEN: OTROS/imagenes/800000523.png

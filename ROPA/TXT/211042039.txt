@@ -1,0 +1,8 @@
+ITEM ID: 211042039
+ICON ID: Icon_avatar_male_cos_hair_brazilgum
+NOMBRE: Trident Suit (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042039.png

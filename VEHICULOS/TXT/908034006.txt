@@ -1,0 +1,8 @@
+ITEM ID: 908034006
+ICON ID: Icon_slot_MonsterTruck_BIS
+NOMBRE: Monster Truck - Digi Smiley
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034006.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000544
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Mr. Waggor Package
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Mr. Waggor, Gold Waggor skin, and exciting rewards
+IMAGEN: ROPA/imagenes/700000544.png

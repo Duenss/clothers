@@ -1,0 +1,8 @@
+ITEM ID: 203001287
+ICON ID: Icon_avatar_female_top_cos_memecha
+NOMBRE: Heatbound Dunes (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001287.png

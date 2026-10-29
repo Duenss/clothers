@@ -1,0 +1,8 @@
+ITEM ID: 902054001
+ICON ID: Icon_face_Ninth_Free
+NOMBRE: 9th Anniversary Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054001.png

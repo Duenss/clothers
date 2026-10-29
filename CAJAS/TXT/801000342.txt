@@ -1,0 +1,8 @@
+ITEM ID: 801000342
+ICON ID: Icon_exchange_venus
+NOMBRE: Venus
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: The second planet in solar system
+IMAGEN: CAJAS/imagenes/801000342.png

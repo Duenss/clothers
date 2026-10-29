@@ -1,0 +1,8 @@
+ITEM ID: 907103721
+ICON ID: Icon_Pan_Culture_VN
+NOMBRE: Pan - Leafy Treat
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103721.png

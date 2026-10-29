@@ -1,0 +1,8 @@
+ITEM ID: 204033025
+ICON ID: Icon_avatar_male_cos_bottom_luchalibre2_mw
+NOMBRE: Aerostar (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033025.png

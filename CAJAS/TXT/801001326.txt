@@ -1,0 +1,8 @@
+ITEM ID: 801001326
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fearless Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Attack, Divide, Engage
+IMAGEN: CAJAS/imagenes/801001326.png

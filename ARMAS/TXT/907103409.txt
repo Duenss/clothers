@@ -1,0 +1,8 @@
+ITEM ID: 907103409
+ICON ID: Icon_Eagle_Rampage4
+NOMBRE: Desert Eagle - Hybrid Explosion
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103409.png

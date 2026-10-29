@@ -1,0 +1,8 @@
+ITEM ID: 903048001
+ICON ID: Icon_Deadloot_Comic24
+NOMBRE: Loot Box - Airdrop Attack!
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903048001.png

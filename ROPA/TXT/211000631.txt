@@ -1,0 +1,8 @@
+ITEM ID: 211000631
+ICON ID: Icon_avatar_male_accessory_cos_plague2
+NOMBRE: Plague Phantom (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000631.png

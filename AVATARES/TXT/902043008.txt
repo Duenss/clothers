@@ -1,0 +1,8 @@
+ITEM ID: 902043008
+ICON ID: Icon_face_Geek_Q
+NOMBRE: Ryden Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043008.png

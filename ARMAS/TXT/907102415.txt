@@ -1,0 +1,8 @@
+ITEM ID: 907102415
+ICON ID: Icon_Groza_Futuristiccity
+NOMBRE: Groza - FFCS
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102415.png

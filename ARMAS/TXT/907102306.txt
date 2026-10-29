@@ -1,0 +1,8 @@
+ITEM ID: 907102306
+ICON ID: Icon_M60_FoxMiko
+NOMBRE: M60 - Spirited Overseers
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102306.png

@@ -1,0 +1,8 @@
+ITEM ID: 400037058
+ICON ID: Icon_box_3
+NOMBRE: Football Fable Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400037058.png

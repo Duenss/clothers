@@ -1,0 +1,8 @@
+ITEM ID: 203000989
+ICON ID: Icon_avatar_male_top_cos_underworldgang
+NOMBRE: Viper Gangster (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000989.png

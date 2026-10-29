@@ -1,0 +1,8 @@
+ITEM ID: 901054010
+ICON ID: Icon_callsign_storebg_CSRank38
+NOMBRE: CS-Ranked S38 Master Banner
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901054010.png

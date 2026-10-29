@@ -1,0 +1,8 @@
+ITEM ID: 400030185
+ICON ID: Icon_box_3
+NOMBRE: Camou War Turtle Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Camou War Turtle and all it's pieces
+IMAGEN: ROPA/imagenes/400030185.png

@@ -1,0 +1,8 @@
+ITEM ID: 909038008
+ICON ID: Icon_Emote_Sticker
+NOMBRE: Croco Hooray
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909038008.png

@@ -1,0 +1,8 @@
+ITEM ID: 214045002
+ICON ID: Icon_avatar_cos_headadditive_spirit24_fp
+NOMBRE: Anemo Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214045002.png

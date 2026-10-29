@@ -1,0 +1,8 @@
+ITEM ID: 400040547
+ICON ID: Icon_box_Top_Coffee01_ID_40
+NOMBRE: Top Coffee Box 07
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Congrats! More Booyah with Top Coffee!
+IMAGEN: CAJAS/imagenes/400040547.png

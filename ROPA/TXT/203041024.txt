@@ -1,0 +1,8 @@
+ITEM ID: 203041024
+ICON ID: Icon_avatar_male_cos_top_ninja_th
+NOMBRE: Fiery Flash (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041024.png

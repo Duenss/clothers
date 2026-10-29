@@ -1,0 +1,8 @@
+ITEM ID: 904000016
+ICON ID: Icon_Bag_Silver_Camo_03
+NOMBRE: Backpack - Sleek Silver
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000016.png

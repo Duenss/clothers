@@ -1,0 +1,8 @@
+ITEM ID: 211046062
+ICON ID: Icon_avatar_male_cos_hair_booyahday24_001
+NOMBRE: Booyah Hair
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046062.png

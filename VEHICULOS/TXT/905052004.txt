@@ -1,0 +1,8 @@
+ITEM ID: 905052004
+ICON ID: Icon_Avatar_PARACHUTE_Emoji26
+NOMBRE: Parachute - Chillin' Emoji
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905052004.png

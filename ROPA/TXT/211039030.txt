@@ -1,0 +1,8 @@
+ITEM ID: 211039030
+ICON ID: Icon_avatar_male_cos_hair_fashionist
+NOMBRE: Shinjuku Influencer (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039030.png

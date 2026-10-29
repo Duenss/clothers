@@ -1,0 +1,8 @@
+ITEM ID: 203037047
+ICON ID: Icon_avatar_male_cos_top_emoji
+NOMBRE: Cyber Blast (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037047.png

@@ -1,0 +1,8 @@
+ITEM ID: 928005501
+ICON ID: Icon_GroupPhoto_NB1RE_CT_Pose_01_icon
+NOMBRE: Shadow Clone Jutsu
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Shadow Clone Jutsu
+IMAGEN: AVATARES/imagenes/928005501.png

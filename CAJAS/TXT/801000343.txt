@@ -1,0 +1,8 @@
+ITEM ID: 801000343
+ICON ID: Icon_exchange_vn_earth
+NOMBRE: Earth
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: The third planet in solar system
+IMAGEN: CAJAS/imagenes/801000343.png

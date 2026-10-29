@@ -1,0 +1,8 @@
+ITEM ID: 170055020
+ICON ID: Icon_OptionalBundle_guncb6_TH_55
+NOMBRE: Gun Choice Box 6
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170055020.png

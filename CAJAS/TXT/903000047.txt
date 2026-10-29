@@ -1,0 +1,8 @@
+ITEM ID: 903000047
+ICON ID: Icon_Deadloot_Icefestival
+NOMBRE: Loot Box - Winter's Delight
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000047.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000847
+ICON ID: Icon_avatar_male_cos_bottom_lightfest_prince
+NOMBRE: Warrior Prince (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000847.png

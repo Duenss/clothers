@@ -1,0 +1,8 @@
+ITEM ID: 921046008
+ICON ID: FF_UI_Voiceitem_Windah
+NOMBRE: [Windah] Let's take attendance!
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Playing is more fun with Windah's voice!
+IMAGEN: MUSICA/imagenes/921046008.png

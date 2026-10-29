@@ -1,0 +1,8 @@
+ITEM ID: 928005302
+ICON ID: Icon_GroupPhotoWorldcup25_icon_One_Champion
+NOMBRE: We're the champions!
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: We're the champions!
+IMAGEN: AVATARES/imagenes/928005302.png

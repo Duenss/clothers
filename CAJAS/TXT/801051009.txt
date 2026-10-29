@@ -1,0 +1,8 @@
+ITEM ID: 801051009
+ICON ID: Icon_exchange_nfdc_51
+NOMBRE: Molten Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051009.png

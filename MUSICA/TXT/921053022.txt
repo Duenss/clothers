@@ -1,0 +1,8 @@
+ITEM ID: 921053022
+ICON ID: FF_UI_Voiceitem_RonaldoBR53
+NOMBRE: Look at this guy, I just juked you
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho Gaúcho voice pack
+IMAGEN: MUSICA/imagenes/921053022.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000632
+ICON ID: Icon_exchange_ob24_Trick_or_Treat
+NOMBRE: Trick or Treat
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Knock Knock. Trick or Treat!
+IMAGEN: CAJAS/imagenes/801000632.png

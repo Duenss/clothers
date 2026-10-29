@@ -1,0 +1,8 @@
+ITEM ID: 203036023
+ICON ID: Icon_avatar_male_cos_top_villainman
+NOMBRE: Warder Captain (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036023.png

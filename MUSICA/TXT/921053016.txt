@@ -1,0 +1,8 @@
+ITEM ID: 921053016
+ICON ID: FF_UI_Voiceitem_TH53
+NOMBRE: Splash harder
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921053016.png

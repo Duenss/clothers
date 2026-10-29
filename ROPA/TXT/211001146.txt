@@ -1,0 +1,8 @@
+ITEM ID: 211001146
+ICON ID: Icon_avatar_cos_hair_clownhat
+NOMBRE: Circus Hat - Yellow
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001146.png

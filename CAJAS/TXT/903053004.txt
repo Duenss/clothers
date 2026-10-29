@@ -1,0 +1,8 @@
+ITEM ID: 903053004
+ICON ID: Icon_Deadloot_Fishseller
+NOMBRE: Loot Box - Fishy Case
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903053004.png

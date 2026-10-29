@@ -1,0 +1,8 @@
+ITEM ID: 904047001
+ICON ID: Icon_Bag_Aurora
+NOMBRE: Backpack - Aurora's Watchfox
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904047001.png

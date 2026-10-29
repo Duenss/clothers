@@ -1,0 +1,8 @@
+ITEM ID: 909038003
+ICON ID: Icon_Emote_Holi
+NOMBRE: Techno Blast
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909038003.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102214
+ICON ID: Icon_M60_Captainbubble
+NOMBRE: M60 - Captain Bubbles
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102214.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000362
+ICON ID: Icon_exchange_prestige_e
+NOMBRE: Prestige Token E
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Can be used to exchange for rewards
+IMAGEN: CAJAS/imagenes/801000362.png

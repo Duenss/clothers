@@ -1,0 +1,8 @@
+ITEM ID: 214000058
+ICON ID: Icon_avatar_male_headadditive_cos_waterfest21_a
+NOMBRE: Summer Wave (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000058.png

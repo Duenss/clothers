@@ -1,0 +1,8 @@
+ITEM ID: 801000755
+ICON ID: Icon_exchange_ob25_master_guns_2
+NOMBRE: The Master of Guns #2
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Come if you dare...
+IMAGEN: CAJAS/imagenes/801000755.png

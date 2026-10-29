@@ -1,0 +1,8 @@
+ITEM ID: 905028004
+ICON ID: Icon_Avatar_PARACHUTE_Thunder_01
+NOMBRE: Parachute - Destiny Guardian
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905028004.png

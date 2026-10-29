@@ -1,0 +1,8 @@
+ITEM ID: 907136077
+ICON ID: Icon_M24_Mambas
+NOMBRE: M24 - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136077.png

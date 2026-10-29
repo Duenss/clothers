@@ -1,0 +1,8 @@
+ITEM ID: 211043038
+ICON ID: Icon_avatar_male_cos_hair_chili
+NOMBRE: Chili Hottie (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043038.png

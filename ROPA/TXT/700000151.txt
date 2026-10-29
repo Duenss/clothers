@@ -1,0 +1,8 @@
+ITEM ID: 700000151
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Tinhead and exclusive Loadouts
+IMAGEN: ROPA/imagenes/700000151.png

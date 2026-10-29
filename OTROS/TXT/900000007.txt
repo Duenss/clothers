@@ -1,0 +1,8 @@
+ITEM ID: 900000007
+ICON ID: Icon_slot_TuTu_Default
+NOMBRE: Default Tuk Tuk
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 3-seater with fairly slow speed and low durability
+IMAGEN: OTROS/imagenes/900000007.png

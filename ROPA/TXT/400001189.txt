@@ -1,0 +1,8 @@
+ITEM ID: 400001189
+ICON ID: Icon_box_3
+NOMBRE: Wishing Shard Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: May your wish come true
+IMAGEN: ROPA/imagenes/400001189.png

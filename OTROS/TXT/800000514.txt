@@ -1,0 +1,8 @@
+ITEM ID: 800000514
+ICON ID: Icon_WSM_Fist_FFWS2022
+NOMBRE: Drachen Fist Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Upgrade your punch!
+IMAGEN: OTROS/imagenes/800000514.png

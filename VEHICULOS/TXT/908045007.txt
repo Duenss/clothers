@@ -1,0 +1,8 @@
+ITEM ID: 908045007
+ICON ID: Icon_slot_Roadster_Spirit24
+NOMBRE: Sports Car - Anemospeeder
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908045007.png

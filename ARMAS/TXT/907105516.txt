@@ -1,0 +1,8 @@
+ITEM ID: 907105516
+ICON ID: Icon_Sickle_Diwali26
+NOMBRE: Scythe - Magma Plume
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105516.png

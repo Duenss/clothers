@@ -1,0 +1,8 @@
+ITEM ID: 921047001
+ICON ID: FF_UI_Voiceitem_Winterfest25_1
+NOMBRE: Happy new year!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Event-exclusive voice pack
+IMAGEN: MUSICA/imagenes/921047001.png

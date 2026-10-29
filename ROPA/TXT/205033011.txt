@@ -1,0 +1,8 @@
+ITEM ID: 205033011
+ICON ID: Icon_avatar_cos_shoe_firephoenix_green
+NOMBRE: Phoenix Zap (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033011.png

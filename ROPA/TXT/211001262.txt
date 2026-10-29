@@ -1,0 +1,8 @@
+ITEM ID: 211001262
+ICON ID: Icon_avatar_male_cos_accessory_rumusician
+NOMBRE: Strapped Trap (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001262.png

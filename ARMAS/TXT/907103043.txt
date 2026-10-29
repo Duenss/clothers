@@ -1,0 +1,8 @@
+ITEM ID: 907103043
+ICON ID: Icon_GlooShield_Booyahday21
+NOMBRE: Gloo Wall - BOOYAH DAY 2021
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103043.png

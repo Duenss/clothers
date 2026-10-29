@@ -1,0 +1,8 @@
+ITEM ID: 203001358
+ICON ID: Icon_avatar_male_cos_top_fashionboy
+NOMBRE: Hip Kid (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001358.png

@@ -1,0 +1,8 @@
+ITEM ID: 1600000001
+ICON ID: FF_UI_Relationship_props
+NOMBRE: Golden Vow
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: The start of an exciting journey!\n(Dynamic Duo item)
+IMAGEN: OTROS/imagenes/1600000001.png

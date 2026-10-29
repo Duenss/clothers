@@ -1,0 +1,8 @@
+ITEM ID: 1310000106
+ICON ID: Icon_Pet_Evilrhythm
+NOMBRE: Pet Skin: Punk Waggor
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: I used to be a law-abiding penguin.
+IMAGEN: MASCOTAS/imagenes/1310000106.png

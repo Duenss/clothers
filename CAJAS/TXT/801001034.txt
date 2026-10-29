@@ -1,0 +1,8 @@
+ITEM ID: 801001034
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Cat's Ear Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Meow meow!
+IMAGEN: CAJAS/imagenes/801001034.png

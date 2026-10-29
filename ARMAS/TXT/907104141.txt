@@ -1,0 +1,8 @@
+ITEM ID: 907104141
+ICON ID: Icon_Pan_DS_waterman
+NOMBRE: Pan - Giyu Style
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104141.png

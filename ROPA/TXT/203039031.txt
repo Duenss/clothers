@@ -1,0 +1,8 @@
+ITEM ID: 203039031
+ICON ID: Icon_avatar_male_cos_top_gangdom
+NOMBRE: Law of Devastation (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039031.png

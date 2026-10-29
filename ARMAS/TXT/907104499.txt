@@ -1,0 +1,8 @@
+ITEM ID: 907104499
+ICON ID: Icon_Thompson_Penguin_W
+NOMBRE: Thompson - Waggor's Wonder (15 Days)
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104499.png

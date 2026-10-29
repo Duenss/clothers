@@ -1,0 +1,8 @@
+ITEM ID: 400037229
+ICON ID: Icon_box_3
+NOMBRE: Beast Warrior Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains Beast Warrior and all its pieces
+IMAGEN: ROPA/imagenes/400037229.png

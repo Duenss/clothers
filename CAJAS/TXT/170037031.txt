@@ -1,0 +1,8 @@
+ITEM ID: 170037031
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Ramadan Blueprint Choice Pack
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Obtain a blueprint of your choice
+IMAGEN: CAJAS/imagenes/170037031.png

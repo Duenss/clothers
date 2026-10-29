@@ -1,0 +1,8 @@
+ITEM ID: 400036155
+ICON ID: Icon_box_3
+NOMBRE: Cuboot Shoes Collection Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Cuboot Shoes Collection
+IMAGEN: ROPA/imagenes/400036155.png

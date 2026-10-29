@@ -1,0 +1,8 @@
+ITEM ID: 400039115
+ICON ID: Icon_box_3
+NOMBRE: Arcade box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400039115.png

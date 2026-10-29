@@ -1,0 +1,8 @@
+ITEM ID: 801044532
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Songkran 2024 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044532.png

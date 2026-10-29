@@ -1,0 +1,8 @@
+ITEM ID: 907136070
+ICON ID: Icon_BM94_Mambas
+NOMBRE: M82B - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136070.png

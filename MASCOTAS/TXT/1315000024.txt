@@ -1,0 +1,8 @@
+ITEM ID: 1315000024
+ICON ID: FF_UI_Pet_Cactus_Skill
+NOMBRE: Self-Sufficient
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Restore EP after staying still for some time.
+IMAGEN: MASCOTAS/imagenes/1315000024.png

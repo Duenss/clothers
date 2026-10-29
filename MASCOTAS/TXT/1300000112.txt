@@ -1,0 +1,8 @@
+ITEM ID: 1300000112
+ICON ID: Icon_Pet_Baboon
+NOMBRE: Beaston
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Don't judge by his looks. He has a soft heart.
+IMAGEN: MASCOTAS/imagenes/1300000112.png

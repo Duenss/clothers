@@ -1,0 +1,8 @@
+ITEM ID: 907103341
+ICON ID: Icon_FFWS03_Grenade
+NOMBRE: Grenade - Haven Guardian
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103341.png

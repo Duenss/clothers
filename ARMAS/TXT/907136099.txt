@@ -1,0 +1,8 @@
+ITEM ID: 907136099
+ICON ID: Icon_GlooShield_VB
+NOMBRE: Gloo Wall - Potential
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136099.png

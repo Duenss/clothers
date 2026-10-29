@@ -1,0 +1,8 @@
+ITEM ID: 907104728
+ICON ID: Icon_Fist_Catdog
+NOMBRE: Fist - 24K Thump
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104728.png

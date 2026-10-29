@@ -1,0 +1,8 @@
+ITEM ID: 908030005
+ICON ID: Icon_slot_Roadster_Booyahday21
+NOMBRE: Sports Car - BOOYAH DAY 2021
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908030005.png

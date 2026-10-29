@@ -1,0 +1,8 @@
+ITEM ID: 211001307
+ICON ID: Icon_avatar_male_cos_hair_menacostume
+NOMBRE: Bluesilk Royalty (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001307.png

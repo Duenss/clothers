@@ -1,0 +1,8 @@
+ITEM ID: 400035068
+ICON ID: Icon_box_3
+NOMBRE: The Baron Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Redeem the prize you desire!
+IMAGEN: ROPA/imagenes/400035068.png

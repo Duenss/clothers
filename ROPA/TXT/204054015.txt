@@ -1,0 +1,8 @@
+ITEM ID: 204054015
+ICON ID: Icon_avatar_male_cos_bottom_id_depend26
+NOMBRE: Captain of Courage (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204054015.png

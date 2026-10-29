@@ -1,0 +1,8 @@
+ITEM ID: 907105542
+ICON ID: Icon_RPK_New55_04
+NOMBRE: RPK - Steffie
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105542.png

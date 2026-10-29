@@ -1,0 +1,8 @@
+ITEM ID: 904051014
+ICON ID: Icon_Bag_Snack
+NOMBRE: Backpack - Snack Time
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051014.png

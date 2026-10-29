@@ -1,0 +1,8 @@
+ITEM ID: 801001124
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: The Central Core Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: The beginning of everything
+IMAGEN: CAJAS/imagenes/801001124.png

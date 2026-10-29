@@ -1,0 +1,8 @@
+ITEM ID: 211048012
+ICON ID: Icon_avatar_cos_hair_rainforest_lizard
+NOMBRE: Tropical Reptile (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048012.png

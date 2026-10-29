@@ -1,0 +1,8 @@
+ITEM ID: 801047523
+ICON ID: Icon_exchange_VCT_vn_47
+NOMBRE: VN Cake Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047523.png

@@ -1,0 +1,8 @@
+ITEM ID: 801044504
+ICON ID: Icon_exchange_Badge_br_44
+NOMBRE: Kelly's Recognition Token
+TIPO: Exchange Tokens
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: A token of triumph for those who conquer rank goals in Kelly's challenge
+IMAGEN: CAJAS/imagenes/801044504.png

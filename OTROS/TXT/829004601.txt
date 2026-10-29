@@ -1,0 +1,8 @@
+ITEM ID: 829004601
+ICON ID: Icon_exchange_FlashGem_35
+NOMBRE: Time-limited Diamond
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Time-limited Diamonds can be used to purchase items from a special store
+IMAGEN: OTROS/imagenes/829004601.png

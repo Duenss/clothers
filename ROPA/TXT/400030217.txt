@@ -1,0 +1,8 @@
+ITEM ID: 400030217
+ICON ID: Icon_box_3
+NOMBRE: Booyah Box 17
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Especially for you
+IMAGEN: ROPA/imagenes/400030217.png

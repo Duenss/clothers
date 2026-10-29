@@ -1,0 +1,8 @@
+ITEM ID: 214054008
+ICON ID: Icon_avatar_cos_headadditive_sea26
+NOMBRE: SEA Fall 2026 (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214054008.png

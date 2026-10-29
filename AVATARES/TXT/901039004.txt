@@ -1,0 +1,8 @@
+ITEM ID: 901039004
+ICON ID: Icon_callsign_storebg_Rollerskating_EP
+NOMBRE: Zesty Rollers Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901039004.png

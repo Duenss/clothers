@@ -1,0 +1,8 @@
+ITEM ID: 211000613
+ICON ID: Icon_avatar_male_hair_cos_college_black
+NOMBRE: Deadnight Senior (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000613.png

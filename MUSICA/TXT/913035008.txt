@@ -1,0 +1,8 @@
+ITEM ID: 913035008
+ICON ID: FF_UI_Vault_Music_RAMPAGE4_MY
+NOMBRE: FIGHT
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Theme song of Free Fire Untuk Semua Budaya in collaboration with DOLLA
+IMAGEN: MUSICA/imagenes/913035008.png

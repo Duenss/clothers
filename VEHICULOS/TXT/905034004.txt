@@ -1,0 +1,8 @@
+ITEM ID: 905034004
+ICON ID: Icon_Avatar_PARACHUTE_Lotus
+NOMBRE: Parachute - Glow Lotus
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905034004.png

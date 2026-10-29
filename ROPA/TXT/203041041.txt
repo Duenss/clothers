@@ -1,0 +1,8 @@
+ITEM ID: 203041041
+ICON ID: Icon_avatar_male_cos_top_kendo23
+NOMBRE: Meaning of Blade (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041041.png

@@ -1,0 +1,8 @@
+ITEM ID: 400055525
+ICON ID: Icon_box_Vipb05_ME_55
+NOMBRE: VIP Box 05
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055525.png

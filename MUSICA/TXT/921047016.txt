@@ -1,0 +1,8 @@
+ITEM ID: 921047016
+ICON ID: FF_UI_Voiceitem_Woodcrafter
+NOMBRE: Flower anukuntiva? Wildfireu
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921047016.png

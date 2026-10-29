@@ -1,0 +1,8 @@
+ITEM ID: 400001122
+ICON ID: Icon_box_3
+NOMBRE: Yellow Quartz Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400001122.png

@@ -1,0 +1,8 @@
+ITEM ID: 911004801
+ICON ID: Icon_Mounts_flymove_Cityhero
+NOMBRE: Skydive - Midnight Action
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004801.png

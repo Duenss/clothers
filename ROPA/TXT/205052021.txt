@@ -1,0 +1,8 @@
+ITEM ID: 205052021
+ICON ID: Icon_avatar_cos_shoe_fastbreaking_free
+NOMBRE: Treasure Finder (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205052021.png

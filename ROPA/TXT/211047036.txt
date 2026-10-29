@@ -1,0 +1,8 @@
+ITEM ID: 211047036
+ICON ID: Icon_avatar_cos_hair_trend_th
+NOMBRE: Chic Wear (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047036.png

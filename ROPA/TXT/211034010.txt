@@ -1,0 +1,8 @@
+ITEM ID: 211034010
+ICON ID: Icon_avatar_male_cos_hair_roseperfume_red
+NOMBRE: Sir Aromatonian (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034010.png

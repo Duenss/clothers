@@ -1,0 +1,8 @@
+ITEM ID: 205033024
+ICON ID: Icon_avatar_female_cos_shoe_luchalibre2_mw
+NOMBRE: Purple Might (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033024.png

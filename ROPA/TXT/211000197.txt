@@ -1,0 +1,8 @@
+ITEM ID: 211000197
+ICON ID: Icon_avatar_accessory_cos_easterhead1
+NOMBRE: Rabbit Hat
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000197.png

@@ -1,0 +1,8 @@
+ITEM ID: 902000117
+ICON ID: Icon_face_egypt_ep_02
+NOMBRE: Amun-Ra
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000117.png

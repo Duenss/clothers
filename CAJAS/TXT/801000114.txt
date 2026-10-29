@@ -1,0 +1,8 @@
+ITEM ID: 801000114
+ICON ID: Icon_exchange_Pro_League_1
+NOMBRE: Tournament Badge 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000114.png

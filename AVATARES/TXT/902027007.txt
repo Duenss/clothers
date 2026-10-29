@@ -1,0 +1,8 @@
+ITEM ID: 902027007
+ICON ID: Icon_face_male_head_sc_Falconer_B
+NOMBRE: Maro's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027007.png

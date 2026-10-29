@@ -1,0 +1,8 @@
+ITEM ID: 400001370
+ICON ID: FF_UI_EP_Box
+NOMBRE: Elite Pass Exclusive Chest
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Open to receive a random item from the Elite Pass Exclusive Chest
+IMAGEN: CAJAS/imagenes/400001370.png

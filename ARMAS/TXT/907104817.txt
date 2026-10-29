@@ -1,0 +1,8 @@
+ITEM ID: 907104817
+ICON ID: Icon_SPAS12_Goldenthunder
+NOMBRE: SPAS12 - Golden Flash
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104817.png

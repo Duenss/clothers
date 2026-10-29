@@ -1,0 +1,8 @@
+ITEM ID: 214000051
+ICON ID: Icon_avatar_headadditive_cos_fp_vampire
+NOMBRE: Vampire (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000051.png

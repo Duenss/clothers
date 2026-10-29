@@ -1,0 +1,8 @@
+ITEM ID: 902034002
+ICON ID: Icon_face_Cyberwasp_B
+NOMBRE: Bumble Conquer Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034002.png

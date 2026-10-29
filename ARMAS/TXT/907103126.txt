@@ -1,0 +1,8 @@
+ITEM ID: 907103126
+ICON ID: Icon_M60_Newyear21
+NOMBRE: M60 - Ice Blossoms
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103126.png

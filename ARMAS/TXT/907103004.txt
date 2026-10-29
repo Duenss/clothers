@@ -1,0 +1,8 @@
+ITEM ID: 907103004
+ICON ID: Icon_M1917_Ukiyoe
+NOMBRE: M1917 - Wavebreaker Kaze
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103004.png

@@ -1,0 +1,8 @@
+ITEM ID: 908054011
+ICON ID: Icon_slot_SUV_Festival_Music
+NOMBRE: Pickup Truck - Groove Truck
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054011.png

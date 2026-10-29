@@ -1,0 +1,8 @@
+ITEM ID: 902054002
+ICON ID: Icon_face_Bloodmoon26
+NOMBRE: Scarlet Moon Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054002.png

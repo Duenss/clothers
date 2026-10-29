@@ -1,0 +1,8 @@
+ITEM ID: 205000450
+ICON ID: Icon_avatar_male_shoe_cos_poker_diamond
+NOMBRE: Eternal Diamond (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000450.png

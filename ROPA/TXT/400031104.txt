@@ -1,0 +1,8 @@
+ITEM ID: 400031104
+ICON ID: Icon_box_3
+NOMBRE: Skull Rocker Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Contains Skull Rocker and all it's pieces
+IMAGEN: ROPA/imagenes/400031104.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000012
+ICON ID: Icon_box_3
+NOMBRE: Hipster Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece of the streetwear set (may be permanent or 3-days)
+IMAGEN: ROPA/imagenes/400000012.png

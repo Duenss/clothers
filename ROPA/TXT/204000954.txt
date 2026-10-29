@@ -1,0 +1,8 @@
+ITEM ID: 204000954
+ICON ID: Icon_avatar_male_cos_bottom_valentine2022
+NOMBRE: Vampire Malevolence (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000954.png

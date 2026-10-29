@@ -1,0 +1,8 @@
+ITEM ID: 801000913
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Boxing Glove Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Big Event - Combat
+IMAGEN: CAJAS/imagenes/801000913.png

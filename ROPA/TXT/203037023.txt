@@ -1,0 +1,8 @@
+ITEM ID: 203037023
+ICON ID: Icon_avatar_female_cos_top_hooligan
+NOMBRE: Cutie Casuals (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037023.png

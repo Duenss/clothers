@@ -1,0 +1,8 @@
+ITEM ID: 801045017
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lambo Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB45
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801045017.png

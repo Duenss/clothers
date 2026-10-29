@@ -1,0 +1,8 @@
+ITEM ID: 907103245
+ICON ID: Icon_GlooShield_PKmount
+NOMBRE: Gloo Wall - Vibrant Peak
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103245.png

@@ -1,0 +1,8 @@
+ITEM ID: 923042032
+ICON ID: FF_UI_Voiceitem_Streamer
+NOMBRE: Your aim is amazing!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042032.png

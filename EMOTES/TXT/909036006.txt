@@ -1,0 +1,8 @@
+ITEM ID: 909036006
+ICON ID: Icon_Emote_Sun_Freeze
+NOMBRE: Sunbathing
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909036006.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000564
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Rockie Package
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Rockie, Undead Rockie skin, and exciting rewards
+IMAGEN: ROPA/imagenes/700000564.png

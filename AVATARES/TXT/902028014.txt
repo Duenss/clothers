@@ -1,0 +1,8 @@
+ITEM ID: 902028014
+ICON ID: Icon_face_CSRank7_05
+NOMBRE: CS Ranked Season 7 Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028014.png

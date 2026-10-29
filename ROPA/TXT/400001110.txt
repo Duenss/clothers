@@ -1,0 +1,8 @@
+ITEM ID: 400001110
+ICON ID: Icon_box_3
+NOMBRE: Mr. Death's Cloak Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Always having style, even when dead.
+IMAGEN: ROPA/imagenes/400001110.png

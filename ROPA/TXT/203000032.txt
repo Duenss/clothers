@@ -1,0 +1,8 @@
+ITEM ID: 203000032
+ICON ID: Icon_avatar_male_suit_cloth_001_1
+NOMBRE: Leather Jacket (Male)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000032.png

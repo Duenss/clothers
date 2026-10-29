@@ -1,0 +1,8 @@
+ITEM ID: 203043036
+ICON ID: Icon_avatar_male_cos_top_waterfest24_tshirt
+NOMBRE: Water Bomb (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043036.png

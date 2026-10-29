@@ -1,0 +1,8 @@
+ITEM ID: 170031002
+ICON ID: Icon_box_Pchoice_31
+NOMBRE: Your Pet's Choice Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Choose and get your favorite pet!
+IMAGEN: CAJAS/imagenes/170031002.png

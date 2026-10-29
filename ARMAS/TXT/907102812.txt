@@ -1,0 +1,8 @@
+ITEM ID: 907102812
+ICON ID: Icon_Pan_Foursymbols
+NOMBRE: Pan - Earthshaker Stomp
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102812.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000087
+ICON ID: Icon_avatar_tshirt_oreo_blue
+NOMBRE: Cookie Teal
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000087.png

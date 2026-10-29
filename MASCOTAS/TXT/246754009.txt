@@ -1,0 +1,8 @@
+ITEM ID: 246754009
+ICON ID: Icon_SparkPet_Hand_Fireball_Purple
+NOMBRE: Purple Fireball
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Purple Fireball
+IMAGEN: MASCOTAS/imagenes/246754009.png

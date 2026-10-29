@@ -1,0 +1,8 @@
+ITEM ID: 902055035
+ICON ID: Icon_face_CSRank39
+NOMBRE: CS-Ranked S39 Master Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902055035.png

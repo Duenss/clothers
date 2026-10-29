@@ -1,0 +1,8 @@
+ITEM ID: 906053002
+ICON ID: Icon_Avatar_Surfboard_Bluetears
+NOMBRE: Skyboard - Undersea Shells
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906053002.png

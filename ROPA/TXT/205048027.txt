@@ -1,0 +1,8 @@
+ITEM ID: 205048027
+ICON ID: Icon_avatar_male_cos_shoe_cricke25
+NOMBRE: Heavy Batter (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048027.png

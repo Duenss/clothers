@@ -1,0 +1,8 @@
+ITEM ID: 908054013
+ICON ID: Icon_slot_SUV_FFWS_Fall26
+NOMBRE: Pickup Truck - FFWS 2026 Fall
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054013.png

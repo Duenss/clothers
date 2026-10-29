@@ -1,0 +1,8 @@
+ITEM ID: 204040041
+ICON ID: Icon_avatar_cos_bottom_elephant_blue
+NOMBRE: Blue Patterned Casual Pants
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040041.png

@@ -1,0 +1,8 @@
+ITEM ID: 921046004
+ICON ID: FF_UI_Voiceitem_BRrapper
+NOMBRE: Found a mushroom
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Matuê
+IMAGEN: MUSICA/imagenes/921046004.png

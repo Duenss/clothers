@@ -1,0 +1,8 @@
+ITEM ID: 204000076
+ICON ID: Icon_avatar_female_sc_racergirl_bottom_002
+NOMBRE: Racequeen Shorts
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000076.png

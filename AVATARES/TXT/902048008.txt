@@ -1,0 +1,8 @@
+ITEM ID: 902048008
+ICON ID: Icon_face_Holi25
+NOMBRE: Crystalline Wonder Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048008.png

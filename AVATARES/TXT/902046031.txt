@@ -1,0 +1,8 @@
+ITEM ID: 902046031
+ICON ID: Icon_face_FFWS_SF15
+NOMBRE: FFWS 2024 GF - RETA Esports Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046031.png

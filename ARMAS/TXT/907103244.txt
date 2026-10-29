@@ -1,0 +1,8 @@
+ITEM ID: 907103244
+ICON ID: Icon_GlooShield_Luchalibre2
+NOMBRE: Gloo Wall - Venum
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103244.png

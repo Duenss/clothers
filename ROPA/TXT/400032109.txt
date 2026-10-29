@@ -1,0 +1,8 @@
+ITEM ID: 400032109
+ICON ID: Icon_box_3
+NOMBRE: MC Funk Bundle Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: Contains MC Funk Bundle
+IMAGEN: ROPA/imagenes/400032109.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001220
+ICON ID: Icon_box_3
+NOMBRE: Community Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Free Fire community celebrations!
+IMAGEN: ROPA/imagenes/400001220.png

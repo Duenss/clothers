@@ -1,0 +1,8 @@
+ITEM ID: 904041007
+ICON ID: Icon_Bag_Sugarskull23
+NOMBRE: Backpack - Neon Bones
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041007.png

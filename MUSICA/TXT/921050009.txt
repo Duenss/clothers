@@ -1,0 +1,8 @@
+ITEM ID: 921050009
+ICON ID: FF_UI_Voiceitem_Easterrabbit50
+NOMBRE: Yo c'mon, time to save the world!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bunnyverse Voice Pack
+IMAGEN: MUSICA/imagenes/921050009.png

@@ -1,0 +1,8 @@
+ITEM ID: 926005303
+ICON ID: Icon_PhotoFrameitem_Bluetears_01
+NOMBRE: Undersea Frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Undersea Frame
+IMAGEN: AVATARES/imagenes/926005303.png

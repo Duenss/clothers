@@ -1,0 +1,8 @@
+ITEM ID: 400049542
+ICON ID: Icon_box_TAB_LOT_49
+NOMBRE: Thala Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Receive a gift from Thala!
+IMAGEN: CAJAS/imagenes/400049542.png

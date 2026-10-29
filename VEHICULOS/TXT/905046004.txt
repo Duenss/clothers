@@ -1,0 +1,8 @@
+ITEM ID: 905046004
+ICON ID: Icon_Avatar_PARACHUTE_FFWS_SF
+NOMBRE: Parachute - FFWS 2024 Fall
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905046004.png

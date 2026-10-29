@@ -1,0 +1,8 @@
+ITEM ID: 400041574
+ICON ID: Icon_box_3
+NOMBRE: Rampage Collection Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Reminiscing the good old days
+IMAGEN: ROPA/imagenes/400041574.png

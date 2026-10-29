@@ -1,0 +1,8 @@
+ITEM ID: 211036049
+ICON ID: Icon_avatar_female_cos_accessory_fantasy
+NOMBRE: Glamor Fantasy (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036049.png

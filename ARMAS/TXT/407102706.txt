@@ -1,0 +1,8 @@
+ITEM ID: 407102706
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: The Falconer Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to receive a random gun skin from the The Falconer weapon set
+IMAGEN: ARMAS/imagenes/407102706.png

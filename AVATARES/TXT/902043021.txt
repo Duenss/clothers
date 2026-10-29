@@ -1,0 +1,8 @@
+ITEM ID: 902043021
+ICON ID: Icon_face_POPID_05
+NOMBRE: JKT48 - Gracia Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043021.png

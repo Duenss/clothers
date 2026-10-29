@@ -1,0 +1,8 @@
+ITEM ID: 204034036
+ICON ID: Icon_avatar_male_cos_bottom_pandacattle
+NOMBRE: Panda Pyjamas (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034036.png

@@ -1,0 +1,8 @@
+ITEM ID: 819037008
+ICON ID: FF_UI_VFX_Cybermech_01
+NOMBRE: Elimination Effect (The Biotroopers)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: When you equip a Biotroopers-themed top, eliminating or knocking down an enemy will display this special effect.
+IMAGEN: CAJAS/imagenes/819037008.png

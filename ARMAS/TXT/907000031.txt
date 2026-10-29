@@ -1,0 +1,8 @@
+ITEM ID: 907000031
+ICON ID: Icon_Baseballbat_Mace
+NOMBRE: Bat - Nailbat
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000031.png

@@ -1,0 +1,8 @@
+ITEM ID: 912000002
+ICON ID: Icon_GroupAnim_Supercar
+NOMBRE: Speed and Style
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912000002.png

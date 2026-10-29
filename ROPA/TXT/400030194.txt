@@ -1,0 +1,8 @@
+ITEM ID: 400030194
+ICON ID: Icon_box_3
+NOMBRE: Gloo Wall Angel Wings Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Gloo Wall Angel Wings and all it's pieces
+IMAGEN: ROPA/imagenes/400030194.png

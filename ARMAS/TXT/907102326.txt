@@ -1,0 +1,8 @@
+ITEM ID: 907102326
+ICON ID: Icon_FoxMiko_Grenade
+NOMBRE: Grenade - Spirited Overseers
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102326.png

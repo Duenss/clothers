@@ -1,0 +1,8 @@
+ITEM ID: 400033127
+ICON ID: Icon_ff_Petfood
+NOMBRE: Pet Food Box
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive exciting rewards.
+IMAGEN: CAJAS/imagenes/400033127.png

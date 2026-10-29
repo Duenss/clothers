@@ -1,0 +1,8 @@
+ITEM ID: 400036148
+ICON ID: Icon_box_3
+NOMBRE: Strapped Trap Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Strapped Trap and all its pieces
+IMAGEN: ROPA/imagenes/400036148.png

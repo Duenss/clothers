@@ -1,0 +1,8 @@
+ITEM ID: 907002727
+ICON ID: Icon_M1887_Xtreme
+NOMBRE: M1887 - Xtreme Adventure
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002727.png

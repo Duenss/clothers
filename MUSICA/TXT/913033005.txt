@@ -1,0 +1,8 @@
+ITEM ID: 913033005
+ICON ID: FF_UI_Vault_Music_BRMU01
+NOMBRE: Hoje é Só Capa
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Iconic Brazilian FF song
+IMAGEN: MUSICA/imagenes/913033005.png

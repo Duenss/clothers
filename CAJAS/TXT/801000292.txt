@@ -1,0 +1,8 @@
+ITEM ID: 801000292
+ICON ID: Icon_exchange_Shisha
+NOMBRE: Shisha
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Puff puff.
+IMAGEN: CAJAS/imagenes/801000292.png

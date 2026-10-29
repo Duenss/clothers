@@ -1,0 +1,8 @@
+ITEM ID: 907102730
+ICON ID: Icon_M500_Clashgold_S6
+NOMBRE: The Golden M500
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102730.png

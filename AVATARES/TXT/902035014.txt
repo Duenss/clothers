@@ -1,0 +1,8 @@
+ITEM ID: 902035014
+ICON ID: Icon_face_Rank30_02
+NOMBRE: BR-Ranked S30 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035014.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000160
+ICON ID: Icon_exchange_cheese_cake
+NOMBRE: Cheesecake
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000160.png

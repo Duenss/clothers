@@ -1,0 +1,8 @@
+ITEM ID: 907103417
+ICON ID: Icon_AR15_Bloody_Evil
+NOMBRE: Kingfisher - Enflamed Terror
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103417.png

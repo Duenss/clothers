@@ -1,0 +1,8 @@
+ITEM ID: 400054106
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: SPAS12 Golden Flash Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Open to receive a SPAS12 Golden Flash
+IMAGEN: CAJAS/imagenes/400054106.png

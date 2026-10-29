@@ -1,0 +1,8 @@
+ITEM ID: 801000276
+ICON ID: Icon_exchange_HNY_2020
+NOMBRE: HNY 2020
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: 3..2..1..HNY2020!!
+IMAGEN: CAJAS/imagenes/801000276.png

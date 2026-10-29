@@ -1,0 +1,8 @@
+ITEM ID: 801000631
+ICON ID: Icon_exchange_ob24_Pyramid
+NOMBRE: Pyramid
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: A mysterious pyramid. Ready for adventure?
+IMAGEN: CAJAS/imagenes/801000631.png

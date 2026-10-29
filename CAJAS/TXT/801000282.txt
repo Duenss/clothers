@@ -1,0 +1,8 @@
+ITEM ID: 801000282
+ICON ID: Icon_exchange_Snowman_Token
+NOMBRE: Snowman Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: White, round and melts to the touch.
+IMAGEN: CAJAS/imagenes/801000282.png

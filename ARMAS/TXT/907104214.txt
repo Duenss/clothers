@@ -1,0 +1,8 @@
+ITEM ID: 907104214
+ICON ID: Icon_GlooShield_Bull
+NOMBRE: Gloo Wall - The Lamborghini Shield
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104214.png

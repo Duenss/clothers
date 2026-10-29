@@ -1,0 +1,8 @@
+ITEM ID: 904039010
+ICON ID: Icon_Bag_Scarlet_Purple
+NOMBRE: Backpack - Scorpio Heart
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039010.png

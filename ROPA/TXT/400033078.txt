@@ -1,0 +1,8 @@
+ITEM ID: 400033078
+ICON ID: Icon_box_3
+NOMBRE: Songkran Box 2
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Happy Songkran Day
+IMAGEN: ROPA/imagenes/400033078.png

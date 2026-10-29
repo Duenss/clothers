@@ -1,0 +1,8 @@
+ITEM ID: 400026079
+ICON ID: Icon_box_3
+NOMBRE: Polar Bear Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Polar Bear and all its pieces
+IMAGEN: ROPA/imagenes/400026079.png

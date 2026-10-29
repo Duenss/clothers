@@ -1,0 +1,8 @@
+ITEM ID: 801000666
+ICON ID: Icon_exchange_ob24_Ghost_Token
+NOMBRE: Ghost Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Traditionally white
+IMAGEN: CAJAS/imagenes/801000666.png

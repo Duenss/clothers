@@ -1,0 +1,8 @@
+ITEM ID: 904000140
+ICON ID: Icon_Bag_Dinobr_A
+NOMBRE: Backpack - Little Dino
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000140.png

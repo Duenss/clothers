@@ -1,0 +1,8 @@
+ITEM ID: 921048015
+ICON ID: FF_UI_Voiceitem_ID48PT
+NOMBRE: [Habib Ja'far] Are you lost, young one?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Pemuda Tersesat Voice Pack
+IMAGEN: MUSICA/imagenes/921048015.png

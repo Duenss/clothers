@@ -1,0 +1,8 @@
+ITEM ID: 801000768
+ICON ID: Icon_exchange_ob25_rudolf_token
+NOMBRE: Rudolf Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: A rednose reindeer
+IMAGEN: CAJAS/imagenes/801000768.png

@@ -1,0 +1,8 @@
+ITEM ID: 905029004
+ICON ID: Icon_Avatar_PARACHUTE_BRninja
+NOMBRE: Parachute - Nocturnal Assassin
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905029004.png

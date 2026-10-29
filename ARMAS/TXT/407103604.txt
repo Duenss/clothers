@@ -1,0 +1,8 @@
+ITEM ID: 407103604
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Bones of Terror (MAC10) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive a random gun skin (MAC10) from the Bones of Terror weapon set
+IMAGEN: ARMAS/imagenes/407103604.png

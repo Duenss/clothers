@@ -1,0 +1,8 @@
+ITEM ID: 400026113
+ICON ID: Icon_face_male_sc_Superstar
+NOMBRE: Skyler's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Open to Receive Memory Fragment (Skyler)
+IMAGEN: CAJAS/imagenes/400026113.png

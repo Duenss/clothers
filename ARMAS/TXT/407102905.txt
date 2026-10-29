@@ -1,0 +1,8 @@
+ITEM ID: 407102905
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Operano Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Open to receive a random gun skin from the Operano weapon set.
+IMAGEN: ARMAS/imagenes/407102905.png

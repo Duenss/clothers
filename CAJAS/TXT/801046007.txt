@@ -1,0 +1,8 @@
+ITEM ID: 801046007
+ICON ID: Icon_exchange_ntk8_47
+NOMBRE: Earth Scroll
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046007.png

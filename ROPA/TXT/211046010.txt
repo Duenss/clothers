@@ -1,0 +1,8 @@
+ITEM ID: 211046010
+ICON ID: Icon_avatar_male_cos_hair_sushi24
+NOMBRE: Wrap in Style (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046010.png

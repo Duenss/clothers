@@ -1,0 +1,8 @@
+ITEM ID: 903036008
+ICON ID: Icon_Deadloot_Lightfest22
+NOMBRE: Loot Box - The Last Roar
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903036008.png

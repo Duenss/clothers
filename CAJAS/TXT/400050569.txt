@@ -1,0 +1,8 @@
+ITEM ID: 400050569
+ICON ID: Icon_box_URVB1_TH_50
+NOMBRE: Universal Ring Voucher Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050569.png

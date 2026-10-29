@@ -1,0 +1,8 @@
+ITEM ID: 400028012
+ICON ID: Icon_face_male_sc_StreetBeat
+NOMBRE: D-bee's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive Memory Fragment (D-bee)
+IMAGEN: CAJAS/imagenes/400028012.png

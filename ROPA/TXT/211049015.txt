@@ -1,0 +1,8 @@
+ITEM ID: 211049015
+ICON ID: Icon_avatar_male_cos_accessory_fashionist5
+NOMBRE: Campus Icon (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049015.png

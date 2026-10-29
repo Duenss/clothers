@@ -1,0 +1,8 @@
+ITEM ID: 907104043
+ICON ID: Icon_GlooShield_Aim
+NOMBRE: Gloo Wall - Spot On Tapestry
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104043.png

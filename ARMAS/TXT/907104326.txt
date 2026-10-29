@@ -1,0 +1,8 @@
+ITEM ID: 907104326
+ICON ID: Icon_Pan_VNnewyear24
+NOMBRE: Pan - Dragon Porcelain
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104326.png

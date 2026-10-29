@@ -1,0 +1,8 @@
+ITEM ID: 801001461
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Dreamy Sphere
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Be the shining star
+IMAGEN: CAJAS/imagenes/801001461.png

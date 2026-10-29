@@ -1,0 +1,8 @@
+ITEM ID: 801044009
+ICON ID: Icon_exchange_Persona_hyperbook_44
+NOMBRE: Paradox Hyperbook Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044009.png

@@ -1,0 +1,8 @@
+ITEM ID: 903036010
+ICON ID: Icon_Deadloot_Underground
+NOMBRE: Loot Box - Underground Viper
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903036010.png

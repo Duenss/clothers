@@ -1,0 +1,8 @@
+ITEM ID: 204041006
+ICON ID: Icon_avatar_male_cos_bottom_designertoys
+NOMBRE: Marionette Soul (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204041006.png

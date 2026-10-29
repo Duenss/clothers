@@ -1,0 +1,8 @@
+ITEM ID: 801055505
+ICON ID: Icon_exchange_mp5t_vn_55
+NOMBRE: MP5 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055505.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000940
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Durian Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: I love you more with each passing day
+IMAGEN: CAJAS/imagenes/801000940.png

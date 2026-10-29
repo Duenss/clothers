@@ -1,0 +1,8 @@
+ITEM ID: 902041009
+ICON ID: Icon_face_CSRank21_A
+NOMBRE: CS-Ranked S21 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902041009.png

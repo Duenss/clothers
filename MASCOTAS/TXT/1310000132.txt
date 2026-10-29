@@ -1,0 +1,8 @@
+ITEM ID: 1310000132
+ICON ID: Icon_Pet_Dragon_Evil
+NOMBRE: Pet Skin: Splashy Dreki
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: He may be less intimidating, but he is definitely the cutest
+IMAGEN: MASCOTAS/imagenes/1310000132.png

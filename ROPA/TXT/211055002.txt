@@ -1,0 +1,8 @@
+ITEM ID: 211055002
+ICON ID: Icon_avatar_cos_accessory_wb_grey
+NOMBRE: Grey Matter Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055002.png

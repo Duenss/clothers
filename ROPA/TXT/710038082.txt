@@ -1,0 +1,8 @@
+ITEM ID: 710038082
+ICON ID: Icon_box_3
+NOMBRE: Legendary CS Lucky Gun Package I
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710038082.png

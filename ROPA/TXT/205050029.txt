@@ -1,0 +1,8 @@
+ITEM ID: 205050029
+ICON ID: Icon_avatar_cos_shoe_slipper_pig
+NOMBRE: Pink Slippers
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050029.png

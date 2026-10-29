@@ -1,0 +1,8 @@
+ITEM ID: 908041006
+ICON ID: Icon_slot_Jeep_DS_yellow
+NOMBRE: Jeep - Zenitsu Style
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908041006.png

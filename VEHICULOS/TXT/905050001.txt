@@ -1,0 +1,8 @@
+ITEM ID: 905050001
+ICON ID: Icon_Avatar_PARACHUTE_2NBCT_Bro
+NOMBRE: Parachute - Akatsuki Theme
+TIPO: Parachute
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905050001.png

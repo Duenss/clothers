@@ -1,0 +1,8 @@
+ITEM ID: 929005204
+ICON ID: Icon_Photostickeritem_IIV_03
+NOMBRE: Nobara Kugisaki Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Nobara Kugisaki Sticker
+IMAGEN: AVATARES/imagenes/929005204.png

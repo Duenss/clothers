@@ -1,0 +1,8 @@
+ITEM ID: 400029108
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Merdeka Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Choosing is freedom
+IMAGEN: CAJAS/imagenes/400029108.png

@@ -1,0 +1,8 @@
+ITEM ID: 910002804
+ICON ID: Pin_Small_Supercar
+NOMBRE: McLaren Racing Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910002804.png

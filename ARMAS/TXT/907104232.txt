@@ -1,0 +1,8 @@
+ITEM ID: 907104232
+ICON ID: Icon_Machete_Empire
+NOMBRE: Parang - Crowned Slicer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104232.png

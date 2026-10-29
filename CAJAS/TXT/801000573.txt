@@ -1,0 +1,8 @@
+ITEM ID: 801000573
+ICON ID: Icon_exchange_ob23_falls_token
+NOMBRE: Fall Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Good things take time
+IMAGEN: CAJAS/imagenes/801000573.png

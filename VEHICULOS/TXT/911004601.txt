@@ -1,0 +1,8 @@
+ITEM ID: 911004601
+ICON ID: Icon_Mounts_flymove_Yinyang24
+NOMBRE: Skydive - Winged Aura
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004601.png

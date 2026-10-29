@@ -1,0 +1,8 @@
+ITEM ID: 102000051
+ICON ID: Icon_face_male_head_sc_Auroraboy
+NOMBRE: Koda
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Born in the arctic region, Koda was once led by a snow fox to find a mask embedded with advanced tech of his village. The nature-loving boy has longed for an adventure in the outside world. As he met Wolfrahh while playing games online and, later on, Leon and his sister, Koda began to explore what is beyond the familiar.
+IMAGEN: PERSONAJES/imagenes/102000051.png

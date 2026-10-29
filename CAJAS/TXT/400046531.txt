@@ -1,0 +1,8 @@
+ITEM ID: 400046531
+ICON ID: Icon_box_Slipper_Box2_TH_46
+NOMBRE: Slipper Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046531.png

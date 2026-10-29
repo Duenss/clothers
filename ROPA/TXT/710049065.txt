@@ -1,0 +1,8 @@
+ITEM ID: 710049065
+ICON ID: Icon_box_3
+NOMBRE: Death Guardian Gloo Wall Skin Pack
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710049065.png

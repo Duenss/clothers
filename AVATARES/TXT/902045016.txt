@@ -1,0 +1,8 @@
+ITEM ID: 902045016
+ICON ID: Icon_face_POPID_7th_Adel
+NOMBRE: JKT48 - Adel: Happy 7th! Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902045016.png

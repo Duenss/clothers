@@ -1,0 +1,8 @@
+ITEM ID: 204043036
+ICON ID: Icon_avatar_male_cos_bottom_yinyang23
+NOMBRE: Scorching Seal (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043036.png

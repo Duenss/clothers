@@ -1,0 +1,8 @@
+ITEM ID: 801049517
+ICON ID: Icon_exchange_MEGEB25_Sys_1_49
+NOMBRE: Red Diamond Fragment
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Collect more fragments and see what happens!
+IMAGEN: CAJAS/imagenes/801049517.png

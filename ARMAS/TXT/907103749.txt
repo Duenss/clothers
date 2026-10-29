@@ -1,0 +1,8 @@
+ITEM ID: 907103749
+ICON ID: Icon_GlooShield_Scorpion22
+NOMBRE: Gloo Wall - Venom Rush
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103749.png

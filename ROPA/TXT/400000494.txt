@@ -1,0 +1,8 @@
+ITEM ID: 400000494
+ICON ID: Icon_box_3
+NOMBRE: Premium Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Box containing high grade permanent fashion skin
+IMAGEN: ROPA/imagenes/400000494.png

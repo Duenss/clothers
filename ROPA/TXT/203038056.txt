@@ -1,0 +1,8 @@
+ITEM ID: 203038056
+ICON ID: Icon_avatar_male_cos_top_sakura_new
+NOMBRE: Elite Way of the Bushido (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038056.png

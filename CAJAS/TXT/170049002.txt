@@ -1,0 +1,8 @@
+ITEM ID: 170049002
+ICON ID: Icon_OptionalBundle_LCB1_49
+NOMBRE: Lion Cereal Box 01
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170049002.png

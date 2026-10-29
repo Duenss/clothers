@@ -1,0 +1,8 @@
+ITEM ID: 400000088
+ICON ID: Icon_box_lansquenet
+NOMBRE: Elite Mercenaries Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Commando or Front Line set, or a 3D trial card. You will not receive the same permanent item twice.
+IMAGEN: CAJAS/imagenes/400000088.png

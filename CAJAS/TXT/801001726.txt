@@ -1,0 +1,8 @@
+ITEM ID: 801001726
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Detective Token 1
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001726.png

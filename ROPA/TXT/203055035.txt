@@ -1,0 +1,8 @@
+ITEM ID: 203055035
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: 2026 FFWS Champion (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

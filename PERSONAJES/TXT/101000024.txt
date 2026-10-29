@@ -1,0 +1,8 @@
+ITEM ID: 101000024
+ICON ID: Icon_face_female_head_sc_RhythmGirl
+NOMBRE: A-Patroa
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A-Patroa is an owner of a music shop, which doubles as a safe haven for the local community. She uses her music to rehabilitate people.
+IMAGEN: PERSONAJES/imagenes/101000024.png

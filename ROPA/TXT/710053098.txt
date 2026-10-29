@@ -1,0 +1,8 @@
+ITEM ID: 710053098
+ICON ID: Icon_bundle_BR_Soccer_Blue_53
+NOMBRE: Brazil 2026 Away Jersey Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710053098.png

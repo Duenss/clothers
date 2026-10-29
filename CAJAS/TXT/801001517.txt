@@ -1,0 +1,8 @@
+ITEM ID: 801001517
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Songkran Token 1
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Songkran Token 1
+IMAGEN: CAJAS/imagenes/801001517.png

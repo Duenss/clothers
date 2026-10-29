@@ -1,0 +1,8 @@
+ITEM ID: 400001113
+ICON ID: Icon_box_3
+NOMBRE: Trick or Treat Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Knock Knock. Trick or Treat!
+IMAGEN: ROPA/imagenes/400001113.png

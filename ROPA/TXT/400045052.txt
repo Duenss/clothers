@@ -1,0 +1,8 @@
+ITEM ID: 400045052
+ICON ID: Icon_box_3
+NOMBRE: Super Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400045052.png

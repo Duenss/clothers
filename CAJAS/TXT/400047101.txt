@@ -1,0 +1,8 @@
+ITEM ID: 400047101
+ICON ID: Icon_box_Nbx1_47
+NOMBRE: Sasuke Theme (Groza) Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047101.png

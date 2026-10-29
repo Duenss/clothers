@@ -1,0 +1,8 @@
+ITEM ID: 205041031
+ICON ID: Icon_avatar_cos_shoe_fisherman_shoes
+NOMBRE: Fish-In Slippers
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041031.png

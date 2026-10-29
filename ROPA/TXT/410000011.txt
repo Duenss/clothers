@@ -1,0 +1,8 @@
+ITEM ID: 410000011
+ICON ID: Icon_box_3
+NOMBRE: Battlefield Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece of the battlefield set. 1.5% for each permanent piece, and 15.17% for each 3-day one.
+IMAGEN: ROPA/imagenes/410000011.png

@@ -1,0 +1,8 @@
+ITEM ID: 908047001
+ICON ID: Icon_slot_MonsterTruck_Woodcrafter
+NOMBRE: Monster Truck - Red Sandalwood
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908047001.png

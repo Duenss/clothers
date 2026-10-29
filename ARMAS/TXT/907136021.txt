@@ -1,0 +1,8 @@
+ITEM ID: 907136021
+ICON ID: Icon_MP40_FFChar_S31
+NOMBRE: MP40 - S31 Exclusive: A124
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136021.png

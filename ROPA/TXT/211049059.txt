@@ -1,0 +1,8 @@
+ITEM ID: 211049059
+ICON ID: Icon_avatar_cos_hair_delivery_vngreen
+NOMBRE: Green Delivery (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049059.png

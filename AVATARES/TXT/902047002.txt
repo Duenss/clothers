@@ -1,0 +1,8 @@
+ITEM ID: 902047002
+ICON ID: Icon_face_Rank43_02
+NOMBRE: BR-Ranked S43 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047002.png

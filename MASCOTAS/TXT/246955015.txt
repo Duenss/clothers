@@ -1,0 +1,8 @@
+ITEM ID: 246955015
+ICON ID: Pet_Spark3_Head_ElephantHat_Green
+NOMBRE: Green Elephant Hat
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Green Elephant Hat
+IMAGEN: MASCOTAS/imagenes/246955015.png

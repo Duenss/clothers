@@ -1,0 +1,8 @@
+ITEM ID: 211049045
+ICON ID: Icon_avatar_cos_accessory_jersey_th
+NOMBRE: Super Striker (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049045.png

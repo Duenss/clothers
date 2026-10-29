@@ -1,0 +1,8 @@
+ITEM ID: 211036020
+ICON ID: Icon_avatar_male_cos_accessory_sugarskull22
+NOMBRE: Craftsman of Death (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036020.png

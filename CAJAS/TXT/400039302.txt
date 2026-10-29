@@ -1,0 +1,8 @@
+ITEM ID: 400039302
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AWM Wavebreaker Kaze Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive a AWM Wavebreaker Kaze Skin
+IMAGEN: CAJAS/imagenes/400039302.png

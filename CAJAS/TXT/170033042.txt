@@ -1,0 +1,8 @@
+ITEM ID: 170033042
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Evo Gun Token Gift Box
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: Get an evo gun token of your choice
+IMAGEN: CAJAS/imagenes/170033042.png

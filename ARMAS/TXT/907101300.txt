@@ -1,0 +1,8 @@
+ITEM ID: 907101300
+ICON ID: Icon_SCAR_Bombsquad
+NOMBRE: SCAR - Special Forces
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB13
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101300.png

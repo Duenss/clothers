@@ -1,0 +1,8 @@
+ITEM ID: 913043003
+ICON ID: FF_UI_Vault_Music_VNNEWYEAR24
+NOMBRE: Tet Booyah!
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Lunar New Year 2024 theme song
+IMAGEN: MUSICA/imagenes/913043003.png

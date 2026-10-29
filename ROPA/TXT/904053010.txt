@@ -1,0 +1,8 @@
+ITEM ID: 904053010
+ICON ID: Icon_Bag_Festivalid_25
+NOMBRE: Backpack - Baapack
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053010.png

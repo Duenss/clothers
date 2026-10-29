@@ -1,0 +1,8 @@
+ITEM ID: 902000120
+ICON ID: Icon_face_valentine_female
+NOMBRE: Pink Heart
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000120.png

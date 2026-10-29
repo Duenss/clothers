@@ -1,0 +1,8 @@
+ITEM ID: 908050013
+ICON ID: Icon_slot_Roadster_Easterrabbit_2025
+NOMBRE: Sports Car - Galactic Ride
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050013.png

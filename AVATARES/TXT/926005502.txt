@@ -1,0 +1,8 @@
+ITEM ID: 926005502
+ICON ID: UI_PhotoFrameitem_Storm26
+NOMBRE: Storm Arena Frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Storm Arena Frame
+IMAGEN: AVATARES/imagenes/926005502.png

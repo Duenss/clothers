@@ -1,0 +1,8 @@
+ITEM ID: 211033062
+ICON ID: Icon_avatar_male_cos_accessory_trwarrior
+NOMBRE: Antiquated Warrior (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033062.png

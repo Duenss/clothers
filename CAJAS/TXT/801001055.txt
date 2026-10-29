@@ -1,0 +1,8 @@
+ITEM ID: 801001055
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Cutie Little Duck Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Quack! Quack!
+IMAGEN: CAJAS/imagenes/801001055.png

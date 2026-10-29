@@ -1,0 +1,8 @@
+ITEM ID: 400000551
+ICON ID: Icon_box_3
+NOMBRE: World Series Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000551.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000436
+ICON ID: Icon_box_3
+NOMBRE: 7D Gear Set
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Gear up with multiple weapon skins and a set of costume for 7 days
+IMAGEN: ROPA/imagenes/710000436.png

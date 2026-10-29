@@ -1,0 +1,8 @@
+ITEM ID: 400049521
+ICON ID: Icon_box_BSVB_TH_49
+NOMBRE: Box Shard Voucher Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400049521.png

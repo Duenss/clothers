@@ -1,0 +1,8 @@
+ITEM ID: 901000009
+ICON ID: Icon_callsign_storebg_defaultmale
+NOMBRE: Origin
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000009.png

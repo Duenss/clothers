@@ -1,0 +1,8 @@
+ITEM ID: 907104132
+ICON ID: Icon_Kar98k_Inkpainting
+NOMBRE: Kar98k - Ink Lock
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104132.png

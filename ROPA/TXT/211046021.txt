@@ -1,0 +1,8 @@
+ITEM ID: 211046021
+ICON ID: Icon_avatar_cos_hair_iron_red
+NOMBRE: Eternal Essence (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046021.png

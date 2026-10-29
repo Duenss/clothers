@@ -1,0 +1,8 @@
+ITEM ID: 400030199
+ICON ID: Icon_box_3
+NOMBRE: Otho Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Character Otho and many other rewards
+IMAGEN: ROPA/imagenes/400030199.png

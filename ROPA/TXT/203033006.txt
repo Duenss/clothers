@@ -1,0 +1,8 @@
+ITEM ID: 203033006
+ICON ID: Icon_avatar_male_cos_top_chess_a
+NOMBRE: Checkmate General (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033006.png

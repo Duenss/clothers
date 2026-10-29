@@ -1,0 +1,8 @@
+ITEM ID: 907105039
+ICON ID: Icon_AWM_CSRank32
+NOMBRE: AWM - S32 Exclusive: Ash
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: CS-Ranked S32 Reward
+IMAGEN: ARMAS/imagenes/907105039.png

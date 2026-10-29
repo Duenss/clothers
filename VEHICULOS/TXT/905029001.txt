@@ -1,0 +1,8 @@
+ITEM ID: 905029001
+ICON ID: Icon_Avatar_PARACHUTE_Arabictales
+NOMBRE: Parachute - Lapis Jubilee
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905029001.png

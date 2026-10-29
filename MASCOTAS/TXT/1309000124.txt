@@ -1,0 +1,8 @@
+ITEM ID: 1309000124
+ICON ID: Pet_Baboon_Showoff
+NOMBRE: Show off
+TIPO: Pet Emote
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Advanced action. Can be used in the command wheel.
+IMAGEN: MASCOTAS/imagenes/1309000124.png

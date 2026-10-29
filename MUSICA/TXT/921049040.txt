@@ -1,0 +1,8 @@
+ITEM ID: 921049040
+ICON ID: FF_UI_Voiceitem_SAC49
+NOMBRE: Another one back to the lobby!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: FF Nostalgia
+IMAGEN: MUSICA/imagenes/921049040.png

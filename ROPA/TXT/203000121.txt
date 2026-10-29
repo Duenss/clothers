@@ -1,0 +1,8 @@
+ITEM ID: 203000121
+ICON ID: Icon_avatar_tshirt_easter_blue
+NOMBRE: Easter Egg Hunt #7
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000121.png

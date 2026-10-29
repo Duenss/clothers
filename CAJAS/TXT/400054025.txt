@@ -1,0 +1,8 @@
+ITEM ID: 400054025
+ICON ID: Icon_box_AppleGRBP_54
+NOMBRE: BP S44 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054025.png

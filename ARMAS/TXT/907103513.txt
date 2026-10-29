@@ -1,0 +1,8 @@
+ITEM ID: 907103513
+ICON ID: Icon_Uzi_Light_Darkness
+NOMBRE: Mini Uzi - Paradise Defender
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103513.png

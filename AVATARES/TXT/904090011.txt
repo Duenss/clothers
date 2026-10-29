@@ -1,0 +1,8 @@
+ITEM ID: 904090011
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Brand Face
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the "Fashionista" achievement
+IMAGEN: AVATARES/imagenes/904090011.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101922
+ICON ID: Icon_M1014_Demolitionist
+NOMBRE: M1014 - Demolitionist
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101922.png

@@ -1,0 +1,8 @@
+ITEM ID: 211054011
+ICON ID: Icon_avatar_male_cos_hair_ninth
+NOMBRE: Ember Fracture (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054011.png

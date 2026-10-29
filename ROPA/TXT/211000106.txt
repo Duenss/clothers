@@ -1,0 +1,8 @@
+ITEM ID: 211000106
+ICON ID: Icon_avatar_hair_circle
+NOMBRE: Dizzy Eyes
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000106.png

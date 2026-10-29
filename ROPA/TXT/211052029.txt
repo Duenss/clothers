@@ -1,0 +1,8 @@
+ITEM ID: 211052029
+ICON ID: Icon_avatar_male_cos_hair_streetwear_bw
+NOMBRE: Mono Enigma (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052029.png

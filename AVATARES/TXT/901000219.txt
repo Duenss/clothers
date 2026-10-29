@@ -1,0 +1,8 @@
+ITEM ID: 901000219
+ICON ID: Icon_callsign_storebg_Spirit04
+NOMBRE: Spirit- Experience
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000219.png

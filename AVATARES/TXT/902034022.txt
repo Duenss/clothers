@@ -1,0 +1,8 @@
+ITEM ID: 902034022
+ICON ID: Icon_face_EUWS_S4
+NOMBRE: Girl Power S4 Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034022.png

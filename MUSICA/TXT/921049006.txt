@@ -1,0 +1,8 @@
+ITEM ID: 921049006
+ICON ID: FF_UI_Voiceitem_BR49
+NOMBRE: Go back to the lobby, pal!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: LOUD Voice Pack
+IMAGEN: MUSICA/imagenes/921049006.png

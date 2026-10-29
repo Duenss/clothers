@@ -1,0 +1,8 @@
+ITEM ID: 204052011
+ICON ID: Icon_avatar_female_cos_bottom_emoji26
+NOMBRE: Sweetie Emoji (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052011.png

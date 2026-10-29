@@ -1,0 +1,8 @@
+ITEM ID: 907202208
+ICON ID: Icon_M1873_Sushikiller
+NOMBRE: M1873 - Oriental Print
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202208.png

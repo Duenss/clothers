@@ -1,0 +1,8 @@
+ITEM ID: 400052040
+ICON ID: Icon_box_ThEvent1_52
+NOMBRE: Treasure Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052040.png

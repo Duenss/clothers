@@ -1,0 +1,8 @@
+ITEM ID: 214044007
+ICON ID: Icon_avatar_male_cos_headadditive_carnivore
+NOMBRE: Poison Flytrap (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214044007.png

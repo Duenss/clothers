@@ -1,0 +1,8 @@
+ITEM ID: 720029002
+ICON ID: FF_Icon_MusicBro_White_deluxe
+NOMBRE: Dimitri's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Dimitri and his special outfit. When this outfit is equipped, Dimitri can display his special move on the spawn island. Also contains 900 Universal Fragments
+IMAGEN: ROPA/imagenes/720029002.png

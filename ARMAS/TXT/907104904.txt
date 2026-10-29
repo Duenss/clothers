@@ -1,0 +1,8 @@
+ITEM ID: 907104904
+ICON ID: Icon_AN94_TVman
+NOMBRE: AN94 - Signal Error
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104904.png

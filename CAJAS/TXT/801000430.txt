@@ -1,0 +1,8 @@
+ITEM ID: 801000430
+ICON ID: Icon_exchange_ob21_gold_dino
+NOMBRE: Gold Dino Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: A coin of ancient times
+IMAGEN: CAJAS/imagenes/801000430.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104511
+ICON ID: Icon_ThrowingKnife_UMA
+NOMBRE: Dagger - Super Pixel
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104511.png

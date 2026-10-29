@@ -1,0 +1,8 @@
+ITEM ID: 400020899
+ICON ID: Icon_box_3
+NOMBRE: Booyah Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB20
+DESCRIPCION: May the best win
+IMAGEN: ROPA/imagenes/400020899.png

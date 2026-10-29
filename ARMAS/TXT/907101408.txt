@@ -1,0 +1,8 @@
+ITEM ID: 907101408
+ICON ID: Icon_SKS_Samurai
+NOMBRE: SKS - Red Samurai
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101408.png

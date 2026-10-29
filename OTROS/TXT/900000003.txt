@@ -1,0 +1,8 @@
+ITEM ID: 900000003
+ICON ID: FF_UI_Mounts_Collection_BAN
+NOMBRE: Default - No Skywing
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Equip to fly beside the airplane and during parachuting
+IMAGEN: OTROS/imagenes/900000003.png

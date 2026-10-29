@@ -1,0 +1,8 @@
+ITEM ID: 907104006
+ICON ID: Icon_AK47_Traphiphop22
+NOMBRE: AK47 - City on Fire
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104006.png

@@ -1,0 +1,8 @@
+ITEM ID: 204038019
+ICON ID: Icon_avatar_male_cos_bottom_elder_yellow
+NOMBRE: Luminus Kami (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038019.png

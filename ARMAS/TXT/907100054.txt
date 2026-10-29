@@ -1,0 +1,8 @@
+ITEM ID: 907100054
+ICON ID: Icon_MP5_Pink
+NOMBRE: Pink Barrage
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100054.png

@@ -1,0 +1,8 @@
+ITEM ID: 211001076
+ICON ID: Icon_avatar_cos_hair_trcap
+NOMBRE: Red Baseball Cap
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001076.png

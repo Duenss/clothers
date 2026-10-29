@@ -1,0 +1,8 @@
+ITEM ID: 801000778
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: One Punch Man Token 2
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: What can you possibly exchange this for?
+IMAGEN: CAJAS/imagenes/801000778.png

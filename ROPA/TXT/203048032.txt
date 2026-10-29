@@ -1,0 +1,8 @@
+ITEM ID: 203048032
+ICON ID: Icon_avatar_male_cos_top_carnival25
+NOMBRE: Carnival Spirit (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048032.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000390
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Pirate's Flag Emote Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Pirate's Flag Emote Bundle
+IMAGEN: ROPA/imagenes/700000390.png

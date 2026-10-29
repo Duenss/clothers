@@ -1,0 +1,8 @@
+ITEM ID: 801000633
+ICON ID: Icon_exchange_ob24_Earth
+NOMBRE: Earth
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Unite and be one family
+IMAGEN: CAJAS/imagenes/801000633.png

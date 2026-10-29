@@ -1,0 +1,8 @@
+ITEM ID: 211036012
+ICON ID: Icon_avatar_male_cos_accessory_frostbiters
+NOMBRE: Beastly Sunstriker (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036012.png

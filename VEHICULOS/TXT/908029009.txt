@@ -1,0 +1,8 @@
+ITEM ID: 908029009
+ICON ID: Icon_slot_Roadster_Supercar_2
+NOMBRE: MCL-FF Cyber Neon
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908029009.png

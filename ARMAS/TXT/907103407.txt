@@ -1,0 +1,8 @@
+ITEM ID: 907103407
+ICON ID: Icon_Vector_Kongfu
+NOMBRE: Vector - Golden Prosperity
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103407.png

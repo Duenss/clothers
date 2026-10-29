@@ -1,0 +1,8 @@
+ITEM ID: 904038007
+ICON ID: Icon_Bag_Colorfest23
+NOMBRE: Backpack - Techno Joy
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038007.png

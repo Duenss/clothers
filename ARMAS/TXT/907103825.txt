@@ -1,0 +1,8 @@
+ITEM ID: 907103825
+ICON ID: Icon_Sickle_Colorfest23
+NOMBRE: Scythe - Techno
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103825.png

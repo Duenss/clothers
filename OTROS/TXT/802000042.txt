@@ -1,0 +1,8 @@
+ITEM ID: 802000042
+ICON ID: FF_Lottery_UniversalRing_Token
+NOMBRE: Bunny Ring Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Used to spin in the Bunny Ring event. Expires after the Bunny Ring event ends.
+IMAGEN: OTROS/imagenes/802000042.png

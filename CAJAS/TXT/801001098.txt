@@ -1,0 +1,8 @@
+ITEM ID: 801001098
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fighter's Fist Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Fight for glory!
+IMAGEN: CAJAS/imagenes/801001098.png

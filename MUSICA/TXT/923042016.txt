@@ -1,0 +1,8 @@
+ITEM ID: 923042016
+ICON ID: FF_UI_Voiceitem_Ironbull
+NOMBRE: Go go go! (Kouki)
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042016.png

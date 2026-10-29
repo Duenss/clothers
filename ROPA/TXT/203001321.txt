@@ -1,0 +1,8 @@
+ITEM ID: 203001321
+ICON ID: Icon_avatar_male_cos_top_inkbrush_a
+NOMBRE: Nite Legend Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001321.png

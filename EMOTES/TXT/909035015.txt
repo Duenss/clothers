@@ -1,0 +1,8 @@
+ITEM ID: 909035015
+ICON ID: Icon_Emote_UGC
+NOMBRE: Creator In Action
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909035015.png

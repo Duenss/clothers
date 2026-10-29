@@ -1,0 +1,8 @@
+ITEM ID: 907104810
+ICON ID: Icon_M1917_Blackdress
+NOMBRE: M1917 - Dark Matter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104810.png

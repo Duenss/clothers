@@ -1,0 +1,8 @@
+ITEM ID: 929005512
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_12
+NOMBRE: Tsunade Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Tsunade Sticker
+IMAGEN: AVATARES/imagenes/929005512.png

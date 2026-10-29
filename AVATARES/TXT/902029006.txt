@@ -1,0 +1,8 @@
+ITEM ID: 902029006
+ICON ID: Icon_face_Scorpion_FP
+NOMBRE: Truly Toxic
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029006.png

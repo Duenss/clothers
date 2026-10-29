@@ -1,0 +1,8 @@
+ITEM ID: 800000508
+ICON ID: Icon_WSM_Booyahday21_UMP45
+NOMBRE: UMP - BOOYAH DAY 2021 Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the UMP skins. Obtained from events or buy directly from store
+IMAGEN: OTROS/imagenes/800000508.png

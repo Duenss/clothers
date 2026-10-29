@@ -1,0 +1,8 @@
+ITEM ID: 101100018
+ICON ID: Icon_face_female_head_sc_KpopSinger
+NOMBRE: Unknown
+TIPO: Unknown
+RAREZA: NONE (None)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/101100018.png

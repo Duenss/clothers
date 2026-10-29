@@ -1,0 +1,8 @@
+ITEM ID: 205051015
+ICON ID: Icon_avatar_male_cos_shoe_urbancyber
+NOMBRE: Cyber Operator (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051015.png

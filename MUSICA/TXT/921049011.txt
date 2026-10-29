@@ -1,0 +1,8 @@
+ITEM ID: 921049011
+ICON ID: FF_UI_Voiceitem_VN49
+NOMBRE: Still no eliminations
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Trendy Sound
+IMAGEN: MUSICA/imagenes/921049011.png

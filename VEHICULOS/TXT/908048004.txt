@@ -1,0 +1,8 @@
+ITEM ID: 908048004
+ICON ID: Icon_slot_TUTU_Firefly
+NOMBRE: Tuk Tuk - Firefly Chaser
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048004.png

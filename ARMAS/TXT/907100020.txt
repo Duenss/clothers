@@ -1,0 +1,8 @@
+ITEM ID: 907100020
+ICON ID: Icon_MP5_Camo
+NOMBRE: Harvester
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100020.png

@@ -1,0 +1,8 @@
+ITEM ID: 929005516
+ICON ID: Icon_Photostickeritem_Halloween26_02
+NOMBRE: Hollow Man Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Hollow Man Sticker
+IMAGEN: AVATARES/imagenes/929005516.png

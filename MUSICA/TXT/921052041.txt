@@ -1,0 +1,8 @@
+ITEM ID: 921052041
+ICON ID: FF_UI_Voiceitem_EsEaster
+NOMBRE: Oh, wow?
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Auron Funny Voice Pack 1
+IMAGEN: MUSICA/imagenes/921052041.png

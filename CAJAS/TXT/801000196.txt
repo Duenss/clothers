@@ -1,0 +1,8 @@
+ITEM ID: 801000196
+ICON ID: Icon_exchange_Flying_knife_in_stone
+NOMBRE: Steel In a Rock
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000196.png

@@ -1,0 +1,8 @@
+ITEM ID: 909047001
+ICON ID: Icon_Emote_Woodcrafter
+NOMBRE: I Won't Bow Down
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047001.png

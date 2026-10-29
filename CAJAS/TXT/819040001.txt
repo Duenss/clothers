@@ -1,0 +1,8 @@
+ITEM ID: 819040001
+ICON ID: FF_UI_VFX_Traphiphop22_02
+NOMBRE: Knocking Down or Elimination Effect (T.R.A.P. City)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: Special effects when knocking down or eliminating an enemy while wearing the T.R.A.P. City themed top.
+IMAGEN: CAJAS/imagenes/819040001.png

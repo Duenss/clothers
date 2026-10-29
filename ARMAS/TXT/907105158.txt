@@ -1,0 +1,8 @@
+ITEM ID: 907105158
+ICON ID: Icon_AirBurst_DA_Wolf
+NOMBRE: M590 - MetalGarurumon Power
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105158.png

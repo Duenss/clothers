@@ -1,0 +1,8 @@
+ITEM ID: 800000513
+ICON ID: Icon_WSM_SCAR_Ghostface
+NOMBRE: Fatal Phantom (SCAR)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the Scar skin. Obtain from events or buy directly from Store.
+IMAGEN: OTROS/imagenes/800000513.png

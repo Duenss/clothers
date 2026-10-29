@@ -1,0 +1,8 @@
+ITEM ID: 921055028
+ICON ID: FF_UI_Voiceitem_Storm26
+NOMBRE: Dark void falls upon the arena!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Storm Arena voice pack
+IMAGEN: MUSICA/imagenes/921055028.png

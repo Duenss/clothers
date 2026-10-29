@@ -1,0 +1,8 @@
+ITEM ID: 710055037
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Yellow
+NOMBRE: Naruto Voice Pack
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Naruto Voice Pack
+IMAGEN: MUSICA/imagenes/710055037.png

@@ -1,0 +1,8 @@
+ITEM ID: 909054006
+ICON ID: Icon_Emote_Ninth_Blue
+NOMBRE: Celebration Dance
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054006.png

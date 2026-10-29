@@ -1,0 +1,8 @@
+ITEM ID: 800000521
+ICON ID: Icon_WSM_M21A5_Evotiger
+NOMBRE: Woodpecker - Majestic Prowler Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the Woodpecker skin. Obtain from events or buy directly from Store.
+IMAGEN: OTROS/imagenes/800000521.png

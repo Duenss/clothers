@@ -1,0 +1,8 @@
+ITEM ID: 204000720
+ICON ID: Icon_avatar_male_bottom_cos_summer2021
+NOMBRE: Rainbow Summer (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000720.png

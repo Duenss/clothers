@@ -1,0 +1,8 @@
+ITEM ID: 909043013
+ICON ID: Icon_Emote_Valentine24_Uncooperative
+NOMBRE: What a Pair
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909043013.png

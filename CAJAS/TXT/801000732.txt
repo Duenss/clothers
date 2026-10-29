@@ -1,0 +1,8 @@
+ITEM ID: 801000732
+ICON ID: Icon_exchange_ob25_pan_token
+NOMBRE: Pan Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Go get your Pan
+IMAGEN: CAJAS/imagenes/801000732.png

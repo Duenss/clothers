@@ -1,0 +1,8 @@
+ITEM ID: 205000665
+ICON ID: Icon_avatar_male_shoe_cos_ffws2021
+NOMBRE: FFWS Bayfront Ranger (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000665.png

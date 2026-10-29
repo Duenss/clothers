@@ -1,0 +1,8 @@
+ITEM ID: 907105541
+ICON ID: Icon_RPK_Mambas
+NOMBRE: RPK - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105541.png

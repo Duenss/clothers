@@ -1,0 +1,8 @@
+ITEM ID: 904045002
+ICON ID: Icon_Bag_Leo
+NOMBRE: Backpack - Leo Trek
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904045002.png

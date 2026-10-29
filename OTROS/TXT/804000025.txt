@@ -1,0 +1,8 @@
+ITEM ID: 804000025
+ICON ID: Icon_voucher
+NOMBRE: Discount Coupon
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Available after spending over {0} diamonds. Receive {1} diamonds discount. Can only be used in Store.
+IMAGEN: OTROS/imagenes/804000025.png

@@ -1,0 +1,8 @@
+ITEM ID: 400026083
+ICON ID: Icon_box_3
+NOMBRE: Inking Affection Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Inking Affection and all its pieces
+IMAGEN: ROPA/imagenes/400026083.png

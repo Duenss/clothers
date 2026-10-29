@@ -1,0 +1,8 @@
+ITEM ID: 211046016
+ICON ID: Icon_avatar_male_cos_accessory_booyahday24
+NOMBRE: Booyah Captain (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046016.png

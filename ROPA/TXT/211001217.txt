@@ -1,0 +1,8 @@
+ITEM ID: 211001217
+ICON ID: Icon_avatar_female_cos_hair_origami
+NOMBRE: Platinum Odette (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001217.png

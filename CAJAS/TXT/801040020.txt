@@ -1,0 +1,8 @@
+ITEM ID: 801040020
+ICON ID: Icon_exchange_ob32_yomost_token_1
+NOMBRE: Yomost Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Partner token
+IMAGEN: CAJAS/imagenes/801040020.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104639
+ICON ID: Icon_FFWS2024_Grenade
+NOMBRE: Grenade - Vacation Vibes
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104639.png

@@ -1,0 +1,8 @@
+ITEM ID: 908052005
+ICON ID: Icon_slot_Motobike_Eggday26
+NOMBRE: Motorbike - Sea Monster
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052005.png

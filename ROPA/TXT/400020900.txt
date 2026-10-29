@@ -1,0 +1,8 @@
+ITEM ID: 400020900
+ICON ID: Icon_box_3
+NOMBRE: Freedom Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB20
+DESCRIPCION: Love and peace
+IMAGEN: ROPA/imagenes/400020900.png

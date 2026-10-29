@@ -1,0 +1,8 @@
+ITEM ID: 907103214
+ICON ID: Icon_M1917_Colorfest
+NOMBRE: M1917 - Color Blaze
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103214.png

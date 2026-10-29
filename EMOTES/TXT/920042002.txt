@@ -1,0 +1,8 @@
+ITEM ID: 920042002
+ICON ID: Icon_Action_Falling_Superteen
+NOMBRE: Falling Posture (Frostfire)
+TIPO: Posture
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Equip this to have a special falling posture in-match.
+IMAGEN: EMOTES/imagenes/920042002.png

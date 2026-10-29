@@ -1,0 +1,8 @@
+ITEM ID: 211033071
+ICON ID: Icon_avatar_male_cos_accessory_boyband_purple
+NOMBRE: Deceptive Fearless (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033071.png

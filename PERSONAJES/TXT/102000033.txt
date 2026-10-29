@@ -1,0 +1,8 @@
+ITEM ID: 102000033
+ICON ID: Icon_face_male_head_sc_MuertoGuy
+NOMBRE: Otho
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Otho is a memory tech engineer at a polytech university.
+IMAGEN: PERSONAJES/imagenes/102000033.png

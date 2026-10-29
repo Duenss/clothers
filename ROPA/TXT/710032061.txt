@@ -1,0 +1,8 @@
+ITEM ID: 710032061
+ICON ID: Icon_bundle_Newbie_33
+NOMBRE: Newbie Character Gift Pack
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: Welcome to Free Fire!
+IMAGEN: ROPA/imagenes/710032061.png

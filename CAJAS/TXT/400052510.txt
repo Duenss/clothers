@@ -1,0 +1,8 @@
+ITEM ID: 400052510
+ICON ID: Icon_box_ICEB_US-ES_52
+NOMBRE: Ice Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052510.png

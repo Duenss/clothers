@@ -1,0 +1,8 @@
+ITEM ID: 211000010
+ICON ID: Icon_Avatar_female_hair_cos_tuque_blue
+NOMBRE: Winter Cap
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000010.png

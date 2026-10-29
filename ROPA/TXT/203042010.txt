@@ -1,0 +1,8 @@
+ITEM ID: 203042010
+ICON ID: Icon_avatar_male_cos_top_voltage_free
+NOMBRE: Hero's Burn (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042010.png

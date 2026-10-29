@@ -1,0 +1,8 @@
+ITEM ID: 907193513
+ICON ID: Icon_AN94_Wildfire_Skeleton2
+NOMBRE: AN94 - Evil Howler
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907193513.png

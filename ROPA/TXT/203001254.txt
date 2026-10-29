@@ -1,0 +1,8 @@
+ITEM ID: 203001254
+ICON ID: Icon_avatar_male_top_cos_vnspace_black
+NOMBRE: Silent Scrutiny (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001254.png

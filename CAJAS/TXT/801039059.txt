@@ -1,0 +1,8 @@
+ITEM ID: 801039059
+ICON ID: Icon_WSM_Evogun_General
+NOMBRE: Evo Weapon Universal Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: A token that can be used for all Evo Weapons
+IMAGEN: CAJAS/imagenes/801039059.png

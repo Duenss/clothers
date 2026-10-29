@@ -1,0 +1,8 @@
+ITEM ID: 801000759
+ICON ID: Icon_exchange_ob25_fact4
+NOMBRE: FACT4
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: We are the FACT4!
+IMAGEN: CAJAS/imagenes/801000759.png

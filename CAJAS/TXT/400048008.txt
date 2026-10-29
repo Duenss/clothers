@@ -1,0 +1,8 @@
+ITEM ID: 400048008
+ICON ID: Icon_box_COMIC24BPS27_48
+NOMBRE: BP S27 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048008.png

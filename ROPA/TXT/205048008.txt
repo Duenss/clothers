@@ -1,0 +1,8 @@
+ITEM ID: 205048008
+ICON ID: Icon_avatar_male_cos_shoe_cityhero_red
+NOMBRE: Midnight Watcher (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048008.png

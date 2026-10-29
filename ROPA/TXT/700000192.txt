@@ -1,0 +1,8 @@
+ITEM ID: 700000192
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Female Mercenary Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Front Line set.
+IMAGEN: ROPA/imagenes/700000192.png

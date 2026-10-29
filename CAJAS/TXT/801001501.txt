@@ -1,0 +1,8 @@
+ITEM ID: 801001501
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: VX Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Vaixourar Token
+IMAGEN: CAJAS/imagenes/801001501.png

@@ -1,0 +1,8 @@
+ITEM ID: 904027003
+ICON ID: Icon_Bag_Horrorcircus_EP
+NOMBRE: Backpack - Torment Cage
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904027003.png

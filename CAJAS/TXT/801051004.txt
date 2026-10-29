@@ -1,0 +1,8 @@
+ITEM ID: 801051004
+ICON ID: Icon_exchange_dat1_51
+NOMBRE: Digitama Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051004.png

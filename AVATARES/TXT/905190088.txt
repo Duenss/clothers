@@ -1,0 +1,8 @@
+ITEM ID: 905190088
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Genius Architect
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by joining the Craftland Creator Program
+IMAGEN: AVATARES/imagenes/905190088.png

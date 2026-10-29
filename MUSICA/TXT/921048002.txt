@@ -1,0 +1,8 @@
+ITEM ID: 921048002
+ICON ID: FF_UI_Voiceitem_Ramadan25_2
+NOMBRE: Iftar first, then Booyah!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Ramadan 2025 Voice Pack
+IMAGEN: MUSICA/imagenes/921048002.png

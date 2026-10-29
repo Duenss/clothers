@@ -1,0 +1,8 @@
+ITEM ID: 801047104
+ICON ID: Icon_exchange_ntk4_47
+NOMBRE: Ninjutsu Theme Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047104.png

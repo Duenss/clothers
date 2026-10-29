@@ -1,0 +1,8 @@
+ITEM ID: 203001219
+ICON ID: Icon_avatar_male_top_cos_soulhunter
+NOMBRE: Phantom Predator (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001219.png

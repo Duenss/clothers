@@ -1,0 +1,8 @@
+ITEM ID: 400000437
+ICON ID: Icon_box_3
+NOMBRE: Cheer for Football Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Cheer for Football Box
+IMAGEN: ROPA/imagenes/400000437.png

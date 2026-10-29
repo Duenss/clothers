@@ -1,0 +1,8 @@
+ITEM ID: 203033059
+ICON ID: Icon_avatar_male_cos_top_boyband_silver
+NOMBRE: True Charm (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033059.png

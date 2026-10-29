@@ -1,0 +1,8 @@
+ITEM ID: 400000277
+ICON ID: Icon_box_low_end_envelop
+NOMBRE: Great Gift Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this loot crate to win exciting rewards.
+IMAGEN: CAJAS/imagenes/400000277.png

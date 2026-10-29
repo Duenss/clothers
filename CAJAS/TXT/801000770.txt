@@ -1,0 +1,8 @@
+ITEM ID: 801000770
+ICON ID: Icon_exchange_ob25_snowman_token
+NOMBRE: Snowman Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Would I melt faster if I wear a scarf?
+IMAGEN: CAJAS/imagenes/801000770.png

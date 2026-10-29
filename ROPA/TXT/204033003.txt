@@ -1,0 +1,8 @@
+ITEM ID: 204033003
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Captain Cool (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033003.png

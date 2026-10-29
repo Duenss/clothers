@@ -1,0 +1,8 @@
+ITEM ID: 203001277
+ICON ID: Icon_avatar_female_top_cos_origami_a
+NOMBRE: Ice Feathers Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001277.png

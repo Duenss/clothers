@@ -1,0 +1,8 @@
+ITEM ID: 211035014
+ICON ID: Icon_avatar_male_cos_hair_light_darkness01
+NOMBRE: Underworld Wrecker (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035014.png

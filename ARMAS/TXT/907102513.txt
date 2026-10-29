@@ -1,0 +1,8 @@
+ITEM ID: 907102513
+ICON ID: Icon_AUG_Winterfest2020
+NOMBRE: AUG - Winterlands 2020
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102513.png

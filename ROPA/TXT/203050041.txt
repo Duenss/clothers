@@ -1,0 +1,8 @@
+ITEM ID: 203050041
+ICON ID: Icon_avatar_male_cos_top_boatdance
+NOMBRE: Traditional Boat Race Outfit (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050041.png

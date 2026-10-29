@@ -1,0 +1,8 @@
+ITEM ID: 710038077
+ICON ID: Icon_box_3
+NOMBRE: Lucky You Collection
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710038077.png

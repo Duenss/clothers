@@ -1,0 +1,8 @@
+ITEM ID: 908042009
+ICON ID: Icon_slot_Roadster_Bull_AFF
+NOMBRE: Aventador Ultimae Booyah
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042009.png

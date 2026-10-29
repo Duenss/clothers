@@ -1,0 +1,8 @@
+ITEM ID: 908047003
+ICON ID: Icon_slot_SUV_Express
+NOMBRE: Pickup Truck - Delivery Truck
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908047003.png

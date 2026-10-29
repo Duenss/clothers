@@ -1,0 +1,8 @@
+ITEM ID: 923043012
+ICON ID: FF_UI_Voiceitem_CHAOS43
+NOMBRE: Catch me if you can
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: The Chaos event reward
+IMAGEN: MUSICA/imagenes/923043012.png

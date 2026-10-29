@@ -1,0 +1,8 @@
+ITEM ID: 801000294
+ICON ID: Icon_exchange_Scimitar
+NOMBRE: Scimitar
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Careful of its sharpness.
+IMAGEN: CAJAS/imagenes/801000294.png

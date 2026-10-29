@@ -1,0 +1,8 @@
+ITEM ID: 801001128
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFML Gold Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Gold for the victorious
+IMAGEN: CAJAS/imagenes/801001128.png

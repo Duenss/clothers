@@ -1,0 +1,8 @@
+ITEM ID: 902033028
+ICON ID: Icon_face_boyband
+NOMBRE: Violet Haze
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033028.png

@@ -1,0 +1,8 @@
+ITEM ID: 908037010
+ICON ID: Icon_slot_Motobike_Emoji
+NOMBRE: Motorbike - Color Boom
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908037010.png

@@ -1,0 +1,8 @@
+ITEM ID: 214035011
+ICON ID: Icon_avatar_cos_headadditive_deepseasharks_001
+NOMBRE: Ocean Skin
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214035011.png

@@ -1,0 +1,8 @@
+ITEM ID: 805000012
+ICON ID: FF_UI_Character_Icon_A_Andrew_Emblem
+NOMBRE: Andrew Awakening Emblem
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Holding a mysterious power within, this Emblem may be used to awaken Andrew
+IMAGEN: OTROS/imagenes/805000012.png

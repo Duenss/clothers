@@ -1,0 +1,8 @@
+ITEM ID: 802000115
+ICON ID: FF_Lottery_Festive_Voucher_1
+NOMBRE: Festive Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000115.png

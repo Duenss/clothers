@@ -1,0 +1,8 @@
+ITEM ID: 801000530
+ICON ID: Icon_exchange_ob22_triceratops_token
+NOMBRE: Triceratops Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: As gentle as an Ox
+IMAGEN: CAJAS/imagenes/801000530.png

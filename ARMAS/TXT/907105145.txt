@@ -1,0 +1,8 @@
+ITEM ID: 907105145
+ICON ID: Icon_GlooShield_UrbanCyber
+NOMBRE: Gloo Wall - Cyber Arc
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105145.png

@@ -1,0 +1,8 @@
+ITEM ID: 407104402
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Attack-o'-the-Wisp (M60 + M24) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive a random gun skin (M60 + M24) from the Attack-o'-the-Wisp weapon set
+IMAGEN: ARMAS/imagenes/407104402.png

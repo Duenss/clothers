@@ -1,0 +1,8 @@
+ITEM ID: 907103930
+ICON ID: Icon_Sickle_Growth
+NOMBRE: Scythe - Runestone
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103930.png

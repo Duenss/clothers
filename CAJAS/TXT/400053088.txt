@@ -1,0 +1,8 @@
+ITEM ID: 400053088
+ICON ID: Icon_box_Gemini25BP_53
+NOMBRE: BP S42 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053088.png

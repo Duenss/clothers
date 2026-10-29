@@ -1,0 +1,8 @@
+ITEM ID: 908052009
+ICON ID: Icon_slot_Motobike_Graffiti26
+NOMBRE: Motorbike - Shadow Walker
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052009.png

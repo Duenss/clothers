@@ -1,0 +1,8 @@
+ITEM ID: 211041016
+ICON ID: Icon_avatar_male_cos_hair_fisherman_yellow
+NOMBRE: Reeling Angler (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041016.png

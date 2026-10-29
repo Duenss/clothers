@@ -1,0 +1,8 @@
+ITEM ID: 820000401
+ICON ID: FF_UI_Winterland23B_Warmup_Protect_Icon
+NOMBRE: Squad Protection Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: During the event period, players ranked below Master can enjoy a point/star protection by teaming up as a squad in BR-Ranked or CS-Ranked.
+IMAGEN: OTROS/imagenes/820000401.png

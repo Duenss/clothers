@@ -1,0 +1,8 @@
+ITEM ID: 204045003
+ICON ID: Icon_avatar_female_cos_bottom_leo
+NOMBRE: Leo Gut (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204045003.png

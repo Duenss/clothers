@@ -1,0 +1,8 @@
+ITEM ID: 909046011
+ICON ID: Icon_Emote_School_VN
+NOMBRE: Can't Touch This
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046011.png

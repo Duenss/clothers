@@ -1,0 +1,8 @@
+ITEM ID: 205000231
+ICON ID: Icon_avatar_female_shoe_cos_huamulan
+NOMBRE: Violet Flame (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000231.png

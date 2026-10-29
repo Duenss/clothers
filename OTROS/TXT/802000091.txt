@@ -1,0 +1,8 @@
+ITEM ID: 802000091
+ICON ID: FF_Lottery_Special_Ring_Voucher
+NOMBRE: Premium Ring Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Voucher for Universal Ring events
+IMAGEN: OTROS/imagenes/802000091.png

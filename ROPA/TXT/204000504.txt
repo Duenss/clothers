@@ -1,0 +1,8 @@
+ITEM ID: 204000504
+ICON ID: Icon_avatar_male_bottom_cos_hermit
+NOMBRE: Mystic Seeker (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000504.png

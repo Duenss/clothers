@@ -1,0 +1,8 @@
+ITEM ID: 908052011
+ICON ID: Icon_slot_Roadster_Aprilfool26
+NOMBRE: Sports Car - Quackman
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052011.png

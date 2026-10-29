@@ -1,0 +1,8 @@
+ITEM ID: 407002808
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Lethal Finstooth (Mini Uzi) Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin (Mini Uzi) from the Lethal Finstooth weapon set.
+IMAGEN: OTROS/imagenes/407002808.png

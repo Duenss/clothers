@@ -1,0 +1,8 @@
+ITEM ID: 203036035
+ICON ID: Icon_avatar_male_cos_top_icewizarda
+NOMBRE: Cyber Frost Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036035.png

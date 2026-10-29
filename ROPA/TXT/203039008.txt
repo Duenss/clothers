@@ -1,0 +1,8 @@
+ITEM ID: 203039008
+ICON ID: Icon_avatar_female_cos_top_rollerskating_f
+NOMBRE: Freestyle Spins (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039008.png

@@ -1,0 +1,8 @@
+ITEM ID: 211048019
+ICON ID: Icon_avatar_male_cos_hair_ninja_mask02
+NOMBRE: Malachite Ninja (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048019.png

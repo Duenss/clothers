@@ -1,0 +1,8 @@
+ITEM ID: 902033002
+ICON ID: Icon_face_Chess_B
+NOMBRE: Rook Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033002.png

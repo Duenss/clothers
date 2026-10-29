@@ -1,0 +1,8 @@
+ITEM ID: 902048025
+ICON ID: Icon_face_LW_ID25_04
+NOMBRE: LW-Ranked Heroic Wolf Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048025.png

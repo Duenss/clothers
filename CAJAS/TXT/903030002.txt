@@ -1,0 +1,8 @@
+ITEM ID: 903030002
+ICON ID: Icon_Deadloot_Poison
+NOMBRE: Loot Box - Venom vs Carnage
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903030002.png

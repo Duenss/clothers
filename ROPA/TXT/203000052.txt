@@ -1,0 +1,8 @@
+ITEM ID: 203000052
+ICON ID: Icon_avatar_undershirt_pet_2
+NOMBRE: Man's Best Friend
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000052.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000160
+ICON ID: Icon_avatar_male_bottom_cos_samurai
+NOMBRE: Bioforge (Pants)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000160.png

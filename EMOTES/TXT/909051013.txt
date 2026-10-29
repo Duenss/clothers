@@ -1,0 +1,8 @@
+ITEM ID: 909051013
+ICON ID: Icon_Emote_Redhat25
+NOMBRE: Red Petals
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051013.png

@@ -1,0 +1,8 @@
+ITEM ID: 902032010
+ICON ID: Icon_face_TRbullet
+NOMBRE: Scoped-In Headpic
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902032010.png

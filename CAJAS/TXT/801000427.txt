@@ -1,0 +1,8 @@
+ITEM ID: 801000427
+ICON ID: Icon_exchange_ob21_light_of_desert
+NOMBRE: Light of Desert Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: To light the way
+IMAGEN: CAJAS/imagenes/801000427.png

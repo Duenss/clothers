@@ -1,0 +1,8 @@
+ITEM ID: 400029003
+ICON ID: Icon_face_female_sc_Moco_Awakening
+NOMBRE: Moco "Enigma" Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open to receive Memory Fragment (Moco "Enigma")
+IMAGEN: CAJAS/imagenes/400029003.png

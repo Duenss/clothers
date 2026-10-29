@@ -1,0 +1,8 @@
+ITEM ID: 211001089
+ICON ID: Icon_avatar_male_cos_accessory_coolstreamer
+NOMBRE: Shadow Striker (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001089.png

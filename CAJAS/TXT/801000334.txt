@@ -1,0 +1,8 @@
+ITEM ID: 801000334
+ICON ID: Icon_exchange_women_day
+NOMBRE: Women's Day Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Happy Women's Day!
+IMAGEN: CAJAS/imagenes/801000334.png

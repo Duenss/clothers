@@ -1,0 +1,8 @@
+ITEM ID: 801038078
+ICON ID: Icon_exchange_call_token_38
+NOMBRE: Purple Aura Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038078.png

@@ -1,0 +1,8 @@
+ITEM ID: 205040002
+ICON ID: Icon_avatar_cos_shoe_speed_s
+NOMBRE: Neon Electricity Shoes
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205040002.png

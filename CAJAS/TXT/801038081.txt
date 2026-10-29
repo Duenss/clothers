@@ -1,0 +1,8 @@
+ITEM ID: 801038081
+ICON ID: Icon_exchange_Sun_silver_eu_36
+NOMBRE: Sun Silver Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038081.png

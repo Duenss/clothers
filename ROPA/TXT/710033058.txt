@@ -1,0 +1,8 @@
+ITEM ID: 710033058
+ICON ID: Icon_bundle_male_Boyband_6_33
+NOMBRE: Gen FF Picked Bundle 3
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: Obtain Gen FF Picked Bundle 3 and D-bee character
+IMAGEN: ROPA/imagenes/710033058.png

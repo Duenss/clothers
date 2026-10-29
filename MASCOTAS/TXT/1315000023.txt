@@ -1,0 +1,8 @@
+ITEM ID: 1315000023
+ICON ID: FF_UI_Pet_Flyingcreature_Skill
+NOMBRE: Dinoculars
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Detect the number of enemies in an area, no matter what position they are in.
+IMAGEN: MASCOTAS/imagenes/1315000023.png

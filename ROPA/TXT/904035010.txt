@@ -1,0 +1,8 @@
+ITEM ID: 904035010
+ICON ID: Icon_Bag_Newyear_ME
+NOMBRE: Backpack - Green Paint
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035010.png

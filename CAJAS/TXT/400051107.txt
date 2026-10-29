@@ -1,0 +1,8 @@
+ITEM ID: 400051107
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Kingfisher Moonlight Ballad Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a Kingfisher Moonlight Ballad
+IMAGEN: CAJAS/imagenes/400051107.png

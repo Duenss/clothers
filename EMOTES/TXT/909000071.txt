@@ -1,0 +1,8 @@
+ITEM ID: 909000071
+ICON ID: Icon_Emote_Cobra_LeadEmote
+NOMBRE: Cobra Dance
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000071.png

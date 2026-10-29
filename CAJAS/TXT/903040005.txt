@@ -1,0 +1,8 @@
+ITEM ID: 903040005
+ICON ID: Icon_Deadloot_Gangdom
+NOMBRE: Loot Box - Beauty of Destruction
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903040005.png

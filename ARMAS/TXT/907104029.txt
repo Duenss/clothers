@@ -1,0 +1,8 @@
+ITEM ID: 907104029
+ICON ID: Icon_Pan_Festivalme_22
+NOMBRE: Pan - Bunny's Order
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104029.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001007
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Medium Racing Tyre Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001007.png

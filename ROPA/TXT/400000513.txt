@@ -1,0 +1,8 @@
+ITEM ID: 400000513
+ICON ID: Icon_box_3
+NOMBRE: Birthday Cake Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: You can see there is a birthday cake inside.
+IMAGEN: ROPA/imagenes/400000513.png

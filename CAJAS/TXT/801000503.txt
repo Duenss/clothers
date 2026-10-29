@@ -1,0 +1,8 @@
+ITEM ID: 801000503
+ICON ID: Icon_exchange_ob22_melee_and_smash
+NOMBRE: Melee and Smash
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: It´s all close quarters here.
+IMAGEN: CAJAS/imagenes/801000503.png

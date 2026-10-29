@@ -1,0 +1,8 @@
+ITEM ID: 801047547
+ICON ID: Icon_exchange_OTN_id_47
+NOMBRE: Outfit Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047547.png

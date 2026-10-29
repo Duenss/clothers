@@ -1,0 +1,8 @@
+ITEM ID: 205000299
+ICON ID: Icon_avatar_shoe_cos_NEW
+NOMBRE: Free Fire Shoes (Shoes)
+TIPO: Shoe
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000299.png

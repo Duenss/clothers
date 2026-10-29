@@ -1,0 +1,8 @@
+ITEM ID: 908042011
+ICON ID: Icon_slot_Roadster_Bull_VRed
+NOMBRE: Veneno Rosso Efesto
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042011.png

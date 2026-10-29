@@ -1,0 +1,8 @@
+ITEM ID: 907102638
+ICON ID: Icon_Cobra_Grenade
+NOMBRE: Grenade - Cobra Strike
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102638.png

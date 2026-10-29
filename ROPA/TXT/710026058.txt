@@ -1,0 +1,8 @@
+ITEM ID: 710026058
+ICON ID: Icon_bundle_Cobra_26
+NOMBRE: Cobra Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Open to receive the Cobra Bundle
+IMAGEN: ROPA/imagenes/710026058.png

@@ -1,0 +1,8 @@
+ITEM ID: 203048044
+ICON ID: Icon_avatar_cos_top_football25_idblue
+NOMBRE: Goalkeeper Away Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048044.png

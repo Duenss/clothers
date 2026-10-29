@@ -1,0 +1,8 @@
+ITEM ID: 907103017
+ICON ID: Icon_Katana_Sugarskull21
+NOMBRE: Katana - Goldrim Tribute
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103017.png

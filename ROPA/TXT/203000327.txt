@@ -1,0 +1,8 @@
+ITEM ID: 203000327
+ICON ID: Icon_avatar_male_top_cos_christmas_A
+NOMBRE: Holiday Seasons (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000327.png

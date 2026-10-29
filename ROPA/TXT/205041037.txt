@@ -1,0 +1,8 @@
+ITEM ID: 205041037
+ICON ID: Icon_avatar_male_cos_shoe_ds_yellow
+NOMBRE: Zenitsu's Shoes
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041037.png

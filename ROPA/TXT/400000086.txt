@@ -1,0 +1,8 @@
+ITEM ID: 400000086
+ICON ID: Icon_box_3
+NOMBRE: Face-Wear Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random face-wear, with a higher chance of unlocking rare items.
+IMAGEN: ROPA/imagenes/400000086.png

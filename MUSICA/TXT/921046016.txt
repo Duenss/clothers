@@ -1,0 +1,8 @@
+ITEM ID: 921046016
+ICON ID: FF_UI_Voiceitem_TH46
+NOMBRE: Aren't I cool?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Trendy Voice Pack
+IMAGEN: MUSICA/imagenes/921046016.png

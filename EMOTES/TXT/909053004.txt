@@ -1,0 +1,8 @@
+ITEM ID: 909053004
+ICON ID: Icon_Emote_Bluetears
+NOMBRE: Undersea Wriggle
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909053004.png

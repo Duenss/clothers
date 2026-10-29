@@ -1,0 +1,8 @@
+ITEM ID: 400028025
+ICON ID: Icon_box_3
+NOMBRE: Laptop Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Winter Holiday 2021
+IMAGEN: ROPA/imagenes/400028025.png

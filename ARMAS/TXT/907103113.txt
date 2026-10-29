@@ -1,0 +1,8 @@
+ITEM ID: 907103113
+ICON ID: Icon_MP5_Onikoi
+NOMBRE: MP5 - Aurora Oni
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103113.png

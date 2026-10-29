@@ -1,0 +1,8 @@
+ITEM ID: 904028003
+ICON ID: Icon_Bag_Pursuer_FP
+NOMBRE: Backpack - Guns for Hire
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904028003.png

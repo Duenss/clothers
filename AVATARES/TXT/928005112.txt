@@ -1,0 +1,8 @@
+ITEM ID: 928005112
+ICON ID: Icon_GroupPhoto_Selfieinfront_icon
+NOMBRE: Snow Trip
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Snow Trip
+IMAGEN: AVATARES/imagenes/928005112.png

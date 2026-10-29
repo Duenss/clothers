@@ -1,0 +1,8 @@
+ITEM ID: 400041152
+ICON ID: Icon_box_book_token_41
+NOMBRE: Subscription Random Book Token Box
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041152.png

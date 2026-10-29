@@ -1,0 +1,8 @@
+ITEM ID: 902051037
+ICON ID: Icon_face_Craftland25_A
+NOMBRE: Genius Architect Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051037.png

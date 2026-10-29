@@ -1,0 +1,8 @@
+ITEM ID: 204035021
+ICON ID: Icon_avatar_female_cos_bottom_digitaluniverse
+NOMBRE: Sterling Futurnetic (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035021.png

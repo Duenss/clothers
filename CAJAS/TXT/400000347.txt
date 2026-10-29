@@ -1,0 +1,8 @@
+ITEM ID: 400000347
+ICON ID: Icon_face_male_sc_Samurai
+NOMBRE: Hayato's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Memory Fragment (Hayato)
+IMAGEN: CAJAS/imagenes/400000347.png

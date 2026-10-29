@@ -1,0 +1,8 @@
+ITEM ID: 929005513
+ICON ID: Icon_Photostickeritem_Storm26_01
+NOMBRE: Cosmic Overlord Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Cosmic Overlord Sticker
+IMAGEN: AVATARES/imagenes/929005513.png

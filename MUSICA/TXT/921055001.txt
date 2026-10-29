@@ -1,0 +1,8 @@
+ITEM ID: 921055001
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Yellow
+NOMBRE: How can you become the Hokage if you can't even save your friend?
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Naruto Voice Pack
+IMAGEN: MUSICA/imagenes/921055001.png

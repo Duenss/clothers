@@ -1,0 +1,8 @@
+ITEM ID: 800000504
+ICON ID: Icon_WSM_MP40_Cobra
+NOMBRE: MP40 - Predatory Cobra Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the MP40 skin. Obtained from events or buy directly from store
+IMAGEN: OTROS/imagenes/800000504.png

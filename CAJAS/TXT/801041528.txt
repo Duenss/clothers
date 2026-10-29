@@ -1,0 +1,8 @@
+ITEM ID: 801041528
+ICON ID: Icon_exchange_Idol_1_th_41
+NOMBRE: Idol Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB41
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801041528.png

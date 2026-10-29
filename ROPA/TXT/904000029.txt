@@ -1,0 +1,8 @@
+ITEM ID: 904000029
+ICON ID: Icon_Bag_halloween_01_03
+NOMBRE: Backpack - Halloween Nights
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000029.png

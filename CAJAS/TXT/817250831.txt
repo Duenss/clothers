@@ -1,0 +1,8 @@
+ITEM ID: 817250831
+ICON ID: FF_Lottery_MP40_Voucher
+NOMBRE: MP40 Ring Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Voucher to spin in MP40 Ring event (starts on 6 Aug 2025)
+IMAGEN: CAJAS/imagenes/817250831.png

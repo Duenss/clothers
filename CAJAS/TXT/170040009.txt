@@ -1,0 +1,8 @@
+ITEM ID: 170040009
+ICON ID: Icon_OptionalBundle_Emote
+NOMBRE: Permanent Emote Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170040009.png

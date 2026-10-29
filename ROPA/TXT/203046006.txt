@@ -1,0 +1,8 @@
+ITEM ID: 203046006
+ICON ID: Icon_avatar_male_cos_top_purplelight
+NOMBRE: Violet Vortex (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046006.png

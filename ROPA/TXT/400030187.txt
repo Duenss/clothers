@@ -1,0 +1,8 @@
+ITEM ID: 400030187
+ICON ID: Icon_box_3
+NOMBRE: Amplified Bassrock Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Amplified Bassrock and all it's pieces
+IMAGEN: ROPA/imagenes/400030187.png

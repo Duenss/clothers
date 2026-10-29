@@ -1,0 +1,8 @@
+ITEM ID: 908043008
+ICON ID: Icon_slot_Jeep_Evilbehind
+NOMBRE: Jeep - Inner Evil
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908043008.png

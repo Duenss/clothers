@@ -1,0 +1,8 @@
+ITEM ID: 801042018
+ICON ID: FF_UI_Voltage_Token
+NOMBRE: BP S13 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801042018.png

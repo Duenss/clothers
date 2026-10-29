@@ -1,0 +1,8 @@
+ITEM ID: 801000745
+ICON ID: Icon_exchange_ob25_celeb_gold_star
+NOMBRE: CELEB GOLD STAR TOKEN
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Shining like a gold star
+IMAGEN: CAJAS/imagenes/801000745.png

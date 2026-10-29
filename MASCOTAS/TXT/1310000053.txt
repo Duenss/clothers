@@ -1,0 +1,8 @@
+ITEM ID: 1310000053
+ICON ID: Icon_Pet_Bluefox
+NOMBRE: Pet Skin: Blue Fox
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: People tried to gather his fur, but nobody succeeded so far.
+IMAGEN: MASCOTAS/imagenes/1310000053.png

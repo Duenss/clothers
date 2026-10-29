@@ -1,0 +1,8 @@
+ITEM ID: 214050006
+ICON ID: Icon_avatar_male_cos_headadditive_inktiger
+NOMBRE: Splash of the Wild (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214050006.png

@@ -1,0 +1,8 @@
+ITEM ID: 905048002
+ICON ID: Icon_Avatar_PARACHUTE_Rainforest_Free
+NOMBRE: Parachute - Tropical Squad
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905048002.png

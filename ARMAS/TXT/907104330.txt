@@ -1,0 +1,8 @@
+ITEM ID: 907104330
+ICON ID: Icon_Pan_CSRank23
+NOMBRE: Pan - S23 Exclusive: Crystal
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104330.png

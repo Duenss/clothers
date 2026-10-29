@@ -1,0 +1,8 @@
+ITEM ID: 907001406
+ICON ID: Icon_M4A1_Magicachild
+NOMBRE: M4A1 - Pink Laminate
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001406.png

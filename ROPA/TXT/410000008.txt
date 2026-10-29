@@ -1,0 +1,8 @@
+ITEM ID: 410000008
+ICON ID: Icon_box_3
+NOMBRE: English Uniform Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece of the English Uniform set. 1.5% for each permanent piece, and 22.75% for each 3-day one.
+IMAGEN: ROPA/imagenes/410000008.png

@@ -1,0 +1,8 @@
+ITEM ID: 170037032
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: AR Evo Gun Token Pack
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Choose an item from this box!
+IMAGEN: CAJAS/imagenes/170037032.png

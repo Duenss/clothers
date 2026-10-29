@@ -1,0 +1,8 @@
+ITEM ID: 400042548
+ICON ID: Icon_box_3
+NOMBRE: Dark Destroyer Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: Contains the Dark Destroyer Bundle and its pieces
+IMAGEN: ROPA/imagenes/400042548.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000541
+ICON ID: Icon_avatar_female_hair_cos_royalguard
+NOMBRE: Shadow Custodian (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000541.png

@@ -1,0 +1,8 @@
+ITEM ID: 905000047
+ICON ID: Icon_Avatar_PARACHUTE_Easter
+NOMBRE: Parachute - Cheerful Bunny
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000047.png

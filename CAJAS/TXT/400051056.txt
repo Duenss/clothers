@@ -1,0 +1,8 @@
+ITEM ID: 400051056
+ICON ID: Icon_box_Ice25Event2_51
+NOMBRE: Dreamer Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400051056.png

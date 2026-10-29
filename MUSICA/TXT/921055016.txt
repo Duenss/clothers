@@ -1,0 +1,8 @@
+ITEM ID: 921055016
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Card
+NOMBRE: Anyone who doesn't value their friends is no better than trash!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Kakashi Voice Pack
+IMAGEN: MUSICA/imagenes/921055016.png

@@ -1,0 +1,8 @@
+ITEM ID: 800047660
+ICON ID: UI_Customize_WS_NB_Token
+NOMBRE: NARUTO SHIPPUDEN Asset Card
+TIPO: Unknown
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: Grants access to NARUTO SHIPPUDEN assets in Craftland Studio
+IMAGEN: OTROS/imagenes/800047660.png

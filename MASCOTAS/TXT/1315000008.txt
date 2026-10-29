@@ -1,0 +1,8 @@
+ITEM ID: 1315000008
+ICON ID: FF_UI_Pet_Eagle_Skill
+NOMBRE: Skyline Spree
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Disables enemy auto-aim while the owner is parachuting.
+IMAGEN: MASCOTAS/imagenes/1315000008.png

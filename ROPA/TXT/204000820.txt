@@ -1,0 +1,8 @@
+ITEM ID: 204000820
+ICON ID: Icon_avatar_male_sc_musicbro_black_bottom
+NOMBRE: Soloist (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000820.png

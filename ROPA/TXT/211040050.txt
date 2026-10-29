@@ -1,0 +1,8 @@
+ITEM ID: 211040050
+ICON ID: Icon_avatar_male_cos_accessory_easterrabbit_yellow
+NOMBRE: Bunny Headman (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040050.png

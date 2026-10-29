@@ -1,0 +1,8 @@
+ITEM ID: 906030001
+ICON ID: Icon_Avatar_Surfboard_Lbff_Render
+NOMBRE: Skyboard - LBFF
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906030001.png

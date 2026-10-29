@@ -1,0 +1,8 @@
+ITEM ID: 211039034
+ICON ID: Icon_avatar_male_cos_accessory_eggday23
+NOMBRE: Bandaged Hare (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039034.png

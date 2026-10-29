@@ -1,0 +1,8 @@
+ITEM ID: 801000692
+ICON ID: Icon_exchange_ob25_sakura
+NOMBRE: Sakura Stamp
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: Collect Sakura Stamps during your travels in Bermuda Remastered. Get enough of them to redeem the grand prize!
+IMAGEN: CAJAS/imagenes/801000692.png

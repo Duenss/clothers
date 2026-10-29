@@ -1,0 +1,8 @@
+ITEM ID: 907105312
+ICON ID: Icon_ChargeShot_Bat25
+NOMBRE: Charge Buster - Darkwing Dazzle
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105312.png

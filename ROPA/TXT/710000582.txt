@@ -1,0 +1,8 @@
+ITEM ID: 710000582
+ICON ID: Icon_male_evilbone
+NOMBRE: Capt. Punisher Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000582.png

@@ -1,0 +1,8 @@
+ITEM ID: 407103403
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Ace Gamer (Woodpecker，M82B) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Open to receive a random gun skin (M82B + Woodpecker) from the Ace Gamer weapon set
+IMAGEN: ARMAS/imagenes/407103403.png

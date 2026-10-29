@@ -1,0 +1,8 @@
+ITEM ID: 400050532
+ICON ID: Icon_box_FOLB_LOT_50
+NOMBRE: Festival of Light Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050532.png

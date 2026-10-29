@@ -1,0 +1,8 @@
+ITEM ID: 801048008
+ICON ID: Icon_exchange_Rainforest_48
+NOMBRE: Tropical Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048008.png

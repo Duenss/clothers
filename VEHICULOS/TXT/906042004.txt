@@ -1,0 +1,8 @@
+ITEM ID: 906042004
+ICON ID: Icon_Avatar_Surfboard_Vocational
+NOMBRE: Skyboard - Mass Transit
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906042004.png

@@ -1,0 +1,8 @@
+ITEM ID: 907192702
+ICON ID: Icon_M1014_Imperial1
+NOMBRE: M1014 - Green Flame Draco
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907192702.png

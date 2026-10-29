@@ -1,0 +1,8 @@
+ITEM ID: 710038003
+ICON ID: Icon_bundle_DMX_gun_38
+NOMBRE: Ebony & Ivory (USP) Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Open to receive the Ebony & Ivory weapon set.
+IMAGEN: ROPA/imagenes/710038003.png

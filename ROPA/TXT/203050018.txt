@@ -1,0 +1,8 @@
+ITEM ID: 203050018
+ICON ID: Icon_avatar_male_cos_top_streetracer
+NOMBRE: Crimson Drifter (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050018.png

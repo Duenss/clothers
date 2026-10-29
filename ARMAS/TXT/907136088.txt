@@ -1,0 +1,8 @@
+ITEM ID: 907136088
+ICON ID: Icon_Track_GrenadeLauncher_Mambas
+NOMBRE: Grenade Launcher- Mamba Gnaw
+TIPO: Grenade Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136088.png

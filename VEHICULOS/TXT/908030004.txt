@@ -1,0 +1,8 @@
+ITEM ID: 908030004
+ICON ID: Icon_slot_Roadster_Darkdragon
+NOMBRE: Sports Car - Beastly Wrath
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908030004.png

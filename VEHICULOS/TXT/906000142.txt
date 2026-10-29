@@ -1,0 +1,8 @@
+ITEM ID: 906000142
+ICON ID: Icon_Avatar_Surfboard_Winterfest2020_B
+NOMBRE: Skyboard - Winterlands Fury Sledge
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000142.png

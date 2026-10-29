@@ -1,0 +1,8 @@
+ITEM ID: 400000621
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Demolitionist Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Demolitionist weapon set.
+IMAGEN: CAJAS/imagenes/400000621.png

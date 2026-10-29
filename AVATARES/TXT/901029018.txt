@@ -1,0 +1,8 @@
+ITEM ID: 901029018
+ICON ID: Icon_callsign_storebg_CSRank_New
+NOMBRE: CS Ranked Heroic
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901029018.png

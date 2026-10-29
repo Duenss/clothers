@@ -1,0 +1,8 @@
+ITEM ID: 907105008
+ICON ID: Icon_Sickle_2NBCT
+NOMBRE: Scythe - Triple Bladed Scythe
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105008.png

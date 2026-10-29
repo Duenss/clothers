@@ -1,0 +1,8 @@
+ITEM ID: 904029008
+ICON ID: Icon_Bag_Mocomonth_B
+NOMBRE: Backpack - Moco Month
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029008.png

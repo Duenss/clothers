@@ -1,0 +1,8 @@
+ITEM ID: 801037881
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: New Year Fireworks Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801037881.png

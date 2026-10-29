@@ -1,0 +1,8 @@
+ITEM ID: 801000982
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Chamomile Flower Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: May all your dreams and wishes come true
+IMAGEN: CAJAS/imagenes/801000982.png

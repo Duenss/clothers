@@ -1,0 +1,8 @@
+ITEM ID: 921050012
+ICON ID: FF_UI_Voiceitem_IH50
+NOMBRE: Why is there so much silence?
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Sholay Voice Pack
+IMAGEN: MUSICA/imagenes/921050012.png

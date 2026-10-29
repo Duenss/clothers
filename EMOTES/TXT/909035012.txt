@@ -1,0 +1,8 @@
+ITEM ID: 909035012
+ICON ID: Icon_Emote_Wildfire
+NOMBRE: Howler's Rage
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909035012.png

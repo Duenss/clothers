@@ -1,0 +1,8 @@
+ITEM ID: 801000067
+ICON ID: Icon_exchange_valentine
+NOMBRE: Valentine's Day Chocolate
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000067.png

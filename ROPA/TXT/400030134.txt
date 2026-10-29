@@ -1,0 +1,8 @@
+ITEM ID: 400030134
+ICON ID: Icon_box_3
+NOMBRE: Max Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Use in FF Max campaign
+IMAGEN: ROPA/imagenes/400030134.png

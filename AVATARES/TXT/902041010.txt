@@ -1,0 +1,8 @@
+ITEM ID: 902041010
+ICON ID: Icon_face_CSRank21_B
+NOMBRE: CS-Ranked S21 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902041010.png

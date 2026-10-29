@@ -1,0 +1,8 @@
+ITEM ID: 211044036
+ICON ID: Icon_avatar_female_cos_hair_carnivore
+NOMBRE: Poison Sundew (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044036.png

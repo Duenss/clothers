@@ -1,0 +1,8 @@
+ITEM ID: 400031099
+ICON ID: Icon_box_3
+NOMBRE: Lucky Koi Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Contains Lucky Koi and all it's pieces
+IMAGEN: ROPA/imagenes/400031099.png

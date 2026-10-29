@@ -1,0 +1,8 @@
+ITEM ID: 801000673
+ICON ID: Icon_exchange_ob24_Warzone_Token
+NOMBRE: Frontline Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Get in the action!
+IMAGEN: CAJAS/imagenes/801000673.png

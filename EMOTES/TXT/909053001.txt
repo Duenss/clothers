@@ -1,0 +1,8 @@
+ITEM ID: 909053001
+ICON ID: Icon_Emote_BR_Soccer
+NOMBRE: Victory Trumpet
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909053001.png

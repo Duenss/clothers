@@ -1,0 +1,8 @@
+ITEM ID: 907105240
+ICON ID: Icon_Carnival26_Free_Grenade
+NOMBRE: Grenade - Ticking Beat
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105240.png

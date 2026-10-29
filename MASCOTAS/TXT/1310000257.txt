@@ -1,0 +1,8 @@
+ITEM ID: 1310000257
+ICON ID: Icon_Pet_Cactus_Fastbreaking_Treasure
+NOMBRE: Pet Skin: Pirate Kactus
+TIPO: Pet Skin
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: MASCOTAS/imagenes/1310000257.png

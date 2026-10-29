@@ -1,0 +1,8 @@
+ITEM ID: 1300000081
+ICON ID: Icon_Pet_Otter
+NOMBRE: Ottero
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Sleeps with its headphones on, a musically talented otter
+IMAGEN: MASCOTAS/imagenes/1300000081.png

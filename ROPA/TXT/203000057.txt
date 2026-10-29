@@ -1,0 +1,8 @@
+ITEM ID: 203000057
+ICON ID: Icon_avatar_male_sc_seaman_updress_1
+NOMBRE: Ford's Navy Uniform
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000057.png

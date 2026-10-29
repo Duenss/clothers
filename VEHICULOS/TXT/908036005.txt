@@ -1,0 +1,8 @@
+ITEM ID: 908036005
+ICON ID: Icon_slot_Motobike_Griza
+NOMBRE: Motorbike - Green Phantom
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908036005.png

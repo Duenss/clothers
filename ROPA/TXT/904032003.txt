@@ -1,0 +1,8 @@
+ITEM ID: 904032003
+ICON ID: Icon_Bag_Inkbrush
+NOMBRE: Backpack - Lotus Throne
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032003.png

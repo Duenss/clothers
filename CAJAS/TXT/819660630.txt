@@ -1,0 +1,8 @@
+ITEM ID: 819660630
+ICON ID: FF_Lottery_Universal_Ring_Voucher
+NOMBRE: Universal Ring Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/819660630.png

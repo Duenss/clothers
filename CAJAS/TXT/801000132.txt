@@ -1,0 +1,8 @@
+ITEM ID: 801000132
+ICON ID: Icon_exchange_SAC_FF_LEAGUE
+NOMBRE: S. America League Badge
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000132.png

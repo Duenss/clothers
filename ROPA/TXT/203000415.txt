@@ -1,0 +1,8 @@
+ITEM ID: 203000415
+ICON ID: Icon_avatar_male_jacket_Samurai
+NOMBRE: Fist of Flame
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000415.png

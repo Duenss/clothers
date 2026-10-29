@@ -1,0 +1,8 @@
+ITEM ID: 710047033
+ICON ID: FF_UI_Voiceitem_ID47
+NOMBRE: Viral Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Have more fun playing with funny voice lines!
+IMAGEN: MUSICA/imagenes/710047033.png

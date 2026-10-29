@@ -1,0 +1,8 @@
+ITEM ID: 211047012
+ICON ID: Icon_avatar_male_cos_hair_equation
+NOMBRE: Linear Theory (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047012.png

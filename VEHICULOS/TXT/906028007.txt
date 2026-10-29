@@ -1,0 +1,8 @@
+ITEM ID: 906028007
+ICON ID: Icon_Avatar_Surfboard_Supercar_A
+NOMBRE: Skyboard - Turbo Ace
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906028007.png

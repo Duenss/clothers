@@ -1,0 +1,8 @@
+ITEM ID: 211046046
+ICON ID: Icon_avatar_cos_accessory_smile_fp
+NOMBRE: Jagged Sunglasses
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046046.png

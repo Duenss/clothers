@@ -1,0 +1,8 @@
+ITEM ID: 923042007
+ICON ID: FF_UI_Voiceitem_Basic
+NOMBRE: The train is coming!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Express your emotions! (Exclusively available at the Guild Exchange Store.)
+IMAGEN: MUSICA/imagenes/923042007.png

@@ -1,0 +1,8 @@
+ITEM ID: 211038039
+ICON ID: Icon_avatar_male_cos_hair_pk_hair
+NOMBRE: Side Part
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038039.png

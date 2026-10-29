@@ -1,0 +1,8 @@
+ITEM ID: 203000190
+ICON ID: Icon_avatar_tshirt_France
+NOMBRE: La Coq Gaulois
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000190.png

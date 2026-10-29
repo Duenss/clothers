@@ -1,0 +1,8 @@
+ITEM ID: 710032025
+ICON ID: Icon_bundle_male_Chocolate_32
+NOMBRE: Choco Booster Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710032025.png

@@ -1,0 +1,8 @@
+ITEM ID: 926005099
+ICON ID: UI_PhotoFrame_NB_02_Small
+NOMBRE: Unknown
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Classic frame
+IMAGEN: AVATARES/imagenes/926005099.png

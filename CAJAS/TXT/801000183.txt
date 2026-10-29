@@ -1,0 +1,8 @@
+ITEM ID: 801000183
+ICON ID: Icon_exchange_MC_fragment
+NOMBRE: Cube Fragment
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Collect [ffcb4e]100[-] pieces to exchange them for a Magic Cube!
+IMAGEN: CAJAS/imagenes/801000183.png

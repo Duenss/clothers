@@ -1,0 +1,8 @@
+ITEM ID: 907105534
+ICON ID: Icon_G36_Halloween26
+NOMBRE: G36 - Bride's Revenge
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105534.png

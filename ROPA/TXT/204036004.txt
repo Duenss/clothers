@@ -1,0 +1,8 @@
+ITEM ID: 204036004
+ICON ID: Icon_avatar_male_cos_bottom_frankenstein
+NOMBRE: Gnarl Electrocution (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036004.png

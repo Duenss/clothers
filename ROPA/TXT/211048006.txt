@@ -1,0 +1,8 @@
+ITEM ID: 211048006
+ICON ID: Icon_avatar_male_cos_accessory_cupnoodle
+NOMBRE: Cup Ramen (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048006.png

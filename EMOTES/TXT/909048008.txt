@@ -1,0 +1,8 @@
+ITEM ID: 909048008
+ICON ID: Icon_Emote_Ninja_Mask
+NOMBRE: Target Practice
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048008.png

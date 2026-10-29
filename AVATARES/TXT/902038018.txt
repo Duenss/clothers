@@ -1,0 +1,8 @@
+ITEM ID: 902038018
+ICON ID: Icon_face_Rank33_A
+NOMBRE: BR-Ranked S33 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038018.png

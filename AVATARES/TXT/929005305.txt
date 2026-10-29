@@ -1,0 +1,8 @@
+ITEM ID: 929005305
+ICON ID: Icon_Photostickeritem_Worldcup25_02
+NOMBRE: Trophy Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Trophy Sticker
+IMAGEN: AVATARES/imagenes/929005305.png

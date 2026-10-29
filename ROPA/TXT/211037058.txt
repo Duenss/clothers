@@ -1,0 +1,8 @@
+ITEM ID: 211037058
+ICON ID: Icon_avatar_male_cos_hair_ffws2022_basic
+NOMBRE: Navy Starsea (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037058.png

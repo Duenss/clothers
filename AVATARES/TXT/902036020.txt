@@ -1,0 +1,8 @@
+ITEM ID: 902036020
+ICON ID: Icon_face_FFAL_MENA
+NOMBRE: FFAL Galaxy Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036020.png

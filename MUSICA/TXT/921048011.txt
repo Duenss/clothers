@@ -1,0 +1,8 @@
+ITEM ID: 921048011
+ICON ID: FF_UI_Voiceitem_ID48FAST
+NOMBRE: [Habib Ja'far] You can play, but don't forget to pray
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Fasting Voice Pack
+IMAGEN: MUSICA/imagenes/921048011.png

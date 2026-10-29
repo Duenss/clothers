@@ -1,0 +1,8 @@
+ITEM ID: 204046027
+ICON ID: Icon_avatar_cos_bottom_pinata_fp
+NOMBRE: Horsey Shorts
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046027.png

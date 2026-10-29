@@ -1,0 +1,8 @@
+ITEM ID: 203000113
+ICON ID: Icon_avatar_tshirt_foolsday_black_3
+NOMBRE: My Dear Teammate (Black) #3
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000113.png

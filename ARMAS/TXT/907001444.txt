@@ -1,0 +1,8 @@
+ITEM ID: 907001444
+ICON ID: Icon_UMP45_Jaguar
+NOMBRE: UMP - Deadly Panther
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001444.png

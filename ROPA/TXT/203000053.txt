@@ -1,0 +1,8 @@
+ITEM ID: 203000053
+ICON ID: Icon_avatar_undershirt_pet_3
+NOMBRE: Shifty Puss
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000053.png

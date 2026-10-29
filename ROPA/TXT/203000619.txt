@@ -1,0 +1,8 @@
+ITEM ID: 203000619
+ICON ID: Icon_avatar_male_cos_headhunters
+NOMBRE: The Skull Hunter
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000619.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001329
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Ovaltine 2
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Ovaltine Token 2
+IMAGEN: CAJAS/imagenes/801001329.png

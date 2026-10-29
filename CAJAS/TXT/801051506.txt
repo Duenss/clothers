@@ -1,0 +1,8 @@
+ITEM ID: 801051506
+ICON ID: Icon_exchange_ytit_id_51
+NOMBRE: Yeti Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051506.png

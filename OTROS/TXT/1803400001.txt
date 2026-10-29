@@ -1,0 +1,8 @@
+ITEM ID: 1803400001
+ICON ID: Icon_HyperBook_Free
+NOMBRE: Rampage Book
+TIPO: Hyper Book
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: A mystic book with sealed powers in its pages. Obtain by exploring all of the 1st floor in Rampage Fort and defeating the first boss (Zephyr).
+IMAGEN: OTROS/imagenes/1803400001.png

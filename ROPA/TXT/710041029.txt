@@ -1,0 +1,8 @@
+ITEM ID: 710041029
+ICON ID: Icon_bundle_male_Liondancer_41
+NOMBRE: Roaring Heart Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710041029.png

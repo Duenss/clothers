@@ -1,0 +1,8 @@
+ITEM ID: 907102408
+ICON ID: Icon_MP5_Richboxer
+NOMBRE: MP5 - Champion Boxer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102408.png

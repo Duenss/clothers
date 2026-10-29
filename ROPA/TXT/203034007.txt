@@ -1,0 +1,8 @@
+ITEM ID: 203034007
+ICON ID: Icon_avatar_male_cos_top_kongfu
+NOMBRE: Crimson Knifemaster (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034007.png

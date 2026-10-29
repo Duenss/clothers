@@ -1,0 +1,8 @@
+ITEM ID: 102000025
+ICON ID: Icon_face_male_head_sc_Superstar
+NOMBRE: Skyler
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Skyler is a CEO and superstar.
+IMAGEN: PERSONAJES/imagenes/102000025.png

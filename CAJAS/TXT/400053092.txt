@@ -1,0 +1,8 @@
+ITEM ID: 400053092
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: VSS Wound Strokes Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Open to receive a VSS Wound Strokes
+IMAGEN: CAJAS/imagenes/400053092.png

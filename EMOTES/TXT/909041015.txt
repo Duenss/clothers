@@ -1,0 +1,8 @@
+ITEM ID: 909041015
+ICON ID: Icon_Emote_Windah
+NOMBRE: Basudara Dance
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041015.png

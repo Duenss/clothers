@@ -1,0 +1,8 @@
+ITEM ID: 400050568
+ICON ID: Icon_box_RGB1_TH_50
+NOMBRE: Random Gem Box 3
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050568.png

@@ -1,0 +1,8 @@
+ITEM ID: 203037040
+ICON ID: Icon_avatar_male_cos_top_rofestival
+NOMBRE: White Wonder Top
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037040.png

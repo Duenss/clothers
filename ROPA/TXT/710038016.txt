@@ -1,0 +1,8 @@
+ITEM ID: 710038016
+ICON ID: Icon_bundle_male_Cloisonne_38
+NOMBRE: Retro Evergreen Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710038016.png

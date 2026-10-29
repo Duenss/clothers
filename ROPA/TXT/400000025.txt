@@ -1,0 +1,8 @@
+ITEM ID: 400000025
+ICON ID: Icon_box_3
+NOMBRE: Camouflage Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin from the camouflage series. Duplicates will be converted into tokens.
+IMAGEN: ROPA/imagenes/400000025.png

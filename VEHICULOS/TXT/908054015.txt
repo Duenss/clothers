@@ -1,0 +1,8 @@
+ITEM ID: 908054015
+ICON ID: Icon_slot_Jeep_SEA26
+NOMBRE: Jeep - SEA Fall 2026
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054015.png

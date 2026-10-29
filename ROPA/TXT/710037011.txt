@@ -1,0 +1,8 @@
+ITEM ID: 710037011
+ICON ID: Icon_bundle_male_SyntheticAngel_02_37
+NOMBRE: Innocence Haven Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710037011.png

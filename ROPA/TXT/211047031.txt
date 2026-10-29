@@ -1,0 +1,8 @@
+ITEM ID: 211047031
+ICON ID: Icon_avatar_male_cos_hair_me_streetwear
+NOMBRE: Misty Constellate (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047031.png

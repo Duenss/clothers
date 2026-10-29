@@ -1,0 +1,8 @@
+ITEM ID: 214000040
+ICON ID: Icon_avatar_female_headadditive_cos_hoodlum
+NOMBRE: Midnight Mafia (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000040.png

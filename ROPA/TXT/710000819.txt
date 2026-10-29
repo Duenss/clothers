@@ -1,0 +1,8 @@
+ITEM ID: 710000819
+ICON ID: Icon_bundle_male_Laughingman_25
+NOMBRE: Rosy Smile Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000819.png

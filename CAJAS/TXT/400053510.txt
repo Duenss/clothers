@@ -1,0 +1,8 @@
+ITEM ID: 400053510
+ICON ID: Icon_box_oceb_US_SAC_53
+NOMBRE: Ocean Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053510.png

@@ -1,0 +1,8 @@
+ITEM ID: 205044003
+ICON ID: Icon_avatar_female_cos_shoe_fragment
+NOMBRE: Duskbreaker (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044003.png

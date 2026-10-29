@@ -1,0 +1,8 @@
+ITEM ID: 400000007
+ICON ID: Icon_box_3
+NOMBRE: Cowboy Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a piece of the cowboy set (may be permanent or 3-days limited use)
+IMAGEN: ROPA/imagenes/400000007.png

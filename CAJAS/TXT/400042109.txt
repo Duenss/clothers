@@ -1,0 +1,8 @@
+ITEM ID: 400042109
+ICON ID: Icon_box_Watcher_ord_42
+NOMBRE: BP S13 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042109.png

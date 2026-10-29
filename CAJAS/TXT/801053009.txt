@@ -1,0 +1,8 @@
+ITEM ID: 801053009
+ICON ID: Icon_exchange_lfget3_53
+NOMBRE: Orange Eclipse
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053009.png

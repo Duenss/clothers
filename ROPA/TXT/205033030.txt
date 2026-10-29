@@ -1,0 +1,8 @@
+ITEM ID: 205033030
+ICON ID: Icon_avatar_male_sc_shoe_blacksmith
+NOMBRE: Inked Samurai (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033030.png

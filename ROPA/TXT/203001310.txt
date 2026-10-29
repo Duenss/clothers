@@ -1,0 +1,8 @@
+ITEM ID: 203001310
+ICON ID: Icon_avatar_male_cos_top_hoodedkiller_ff
+NOMBRE: Forsaken Brotherhood (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001310.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000160
+ICON ID: Icon_avatar_male_sc_foodieboy_top_002
+NOMBRE: Foodie Silver Top
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000160.png

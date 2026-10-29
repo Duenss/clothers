@@ -1,0 +1,8 @@
+ITEM ID: 400027077
+ICON ID: Icon_box_3
+NOMBRE: Box of Legends
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400027077.png

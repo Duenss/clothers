@@ -1,0 +1,8 @@
+ITEM ID: 400000376
+ICON ID: Icon_box_br_valentine_day
+NOMBRE: Brazil Valentine's Day Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Brazil Valentine's Day Loot Crate
+IMAGEN: CAJAS/imagenes/400000376.png

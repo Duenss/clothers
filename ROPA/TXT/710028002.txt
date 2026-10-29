@@ -1,0 +1,8 @@
+ITEM ID: 710028002
+ICON ID: FF_Icon_StreetBeat_deluxe
+NOMBRE: D-bee's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Contains D-bee and his special outfit. When this outfit is equipped, D-bee can display his special move on the spawn island. Also contains 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710028002.png

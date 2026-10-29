@@ -1,0 +1,8 @@
+ITEM ID: 203037049
+ICON ID: Icon_avatar_female_cos_top_ffws2022
+NOMBRE: Galaxy Starsky (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037049.png

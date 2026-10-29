@@ -1,0 +1,8 @@
+ITEM ID: 906047006
+ICON ID: Icon_Avatar_Surfboard_BRrapper_47
+NOMBRE: Skyboard - Mush Machine
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906047006.png

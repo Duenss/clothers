@@ -1,0 +1,8 @@
+ITEM ID: 211049048
+ICON ID: Icon_avatar_cos_hair_club
+NOMBRE: Neon Glow (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049048.png

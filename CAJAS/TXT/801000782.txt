@@ -1,0 +1,8 @@
+ITEM ID: 801000782
+ICON ID: Icon_exchange_ob25_Xmas_box_i
+NOMBRE: Gift Box I
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Token of Gift Box I
+IMAGEN: CAJAS/imagenes/801000782.png

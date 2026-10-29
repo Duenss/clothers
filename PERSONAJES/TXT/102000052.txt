@@ -1,0 +1,8 @@
+ITEM ID: 102000052
+ICON ID: Icon_face_male_head_sc_CityHeroBoy
+NOMBRE: Oscar
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A brilliant, even slightly overachieving student by day and a beloved vigilante by night. With his flashy physical prowess, Oscar leaps through the shadows to take down the evil.
+IMAGEN: PERSONAJES/imagenes/102000052.png

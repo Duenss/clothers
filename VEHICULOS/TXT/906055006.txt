@@ -1,0 +1,8 @@
+ITEM ID: 906055006
+ICON ID: Icon_Avatar_Surfboard_Scorpio26
+NOMBRE: Skyboard - Scorpio Star
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906055006.png

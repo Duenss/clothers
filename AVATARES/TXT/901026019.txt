@@ -1,0 +1,8 @@
+ITEM ID: 901026019
+ICON ID: Icon_callsign_storebg_Rank21_04
+NOMBRE: Season 21 Diamond Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901026019.png

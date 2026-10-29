@@ -1,0 +1,8 @@
+ITEM ID: 400000084
+ICON ID: Icon_box_3
+NOMBRE: Male Costumes Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random male costume, with a higher chance of unlocking rare items.
+IMAGEN: ROPA/imagenes/400000084.png

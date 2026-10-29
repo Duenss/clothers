@@ -1,0 +1,8 @@
+ITEM ID: 904052011
+ICON ID: Icon_Bag_Eggday26
+NOMBRE: Backpack - Sea Angler
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052011.png

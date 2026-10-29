@@ -1,0 +1,8 @@
+ITEM ID: 400035112
+ICON ID: Icon_box_3
+NOMBRE: Weight of Victory Emote Loot Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Contains Weight of Victory Emote and other items
+IMAGEN: ROPA/imagenes/400035112.png

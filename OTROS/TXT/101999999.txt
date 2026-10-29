@@ -1,0 +1,8 @@
+ITEM ID: 101999999
+ICON ID: ui_icon_skill_Pre_L
+NOMBRE: Unknown
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/101999999.png

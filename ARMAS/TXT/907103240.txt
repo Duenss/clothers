@@ -1,0 +1,8 @@
+ITEM ID: 907103240
+ICON ID: Icon_Hurricane_Grenade
+NOMBRE: Grenade - Brassy Mic
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103240.png

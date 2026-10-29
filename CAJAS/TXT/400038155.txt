@@ -1,0 +1,8 @@
+ITEM ID: 400038155
+ICON ID: Icon_box_DMC_box_B_38
+NOMBRE: Grim Hunter Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400038155.png

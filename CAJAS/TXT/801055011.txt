@@ -1,0 +1,8 @@
+ITEM ID: 801055011
+ICON ID: Icon_exchange_jssys2_55
+NOMBRE: Blue Mask
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055011.png

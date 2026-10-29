@@ -1,0 +1,8 @@
+ITEM ID: 818951231
+ICON ID: FF_Lottery_fragment
+NOMBRE: Spin Shard
+TIPO: Vouchers
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Spin Shard
+IMAGEN: CAJAS/imagenes/818951231.png

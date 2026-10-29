@@ -1,0 +1,8 @@
+ITEM ID: 203047026
+ICON ID: Icon_avatar_cos_top_tailor_top
+NOMBRE: Stitched Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047026.png

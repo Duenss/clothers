@@ -1,0 +1,8 @@
+ITEM ID: 203000966
+ICON ID: Icon_avatar_male_cos_megapunch_cape
+NOMBRE: One Punch Man Suit
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000966.png

@@ -1,0 +1,8 @@
+ITEM ID: 710028038
+ICON ID: Icon_box_3
+NOMBRE: Guns for Hire Badge Bundle (20)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Guns for Hire Badge x20
+IMAGEN: ROPA/imagenes/710028038.png

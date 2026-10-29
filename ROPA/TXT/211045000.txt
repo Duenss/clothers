@@ -1,0 +1,8 @@
+ITEM ID: 211045000
+ICON ID: Icon_avatar_male_cos_hair_goose
+NOMBRE: Goosy Stroll (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045000.png

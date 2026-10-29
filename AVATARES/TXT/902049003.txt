@@ -1,0 +1,8 @@
+ITEM ID: 902049003
+ICON ID: Icon_face_Jumpsuit25
+NOMBRE: Top Criminal Golden Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902049003.png

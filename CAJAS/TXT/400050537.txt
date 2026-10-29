@@ -1,0 +1,8 @@
+ITEM ID: 400050537
+ICON ID: Icon_box_FGB_US_ES_50
+NOMBRE: FF Green Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050537.png

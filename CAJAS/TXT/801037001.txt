@@ -1,0 +1,8 @@
+ITEM ID: 801037001
+ICON ID: FF_UI_Tailor_Token_02
+NOMBRE: BP S1 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Use to purchase tailor options for the Fumes On Fire theme in the Tailor system.
+IMAGEN: CAJAS/imagenes/801037001.png

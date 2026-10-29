@@ -1,0 +1,8 @@
+ITEM ID: 400028063
+ICON ID: Icon_box_3
+NOMBRE: July Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: This month's rewards are found inside!
+IMAGEN: ROPA/imagenes/400028063.png

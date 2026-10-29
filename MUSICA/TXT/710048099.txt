@@ -1,0 +1,8 @@
+ITEM ID: 710048099
+ICON ID: FF_UI_Voiceitem_TH48Tar
+NOMBRE: Yut Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Tar Voice Pack
+IMAGEN: MUSICA/imagenes/710048099.png

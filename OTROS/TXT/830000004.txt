@@ -1,0 +1,8 @@
+ITEM ID: 830000004
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Flash Coin
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Collect for grand rewards!
+IMAGEN: OTROS/imagenes/830000004.png

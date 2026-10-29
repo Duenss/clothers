@@ -1,0 +1,8 @@
+ITEM ID: 909044006
+ICON ID: Icon_Emote_Persona_Double
+NOMBRE: Harmonious Paradox
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044006.png

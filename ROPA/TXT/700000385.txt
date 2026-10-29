@@ -1,0 +1,8 @@
+ITEM ID: 700000385
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Forsaken Creed EP Bundle Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Forsaken Creed EP bundle
+IMAGEN: ROPA/imagenes/700000385.png

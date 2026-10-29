@@ -1,0 +1,8 @@
+ITEM ID: 400036190
+ICON ID: Icon_box_M4A1_blue_36
+NOMBRE: Infernal Draco Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400036190.png

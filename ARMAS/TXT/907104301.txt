@@ -1,0 +1,8 @@
+ITEM ID: 907104301
+ICON ID: Icon_G18_Pointed
+NOMBRE: G18 - Crystal Shatter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104301.png

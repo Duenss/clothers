@@ -1,0 +1,8 @@
+ITEM ID: 211052011
+ICON ID: Icon_avatar_female_cos_hair_treasure26
+NOMBRE: Ocean Voyager (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052011.png

@@ -1,0 +1,8 @@
+ITEM ID: 908033003
+ICON ID: Icon_slot_MonsterTruck_Cyberopera
+NOMBRE: Monster Truck - Skull Opera
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908033003.png

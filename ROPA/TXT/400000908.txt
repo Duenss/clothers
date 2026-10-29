@@ -1,0 +1,8 @@
+ITEM ID: 400000908
+ICON ID: Icon_box_3
+NOMBRE: Club Card Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Symbol of East
+IMAGEN: ROPA/imagenes/400000908.png

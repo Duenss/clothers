@@ -1,0 +1,8 @@
+ITEM ID: 902052012
+ICON ID: Icon_face_CSRank35_A
+NOMBRE: CS-Ranked S35 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052012.png

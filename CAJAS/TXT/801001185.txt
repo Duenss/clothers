@@ -1,0 +1,8 @@
+ITEM ID: 801001185
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Ghost
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Halloween 2021
+IMAGEN: CAJAS/imagenes/801001185.png

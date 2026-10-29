@@ -1,0 +1,8 @@
+ITEM ID: 203049035
+ICON ID: Icon_avatar_cos_top_jersey_th
+NOMBRE: Super Striker (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049035.png

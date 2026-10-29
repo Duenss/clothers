@@ -1,0 +1,8 @@
+ITEM ID: 902036015
+ICON ID: Icon_face_Sniper_EU
+NOMBRE: Deatheye's Pistol Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036015.png

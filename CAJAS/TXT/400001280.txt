@@ -1,0 +1,8 @@
+ITEM ID: 400001280
+ICON ID: Icon_face_female_sc_Researcher
+NOMBRE: Snowelle's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to Receive Memory Fragment (Snowelle)
+IMAGEN: CAJAS/imagenes/400001280.png

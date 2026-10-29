@@ -1,0 +1,8 @@
+ITEM ID: 203043013
+ICON ID: Icon_avatar_male_cos_top_fighter_green
+NOMBRE: Bull Incarnate (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043013.png

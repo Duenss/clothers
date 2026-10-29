@@ -1,0 +1,8 @@
+ITEM ID: 203034053
+ICON ID: Icon_avatar_male_cos_top_rampage4_fire_purple
+NOMBRE: Lunar Saberanger (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034053.png

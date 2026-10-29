@@ -1,0 +1,8 @@
+ITEM ID: 801001474
+ICON ID: Icon_box_newplayer
+NOMBRE: Purple Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Purple Pieces to unlock the Purple Card
+IMAGEN: CAJAS/imagenes/801001474.png

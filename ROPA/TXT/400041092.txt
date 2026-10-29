@@ -1,0 +1,8 @@
+ITEM ID: 400041092
+ICON ID: Icon_box_3
+NOMBRE: Apocalypse Box
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400041092.png

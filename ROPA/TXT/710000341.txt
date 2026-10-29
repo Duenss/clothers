@@ -1,0 +1,8 @@
+ITEM ID: 710000341
+ICON ID: Icon_box_3
+NOMBRE: Mother's Day Select
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Mother's Day Select
+IMAGEN: ROPA/imagenes/710000341.png

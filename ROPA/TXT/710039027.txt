@@ -1,0 +1,8 @@
+ITEM ID: 710039027
+ICON ID: Icon_bundle_female_Fashionist_39
+NOMBRE: Shibuya Idol Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710039027.png

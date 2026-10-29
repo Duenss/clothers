@@ -1,0 +1,8 @@
+ITEM ID: 1315000019
+ICON ID: FF_UI_Pet_Axolotl_Skill
+NOMBRE: Extra Luck
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Every time owner consumes an Inhaler/Med Kit/Repair Kit, there's a possibility of getting an additional one
+IMAGEN: MASCOTAS/imagenes/1315000019.png

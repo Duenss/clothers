@@ -1,0 +1,8 @@
+ITEM ID: 907103931
+ICON ID: Icon_Machete_Fastbreaking23
+NOMBRE: Parang - Desert Greatknife
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103931.png

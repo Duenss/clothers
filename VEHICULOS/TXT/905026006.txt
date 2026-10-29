@@ -1,0 +1,8 @@
+ITEM ID: 905026006
+ICON ID: Icon_Avatar_PARACHUTE_Matryoshka
+NOMBRE: Parachute - Matryoshka Army
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905026006.png

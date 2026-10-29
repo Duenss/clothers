@@ -1,0 +1,8 @@
+ITEM ID: 801001660
+ICON ID: Icon_exchange_FlashGem_35
+NOMBRE: Unknown
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/801001660.png

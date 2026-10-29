@@ -1,0 +1,8 @@
+ITEM ID: 400026243
+ICON ID: Icon_box_3
+NOMBRE: Good Try rewards
+TIPO: Bundle Create
+RAREZA: WHITE (Common)
+TAG: OB26
+DESCRIPCION: A real fighter may lose a fight, but never your confidence.
+IMAGEN: ROPA/imagenes/400026243.png

@@ -1,0 +1,8 @@
+ITEM ID: 400041514
+ICON ID: Icon_box_BooyahDay_blue_30
+NOMBRE: BOOYAH DAY 2021 (UMP) Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041514.png

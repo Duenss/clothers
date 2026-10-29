@@ -1,0 +1,8 @@
+ITEM ID: 921051011
+ICON ID: FF_UI_Voiceitem_ID51
+NOMBRE: [BTR] Bigetron Win!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: FFWS Global Finals Indonesia 2025
+IMAGEN: MUSICA/imagenes/921051011.png

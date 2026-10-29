@@ -1,0 +1,8 @@
+ITEM ID: 802000114
+ICON ID: FF_Lottery_Reindeer_Voucher
+NOMBRE: Reindeer Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000114.png

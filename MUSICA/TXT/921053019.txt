@@ -1,0 +1,8 @@
+ITEM ID: 921053019
+ICON ID: FF_UI_Voiceitem_ME53
+NOMBRE: Give me my money!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921053019.png

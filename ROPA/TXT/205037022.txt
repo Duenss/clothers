@@ -1,0 +1,8 @@
+ITEM ID: 205037022
+ICON ID: Icon_avatar_male_cos_shoe_hooligan
+NOMBRE: Candid Casuals (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037022.png

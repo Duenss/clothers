@@ -1,0 +1,8 @@
+ITEM ID: 907105317
+ICON ID: Icon_MAG7_Festivalid_25
+NOMBRE: MAG-7 - Cyber Invader
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105317.png

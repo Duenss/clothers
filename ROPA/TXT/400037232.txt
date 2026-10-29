@@ -1,0 +1,8 @@
+ITEM ID: 400037232
+ICON ID: Icon_box_3
+NOMBRE: Barbaric Raider Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains Barbaric Raider and all its pieces
+IMAGEN: ROPA/imagenes/400037232.png

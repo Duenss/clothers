@@ -1,0 +1,8 @@
+ITEM ID: 801052513
+ICON ID: Icon_exchange_cyber_me_52
+NOMBRE: Cyber Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052513.png

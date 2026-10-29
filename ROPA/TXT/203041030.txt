@@ -1,0 +1,8 @@
+ITEM ID: 203041030
+ICON ID: Icon_avatar_female_cos_top_csrank21
+NOMBRE: CS-Ranked S21 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041030.png

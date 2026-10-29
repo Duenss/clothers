@@ -1,0 +1,8 @@
+ITEM ID: 211001064
+ICON ID: Icon_avatar_cos_hair_pekingopera_purple
+NOMBRE: Operano Sheng (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001064.png

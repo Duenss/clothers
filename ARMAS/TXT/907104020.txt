@@ -1,0 +1,8 @@
+ITEM ID: 907104020
+ICON ID: Icon_M1887_Festivalme_22
+NOMBRE: M1887 - Bunny's Order
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104020.png

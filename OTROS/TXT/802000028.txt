@@ -1,0 +1,8 @@
+ITEM ID: 802000028
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: Team Heist Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to exchange for rewards
+IMAGEN: OTROS/imagenes/802000028.png

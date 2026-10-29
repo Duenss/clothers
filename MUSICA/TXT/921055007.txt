@@ -1,0 +1,8 @@
+ITEM ID: 921055007
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Black
+NOMBRE: I lost.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Sasuke Voice Pack
+IMAGEN: MUSICA/imagenes/921055007.png

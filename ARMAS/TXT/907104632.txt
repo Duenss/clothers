@@ -1,0 +1,8 @@
+ITEM ID: 907104632
+ICON ID: Icon_M1917_Wheel
+NOMBRE: M1917 - Ace of Hearts
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104632.png

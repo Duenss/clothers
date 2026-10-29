@@ -1,0 +1,8 @@
+ITEM ID: 909046006
+ICON ID: Icon_Emote_Gunspin
+NOMBRE: Gunspinning
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046006.png

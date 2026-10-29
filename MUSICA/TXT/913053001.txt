@@ -1,0 +1,8 @@
+ITEM ID: 913053001
+ICON ID: FF_UI_Vault_Music_Bluetears
+NOMBRE: Undersea Mystery
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Undersea Mystery theme song
+IMAGEN: MUSICA/imagenes/913053001.png

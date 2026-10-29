@@ -1,0 +1,8 @@
+ITEM ID: 801001143
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Orange Balloon Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Celebrate 2021 Independence day!
+IMAGEN: CAJAS/imagenes/801001143.png

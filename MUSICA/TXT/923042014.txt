@@ -1,0 +1,8 @@
+ITEM ID: 923042014
+ICON ID: FF_UI_Voiceitem_Ironbull
+NOMBRE: Sorry (Kouki)
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042014.png

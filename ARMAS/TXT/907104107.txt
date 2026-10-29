@@ -1,0 +1,8 @@
+ITEM ID: 907104107
+ICON ID: Icon_Mac10_Crystal23_Red
+NOMBRE: MAC10 - Golden Iridescence
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104107.png

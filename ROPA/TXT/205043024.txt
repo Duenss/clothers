@@ -1,0 +1,8 @@
+ITEM ID: 205043024
+ICON ID: Icon_avatar_male_cos_shoe_racer
+NOMBRE: Turbo Racer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043024.png

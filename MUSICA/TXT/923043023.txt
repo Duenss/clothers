@@ -1,0 +1,8 @@
+ITEM ID: 923043023
+ICON ID: FF_UI_Voiceitem_VALENTINE43
+NOMBRE: I'm super duper in love with you
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923043023.png

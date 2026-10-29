@@ -1,0 +1,8 @@
+ITEM ID: 801001058
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion U Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Unrealistic Supernatural Fantasy
+IMAGEN: CAJAS/imagenes/801001058.png

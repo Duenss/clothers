@@ -1,0 +1,8 @@
+ITEM ID: 400052509
+ICON ID: Icon_box_DJB_US-ES_52
+NOMBRE: DJ Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052509.png

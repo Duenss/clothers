@@ -1,0 +1,8 @@
+ITEM ID: 710042048
+ICON ID: Icon_bundle_male_Voltage_Basic_42
+NOMBRE: Electro Whisper Bundle
+TIPO: Bundles
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710042048.png

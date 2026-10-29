@@ -1,0 +1,8 @@
+ITEM ID: 907105441
+ICON ID: Icon_Katana_Luchalibre2026
+NOMBRE: Katana - Kendo Stick
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105441.png

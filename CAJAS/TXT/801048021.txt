@@ -1,0 +1,8 @@
+ITEM ID: 801048021
+ICON ID: Icon_exchange_Cityhero_2_48
+NOMBRE: Purple Ace Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048021.png

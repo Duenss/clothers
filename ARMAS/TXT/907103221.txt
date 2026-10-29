@@ -1,0 +1,8 @@
+ITEM ID: 907103221
+ICON ID: Icon_M21A5_Guerrilla
+NOMBRE: Woodpecker - Gray Ambush
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103221.png

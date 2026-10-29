@@ -1,0 +1,8 @@
+ITEM ID: 600000013
+ICON ID: Icon_ff_Roomcard3
+NOMBRE: Advanced Room Card
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use to create Advanced Rooms. Each card can be used to host one game.
+IMAGEN: OTROS/imagenes/600000013.png

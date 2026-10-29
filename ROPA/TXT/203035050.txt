@@ -1,0 +1,8 @@
+ITEM ID: 203035050
+ICON ID: Icon_avatar_cos_top_tshirt_deepseasharks
+NOMBRE: Fright Bite T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035050.png

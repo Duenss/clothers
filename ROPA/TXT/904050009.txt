@@ -1,0 +1,8 @@
+ITEM ID: 904050009
+ICON ID: Icon_Bag_CSRank33
+NOMBRE: Backpack - S33 Exclusive: Cloud
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: CS-Ranked S33 Reward
+IMAGEN: ROPA/imagenes/904050009.png

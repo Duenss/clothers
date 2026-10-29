@@ -1,0 +1,8 @@
+ITEM ID: 801049007
+ICON ID: Icon_exchange_GoldenTc6_49
+NOMBRE: Coin Shake Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049007.png

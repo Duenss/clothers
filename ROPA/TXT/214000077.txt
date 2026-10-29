@@ -1,0 +1,8 @@
+ITEM ID: 214000077
+ICON ID: Icon_avatar_male_headadditive_cos_fantasyeye
+NOMBRE: Merciless Necromancer (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000077.png

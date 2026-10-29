@@ -1,0 +1,8 @@
+ITEM ID: 902039020
+ICON ID: Icon_face_Rank34_A
+NOMBRE: BR-Ranked S34 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039020.png

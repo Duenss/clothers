@@ -1,0 +1,8 @@
+ITEM ID: 801000320
+ICON ID: Icon_exchange_finals_gold
+NOMBRE: LBFF Finals-Gold
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000320.png

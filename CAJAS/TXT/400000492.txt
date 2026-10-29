@@ -1,0 +1,8 @@
+ITEM ID: 400000492
+ICON ID: Icon_box_id_panda
+NOMBRE: Panda Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Box containing Panda, Panda Skin and other various items
+IMAGEN: CAJAS/imagenes/400000492.png

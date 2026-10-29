@@ -1,0 +1,8 @@
+ITEM ID: 214046008
+ICON ID: Icon_avatar_cos_headadditive_glooworld_mask
+NOMBRE: Gloo-ed Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214046008.png

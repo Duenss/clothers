@@ -1,0 +1,8 @@
+ITEM ID: 801051021
+ICON ID: Icon_exchange_ice25_3_51
+NOMBRE: Dreamy Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051021.png

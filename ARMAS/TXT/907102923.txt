@@ -1,0 +1,8 @@
+ITEM ID: 907102923
+ICON ID: Icon_Crossbow_Lava
+NOMBRE: Burning Heart
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102923.png

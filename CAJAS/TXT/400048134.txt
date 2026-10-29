@@ -1,0 +1,8 @@
+ITEM ID: 400048134
+ICON ID: Icon_box_CityheroBoy_Sys_BOX3_48
+NOMBRE: Hero Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048134.png

@@ -1,0 +1,8 @@
+ITEM ID: 1310000144
+ICON ID: Icon_Pet_Alien_Gamer
+NOMBRE: Pet Skin: Gamer Moony
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A game lover, perhaps that's the reason he visits our planet.
+IMAGEN: MASCOTAS/imagenes/1310000144.png

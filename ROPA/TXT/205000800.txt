@@ -1,0 +1,8 @@
+ITEM ID: 205000800
+ICON ID: Icon_avatar_cos_shoe_vnsoccer
+NOMBRE: Spirit 19 (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000800.png

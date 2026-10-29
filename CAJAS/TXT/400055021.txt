@@ -1,0 +1,8 @@
+ITEM ID: 400055021
+ICON ID: Icon_box_RedBull_55
+NOMBRE: Red Bull Reward Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055021.png

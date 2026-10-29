@@ -1,0 +1,8 @@
+ITEM ID: 407105402
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Captain of Courage (M590) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Open to receive a random gun skin (M590) from the Captain of Courage set
+IMAGEN: ARMAS/imagenes/407105402.png

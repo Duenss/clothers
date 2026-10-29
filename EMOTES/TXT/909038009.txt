@@ -1,0 +1,8 @@
+ITEM ID: 909038009
+ICON ID: Icon_Emote_Nundu
+NOMBRE: Scorpio Spin
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909038009.png

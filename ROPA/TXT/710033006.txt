@@ -1,0 +1,8 @@
+ITEM ID: 710033006
+ICON ID: FF_Icon_sc_Blacksmith_deluxe
+NOMBRE: Kenta's Inked Samurai Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Contains Kenta character, Kenta's outfit, and 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710033006.png

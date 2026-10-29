@@ -1,0 +1,8 @@
+ITEM ID: 907105228
+ICON ID: Icon_Sickle_Graffiti26
+NOMBRE: Scythe - Shadow Wrath
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105228.png

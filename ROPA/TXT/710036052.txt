@@ -1,0 +1,8 @@
+ITEM ID: 710036052
+ICON ID: Icon_bundle_Icewizard20_36
+NOMBRE: Avalanche Abyss Badge Bundle (20)
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Avalanche Abyss Badge x20
+IMAGEN: ROPA/imagenes/710036052.png

@@ -1,0 +1,8 @@
+ITEM ID: 801047545
+ICON ID: Icon_exchange_FWT2_id_47
+NOMBRE: Firework Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047545.png

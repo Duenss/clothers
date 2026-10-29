@@ -1,0 +1,8 @@
+ITEM ID: 901050016
+ICON ID: Icon_callsign_storebg_CSPeakTournament
+NOMBRE: CS-Peak Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Peak Rewards are reset when a new season starts
+IMAGEN: AVATARES/imagenes/901050016.png

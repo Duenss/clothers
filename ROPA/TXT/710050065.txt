@@ -1,0 +1,8 @@
+ITEM ID: 710050065
+ICON ID: Icon_bundle_Majestic_Prowler_Woodpecker_2_50
+NOMBRE: Majestic Prowler (Woodpecker) Token Exchange Crate
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710050065.png

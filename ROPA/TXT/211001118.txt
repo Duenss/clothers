@@ -1,0 +1,8 @@
+ITEM ID: 211001118
+ICON ID: Icon_avatar_female_cos_hair_sugarskull21
+NOMBRE: Goldrim Queen (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001118.png

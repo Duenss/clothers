@@ -1,0 +1,8 @@
+ITEM ID: 710054050
+ICON ID: Icon_bundle_female_ID_Idol54_54
+NOMBRE: Street Diva Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710054050.png

@@ -1,0 +1,8 @@
+ITEM ID: 801048528
+ICON ID: Icon_exchange_SKT1_th_48
+NOMBRE: Songkran Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048528.png

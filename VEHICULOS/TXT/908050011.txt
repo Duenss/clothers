@@ -1,0 +1,8 @@
+ITEM ID: 908050011
+ICON ID: Icon_slot_Motobike_Citypanda
+NOMBRE: Motorbike - Bamboo Bandit
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050011.png

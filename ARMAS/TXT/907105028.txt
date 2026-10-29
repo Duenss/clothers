@@ -1,0 +1,8 @@
+ITEM ID: 907105028
+ICON ID: Icon_Baseballbat_Citypanda
+NOMBRE: Bat - Bamboo Stake
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105028.png

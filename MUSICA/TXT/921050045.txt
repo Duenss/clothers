@@ -1,0 +1,8 @@
+ITEM ID: 921050045
+ICON ID: FF_UI_Voiceitem_DIWALI50
+NOMBRE: Hey, who's babbling like a rude guy?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bolly Boli: Part 2
+IMAGEN: MUSICA/imagenes/921050045.png

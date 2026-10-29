@@ -1,0 +1,8 @@
+ITEM ID: 801000639
+ICON ID: Icon_exchange_ob24_Purple_Crystal_Shard
+NOMBRE: Purple Crystal Shard
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000639.png

@@ -1,0 +1,8 @@
+ITEM ID: 170033017
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: GEN FF Pieces Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170033017.png

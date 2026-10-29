@@ -1,0 +1,8 @@
+ITEM ID: 700000081
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Kla Special Crate
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Kla and his fighting gear.
+IMAGEN: ROPA/imagenes/700000081.png

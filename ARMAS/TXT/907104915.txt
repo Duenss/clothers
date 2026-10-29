@@ -1,0 +1,8 @@
+ITEM ID: 907104915
+ICON ID: Icon_Baseballbat_Eighth_Free
+NOMBRE: Bat - Railway Signal
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104915.png

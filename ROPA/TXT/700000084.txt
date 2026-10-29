@@ -1,0 +1,8 @@
+ITEM ID: 700000084
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Shadow Assassin Special Crate
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains the Shadow Assassin set and exclusive battle supplies.
+IMAGEN: ROPA/imagenes/700000084.png

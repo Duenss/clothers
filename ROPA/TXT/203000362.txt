@@ -1,0 +1,8 @@
+ITEM ID: 203000362
+ICON ID: Icon_avatar_top_valentine_N
+NOMBRE: Cupid's Arrow
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000362.png

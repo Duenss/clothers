@@ -1,0 +1,8 @@
+ITEM ID: 904033006
+ICON ID: Icon_Bag_Eggday22
+NOMBRE: Backpack - Frenzy Bunny
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033006.png

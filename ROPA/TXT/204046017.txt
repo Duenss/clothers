@@ -1,0 +1,8 @@
+ITEM ID: 204046017
+ICON ID: Icon_avatar_male_cos_bottom_lightfest24_bear
+NOMBRE: Grizzly Born (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046017.png

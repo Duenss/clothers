@@ -1,0 +1,8 @@
+ITEM ID: 205000629
+ICON ID: Icon_avatar_male_sc_superstar_shoe
+NOMBRE: Superstar (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000629.png

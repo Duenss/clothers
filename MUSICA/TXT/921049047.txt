@@ -1,0 +1,8 @@
+ITEM ID: 921049047
+ICON ID: FF_UI_Voiceitem_TH49
+NOMBRE: Hey buddy, you are naughty!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Phanthamit Voice Pack
+IMAGEN: MUSICA/imagenes/921049047.png

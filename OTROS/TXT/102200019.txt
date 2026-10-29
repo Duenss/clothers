@@ -1,0 +1,8 @@
+ITEM ID: 102200019
+ICON ID: Icon_face_male_head_sc_StreamerGuy
+NOMBRE: Unknown
+TIPO: Unknown
+RAREZA: NONE (None)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/102200019.png

@@ -1,0 +1,8 @@
+ITEM ID: 929005113
+ICON ID: Icon_Photostickeritem_FFWS_01
+NOMBRE: On Fire Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: On Fire Sticker
+IMAGEN: AVATARES/imagenes/929005113.png

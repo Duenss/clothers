@@ -1,0 +1,8 @@
+ITEM ID: 907103540
+ICON ID: Icon_Digitaluniverse_01_Grenade
+NOMBRE: Grenade - Crystal Eerie
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103540.png

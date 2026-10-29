@@ -1,0 +1,8 @@
+ITEM ID: 923042012
+ICON ID: FF_UI_Voiceitem_Ironbull
+NOMBRE: Mic on please (Kouki)
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042012.png

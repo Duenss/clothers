@@ -1,0 +1,8 @@
+ITEM ID: 203000015
+ICON ID: Icon_avatar_tshirt_7
+NOMBRE: T-shirt (Dislike)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000015.png

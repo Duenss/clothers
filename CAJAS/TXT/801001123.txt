@@ -1,0 +1,8 @@
+ITEM ID: 801001123
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Legacy from the East Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: From the edge of the farest east...
+IMAGEN: CAJAS/imagenes/801001123.png

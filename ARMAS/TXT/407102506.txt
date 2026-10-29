@@ -1,0 +1,8 @@
+ITEM ID: 407102506
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cosmic Bounty Hunter Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: Open to receive a random gun skin from the Cosmic Bounty Hunter weapon set
+IMAGEN: ARMAS/imagenes/407102506.png

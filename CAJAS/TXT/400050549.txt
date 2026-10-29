@@ -1,0 +1,8 @@
+ITEM ID: 400050549
+ICON ID: Icon_box_EWLC1_TH_50
+NOMBRE: Epic Weapon Loot Crate 1
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050549.png

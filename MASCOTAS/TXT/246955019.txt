@@ -1,0 +1,8 @@
+ITEM ID: 246955019
+ICON ID: Pet_Spark3_Head_CatHat_Beige
+NOMBRE: Beige Cat Hat
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Beige Cat Hat
+IMAGEN: MASCOTAS/imagenes/246955019.png

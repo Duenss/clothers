@@ -1,0 +1,8 @@
+ITEM ID: 710030020
+ICON ID: Icon_bundle_male_Ukiyoe_30
+NOMBRE: Wavebreaker Kaze Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB30
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710030020.png

@@ -1,0 +1,8 @@
+ITEM ID: 211036066
+ICON ID: Icon_avatar_cos_hair_bdk_004
+NOMBRE: Masked Kitten
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036066.png

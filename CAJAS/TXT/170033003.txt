@@ -1,0 +1,8 @@
+ITEM ID: 170033003
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: 14-Day Character Trial Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Choose and obtain a 14-day trial character
+IMAGEN: CAJAS/imagenes/170033003.png

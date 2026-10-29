@@ -1,0 +1,8 @@
+ITEM ID: 801051014
+ICON ID: Icon_exchange_gcdc_51
+NOMBRE: 24K Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051014.png

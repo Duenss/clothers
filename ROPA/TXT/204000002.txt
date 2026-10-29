@@ -1,0 +1,8 @@
+ITEM ID: 204000002
+ICON ID: Icon_avatar_shorts_2
+NOMBRE: Shorts (Black)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000002.png

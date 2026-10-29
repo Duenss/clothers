@@ -1,0 +1,8 @@
+ITEM ID: 400034035
+ICON ID: Icon_box_3
+NOMBRE: Level Up Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400034035.png

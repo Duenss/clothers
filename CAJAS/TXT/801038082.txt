@@ -1,0 +1,8 @@
+ITEM ID: 801038082
+ICON ID: Icon_exchange_Yomost_38
+NOMBRE: Yomost
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038082.png

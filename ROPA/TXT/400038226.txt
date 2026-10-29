@@ -1,0 +1,8 @@
+ITEM ID: 400038226
+ICON ID: Icon_box_3
+NOMBRE: Custom Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open the box to receive rare and exciting rewards!
+IMAGEN: ROPA/imagenes/400038226.png

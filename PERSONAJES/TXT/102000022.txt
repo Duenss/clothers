@@ -1,0 +1,8 @@
+ITEM ID: 102000022
+ICON ID: Icon_face_male_head_sc_Professor
+NOMBRE: K
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: K is a professor and jiu-jitsu expert.
+IMAGEN: PERSONAJES/imagenes/102000022.png

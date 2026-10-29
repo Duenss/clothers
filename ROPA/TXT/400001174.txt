@@ -1,0 +1,8 @@
+ITEM ID: 400001174
+ICON ID: Icon_box_3
+NOMBRE: Dino Egg Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Where are my dragons?
+IMAGEN: ROPA/imagenes/400001174.png

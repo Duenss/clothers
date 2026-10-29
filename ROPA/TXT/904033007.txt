@@ -1,0 +1,8 @@
+ITEM ID: 904033007
+ICON ID: Icon_Bag_Fastbreaking22_1
+NOMBRE: Backpack - Emerald Power
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033007.png

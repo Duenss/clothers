@@ -1,0 +1,8 @@
+ITEM ID: 801000663
+ICON ID: Icon_exchange_ob24_Salute_Token
+NOMBRE: Salute Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: With respect
+IMAGEN: CAJAS/imagenes/801000663.png

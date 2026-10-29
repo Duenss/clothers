@@ -1,0 +1,8 @@
+ITEM ID: 204000105
+ICON ID: Icon_Avatar_male_shortpants_flap_blue
+NOMBRE: Denim Shorts (Male)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000105.png

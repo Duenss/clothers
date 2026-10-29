@@ -1,0 +1,8 @@
+ITEM ID: 801001109
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Emote Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Show your best emote!
+IMAGEN: CAJAS/imagenes/801001109.png

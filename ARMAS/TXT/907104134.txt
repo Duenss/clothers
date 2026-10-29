@@ -1,0 +1,8 @@
+ITEM ID: 907104134
+ICON ID: Icon_MAG7_CSRank21
+NOMBRE: The Golden MAG-7
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104134.png

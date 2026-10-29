@@ -1,0 +1,8 @@
+ITEM ID: 205000326
+ICON ID: Icon_avatar_male_shoe_cos_Djmale_A
+NOMBRE: Alok's Beach Bod (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000326.png

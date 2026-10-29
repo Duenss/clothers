@@ -1,0 +1,8 @@
+ITEM ID: 400055064
+ICON ID: Icon_box_WatermelonBP_55
+NOMBRE: BP S48 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055064.png

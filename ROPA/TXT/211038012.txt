@@ -1,0 +1,8 @@
+ITEM ID: 211038012
+ICON ID: Icon_avatar_male_cos_hair_colorfest23_01
+NOMBRE: Corrupted Vein (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038012.png

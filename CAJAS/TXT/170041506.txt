@@ -1,0 +1,8 @@
+ITEM ID: 170041506
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Returning Players Gift
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Choose your best outfit wisely!
+IMAGEN: CAJAS/imagenes/170041506.png

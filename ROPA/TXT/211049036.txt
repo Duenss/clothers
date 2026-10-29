@@ -1,0 +1,8 @@
+ITEM ID: 211049036
+ICON ID: Icon_avatar_female_cos_hair_ocean_pirate
+NOMBRE: Azure Marauder (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049036.png

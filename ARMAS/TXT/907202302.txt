@@ -1,0 +1,8 @@
+ITEM ID: 907202302
+ICON ID: Icon_G18_Imperialegypt
+NOMBRE: G18 - Anubis Legend II
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202302.png

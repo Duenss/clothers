@@ -1,0 +1,8 @@
+ITEM ID: 203000201
+ICON ID: Icon_avatar_tshirt_Columbia
+NOMBRE: Golden Caffeine
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000201.png

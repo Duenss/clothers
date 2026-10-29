@@ -1,0 +1,8 @@
+ITEM ID: 908034007
+ICON ID: Icon_slot_SUV_Crazyscientist
+NOMBRE: Pickup Truck - Evil Engineer
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034007.png

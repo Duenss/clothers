@@ -1,0 +1,8 @@
+ITEM ID: 211033057
+ICON ID: Icon_avatar_male_cos_accessory_luchalibre2_mw
+NOMBRE: Aerostar (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033057.png

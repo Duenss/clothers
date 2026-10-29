@@ -1,0 +1,8 @@
+ITEM ID: 909051012
+ICON ID: Icon_Emote_Sagittarius25
+NOMBRE: Celestial Shot
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051012.png

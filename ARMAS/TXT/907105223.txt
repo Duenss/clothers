@@ -1,0 +1,8 @@
+ITEM ID: 907105223
+ICON ID: Icon_M1216_Fastbreaking_Treasure01
+NOMBRE: Trogon - Treasure Chaser
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105223.png

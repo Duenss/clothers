@@ -1,0 +1,8 @@
+ITEM ID: 801037924
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFWS Shield Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: FFWS Shield Token
+IMAGEN: CAJAS/imagenes/801037924.png

@@ -1,0 +1,8 @@
+ITEM ID: 908037005
+ICON ID: Icon_slot_Jeep_Winterfest22
+NOMBRE: Jeep - Rockin' Festival Ride
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908037005.png

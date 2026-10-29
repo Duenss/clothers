@@ -1,0 +1,8 @@
+ITEM ID: 1400000001
+ICON ID: Icon_Pet_Panda
+NOMBRE: Detective Panda
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: I will protect the world! (Skill: Panda's Blessings)
+IMAGEN: OTROS/imagenes/1400000001.png

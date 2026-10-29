@@ -1,0 +1,8 @@
+ITEM ID: 902054005
+ICON ID: Icon_face_Virgo26
+NOMBRE: Stellar Spica Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054005.png

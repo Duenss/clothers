@@ -1,0 +1,8 @@
+ITEM ID: 204035043
+ICON ID: Icon_avatar_cos_bottom_cateam_01
+NOMBRE: Club America Home (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035043.png

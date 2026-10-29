@@ -1,0 +1,8 @@
+ITEM ID: 801000529
+ICON ID: Icon_exchange_ob22_tyrannosaurus_token
+NOMBRE: Tyrannosaurus Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: My friends call me Rex
+IMAGEN: CAJAS/imagenes/801000529.png

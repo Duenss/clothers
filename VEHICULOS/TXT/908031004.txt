@@ -1,0 +1,8 @@
+ITEM ID: 908031004
+ICON ID: Icon_slot_SUV_Origami
+NOMBRE: Pickup Truck - Whirl of Swan
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908031004.png

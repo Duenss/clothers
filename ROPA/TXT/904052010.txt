@@ -1,0 +1,8 @@
+ITEM ID: 904052010
+ICON ID: Icon_Bag_Emoji26
+NOMBRE: Backpack - Get Me Out
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052010.png

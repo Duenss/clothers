@@ -1,0 +1,8 @@
+ITEM ID: 204035020
+ICON ID: Icon_avatar_male_cos_bottom_digitaluniverse
+NOMBRE: Golden Futurnetic (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035020.png

@@ -1,0 +1,8 @@
+ITEM ID: 904052009
+ICON ID: Icon_Bag_Treasure26
+NOMBRE: Backpack - Voyager's Compass
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052009.png

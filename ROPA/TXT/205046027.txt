@@ -1,0 +1,8 @@
+ITEM ID: 205046027
+ICON ID: Icon_avatar_cos_shoe_microwaves_fp
+NOMBRE: Combustible Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046027.png

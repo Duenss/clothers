@@ -1,0 +1,8 @@
+ITEM ID: 204000653
+ICON ID: Icon_avatar_male_bottom_cos_astrologer
+NOMBRE: Star Oracle (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000653.png

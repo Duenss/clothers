@@ -1,0 +1,8 @@
+ITEM ID: 204000144
+ICON ID: Icon_avatar_bottom_bellbottoms
+NOMBRE: Bell Bottoms (Black)
+TIPO: Bottom
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000144.png

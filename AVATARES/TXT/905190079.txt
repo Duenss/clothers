@@ -1,0 +1,8 @@
+ITEM ID: 905190079
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Ultimate M60
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by upgrading M60 Evo Gun to Lv. 7
+IMAGEN: AVATARES/imagenes/905190079.png

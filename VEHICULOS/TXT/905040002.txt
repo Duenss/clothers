@@ -1,0 +1,8 @@
+ITEM ID: 905040002
+ICON ID: Icon_Avatar_PARACHUTE_Farmer
+NOMBRE: Parachute - Sunny Cornfield
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905040002.png

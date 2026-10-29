@@ -1,0 +1,8 @@
+ITEM ID: 203054011
+ICON ID: Icon_avatar_cos_top_darkdesires
+NOMBRE: Dark Desires Bundle
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203054011.png

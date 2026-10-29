@@ -1,0 +1,8 @@
+ITEM ID: 203045006
+ICON ID: Icon_avatar_male_cos_top_spirit24
+NOMBRE: Anemo Stormer (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045006.png

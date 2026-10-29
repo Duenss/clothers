@@ -1,0 +1,8 @@
+ITEM ID: 204051036
+ICON ID: Icon_avatar_cos_bottom_security_vn
+NOMBRE: Safekeeper (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051036.png

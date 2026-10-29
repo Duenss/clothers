@@ -1,0 +1,8 @@
+ITEM ID: 904041005
+ICON ID: Icon_Bag_Inkpainting
+NOMBRE: Backpack - Inkwell
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041005.png

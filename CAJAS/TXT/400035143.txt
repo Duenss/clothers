@@ -1,0 +1,8 @@
+ITEM ID: 400035143
+ICON ID: Icon_box_Digitaluniverse01_red_35
+NOMBRE: Sterling Conqueror (Red) Token Box 2
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400035143.png

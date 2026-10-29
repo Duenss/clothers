@@ -1,0 +1,8 @@
+ITEM ID: 400040538
+ICON ID: Icon_box_Hexos_01_ID_40
+NOMBRE: Hexos Box 06
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Congrats! Be better with the Hexos Box!
+IMAGEN: CAJAS/imagenes/400040538.png

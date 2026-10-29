@@ -1,0 +1,8 @@
+ITEM ID: 400035105
+ICON ID: Icon_box_3
+NOMBRE: Sunscale Serpent Loot Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Contains Sunscale Serpent and all its pieces
+IMAGEN: ROPA/imagenes/400035105.png

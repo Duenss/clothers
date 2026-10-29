@@ -1,0 +1,8 @@
+ITEM ID: 907000081
+ICON ID: Icon_SCAR_Baw_Skeleton
+NOMBRE: SCAR - Violet Terror
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000081.png

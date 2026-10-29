@@ -1,0 +1,8 @@
+ITEM ID: 205054021
+ICON ID: Icon_avatar_female_cos_shoe_party_pajama
+NOMBRE: Pajama Night (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054021.png

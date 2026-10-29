@@ -1,0 +1,8 @@
+ITEM ID: 203035057
+ICON ID: Icon_avatar_male_cos_top_la_phone
+NOMBRE: Denim Shine Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035057.png

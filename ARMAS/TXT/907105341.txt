@@ -1,0 +1,8 @@
+ITEM ID: 907105341
+ICON ID: Icon_GlooShield_Magical
+NOMBRE: Gloo Wall - Sweet Defense
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105341.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001061
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Royale Token H
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: What can you exchange this for?
+IMAGEN: CAJAS/imagenes/801001061.png

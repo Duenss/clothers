@@ -1,0 +1,8 @@
+ITEM ID: 907103512
+ICON ID: Icon_XM8_Light_Darkness
+NOMBRE: XM8 - Paradise Defender
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103512.png

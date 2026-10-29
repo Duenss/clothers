@@ -1,0 +1,8 @@
+ITEM ID: 909051015
+ICON ID: Icon_Emote_TH_KOL25_Laugh
+NOMBRE: Can't Stop Laughing
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051015.png

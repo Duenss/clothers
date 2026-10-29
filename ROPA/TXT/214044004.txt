@@ -1,0 +1,8 @@
+ITEM ID: 214044004
+ICON ID: Icon_avatar_male_cos_headadditive_onimusha
+NOMBRE: Warrior-o'-the-Wisp (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214044004.png

@@ -1,0 +1,8 @@
+ITEM ID: 913036004
+ICON ID: FF_UI_Vault_Music_BR_36
+NOMBRE: Respeita a Minha História
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: An iconic Brazilian Free Fire hit song
+IMAGEN: MUSICA/imagenes/913036004.png

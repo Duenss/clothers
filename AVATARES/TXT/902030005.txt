@@ -1,0 +1,8 @@
+ITEM ID: 902030005
+ICON ID: Icon_face_Darkdragon_B
+NOMBRE: Sinister Legend
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030005.png

@@ -1,0 +1,8 @@
+ITEM ID: 407105204
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Sea of Hues (UMP) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive a random gun skin (UMP) from the Sea of Hues set
+IMAGEN: ARMAS/imagenes/407105204.png

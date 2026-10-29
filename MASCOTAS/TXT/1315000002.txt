@@ -1,0 +1,8 @@
+ITEM ID: 1315000002
+ICON ID: FF_UI_Pet_KillPlusHP_Skill
+NOMBRE: Panda's Blessings
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: The Panda has all kinds of surprises!
+IMAGEN: MASCOTAS/imagenes/1315000002.png

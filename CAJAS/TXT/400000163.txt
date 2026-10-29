@@ -1,0 +1,8 @@
+ITEM ID: 400000163
+ICON ID: Icon_face_female_sc_Racergirl
+NOMBRE: Misha's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to Receive Memory Fragment (Misha)
+IMAGEN: CAJAS/imagenes/400000163.png

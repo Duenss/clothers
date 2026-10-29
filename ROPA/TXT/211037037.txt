@@ -1,0 +1,8 @@
+ITEM ID: 211037037
+ICON ID: Icon_avatar_male_cos_hair_vn_cave
+NOMBRE: Tangelo Charm (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037037.png

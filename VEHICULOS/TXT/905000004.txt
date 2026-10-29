@@ -1,0 +1,8 @@
+ITEM ID: 905000004
+ICON ID: Icon_Avatar_Parachute_Sushi_Shrimp
+NOMBRE: Parachute - Ebi
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000004.png

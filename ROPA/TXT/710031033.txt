@@ -1,0 +1,8 @@
+ITEM ID: 710031033
+ICON ID: Icon_bundle_female_Guerrilla_31
+NOMBRE: Ash Ambush Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710031033.png

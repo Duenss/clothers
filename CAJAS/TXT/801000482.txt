@@ -1,0 +1,8 @@
+ITEM ID: 801000482
+ICON ID: Icon_exchange_ob22_apple_sweet
+NOMBRE: Apple Sweet
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000482.png

@@ -1,0 +1,8 @@
+ITEM ID: 710049036
+ICON ID: Icon_bundle_Rrb_49
+NOMBRE: Rusher Role Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710049036.png

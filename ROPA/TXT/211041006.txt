@@ -1,0 +1,8 @@
+ITEM ID: 211041006
+ICON ID: Icon_avatar_male_cos_accessory_designertoys
+NOMBRE: Marionette Soul (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041006.png

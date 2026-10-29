@@ -1,0 +1,8 @@
+ITEM ID: 211053042
+ICON ID: Icon_avatar_cos_accessory_sketch_fp
+NOMBRE: Sculpted Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053042.png

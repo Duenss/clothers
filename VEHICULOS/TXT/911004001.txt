@@ -1,0 +1,8 @@
+ITEM ID: 911004001
+ICON ID: Icon_Mounts_Traphiphop22
+NOMBRE: T.R.A.P. Chrominvader Skywing
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004001.png

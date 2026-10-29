@@ -1,0 +1,8 @@
+ITEM ID: 205000721
+ICON ID: Icon_avatar_male_cos_shoe_jungle_green
+NOMBRE: Camou War-Turtle (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000721.png

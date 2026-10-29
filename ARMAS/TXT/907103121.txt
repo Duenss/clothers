@@ -1,0 +1,8 @@
+ITEM ID: 907103121
+ICON ID: Icon_Mac10_Monster
+NOMBRE: MAC10 - Cyan Fear
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103121.png

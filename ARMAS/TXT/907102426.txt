@@ -1,0 +1,8 @@
+ITEM ID: 907102426
+ICON ID: Icon_UMP45_Tigerking
+NOMBRE: UMP - Wilderness Hunter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102426.png

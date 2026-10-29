@@ -1,0 +1,8 @@
+ITEM ID: 203035055
+ICON ID: Icon_avatar_female_cos_top_parkour
+NOMBRE: Esprit Roadsprinter (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035055.png

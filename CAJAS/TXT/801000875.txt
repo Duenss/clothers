@@ -1,0 +1,8 @@
+ITEM ID: 801000875
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lucky Coin
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000875.png

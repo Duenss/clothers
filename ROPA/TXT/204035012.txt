@@ -1,0 +1,8 @@
+ITEM ID: 204035012
+ICON ID: Icon_avatar_male_cos_bottom_fcninja
+NOMBRE: Firestorm Shinobi (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035012.png

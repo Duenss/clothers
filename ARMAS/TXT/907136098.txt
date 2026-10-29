@@ -1,0 +1,8 @@
+ITEM ID: 907136098
+ICON ID: Icon_GlooShield_Griza
+NOMBRE: Gloo Wall - Nutty Quirk
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136098.png

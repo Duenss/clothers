@@ -1,0 +1,8 @@
+ITEM ID: 400039173
+ICON ID: Icon_box_3
+NOMBRE: Fruit Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Juice up your style!
+IMAGEN: ROPA/imagenes/400039173.png

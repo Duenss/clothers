@@ -1,0 +1,8 @@
+ITEM ID: 205035019
+ICON ID: Icon_avatar_female_cos_shoe_gangster_red
+NOMBRE: Ruthless Fury (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205035019.png

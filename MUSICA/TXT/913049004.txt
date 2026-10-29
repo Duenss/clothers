@@ -1,0 +1,8 @@
+ITEM ID: 913049004
+ICON ID: FF_UI_Vault_Music_EIGHTINF49
+NOMBRE: Infinity
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Free Fire 8th anniversary music
+IMAGEN: MUSICA/imagenes/913049004.png

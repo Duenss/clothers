@@ -1,0 +1,8 @@
+ITEM ID: 700000576
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Evil Enchanted Bundle Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Evil Enchanted Bundle
+IMAGEN: ROPA/imagenes/700000576.png

@@ -1,0 +1,8 @@
+ITEM ID: 211038018
+ICON ID: Icon_avatar_female_cos_hair_valentine23
+NOMBRE: Cutthroat Candy (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038018.png

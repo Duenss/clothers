@@ -1,0 +1,8 @@
+ITEM ID: 400031108
+ICON ID: Icon_box_3
+NOMBRE: Katana Season of Pink Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Contains Katana Season of Pink
+IMAGEN: ROPA/imagenes/400031108.png

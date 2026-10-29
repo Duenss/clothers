@@ -1,0 +1,8 @@
+ITEM ID: 926004902
+ICON ID: UI_PhotoFrame_NAILONG_02_Small
+NOMBRE: Nailoong frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Nailoong frame
+IMAGEN: AVATARES/imagenes/926004902.png

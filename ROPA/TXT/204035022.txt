@@ -1,0 +1,8 @@
+ITEM ID: 204035022
+ICON ID: Icon_avatar_male_cos_bottom_digitaluniverse2
+NOMBRE: Passion Reuniter (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035022.png

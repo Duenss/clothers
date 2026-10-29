@@ -1,0 +1,8 @@
+ITEM ID: 923045006
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Arre bhai bhai bhai bhai bhai
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: Bhaichara Voice Pack
+IMAGEN: MUSICA/imagenes/923045006.png

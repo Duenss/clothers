@@ -1,0 +1,8 @@
+ITEM ID: 902037017
+ICON ID: Icon_face_FFWS_VN2
+NOMBRE: Team Flash Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037017.png

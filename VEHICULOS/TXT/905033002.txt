@@ -1,0 +1,8 @@
+ITEM ID: 905033002
+ICON ID: Icon_Avatar_PARACHUTE_Cyberopera
+NOMBRE: Parachute - Robotic Opera
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905033002.png

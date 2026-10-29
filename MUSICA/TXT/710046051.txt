@@ -1,0 +1,8 @@
+ITEM ID: 710046051
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Bolly Boli Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Bolly Boli Voice Pack
+IMAGEN: MUSICA/imagenes/710046051.png

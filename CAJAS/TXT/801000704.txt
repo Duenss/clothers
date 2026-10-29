@@ -1,0 +1,8 @@
+ITEM ID: 801000704
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: New Year 2021 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000704.png

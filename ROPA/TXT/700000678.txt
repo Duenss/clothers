@@ -1,0 +1,8 @@
+ITEM ID: 700000678
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Kongfu Emote Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Kongfu emote and 100 Diamonds
+IMAGEN: ROPA/imagenes/700000678.png

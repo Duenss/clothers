@@ -1,0 +1,8 @@
+ITEM ID: 400030096
+ICON ID: Icon_box_3
+NOMBRE: Red Bucket Hat Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: LBFF6
+IMAGEN: ROPA/imagenes/400030096.png

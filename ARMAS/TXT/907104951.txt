@@ -1,0 +1,8 @@
+ITEM ID: 907104951
+ICON ID: Icon_GlooShield_Seafood_Girl_Gloowall
+NOMBRE: Gloo Wall - Red Light, Green Light
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104951.png

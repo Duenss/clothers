@@ -1,0 +1,8 @@
+ITEM ID: 801000766
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fireworks Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: With a BANG!
+IMAGEN: CAJAS/imagenes/801000766.png

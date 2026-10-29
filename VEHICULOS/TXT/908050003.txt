@@ -1,0 +1,8 @@
+ITEM ID: 908050003
+ICON ID: Icon_slot_SUV_Funzombie
+NOMBRE: Pickup Truck - Coal Ash
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050003.png

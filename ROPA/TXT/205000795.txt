@@ -1,0 +1,8 @@
+ITEM ID: 205000795
+ICON ID: Icon_avatar_cos_shoe_cyanarm_red
+NOMBRE: Clawed Magna (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000795.png

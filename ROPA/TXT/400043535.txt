@@ -1,0 +1,8 @@
+ITEM ID: 400043535
+ICON ID: Icon_box_3
+NOMBRE: Nostalgia Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: Where memories reside and time stands still
+IMAGEN: ROPA/imagenes/400043535.png

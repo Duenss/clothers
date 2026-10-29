@@ -1,0 +1,8 @@
+ITEM ID: 211055004
+ICON ID: Icon_avatar_cos_accessory_nb1re_ct_card
+NOMBRE: Kakashi's ANBU Black Ops Mask
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055004.png

@@ -1,0 +1,8 @@
+ITEM ID: 407103704
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Steel Cowboy (M24 + Mini Uzi) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (M24 + Mini Uzi) from the Steel Cowboy weapon set
+IMAGEN: ARMAS/imagenes/407103704.png

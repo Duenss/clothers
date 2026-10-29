@@ -1,0 +1,8 @@
+ITEM ID: 205053011
+ICON ID: Icon_avatar_male_cos_shoe_bluetears
+NOMBRE: Undersea Ripples (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053011.png

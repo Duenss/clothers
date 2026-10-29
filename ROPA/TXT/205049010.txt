@@ -1,0 +1,8 @@
+ITEM ID: 205049010
+ICON ID: Icon_avatar_male_cos_shoe_fashionist5
+NOMBRE: Campus Icon (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049010.png

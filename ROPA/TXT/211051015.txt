@@ -1,0 +1,8 @@
+ITEM ID: 211051015
+ICON ID: Icon_avatar_male_cos_accessory_sugarskull25
+NOMBRE: Grim Hayman (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051015.png

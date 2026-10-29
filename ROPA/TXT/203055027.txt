@@ -1,0 +1,8 @@
+ITEM ID: 203055027
+ICON ID: Icon_avatar_cos_top_halloween26_phantom
+NOMBRE: Cloaked Terror (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055027.png

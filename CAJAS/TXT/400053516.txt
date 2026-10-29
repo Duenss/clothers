@@ -1,0 +1,8 @@
+ITEM ID: 400053516
+ICON ID: Icon_box_URVB7_TH_53
+NOMBRE: Universal Ring Voucher Box 9
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053516.png

@@ -1,0 +1,8 @@
+ITEM ID: 400041515
+ICON ID: Icon_box_Asianoni_Blue_32
+NOMBRE: Demonic Grin (FAMAS) Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041515.png

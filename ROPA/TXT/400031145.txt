@@ -1,0 +1,8 @@
+ITEM ID: 400031145
+ICON ID: Icon_box_3
+NOMBRE: Unite Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to get amazing rewards
+IMAGEN: ROPA/imagenes/400031145.png

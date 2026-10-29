@@ -1,0 +1,8 @@
+ITEM ID: 907104816
+ICON ID: Icon_M60_Monkeyboy
+NOMBRE: M60 - Scarlet Nimbus
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104816.png

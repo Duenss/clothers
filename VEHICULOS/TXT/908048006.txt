@@ -1,0 +1,8 @@
+ITEM ID: 908048006
+ICON ID: Icon_slot_Jeep_Biker
+NOMBRE: Jeep - Asphalt Racer
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048006.png

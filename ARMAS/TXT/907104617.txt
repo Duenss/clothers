@@ -1,0 +1,8 @@
+ITEM ID: 907104617
+ICON ID: Icon_Machete_Booyahday24
+NOMBRE: Parang - Booyah Bling
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104617.png

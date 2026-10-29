@@ -1,0 +1,8 @@
+ITEM ID: 907103314
+ICON ID: Icon_Vector_Cyberthief
+NOMBRE: Vector - Hypercore Blues
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103314.png

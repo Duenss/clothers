@@ -1,0 +1,8 @@
+ITEM ID: 905000008
+ICON ID: Icon_Avatar_PARACHUTE_SUNNY
+NOMBRE: Parachute - Clear Skies
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000008.png

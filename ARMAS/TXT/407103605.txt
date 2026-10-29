@@ -1,0 +1,8 @@
+ITEM ID: 407103605
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Nightslayer Grizzly (SVD + UMP) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Open to receive a random gun skin (SVD + UMP) from the Nightslayer Grizzly weapon set
+IMAGEN: ARMAS/imagenes/407103605.png

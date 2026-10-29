@@ -1,0 +1,8 @@
+ITEM ID: 908054008
+ICON ID: Icon_slot_Motobike_Wolf_Sheep
+NOMBRE: Motorbike - Baa Baa Woof
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054008.png

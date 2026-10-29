@@ -1,0 +1,8 @@
+ITEM ID: 801000635
+ICON ID: Icon_exchange_ob24_Mega_Discount
+NOMBRE: Mega Discount
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Guess the discount price!
+IMAGEN: CAJAS/imagenes/801000635.png

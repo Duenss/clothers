@@ -1,0 +1,8 @@
+ITEM ID: 911003101
+ICON ID: Icon_Mounts_Sledge
+NOMBRE: Winterland Sledge
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911003101.png

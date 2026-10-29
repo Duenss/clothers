@@ -1,0 +1,8 @@
+ITEM ID: 170042515
+ICON ID: Icon_box_UET100_170042515_47
+NOMBRE: Universal Evo Token x100
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170042515.png

@@ -1,0 +1,8 @@
+ITEM ID: 910034003
+ICON ID: Pin_Small_Reporter
+NOMBRE: Avid Creator's Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910034003.png

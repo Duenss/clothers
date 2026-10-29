@@ -1,0 +1,8 @@
+ITEM ID: 214038009
+ICON ID: Icon_avatar_female_cos_headadditive_elder_white
+NOMBRE: Serpent Kami (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214038009.png

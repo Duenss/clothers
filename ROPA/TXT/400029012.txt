@@ -1,0 +1,8 @@
+ITEM ID: 400029012
+ICON ID: Icon_box_3
+NOMBRE: Sensei Tig Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Chance to get pet - Sensei Tig!
+IMAGEN: ROPA/imagenes/400029012.png

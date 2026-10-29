@@ -1,0 +1,8 @@
+ITEM ID: 907104061
+ICON ID: Icon_Uzi_Penguin_W
+NOMBRE: Mini Uzi - Waggor's Wonder
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104061.png

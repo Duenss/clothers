@@ -1,0 +1,8 @@
+ITEM ID: 407105401
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Super Fresh (Charge Buster + USP-2) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Open to receive a random gun skin (Charge Buster + USP-2) from the Super Fresh set
+IMAGEN: ARMAS/imagenes/407105401.png

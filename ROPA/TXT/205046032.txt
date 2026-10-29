@@ -1,0 +1,8 @@
+ITEM ID: 205046032
+ICON ID: Icon_avatar_male_cos_shoe_fb_black
+NOMBRE: Isagi Shoes
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046032.png

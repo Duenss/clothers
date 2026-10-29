@@ -1,0 +1,8 @@
+ITEM ID: 400000460
+ICON ID: Icon_box_3
+NOMBRE: Water and Sands Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Water Elemental and the Scorching Sands Bundle.
+IMAGEN: ROPA/imagenes/400000460.png

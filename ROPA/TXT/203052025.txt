@@ -1,0 +1,8 @@
+ITEM ID: 203052025
+ICON ID: Icon_avatar_male_cos_top_pixel25
+NOMBRE: 8-Bit Dude (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052025.png

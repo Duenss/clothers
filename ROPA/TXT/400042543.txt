@@ -1,0 +1,8 @@
+ITEM ID: 400042543
+ICON ID: Icon_box_3
+NOMBRE: Candid Casuals Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Contains the Candid Casual bundle and its pieces
+IMAGEN: ROPA/imagenes/400042543.png

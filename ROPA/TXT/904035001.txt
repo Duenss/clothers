@@ -1,0 +1,8 @@
+ITEM ID: 904035001
+ICON ID: Icon_Bag_Wildfire_Skeleton
+NOMBRE: Backpack - Howler Trio
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035001.png

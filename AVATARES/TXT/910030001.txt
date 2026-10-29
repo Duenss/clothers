@@ -1,0 +1,8 @@
+ITEM ID: 910030001
+ICON ID: Pin_Small_Booyahday21
+NOMBRE: BOOYAH DAY 2021 Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910030001.png

@@ -1,0 +1,8 @@
+ITEM ID: 909045007
+ICON ID: Icon_Emote_Meme4
+NOMBRE: Step Step
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909045007.png

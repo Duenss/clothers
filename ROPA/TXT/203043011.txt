@@ -1,0 +1,8 @@
+ITEM ID: 203043011
+ICON ID: Icon_avatar_male_cos_top_valentine24
+NOMBRE: What a Heartthrob (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043011.png

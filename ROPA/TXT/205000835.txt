@@ -1,0 +1,8 @@
+ITEM ID: 205000835
+ICON ID: Icon_avatar_male_cos_shoe_winterfest21_shorts
+NOMBRE: Frosty Beach (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000835.png

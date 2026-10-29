@@ -1,0 +1,8 @@
+ITEM ID: 211038014
+ICON ID: Icon_avatar_male_cos_hair_colorfest23_02
+NOMBRE: Bionic Vagabond (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038014.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000399
+ICON ID: Icon_avatar_male_top_dragons_A
+NOMBRE: Dragon's Fang
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000399.png

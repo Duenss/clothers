@@ -1,0 +1,8 @@
+ITEM ID: 904041008
+ICON ID: Icon_Bag_DS_pink
+NOMBRE: Backpack - Tanjiro
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041008.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000368
+ICON ID: Icon_exchange_Mystery_mech_part
+NOMBRE: Mysterious Part
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000368.png

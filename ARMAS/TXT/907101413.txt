@@ -1,0 +1,8 @@
+ITEM ID: 907101413
+ICON ID: Icon_Famas_Shark
+NOMBRE: FAMAS - Shark Attack
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101413.png

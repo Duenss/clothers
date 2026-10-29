@@ -1,0 +1,8 @@
+ITEM ID: 211000954
+ICON ID: Icon_avatar_male_hair_cos_horrorcircus
+NOMBRE: Cursed Magician (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000954.png

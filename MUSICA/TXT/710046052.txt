@@ -1,0 +1,8 @@
+ITEM ID: 710046052
+ICON ID: FF_UI_Voiceitem_VN46
+NOMBRE: Trendy Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Trendy Voice Pack
+IMAGEN: MUSICA/imagenes/710046052.png

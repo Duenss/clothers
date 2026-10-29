@@ -1,0 +1,8 @@
+ITEM ID: 204000020
+ICON ID: Icon_avatar_short_camo_003
+NOMBRE: Shorts (Camouflage)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000020.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001114
+ICON ID: Icon_box_3
+NOMBRE: Earth Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Unite and be one family
+IMAGEN: ROPA/imagenes/400001114.png

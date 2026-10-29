@@ -1,0 +1,8 @@
+ITEM ID: 905051005
+ICON ID: Icon_Avatar_PARACHUTE_Allseason26
+NOMBRE: Parachute - Crowned Glory
+TIPO: Parachute
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Obtained by reaching Heroic in BR or CS 4 times in 2026
+IMAGEN: VEHICULOS/imagenes/905051005.png

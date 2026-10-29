@@ -1,0 +1,8 @@
+ITEM ID: 906044006
+ICON ID: Icon_Avatar_Surfboard_Fragment_B
+NOMBRE: Skyboard - S25 Exclusive: Breaker
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906044006.png

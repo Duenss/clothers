@@ -1,0 +1,8 @@
+ITEM ID: 909041014
+ICON ID: Icon_Emote_Monsterjacket
+NOMBRE: Monster Clubbing
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041014.png

@@ -1,0 +1,8 @@
+ITEM ID: 1001000005
+ICON ID: UI_EPFP_pirate
+NOMBRE: Pirate's Badge.
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Collect badges to unlock Elite Pass rewards. This badge is only valid for this season's Elite Pass.
+IMAGEN: OTROS/imagenes/1001000005.png

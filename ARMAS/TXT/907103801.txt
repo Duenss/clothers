@@ -1,0 +1,8 @@
+ITEM ID: 907103801
+ICON ID: Icon_Baseballbat_Goal
+NOMBRE: Bat - Achiever
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103801.png

@@ -1,0 +1,8 @@
+ITEM ID: 913048005
+ICON ID: FF_UI_Vault_Music_MidnightAce25
+NOMBRE: Midnight Ace
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Legendary Midnight Ace lobby music
+IMAGEN: MUSICA/imagenes/913048005.png

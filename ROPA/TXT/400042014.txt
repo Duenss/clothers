@@ -1,0 +1,8 @@
+ITEM ID: 400042014
+ICON ID: Icon_box_3
+NOMBRE: Ghost Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400042014.png

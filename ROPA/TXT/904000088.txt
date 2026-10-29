@@ -1,0 +1,8 @@
+ITEM ID: 904000088
+ICON ID: Icon_Bag_Ninjas_EP
+NOMBRE: Backpack - Clandestine's Glory
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000088.png

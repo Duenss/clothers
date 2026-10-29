@@ -1,0 +1,8 @@
+ITEM ID: 907103352
+ICON ID: Icon_GlooShield_Lion_Red
+NOMBRE: Gloo Wall - Bonebruiser Scorch
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103352.png

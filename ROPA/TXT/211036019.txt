@@ -1,0 +1,8 @@
+ITEM ID: 211036019
+ICON ID: Icon_avatar_female_cos_hair_halloween22
+NOMBRE: Duchess of Terrorland (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036019.png

@@ -1,0 +1,8 @@
+ITEM ID: 203034018
+ICON ID: Icon_avatar_cos_top_winterdog
+NOMBRE: Husky Fluff (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034018.png

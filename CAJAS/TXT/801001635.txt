@@ -1,0 +1,8 @@
+ITEM ID: 801001635
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Cow Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Blessing comes to those who share
+IMAGEN: CAJAS/imagenes/801001635.png

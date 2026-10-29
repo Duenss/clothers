@@ -1,0 +1,8 @@
+ITEM ID: 906034005
+ICON ID: Icon_Avatar_Surfboard_Lotus
+NOMBRE: Skyboard - Glow Lotus
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906034005.png

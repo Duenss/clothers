@@ -1,0 +1,8 @@
+ITEM ID: 902048015
+ICON ID: Icon_face_CSRank30_02
+NOMBRE: CS-Ranked S30 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048015.png

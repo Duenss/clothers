@@ -1,0 +1,8 @@
+ITEM ID: 204039007
+ICON ID: Icon_avatar_male_cos_bottom_rollerskating_basic
+NOMBRE: Freestyle Brakes (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039007.png

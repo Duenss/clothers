@@ -1,0 +1,8 @@
+ITEM ID: 923042025
+ICON ID: FF_UI_Voiceitem_Primkung
+NOMBRE: That's lit!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042025.png

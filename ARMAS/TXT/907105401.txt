@@ -1,0 +1,8 @@
+ITEM ID: 907105401
+ICON ID: Icon_M21A5_Esports_MVP
+NOMBRE: Woodpecker - Thunderclap MVP
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105401.png

@@ -1,0 +1,8 @@
+ITEM ID: 203043000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Mechanical Genius (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

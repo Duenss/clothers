@@ -1,0 +1,8 @@
+ITEM ID: 211038063
+ICON ID: Icon_avatar_male_cos_accessory_samurai_01
+NOMBRE: Primal Wrath (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038063.png

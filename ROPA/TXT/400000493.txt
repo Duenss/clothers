@@ -1,0 +1,8 @@
+ITEM ID: 400000493
+ICON ID: Icon_box_3
+NOMBRE: Laura Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Box containing Laura, Laura Bundle and other various items
+IMAGEN: ROPA/imagenes/400000493.png

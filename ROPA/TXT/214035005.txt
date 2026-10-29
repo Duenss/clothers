@@ -1,0 +1,8 @@
+ITEM ID: 214035005
+ICON ID: Icon_avatar_male_cos_headadditive_light_darkness
+NOMBRE: Paradise Defender (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214035005.png

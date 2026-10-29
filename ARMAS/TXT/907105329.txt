@@ -1,0 +1,8 @@
+ITEM ID: 907105329
+ICON ID: Icon_Fist_Magical
+NOMBRE: Fist - Sweet Punch
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105329.png

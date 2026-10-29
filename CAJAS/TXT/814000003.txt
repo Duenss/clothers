@@ -1,0 +1,8 @@
+ITEM ID: 814000003
+ICON ID: Clan_token
+NOMBRE: Guild Token
+TIPO: Vouchers
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Earn by achieving the Guild Activity goals each week. Use to exchange for rewards in the Guild Store.
+IMAGEN: CAJAS/imagenes/814000003.png

@@ -1,0 +1,8 @@
+ITEM ID: 901048022
+ICON ID: Icon_callsign_storebg_LW_ID25_02
+NOMBRE: LW-Ranked Platinum Wolf Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901048022.png

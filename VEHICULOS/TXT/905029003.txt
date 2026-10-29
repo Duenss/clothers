@@ -1,0 +1,8 @@
+ITEM ID: 905029003
+ICON ID: Icon_Avatar_PARACHUTE_Mocomonth
+NOMBRE: Parachute - Moco's Wings
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905029003.png

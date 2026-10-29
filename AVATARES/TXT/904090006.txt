@@ -1,0 +1,8 @@
+ITEM ID: 904090006
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Headhunter
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the second stage of the "Headshot Machine" achievement
+IMAGEN: AVATARES/imagenes/904090006.png

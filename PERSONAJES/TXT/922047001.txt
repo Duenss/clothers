@@ -1,0 +1,8 @@
+ITEM ID: 922047001
+ICON ID: UI_Icon_SkillSkin_MonkeyGod_Wukong_NB
+NOMBRE: Skill Skin: Substitution Jutsu
+TIPO: Skill Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922047001.png

@@ -1,0 +1,8 @@
+ITEM ID: 211039005
+ICON ID: Icon_avatar_male_cos_accessory_rollerskating_p
+NOMBRE: Freestyle Moonwalker (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039005.png

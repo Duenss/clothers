@@ -1,0 +1,8 @@
+ITEM ID: 904034002
+ICON ID: Icon_Bag_Cyberwasp
+NOMBRE: Backpack - Wasp Danger
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034002.png

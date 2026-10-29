@@ -1,0 +1,8 @@
+ITEM ID: 400000670
+ICON ID: Icon_box_newplayer
+NOMBRE: Clothing Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400000670.png

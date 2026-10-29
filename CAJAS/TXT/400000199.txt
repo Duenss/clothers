@@ -1,0 +1,8 @@
+ITEM ID: 400000199
+ICON ID: Icon_box_special
+NOMBRE: proclamation of the republic in Brazil
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: box to commemorate the proclamation of the republic in Brazil
+IMAGEN: CAJAS/imagenes/400000199.png

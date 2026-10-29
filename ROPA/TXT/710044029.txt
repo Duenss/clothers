@@ -1,0 +1,8 @@
+ITEM ID: 710044029
+ICON ID: Icon_bundle_Carnivorous_44
+NOMBRE: USP-2 Poison Teeth Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710044029.png

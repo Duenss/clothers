@@ -1,0 +1,8 @@
+ITEM ID: 400000333
+ICON ID: Icon_box_3
+NOMBRE: BR PRO League box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Support your favorite team in BR Pro League and receive bonus rewards
+IMAGEN: ROPA/imagenes/400000333.png

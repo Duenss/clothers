@@ -1,0 +1,8 @@
+ITEM ID: 907104603
+ICON ID: Icon_M1917_Pinata
+NOMBRE: M1917 - Horsin' Holiday
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104603.png

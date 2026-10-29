@@ -1,0 +1,8 @@
+ITEM ID: 407103103
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Phoenix Knight (Mini Uzi + AUG) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Open to receive a random gun skin (Mini Uzi + AUG) from the Phoenix Knight weapon set
+IMAGEN: ARMAS/imagenes/407103103.png

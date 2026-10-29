@@ -1,0 +1,8 @@
+ITEM ID: 907103418
+ICON ID: Icon_M24_Monster
+NOMBRE: M24 - Violet Fear
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103418.png

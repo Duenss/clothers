@@ -1,0 +1,8 @@
+ITEM ID: 400029038
+ICON ID: Icon_box_3
+NOMBRE: Top Fashion Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Common use
+IMAGEN: ROPA/imagenes/400029038.png

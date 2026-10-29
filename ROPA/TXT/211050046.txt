@@ -1,0 +1,8 @@
+ITEM ID: 211050046
+ICON ID: Icon_avatar_male_cos_hair_boatdance
+NOMBRE: Traditional Boat Race Outfit (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050046.png

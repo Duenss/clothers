@@ -1,0 +1,8 @@
+ITEM ID: 907105417
+ICON ID: Icon_G36_Rank52
+NOMBRE: G36 - S52 Exclusive: Baa Baa
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105417.png

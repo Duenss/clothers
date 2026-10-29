@@ -1,0 +1,8 @@
+ITEM ID: 801000332
+ICON ID: Icon_exchange_ind_chocolate_white
+NOMBRE: Valentine's Love Chocolate - White
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A symbol of love
+IMAGEN: CAJAS/imagenes/801000332.png

@@ -1,0 +1,8 @@
+ITEM ID: 204051017
+ICON ID: Icon_avatar_male_cos_bottom_stylish
+NOMBRE: Fashion Monster (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051017.png

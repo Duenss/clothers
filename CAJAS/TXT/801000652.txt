@@ -1,0 +1,8 @@
+ITEM ID: 801000652
+ICON ID: Icon_exchange_ob24_Party_Animal
+NOMBRE: Party Animal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000652.png

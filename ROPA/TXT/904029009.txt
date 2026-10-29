@@ -1,0 +1,8 @@
+ITEM ID: 904029009
+ICON ID: Icon_Bag_Asianoni
+NOMBRE: Backpack - Demonic Grin
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029009.png

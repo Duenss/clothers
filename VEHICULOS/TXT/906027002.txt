@@ -1,0 +1,8 @@
+ITEM ID: 906027002
+ICON ID: Icon_Avatar_Surfboard_Horrorcircus
+NOMBRE: Skyboard - Torment Throttle
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906027002.png

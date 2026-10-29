@@ -1,0 +1,8 @@
+ITEM ID: 907103305
+ICON ID: Icon_Katana_Brokenkatana
+NOMBRE: Katana - Spirit Unbroken
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103305.png

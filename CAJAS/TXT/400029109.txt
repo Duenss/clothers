@@ -1,0 +1,8 @@
+ITEM ID: 400029109
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Anniversary Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Choosing is a celebration
+IMAGEN: CAJAS/imagenes/400029109.png

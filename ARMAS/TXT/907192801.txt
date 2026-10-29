@@ -1,0 +1,8 @@
+ITEM ID: 907192801
+ICON ID: Icon_XM8_Thunder1
+NOMBRE: XM8 - Destiny Guardian
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907192801.png

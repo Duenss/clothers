@@ -1,0 +1,8 @@
+ITEM ID: 710000490
+ICON ID: Icon_box_3
+NOMBRE: 7D Gear Set
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Gear up with multiple weapon skins and a set of costume for 7 days
+IMAGEN: ROPA/imagenes/710000490.png

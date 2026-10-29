@@ -1,0 +1,8 @@
+ITEM ID: 400030083
+ICON ID: Icon_face_male_sc_MuertoGuy
+NOMBRE: Otho's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Open to receive Memory Fragment (Otho)
+IMAGEN: CAJAS/imagenes/400030083.png

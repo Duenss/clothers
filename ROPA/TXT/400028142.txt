@@ -1,0 +1,8 @@
+ITEM ID: 400028142
+ICON ID: Icon_box_3
+NOMBRE: Perfect Matryoshka Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Box Made in CIS
+IMAGEN: ROPA/imagenes/400028142.png

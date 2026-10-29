@@ -1,0 +1,8 @@
+ITEM ID: 908055004
+ICON ID: Icon_slot_Jeep_Halloween26
+NOMBRE: Jeep - Axed Escape
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908055004.png

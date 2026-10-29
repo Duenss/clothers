@@ -1,0 +1,8 @@
+ITEM ID: 203001349
+ICON ID: Icon_avatar_male_cos_top_luchalibre2_a
+NOMBRE: The Great Champ
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001349.png

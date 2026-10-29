@@ -1,0 +1,8 @@
+ITEM ID: 710030022
+ICON ID: Icon_bundle_male_Chinatown_30
+NOMBRE: Dragon Master Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710030022.png

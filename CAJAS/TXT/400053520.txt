@@ -1,0 +1,8 @@
+ITEM ID: 400053520
+ICON ID: Icon_box_vipb3_ME_53
+NOMBRE: VIP Box 3
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053520.png

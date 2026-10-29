@@ -1,0 +1,8 @@
+ITEM ID: 905028006
+ICON ID: Icon_Avatar_PARACHUTE_Supercar
+NOMBRE: Parachute - McLaren Racing
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905028006.png

@@ -1,0 +1,8 @@
+ITEM ID: 400026205
+ICON ID: Icon_box_3
+NOMBRE: Lv. 3 Fighter rewards
+TIPO: Bundle Create
+RAREZA: WHITE (Common)
+TAG: OB26
+DESCRIPCION: K.O. Night Rewards Lv. 3
+IMAGEN: ROPA/imagenes/400026205.png

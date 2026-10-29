@@ -1,0 +1,8 @@
+ITEM ID: 903032009
+ICON ID: Icon_Deadloot_Steamwarrior
+NOMBRE: Loot Box - Genius Skull
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903032009.png

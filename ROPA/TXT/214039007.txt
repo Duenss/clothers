@@ -1,0 +1,8 @@
+ITEM ID: 214039007
+ICON ID: Icon_avatar_male_cos_headadditive_raiden
+NOMBRE: Thunder Raider (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214039007.png

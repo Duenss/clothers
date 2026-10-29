@@ -1,0 +1,8 @@
+ITEM ID: 902040009
+ICON ID: Icon_face_Festivalme_22
+NOMBRE: Bunny Leader Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040009.png

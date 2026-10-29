@@ -1,0 +1,8 @@
+ITEM ID: 203051040
+ICON ID: Icon_avatar_cos_top_ffws25_09
+NOMBRE: RRQ KAZU Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051040.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104340
+ICON ID: Icon_Asura_Grenade
+NOMBRE: Grenade - Wrathful Storm
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104340.png

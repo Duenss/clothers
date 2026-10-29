@@ -1,0 +1,8 @@
+ITEM ID: 400050030
+ICON ID: Icon_box_2nbsys_3_50
+NOMBRE: Great Ninja Crate
+TIPO: Loot Crates
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050030.png

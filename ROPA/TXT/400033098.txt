@@ -1,0 +1,8 @@
+ITEM ID: 400033098
+ICON ID: Icon_box_3
+NOMBRE: Radiant Ramadan Choice Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Choose Wisely
+IMAGEN: ROPA/imagenes/400033098.png

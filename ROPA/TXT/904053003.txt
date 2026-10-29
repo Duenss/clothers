@@ -1,0 +1,8 @@
+ITEM ID: 904053003
+ICON ID: Icon_Bag_Magical
+NOMBRE: Backpack - Sweetheart Flutter
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053003.png

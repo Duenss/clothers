@@ -1,0 +1,8 @@
+ITEM ID: 903042002
+ICON ID: Icon_Deadloot_Voltage
+NOMBRE: Loot Box - Electric Spitter
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903042002.png

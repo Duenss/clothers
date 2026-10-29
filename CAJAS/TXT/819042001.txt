@@ -1,0 +1,8 @@
+ITEM ID: 819042001
+ICON ID: FF_UI_VFX_Watcher_02
+NOMBRE: Knocking Down or Elimination Effect (Galactic Odyssey)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: Special effects when knocking down or eliminating an enemy while wearing the Galactic Odyssey themed top.
+IMAGEN: CAJAS/imagenes/819042001.png

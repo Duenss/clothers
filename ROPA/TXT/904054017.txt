@@ -1,0 +1,8 @@
+ITEM ID: 904054017
+ICON ID: Icon_Bag_Inf
+NOMBRE: Backpack - Infinix Exclusive
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904054017.png

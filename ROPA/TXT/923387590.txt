@@ -1,0 +1,8 @@
+ITEM ID: 923387590
+ICON ID: Icon_box_3
+NOMBRE: Jiraiya Top
+TIPO: Bundle Create
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: Jiraiya Top
+IMAGEN: ROPA/imagenes/923387590.png

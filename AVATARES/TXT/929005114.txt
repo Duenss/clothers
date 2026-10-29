@@ -1,0 +1,8 @@
+ITEM ID: 929005114
+ICON ID: Icon_Photostickeritem_FFWS_02
+NOMBRE: FFWS Booyah Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: FFWS Booyah Sticker
+IMAGEN: AVATARES/imagenes/929005114.png

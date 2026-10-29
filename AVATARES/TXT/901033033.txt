@@ -1,0 +1,8 @@
+ITEM ID: 901033033
+ICON ID: Icon_callsign_storebg_LoneWolf01_04
+NOMBRE: LW Ranked Season 1 Diamond Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901033033.png

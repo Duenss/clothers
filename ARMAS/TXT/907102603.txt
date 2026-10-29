@@ -1,0 +1,8 @@
+ITEM ID: 907102603
+ICON ID: Icon_Baseballbat_Alicehatter
+NOMBRE: Bat - Willful Swing
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102603.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000973
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: CIS Fest 2 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Token Made in CIS
+IMAGEN: CAJAS/imagenes/801000973.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000044
+ICON ID: Icon_StoreSocks
+NOMBRE: Socks
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000044.png

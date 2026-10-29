@@ -1,0 +1,8 @@
+ITEM ID: 400046093
+ICON ID: Icon_box_BooyahDay_Box2_46
+NOMBRE: Booyah Olive Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046093.png

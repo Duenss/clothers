@@ -1,0 +1,8 @@
+ITEM ID: 211000735
+ICON ID: Icon_avatar_male_hair_cos_richboxer
+NOMBRE: King Boxer (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000735.png

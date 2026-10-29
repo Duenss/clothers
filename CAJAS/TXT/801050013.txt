@@ -1,0 +1,8 @@
+ITEM ID: 801050013
+ICON ID: Icon_exchange_ntwut_50
+NOMBRE: Naruto Universal Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050013.png

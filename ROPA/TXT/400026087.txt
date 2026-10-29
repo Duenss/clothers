@@ -1,0 +1,8 @@
+ITEM ID: 400026087
+ICON ID: Icon_box_3
+NOMBRE: Booyah Melee Weapons Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Contains Booyah Melee Weapons series
+IMAGEN: ROPA/imagenes/400026087.png

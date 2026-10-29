@@ -1,0 +1,8 @@
+ITEM ID: 203000427
+ICON ID: Icon_avatar_top_cos_gold_s9
+NOMBRE: Season 9 Gold Shirt
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000427.png

@@ -1,0 +1,8 @@
+ITEM ID: 211049042
+ICON ID: Icon_avatar_cos_hair_vn_oceanhair03
+NOMBRE: Jawsome (Head) Lv. 4
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049042.png

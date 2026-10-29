@@ -1,0 +1,8 @@
+ITEM ID: 907105446
+ICON ID: Icon_Bloodmoon26_Grenade
+NOMBRE: Grenade - Scarlet Wrath
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105446.png

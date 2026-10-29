@@ -1,0 +1,8 @@
+ITEM ID: 907103934
+ICON ID: Icon_Pan_Waterfest23
+NOMBRE: Pan - Tidal Waves
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103934.png

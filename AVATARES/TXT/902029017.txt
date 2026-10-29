@@ -1,0 +1,8 @@
+ITEM ID: 902029017
+ICON ID: Icon_face_CSRank_New
+NOMBRE: CS Ranked Heroic
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029017.png

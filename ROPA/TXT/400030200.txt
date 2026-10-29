@@ -1,0 +1,8 @@
+ITEM ID: 400030200
+ICON ID: Icon_box_3
+NOMBRE: Leon Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Character Leon and many other rewards
+IMAGEN: ROPA/imagenes/400030200.png

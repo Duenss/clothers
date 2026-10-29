@@ -1,0 +1,8 @@
+ITEM ID: 801000628
+ICON ID: Icon_exchange_ob24_Diwali_Token
+NOMBRE: Diwali Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Celebrate Diwali together!
+IMAGEN: CAJAS/imagenes/801000628.png

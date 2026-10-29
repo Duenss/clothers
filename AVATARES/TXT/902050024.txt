@@ -1,0 +1,8 @@
+ITEM ID: 902050024
+ICON ID: Icon_face_SL_White
+NOMBRE: Dai Mubai Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902050024.png

@@ -1,0 +1,8 @@
+ITEM ID: 912037004
+ICON ID: Icon_GroupAnim_Soccer22
+NOMBRE: Knee Slide
+TIPO: Arrival Animation
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912037004.png

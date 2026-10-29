@@ -1,0 +1,8 @@
+ITEM ID: 801000265
+ICON ID: Icon_exchange_Icefestival_Gift
+NOMBRE: Winterlands Gift
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Celebrate Winterlands 2019!
+IMAGEN: CAJAS/imagenes/801000265.png

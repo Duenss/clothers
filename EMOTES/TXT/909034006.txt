@@ -1,0 +1,8 @@
+ITEM ID: 909034006
+ICON ID: Icon_Emote_BIS_Waggor
+NOMBRE: Tease Waggor
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909034006.png

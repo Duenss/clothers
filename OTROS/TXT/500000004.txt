@@ -1,0 +1,8 @@
+ITEM ID: 500000004
+ICON ID: Icon_NewLoadout_TacticalStore
+NOMBRE: Tactical Market
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Tactical Market loadout has different effects in BR and CS
+IMAGEN: OTROS/imagenes/500000004.png

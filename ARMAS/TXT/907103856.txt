@@ -1,0 +1,8 @@
+ITEM ID: 907103856
+ICON ID: Icon_Grenade_Kitchen
+NOMBRE: Grenade - Mayhem Café
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103856.png

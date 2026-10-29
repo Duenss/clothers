@@ -1,0 +1,8 @@
+ITEM ID: 926005305
+ICON ID: Icon_PhotoFrameitem_GB_Sys
+NOMBRE: Football Frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Football Frame
+IMAGEN: AVATARES/imagenes/926005305.png

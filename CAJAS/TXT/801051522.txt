@@ -1,0 +1,8 @@
+ITEM ID: 801051522
+ICON ID: Icon_exchange_htct_th_51
+NOMBRE: HEARTROCKER Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051522.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101411
+ICON ID: Icon_SCAR_Shark
+NOMBRE: SCAR - Shark Attack
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101411.png

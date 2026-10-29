@@ -1,0 +1,8 @@
+ITEM ID: 913054001
+ICON ID: FF_UI_Vault_Music_Luchalibre2026
+NOMBRE: Booyahka
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: AAA collab theme song
+IMAGEN: MUSICA/imagenes/913054001.png

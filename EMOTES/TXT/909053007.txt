@@ -1,0 +1,8 @@
+ITEM ID: 909053007
+ICON ID: Icon_Emote_Worldcup25_Classic
+NOMBRE: Keepie Uppie
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909053007.png

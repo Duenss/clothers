@@ -1,0 +1,8 @@
+ITEM ID: 913039009
+ICON ID: FF_UI_Vault_Music_3rdAnniversary
+NOMBRE: 3rd Anniversary
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Lobby music of 3rd Anniversary
+IMAGEN: MUSICA/imagenes/913039009.png

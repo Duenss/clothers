@@ -1,0 +1,8 @@
+ITEM ID: 211048009
+ICON ID: Icon_avatar_male_cos_hair_cityhero_blue
+NOMBRE: Midnight Vanguard (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048009.png

@@ -1,0 +1,8 @@
+ITEM ID: 102000041
+ICON ID: Icon_face_male_head_sc_Villain
+NOMBRE: Orion
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Orion is a former mercenary who underwent a biological transformation and obtained a formidable power.
+IMAGEN: PERSONAJES/imagenes/102000041.png

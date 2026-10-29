@@ -1,0 +1,8 @@
+ITEM ID: 1315000004
+ICON ID: FF_UI_Pet_Healing_Skill
+NOMBRE: Well Fed
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Restore extra HP when using a Med Kit
+IMAGEN: MASCOTAS/imagenes/1315000004.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102521
+ICON ID: Icon_M4A1_FFChar_S20
+NOMBRE: M4A1 - S19 Exclusive: Kelly "the Swift"
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102521.png

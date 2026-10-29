@@ -1,0 +1,8 @@
+ITEM ID: 907105551
+ICON ID: Icon_Scorpio26_Grenade
+NOMBRE: Grenade - Scorpio Shock
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105551.png

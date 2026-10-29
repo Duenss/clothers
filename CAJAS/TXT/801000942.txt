@@ -1,0 +1,8 @@
+ITEM ID: 801000942
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion Q Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Quest to become a legend...
+IMAGEN: CAJAS/imagenes/801000942.png

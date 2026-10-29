@@ -1,0 +1,8 @@
+ITEM ID: 910038007
+ICON ID: Pin_Small_VN_Playoffs2
+NOMBRE: Trophy Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910038007.png

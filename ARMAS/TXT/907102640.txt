@@ -1,0 +1,8 @@
+ITEM ID: 907102640
+ICON ID: Icon_GlooShield_Cobra
+NOMBRE: Gloo Wall - Cobra Strike
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102640.png

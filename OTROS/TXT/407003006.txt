@@ -1,0 +1,8 @@
+ITEM ID: 407003006
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Infiltrated Red Heal Sniper Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin (Heal Sniper) from the Infiltrated Red weapon set
+IMAGEN: OTROS/imagenes/407003006.png

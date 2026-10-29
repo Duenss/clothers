@@ -1,0 +1,8 @@
+ITEM ID: 211001182
+ICON ID: Icon_avatar_cos_accessory_sugarskull21_bandana
+NOMBRE: Death Bite Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001182.png

@@ -1,0 +1,8 @@
+ITEM ID: 204033034
+ICON ID: Icon_avatar_male_cos_bottom_trwarrior
+NOMBRE: Antiquated Warrior (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033034.png

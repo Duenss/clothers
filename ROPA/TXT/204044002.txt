@@ -1,0 +1,8 @@
+ITEM ID: 204044002
+ICON ID: Icon_avatar_male_cos_bottom_fragment
+NOMBRE: Dawnbreaker (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044002.png

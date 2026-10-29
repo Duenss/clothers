@@ -1,0 +1,8 @@
+ITEM ID: 700000001
+ICON ID: FF_Icon_FounderPackage
+NOMBRE: Founders' Package
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Galaxy Jacket, a pair of Swifts, Diamond Parachute and other items
+IMAGEN: ROPA/imagenes/700000001.png

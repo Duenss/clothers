@@ -1,0 +1,8 @@
+ITEM ID: 400000370
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M1014 Cataclysm Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin from the M1014 Cataclysm set.
+IMAGEN: CAJAS/imagenes/400000370.png

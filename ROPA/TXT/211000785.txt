@@ -1,0 +1,8 @@
+ITEM ID: 211000785
+ICON ID: Icon_avatar_accessory_cos_sunglasses
+NOMBRE: Ray Stopper
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000785.png

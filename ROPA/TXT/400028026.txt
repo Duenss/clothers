@@ -1,0 +1,8 @@
+ITEM ID: 400028026
+ICON ID: Icon_box_3
+NOMBRE: Pet Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open up to get amazing rewards
+IMAGEN: ROPA/imagenes/400028026.png

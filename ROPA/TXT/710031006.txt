@@ -1,0 +1,8 @@
+ITEM ID: 710031006
+ICON ID: Icon_bundle_Reggaeton_B_31
+NOMBRE: Everything Goes Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB31
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710031006.png

@@ -1,0 +1,8 @@
+ITEM ID: 204033044
+ICON ID: Icon_avatar_male_cos_bottom_boyband_black
+NOMBRE: Soldier Nightmare (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033044.png

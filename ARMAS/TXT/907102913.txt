@@ -1,0 +1,8 @@
+ITEM ID: 907102913
+ICON ID: Icon_MP5_Lava_Green
+NOMBRE: MP5 - Jungle Lava
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102913.png

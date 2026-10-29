@@ -1,0 +1,8 @@
+ITEM ID: 211054049
+ICON ID: Icon_avatar_cos_accessory_TH_Strawberry
+NOMBRE: Sassy Strawberry (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054049.png

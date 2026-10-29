@@ -1,0 +1,8 @@
+ITEM ID: 400000106
+ICON ID: Icon_box_3
+NOMBRE: Ace Shooter Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin for the selected gun. (Permanent or trial card)
+IMAGEN: ROPA/imagenes/400000106.png

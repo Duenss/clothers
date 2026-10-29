@@ -1,0 +1,8 @@
+ITEM ID: 910033002
+ICON ID: Pin_Small_Fastbreaking22
+NOMBRE: Bloom of Luck
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910033002.png

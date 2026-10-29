@@ -1,0 +1,8 @@
+ITEM ID: 204053027
+ICON ID: Icon_avatar_cos_bottom_br_soccer_yellow
+NOMBRE: Brazil 2026 Home Jersey (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053027.png

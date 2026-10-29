@@ -1,0 +1,8 @@
+ITEM ID: 913034008
+ICON ID: FF_UI_Vault_Music_MUSG
+NOMBRE: Light Of The World
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Theme of Free Fire Untuk Semua Hobi in collaboration with Ismail Izzani
+IMAGEN: MUSICA/imagenes/913034008.png

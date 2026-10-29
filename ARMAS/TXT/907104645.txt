@@ -1,0 +1,8 @@
+ITEM ID: 907104645
+ICON ID: Icon_GlooShield_Sushi24
+NOMBRE: Gloo Wall - Wrap in Style
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104645.png

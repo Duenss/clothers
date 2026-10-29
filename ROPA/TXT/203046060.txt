@@ -1,0 +1,8 @@
+ITEM ID: 203046060
+ICON ID: Icon_avatar_male_cos_top_fb_black
+NOMBRE: Isagi - Team Z (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046060.png

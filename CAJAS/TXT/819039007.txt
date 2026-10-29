@@ -1,0 +1,8 @@
+ITEM ID: 819039007
+ICON ID: FF_UI_VFX_Rollerskating_P_01
+NOMBRE: Knocking Down or Elimination Effect (Neon Drifterz)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Special effects when knocking down or eliminating an enemy when wearing Neon Drifterz themed top.
+IMAGEN: CAJAS/imagenes/819039007.png

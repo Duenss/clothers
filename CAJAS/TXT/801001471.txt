@@ -1,0 +1,8 @@
+ITEM ID: 801001471
+ICON ID: Icon_box_newplayer
+NOMBRE: Green Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Green Pieces to unlock the Green Card
+IMAGEN: CAJAS/imagenes/801001471.png

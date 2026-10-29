@@ -1,0 +1,8 @@
+ITEM ID: 840006000
+ICON ID: UI_NoDeductCard03_CS
+NOMBRE: CS Rank Protection Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Protects you from the rank drop if your next CS-Ranked match results in a rank drop.
+IMAGEN: OTROS/imagenes/840006000.png

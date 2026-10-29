@@ -1,0 +1,8 @@
+ITEM ID: 211043024
+ICON ID: Icon_avatar_male_cos_hair_aprilfool24
+NOMBRE: Emperor's New Clothes (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043024.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102707
+ICON ID: Icon_Baseballbat_Boxer
+NOMBRE: Bat - Knockout Swing
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102707.png

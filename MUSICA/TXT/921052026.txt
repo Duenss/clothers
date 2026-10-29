@@ -1,0 +1,8 @@
+ITEM ID: 921052026
+ICON ID: FF_UI_Voiceitem_Carni25
+NOMBRE: Boom, they're out of the room!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Beat Carnival Voice Pack
+IMAGEN: MUSICA/imagenes/921052026.png

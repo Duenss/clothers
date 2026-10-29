@@ -1,0 +1,8 @@
+ITEM ID: 170046100
+ICON ID: Icon_box_FFWS_Box1_46_Hotfix
+NOMBRE: FFWS 2024 GF Team Avatar Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170046100.png

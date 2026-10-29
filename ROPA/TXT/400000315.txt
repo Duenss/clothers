@@ -1,0 +1,8 @@
+ITEM ID: 400000315
+ICON ID: Icon_box_3
+NOMBRE: Cricket League Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Support your favourite team in the cricket league!
+IMAGEN: ROPA/imagenes/400000315.png

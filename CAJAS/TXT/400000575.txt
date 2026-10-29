@@ -1,0 +1,8 @@
+ITEM ID: 400000575
+ICON ID: Icon_box_id_shiba
+NOMBRE: Shiba Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400000575.png

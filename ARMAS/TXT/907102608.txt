@@ -1,0 +1,8 @@
+ITEM ID: 907102608
+ICON ID: Icon_Pan_Cobra
+NOMBRE: Pan - King Cobra
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102608.png

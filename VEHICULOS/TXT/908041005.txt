@@ -1,0 +1,8 @@
+ITEM ID: 908041005
+ICON ID: Icon_slot_Motobike_Sugarskull23
+NOMBRE: Motorbike - Speed of Memory
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908041005.png

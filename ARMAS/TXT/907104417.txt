@@ -1,0 +1,8 @@
+ITEM ID: 907104417
+ICON ID: Icon_Pan_Grill
+NOMBRE: Pan - Grilled Fish
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104417.png

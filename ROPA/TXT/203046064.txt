@@ -1,0 +1,8 @@
+ITEM ID: 203046064
+ICON ID: Icon_avatar_male_cos_top_fb_white02
+NOMBRE: Nagi - Team White (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046064.png

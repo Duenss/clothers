@@ -1,0 +1,8 @@
+ITEM ID: 400000998
+ICON ID: Icon_box_3
+NOMBRE: Mr. Waggor Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Mr. Waggor and many other rewards
+IMAGEN: ROPA/imagenes/400000998.png

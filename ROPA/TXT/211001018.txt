@@ -1,0 +1,8 @@
+ITEM ID: 211001018
+ICON ID: Icon_avatar_accessory_cos_supercar
+NOMBRE: McLaren Racing Helmet
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001018.png

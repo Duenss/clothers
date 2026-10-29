@@ -1,0 +1,8 @@
+ITEM ID: 907103150
+ICON ID: Icon_GlooShield_RUmusician
+NOMBRE: Gloo Wall - Imprinted Trap
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103150.png

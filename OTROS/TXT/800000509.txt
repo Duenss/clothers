@@ -1,0 +1,8 @@
+ITEM ID: 800000509
+ICON ID: Icon_WSM_M4A1_Flamedragon
+NOMBRE: M4A1 - Infernal Draco Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the M4A1 skin. Obtained from events or buy directly from the store
+IMAGEN: OTROS/imagenes/800000509.png

@@ -1,0 +1,8 @@
+ITEM ID: 400029090
+ICON ID: Icon_box_3
+NOMBRE: Lethal Finstooth Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Contains Lethal Finstooth Bundle and all of its pieces
+IMAGEN: ROPA/imagenes/400029090.png

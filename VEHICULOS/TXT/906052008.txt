@@ -1,0 +1,8 @@
+ITEM ID: 906052008
+ICON ID: Icon_Avatar_Surfboard_Eggday26
+NOMBRE: Skyboard - Sea Kelp
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906052008.png

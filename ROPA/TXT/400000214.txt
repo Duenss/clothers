@@ -1,0 +1,8 @@
+ITEM ID: 400000214
+ICON ID: Icon_box_3
+NOMBRE: Winter's Blessings Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this box to have a chance to get a phone token.
+IMAGEN: ROPA/imagenes/400000214.png

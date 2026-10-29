@@ -1,0 +1,8 @@
+ITEM ID: 204000755
+ICON ID: Icon_avatar_male_bottom_cos_whiteshark_a
+NOMBRE: Lethal Swordtail (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000755.png

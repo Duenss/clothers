@@ -1,0 +1,8 @@
+ITEM ID: 203055016
+ICON ID: Icon_avatar_female_cos_top_sugarskull26
+NOMBRE: Phantom Bride (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055016.png

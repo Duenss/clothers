@@ -1,0 +1,8 @@
+ITEM ID: 211033047
+ICON ID: Icon_avatar_male_cos_hair_boyband_purple
+NOMBRE: Deceptive Fearless (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033047.png

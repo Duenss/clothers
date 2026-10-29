@@ -1,0 +1,8 @@
+ITEM ID: 907103206
+ICON ID: Icon_Groza_Hurricane_ASIA
+NOMBRE: Groza - Jewel Mystified
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103206.png

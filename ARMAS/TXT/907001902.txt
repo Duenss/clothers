@@ -1,0 +1,8 @@
+ITEM ID: 907001902
+ICON ID: Icon_Groza_Traphiphop
+NOMBRE: Groza - Swagger Ownage
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001902.png

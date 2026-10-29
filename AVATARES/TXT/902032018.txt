@@ -1,0 +1,8 @@
+ITEM ID: 902032018
+ICON ID: Icon_face_Cup_06
+NOMBRE: CS Cup Avatar VI
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902032018.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101442
+ICON ID: Icon_M14_Jaguar
+NOMBRE: M14 - Deadly Panther
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101442.png

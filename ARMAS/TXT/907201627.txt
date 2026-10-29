@@ -1,0 +1,8 @@
+ITEM ID: 907201627
+ICON ID: Icon_M79_Llenn
+NOMBRE: M79 - Pink Devil
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201627.png

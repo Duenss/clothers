@@ -1,0 +1,8 @@
+ITEM ID: 203042024
+ICON ID: Icon_avatar_male_cos_top_vocational
+NOMBRE: Mechanic Masterplan (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042024.png

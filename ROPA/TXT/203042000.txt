@@ -1,0 +1,8 @@
+ITEM ID: 203042000
+ICON ID: Icon_avatar_male_cos_top_voltage
+NOMBRE: Electro Pulse (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042000.png

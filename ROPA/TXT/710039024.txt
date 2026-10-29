@@ -1,0 +1,8 @@
+ITEM ID: 710039024
+ICON ID: Icon_bundle_Pineapple_39
+NOMBRE: Pineapple Spree Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710039024.png

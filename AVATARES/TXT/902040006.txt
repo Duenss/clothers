@@ -1,0 +1,8 @@
+ITEM ID: 902040006
+ICON ID: Icon_face_Nanoscientist_Q
+NOMBRE: Sonia Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040006.png

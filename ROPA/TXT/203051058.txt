@@ -1,0 +1,8 @@
+ITEM ID: 203051058
+ICON ID: Icon_avatar_male_cos_top_traditional_bd
+NOMBRE: Sunlit Weaves (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051058.png

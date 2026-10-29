@@ -1,0 +1,8 @@
+ITEM ID: 205051032
+ICON ID: Icon_avatar_male_cos_shoe_traditional_bd
+NOMBRE: Sunlit Weaves (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051032.png

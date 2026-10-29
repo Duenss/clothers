@@ -1,0 +1,8 @@
+ITEM ID: 211037067
+ICON ID: Icon_avatar_female_cos_hair_syntheticangel_02
+NOMBRE: Divine Victor (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037067.png

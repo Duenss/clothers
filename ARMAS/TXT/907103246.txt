@@ -1,0 +1,8 @@
+ITEM ID: 907103246
+ICON ID: Icon_GlooShield_VNnewyear
+NOMBRE: Gloo Wall - Festive Growl
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103246.png

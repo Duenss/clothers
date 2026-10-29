@@ -1,0 +1,8 @@
+ITEM ID: 905027006
+ICON ID: Icon_Avatar_PARACHUTE_Fastbreaking
+NOMBRE: Parachute - Jade Sky
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905027006.png

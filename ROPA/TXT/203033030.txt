@@ -1,0 +1,8 @@
+ITEM ID: 203033030
+ICON ID: Icon_avatar_male_cos_top_lion_red
+NOMBRE: Bonebruiser Scorch (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033030.png

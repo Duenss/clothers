@@ -1,0 +1,8 @@
+ITEM ID: 801001053
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: King of the Street Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Boom! Boom! Bass...
+IMAGEN: CAJAS/imagenes/801001053.png

@@ -1,0 +1,8 @@
+ITEM ID: 204055015
+ICON ID: Icon_avatar_male_cos_bottom_sugarskull26
+NOMBRE: Phantom Desperado (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055015.png

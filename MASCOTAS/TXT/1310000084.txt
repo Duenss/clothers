@@ -1,0 +1,8 @@
+ITEM ID: 1310000084
+ICON ID: Icon_Pet_Purpleotter
+NOMBRE: Pet Skin: Neon Ottero
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Check out its flashy dance moves
+IMAGEN: MASCOTAS/imagenes/1310000084.png

@@ -1,0 +1,8 @@
+ITEM ID: 214047003
+ICON ID: Icon_avatar_male_cos_headadditive_winterfest25
+NOMBRE: Frosty Furry (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214047003.png

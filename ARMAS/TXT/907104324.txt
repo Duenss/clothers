@@ -1,0 +1,8 @@
+ITEM ID: 907104324
+ICON ID: Icon_Sickle_Fighter
+NOMBRE: Scythe - Incarnation
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104324.png

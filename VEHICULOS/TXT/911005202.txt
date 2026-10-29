@@ -1,0 +1,8 @@
+ITEM ID: 911005202
+ICON ID: Icon_Mounts_Fastbreaking_Treasure_02_A
+NOMBRE: Ruby Legend
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911005202.png

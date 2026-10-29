@@ -1,0 +1,8 @@
+ITEM ID: 928005305
+ICON ID: Icon_GroupPhoto_Waterfest26_01_icon
+NOMBRE: Water Fight!
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Water Fight!
+IMAGEN: AVATARES/imagenes/928005305.png

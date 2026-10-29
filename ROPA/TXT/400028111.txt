@@ -1,0 +1,8 @@
+ITEM ID: 400028111
+ICON ID: Icon_box_3
+NOMBRE: Booyah Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: What could possibly be in it
+IMAGEN: ROPA/imagenes/400028111.png

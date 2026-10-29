@@ -1,0 +1,8 @@
+ITEM ID: 923053001
+ICON ID: Icon_Finalshot_Eclipse
+NOMBRE: Final Shot - Total Eclipse
+TIPO: Final Shot
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: Comes with a special sky effect, final shot, and wipeout effect. Applies to all skins.
+IMAGEN: EMOTES/imagenes/923053001.png

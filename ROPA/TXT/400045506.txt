@@ -1,0 +1,8 @@
+ITEM ID: 400045506
+ICON ID: Icon_box_3
+NOMBRE: Remembrance Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400045506.png

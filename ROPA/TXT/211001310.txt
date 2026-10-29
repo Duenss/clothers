@@ -1,0 +1,8 @@
+ITEM ID: 211001310
+ICON ID: Icon_avatar_cos_hair_colorfest
+NOMBRE: Funky Knight
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001310.png

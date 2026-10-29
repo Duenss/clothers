@@ -1,0 +1,8 @@
+ITEM ID: 710035052
+ICON ID: Icon_box_3
+NOMBRE: Deep Sea Warriors Badge Bundle (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains Deep Sea Warriors Badge x10
+IMAGEN: ROPA/imagenes/710035052.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102414
+ICON ID: Icon_M4A1_Futuristiccity
+NOMBRE: M4A1 - FFCS
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102414.png

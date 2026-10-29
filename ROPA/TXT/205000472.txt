@@ -1,0 +1,8 @@
+ITEM ID: 205000472
+ICON ID: Icon_avatar_female_sc_Detective_shoe
+NOMBRE: Private Eye (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000472.png

@@ -1,0 +1,8 @@
+ITEM ID: 902034013
+ICON ID: Icon_face_CSRank13_05
+NOMBRE: CS-Ranked S13 Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034013.png

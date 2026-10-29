@@ -1,0 +1,8 @@
+ITEM ID: 203001086
+ICON ID: Icon_avatar_top_cos_shinobi_red
+NOMBRE: Killspark Lava (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001086.png

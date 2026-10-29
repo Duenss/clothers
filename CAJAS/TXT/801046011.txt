@@ -1,0 +1,8 @@
+ITEM ID: 801046011
+ICON ID: Icon_exchange_Winterlands3_47
+NOMBRE: Ice Crystal
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046011.png

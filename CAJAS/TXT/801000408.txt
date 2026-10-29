@@ -1,0 +1,8 @@
+ITEM ID: 801000408
+ICON ID: Icon_exchange_lipstick
+NOMBRE: Mother's Day
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Mom, I love you!
+IMAGEN: CAJAS/imagenes/801000408.png

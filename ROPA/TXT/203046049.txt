@@ -1,0 +1,8 @@
+ITEM ID: 203046049
+ICON ID: Icon_avatar_cos_top_ffws_sf12
+NOMBRE: FFWS 2024 GF - EVOS Divine (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046049.png

@@ -1,0 +1,8 @@
+ITEM ID: 500000012
+ICON ID: Icon_Loadout_Detector
+NOMBRE: Scan
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use this to scan for nearby enemies. This item has different effects in Battle Royale and Clash Squad.
+IMAGEN: OTROS/imagenes/500000012.png

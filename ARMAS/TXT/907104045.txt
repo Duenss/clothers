@@ -1,0 +1,8 @@
+ITEM ID: 907104045
+ICON ID: Icon_GlooShield_Angelik_01
+NOMBRE: Gloo Wall - Justice Glow
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104045.png

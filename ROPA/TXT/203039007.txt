@@ -1,0 +1,8 @@
+ITEM ID: 203039007
+ICON ID: Icon_avatar_male_cos_top_rollerskating_basic
+NOMBRE: Freestyle Brakes (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039007.png

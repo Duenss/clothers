@@ -1,0 +1,8 @@
+ITEM ID: 905055001
+ICON ID: Icon_Avatar_PARACHUTE_Halloween26
+NOMBRE: Parachute - The Unseen
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905055001.png

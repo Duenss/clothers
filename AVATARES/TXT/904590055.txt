@@ -1,0 +1,8 @@
+ITEM ID: 904590055
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: BR Dawnbringer
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "BR Lightbringer" achievement
+IMAGEN: AVATARES/imagenes/904590055.png

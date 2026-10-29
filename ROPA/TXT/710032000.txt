@@ -1,0 +1,8 @@
+ITEM ID: 710032000
+ICON ID: FF_NewPlayer_icon05
+NOMBRE: Newbie Gift
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: Contains the exclusive pin, avatar, and banner for Newbies. Equip to show off your swag!
+IMAGEN: ROPA/imagenes/710032000.png

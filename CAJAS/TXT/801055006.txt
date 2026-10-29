@@ -1,0 +1,8 @@
+ITEM ID: 801055006
+ICON ID: Icon_exchange_ntk7_47
+NOMBRE: Fire Scroll
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055006.png

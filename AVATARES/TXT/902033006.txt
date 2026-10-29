@@ -1,0 +1,8 @@
+ITEM ID: 902033006
+ICON ID: Icon_face_Cyberopera_FP
+NOMBRE: Death Theatre
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033006.png

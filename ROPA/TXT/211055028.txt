@@ -1,0 +1,8 @@
+ITEM ID: 211055028
+ICON ID: Icon_avatar_male_cos_accessory_flamedino
+NOMBRE: Infernosaur (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055028.png

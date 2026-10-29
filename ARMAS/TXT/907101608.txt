@@ -1,0 +1,8 @@
+ITEM ID: 907101608
+ICON ID: Icon_AWM_Hunter
+NOMBRE: AWM - Hunter's Eye
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB16
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101608.png

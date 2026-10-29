@@ -1,0 +1,8 @@
+ITEM ID: 907103416
+ICON ID: Icon_Mac10_Bloody_Evil
+NOMBRE: MAC10 - Enflamed Terror
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103416.png

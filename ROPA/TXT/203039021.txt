@@ -1,0 +1,8 @@
+ITEM ID: 203039021
+ICON ID: Icon_avatar_male_cos_top_growth
+NOMBRE: Rune Enchanter (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039021.png

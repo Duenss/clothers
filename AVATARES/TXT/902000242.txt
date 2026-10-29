@@ -1,0 +1,8 @@
+ITEM ID: 902000242
+ICON ID: Icon_face_Icefestival_B
+NOMBRE: Bliss of Winter
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000242.png

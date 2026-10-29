@@ -1,0 +1,8 @@
+ITEM ID: 1310000204
+ICON ID: Icon_Pet_Axolotl_Yellow
+NOMBRE: Pet Skin: Amber Masked Zasil
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: I can wrestle in a pet battle!
+IMAGEN: MASCOTAS/imagenes/1310000204.png

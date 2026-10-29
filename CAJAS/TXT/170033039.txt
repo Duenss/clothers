@@ -1,0 +1,8 @@
+ITEM ID: 170033039
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Shining Ramadan Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Choose Wisely
+IMAGEN: CAJAS/imagenes/170033039.png

@@ -1,0 +1,8 @@
+ITEM ID: 801044533
+ICON ID: Icon_exchange_Top_notch_fashion_th_44
+NOMBRE: Buddy Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044533.png

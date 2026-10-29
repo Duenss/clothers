@@ -1,0 +1,8 @@
+ITEM ID: 204035011
+ICON ID: Icon_avatar_female_sc_bottom_crazygirl
+NOMBRE: Deadly Sunshine (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035011.png

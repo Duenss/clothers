@@ -1,0 +1,8 @@
+ITEM ID: 205049019
+ICON ID: Icon_avatar_male_cos_shoe_academy_id
+NOMBRE: After Class (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049019.png

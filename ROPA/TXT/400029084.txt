@@ -1,0 +1,8 @@
+ITEM ID: 400029084
+ICON ID: Icon_box_3
+NOMBRE: Battle Goddess Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB29
+DESCRIPCION: Contains Battle Goddess Bundle and all of its pieces
+IMAGEN: ROPA/imagenes/400029084.png

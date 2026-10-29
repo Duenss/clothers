@@ -1,0 +1,8 @@
+ITEM ID: 907202321
+ICON ID: Icon_G18_Clashgold_s18
+NOMBRE: The Golden G18
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202321.png

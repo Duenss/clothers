@@ -1,0 +1,8 @@
+ITEM ID: 907101503
+ICON ID: Icon_UMP45_Apocalypse
+NOMBRE: UMP - Cataclysm
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101503.png

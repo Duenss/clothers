@@ -1,0 +1,8 @@
+ITEM ID: 205045012
+ICON ID: Icon_avatar_male_cos_shoe_gangster_white
+NOMBRE: Thunderous Noir (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205045012.png

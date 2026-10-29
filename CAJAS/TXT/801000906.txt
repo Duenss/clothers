@@ -1,0 +1,8 @@
+ITEM ID: 801000906
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Carton Animal Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Carton animals
+IMAGEN: CAJAS/imagenes/801000906.png

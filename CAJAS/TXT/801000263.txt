@@ -1,0 +1,8 @@
+ITEM ID: 801000263
+ICON ID: Icon_exchange_Treasure_Map
+NOMBRE: Treasure Map
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Follow your captain and you shall be rewarded!
+IMAGEN: CAJAS/imagenes/801000263.png

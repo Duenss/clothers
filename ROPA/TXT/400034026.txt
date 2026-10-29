@@ -1,0 +1,8 @@
+ITEM ID: 400034026
+ICON ID: Icon_box_3
+NOMBRE: Shell Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Look what the waves brought us!
+IMAGEN: ROPA/imagenes/400034026.png

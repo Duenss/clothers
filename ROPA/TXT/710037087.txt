@@ -1,0 +1,8 @@
+ITEM ID: 710037087
+ICON ID: Icon_box_3
+NOMBRE: Room Card Pack
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Grab this great deal and get 5 room cards!
+IMAGEN: ROPA/imagenes/710037087.png

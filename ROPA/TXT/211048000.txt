@@ -1,0 +1,8 @@
+ITEM ID: 211048000
+ICON ID: Icon_avatar_male_cos_hair_comic24
+NOMBRE: Manga Artist (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048000.png

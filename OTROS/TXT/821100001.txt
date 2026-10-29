@@ -1,0 +1,8 @@
+ITEM ID: 821100001
+ICON ID: FF_UI_CharacterSkill_SwatGuy
+NOMBRE: Jai's Microchip
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to obtain Jai's skill - Raging Reload
+IMAGEN: OTROS/imagenes/821100001.png

@@ -1,0 +1,8 @@
+ITEM ID: 904044007
+ICON ID: Icon_Bag_Festivalme_24
+NOMBRE: Backpack - Bag of Silence
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904044007.png

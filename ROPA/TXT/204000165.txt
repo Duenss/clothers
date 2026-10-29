@@ -1,0 +1,8 @@
+ITEM ID: 204000165
+ICON ID: Icon_avatar_male_bottom_cos_dayofdead
+NOMBRE: Skeleton Magician (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000165.png

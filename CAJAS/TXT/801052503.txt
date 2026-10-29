@@ -1,0 +1,8 @@
+ITEM ID: 801052503
+ICON ID: Icon_exchange_lst_vn_52
+NOMBRE: Lunar Shade Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052503.png

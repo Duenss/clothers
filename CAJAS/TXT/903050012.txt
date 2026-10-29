@@ -1,0 +1,8 @@
+ITEM ID: 903050012
+ICON ID: Icon_Deadloot_CSRank32
+NOMBRE: Loot Box - S32 Exclusive: Ash
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: CS-Ranked S32 Reward
+IMAGEN: CAJAS/imagenes/903050012.png

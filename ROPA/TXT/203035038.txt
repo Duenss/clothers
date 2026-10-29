@@ -1,0 +1,8 @@
+ITEM ID: 203035038
+ICON ID: Icon_avatar_male_cos_top_cateam2_bule
+NOMBRE: Monumental Strength (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035038.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104027
+ICON ID: Icon_Baseballbat_Shuttlecock
+NOMBRE: Bat - Feather Smasher
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104027.png

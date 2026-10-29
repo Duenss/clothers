@@ -1,0 +1,8 @@
+ITEM ID: 906050005
+ICON ID: Icon_Avatar_Surfboard_Dunelord
+NOMBRE: Skyboard - Desert Scarab
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906050005.png

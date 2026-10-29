@@ -1,0 +1,8 @@
+ITEM ID: 710032064
+ICON ID: Icon_male_Indianwarrior_24
+NOMBRE: Fearless Warrior Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710032064.png

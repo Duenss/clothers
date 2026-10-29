@@ -1,0 +1,8 @@
+ITEM ID: 710033065
+ICON ID: Icon_ff_Petfood
+NOMBRE: Pet Food
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive exciting rewards.
+IMAGEN: ROPA/imagenes/710033065.png

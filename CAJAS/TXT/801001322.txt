@@ -1,0 +1,8 @@
+ITEM ID: 801001322
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: 2022 Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy New Year 2022
+IMAGEN: CAJAS/imagenes/801001322.png

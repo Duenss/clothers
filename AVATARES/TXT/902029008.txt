@@ -1,0 +1,8 @@
+ITEM ID: 902029008
+ICON ID: Icon_face_male_head_sc_MusicBro_B
+NOMBRE: Thiva's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029008.png

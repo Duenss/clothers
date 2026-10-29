@@ -1,0 +1,8 @@
+ITEM ID: 908048011
+ICON ID: Icon_slot_Motobike_Waterfest25
+NOMBRE: Motorbike - Sea Foam
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048011.png

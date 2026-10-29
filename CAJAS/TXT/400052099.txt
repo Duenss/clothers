@@ -1,0 +1,8 @@
+ITEM ID: 400052099
+ICON ID: Icon_box_TreasureBP_52
+NOMBRE: BP S39 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052099.png

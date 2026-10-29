@@ -1,0 +1,8 @@
+ITEM ID: 400039171
+ICON ID: Icon_box_3
+NOMBRE: Ramadan 2023 Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Welcoming Ramadan 2023 with these exclusive items
+IMAGEN: ROPA/imagenes/400039171.png

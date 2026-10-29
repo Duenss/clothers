@@ -1,0 +1,8 @@
+ITEM ID: 906050006
+ICON ID: Icon_Avatar_Surfboard_Cloudyday
+NOMBRE: Skyboard - Pink Thunder
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906050006.png

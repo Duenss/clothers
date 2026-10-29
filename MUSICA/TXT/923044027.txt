@@ -1,0 +1,8 @@
+ITEM ID: 923044027
+ICON ID: FF_UI_Voiceitem_MEMES44
+NOMBRE: Juicy!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Trending phrases are now here in Free Fire
+IMAGEN: MUSICA/imagenes/923044027.png

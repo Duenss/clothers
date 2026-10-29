@@ -1,0 +1,8 @@
+ITEM ID: 203051035
+ICON ID: Icon_avatar_cos_top_ffws25_04
+NOMBRE: RC Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051035.png

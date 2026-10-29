@@ -1,0 +1,8 @@
+ITEM ID: 908052010
+ICON ID: Icon_slot_SUV_Carnival26
+NOMBRE: Pickup Truck - Beat Panther
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052010.png

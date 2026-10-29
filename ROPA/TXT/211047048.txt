@@ -1,0 +1,8 @@
+ITEM ID: 211047048
+ICON ID: Icon_avatar_cos_accessory_nb_mask
+NOMBRE: Obito Headwear
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047048.png

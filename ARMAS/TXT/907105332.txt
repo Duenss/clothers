@@ -1,0 +1,8 @@
+ITEM ID: 907105332
+ICON ID: Icon_Baseballbat_FFWS_Spring26
+NOMBRE: Bat - FFWS 2026 Spring
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105332.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000694
+ICON ID: Icon_exchange_ob25_pink_sakura_card
+NOMBRE: Pink Sakura Card
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000694.png

@@ -1,0 +1,8 @@
+ITEM ID: 203036045
+ICON ID: Icon_avatar_cos_top_shibawear
+NOMBRE: Chaotic Puppy (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036045.png

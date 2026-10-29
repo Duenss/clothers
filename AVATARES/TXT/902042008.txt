@@ -1,0 +1,8 @@
+ITEM ID: 902042008
+ICON ID: Icon_face_Rank37_A
+NOMBRE: BR-Ranked S37 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042008.png

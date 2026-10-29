@@ -1,0 +1,8 @@
+ITEM ID: 801000980
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: CIS Matryoshka Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Token for Matryoshka
+IMAGEN: CAJAS/imagenes/801000980.png

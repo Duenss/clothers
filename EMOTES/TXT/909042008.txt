@@ -1,0 +1,8 @@
+ITEM ID: 909042008
+ICON ID: Icon_Emote_Evotiger
+NOMBRE: Ever Seen a Real Tiger?
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909042008.png

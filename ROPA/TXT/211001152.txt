@@ -1,0 +1,8 @@
+ITEM ID: 211001152
+ICON ID: Icon_avatar_cos_hair_electronic_purple
+NOMBRE: Twilight Bolt (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001152.png

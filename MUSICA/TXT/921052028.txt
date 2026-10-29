@@ -1,0 +1,8 @@
+ITEM ID: 921052028
+ICON ID: FF_UI_Voiceitem_Trea25
+NOMBRE: Ohh, shiny!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure Voice Pack
+IMAGEN: MUSICA/imagenes/921052028.png

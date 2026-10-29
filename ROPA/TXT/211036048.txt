@@ -1,0 +1,8 @@
+ITEM ID: 211036048
+ICON ID: Icon_avatar_male_cos_hair_fantasy
+NOMBRE: Dapper Fantasy (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036048.png

@@ -1,0 +1,8 @@
+ITEM ID: 902027016
+ICON ID: Icon_face_RANK_TOP
+NOMBRE: Battle Royale Grandmaster Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027016.png

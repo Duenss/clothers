@@ -1,0 +1,8 @@
+ITEM ID: 808000046
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Earthstomper Guns
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained primarily from the Incubator and is a required ingredient to craft the Earthstomper Guns
+IMAGEN: OTROS/imagenes/808000046.png

@@ -1,0 +1,8 @@
+ITEM ID: 801050016
+ICON ID: Icon_exchange_wkt_3_50
+NOMBRE: Fright Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050016.png

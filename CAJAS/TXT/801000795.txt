@@ -1,0 +1,8 @@
+ITEM ID: 801000795
+ICON ID: Icon_exchange_ob26_mvp_dice
+NOMBRE: Cobra Dice
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: During Project Cobra, you can obtain Cobra Dice by playing matches, from daily login, and other event activities. \nCobra Dice can be used to play Cobra Go. Seek your fortunes!
+IMAGEN: CAJAS/imagenes/801000795.png

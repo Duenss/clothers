@@ -1,0 +1,8 @@
+ITEM ID: 710053025
+ICON ID: Icon_bundle_GB_CT_Signature_53
+NOMBRE: Football Star Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710053025.png

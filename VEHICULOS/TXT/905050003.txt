@@ -1,0 +1,8 @@
+ITEM ID: 905050003
+ICON ID: Icon_Avatar_PARACHUTE_Funzombie
+NOMBRE: Parachute - Scarlet Ash
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905050003.png

@@ -1,0 +1,8 @@
+ITEM ID: 904190043
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Peacemaker
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "Peacemaker" achievement
+IMAGEN: AVATARES/imagenes/904190043.png

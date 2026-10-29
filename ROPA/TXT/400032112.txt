@@ -1,0 +1,8 @@
+ITEM ID: 400032112
+ICON ID: Icon_box_3
+NOMBRE: Enharmonic Treblerock Bundle Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Contains Enharmonic Treblerock Bundle
+IMAGEN: ROPA/imagenes/400032112.png

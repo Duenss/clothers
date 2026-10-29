@@ -1,0 +1,8 @@
+ITEM ID: 903044002
+ICON ID: Icon_Deadloot_Fragment
+NOMBRE: Loot Box - Icebreaker
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903044002.png

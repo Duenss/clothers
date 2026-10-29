@@ -1,0 +1,8 @@
+ITEM ID: 902040007
+ICON ID: Icon_face_Traphiphop22
+NOMBRE: Chromatic T.R.A.P. Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040007.png

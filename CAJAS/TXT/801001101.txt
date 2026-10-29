@@ -1,0 +1,8 @@
+ITEM ID: 801001101
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Animal Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Animal world!
+IMAGEN: CAJAS/imagenes/801001101.png

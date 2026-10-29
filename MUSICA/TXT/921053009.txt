@@ -1,0 +1,8 @@
+ITEM ID: 921053009
+ICON ID: FF_UI_Voiceitem_Worldcup25
+NOMBRE: (referee whistle) Booyah!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Fire Kickoff Voice Pack
+IMAGEN: MUSICA/imagenes/921053009.png

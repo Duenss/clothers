@@ -1,0 +1,8 @@
+ITEM ID: 400034085
+ICON ID: Icon_box_3
+NOMBRE: Burger Lad Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Contains Burger Lad and all its pieces
+IMAGEN: ROPA/imagenes/400034085.png

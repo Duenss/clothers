@@ -1,0 +1,8 @@
+ITEM ID: 400037156
+ICON ID: Icon_box_3
+NOMBRE: FFWS Honor Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400037156.png

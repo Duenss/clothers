@@ -1,0 +1,8 @@
+ITEM ID: 907202231
+ICON ID: Icon_M1014_Apocalypse2_Gold
+NOMBRE: M1014 - Apocalyptic Gold
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202231.png

@@ -1,0 +1,8 @@
+ITEM ID: 921050035
+ICON ID: FF_UI_Voiceitem_US50
+NOMBRE: Let's go!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: LATAM Party Voice Pack
+IMAGEN: MUSICA/imagenes/921050035.png

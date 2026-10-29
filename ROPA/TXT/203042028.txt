@@ -1,0 +1,8 @@
+ITEM ID: 203042028
+ICON ID: Icon_avatar_male_cos_top_blazing
+NOMBRE: Fiery Radiance (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042028.png

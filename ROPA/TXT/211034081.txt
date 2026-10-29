@@ -1,0 +1,8 @@
+ITEM ID: 211034081
+ICON ID: Icon_avatar_male_cos_accessory_crazyscientist
+NOMBRE: Mad Scientist (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034081.png

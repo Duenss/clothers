@@ -1,0 +1,8 @@
+ITEM ID: 205000837
+ICON ID: Icon_avatar_male_cos_shoe_winterfest21_coat
+NOMBRE: Flake Blake (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000837.png

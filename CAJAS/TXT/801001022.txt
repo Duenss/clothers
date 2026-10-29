@@ -1,0 +1,8 @@
+ITEM ID: 801001022
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Bronze Football Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Take your football craze to a whole new level
+IMAGEN: CAJAS/imagenes/801001022.png

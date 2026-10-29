@@ -1,0 +1,8 @@
+ITEM ID: 901029013
+ICON ID: Icon_callsign_storebg_CSRank8_02
+NOMBRE: CS Ranked Season 8 Gold
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901029013.png

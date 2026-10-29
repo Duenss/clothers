@@ -1,0 +1,8 @@
+ITEM ID: 211037051
+ICON ID: Icon_avatar_cos_accessory_winterfest22_01
+NOMBRE: Candy Beard Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037051.png

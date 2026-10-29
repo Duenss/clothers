@@ -1,0 +1,8 @@
+ITEM ID: 902046037
+ICON ID: Icon_face_Hippo
+NOMBRE: Moo Deng Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046037.png

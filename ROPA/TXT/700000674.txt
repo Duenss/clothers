@@ -1,0 +1,8 @@
+ITEM ID: 700000674
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Gloo Wall & Melee Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Superstar Gloo Wall, the Maroon Laser Pan, and 100 Diamonds
+IMAGEN: ROPA/imagenes/700000674.png

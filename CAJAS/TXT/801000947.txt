@@ -1,0 +1,8 @@
+ITEM ID: 801000947
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Sweet Summer Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Memory of Summer
+IMAGEN: CAJAS/imagenes/801000947.png

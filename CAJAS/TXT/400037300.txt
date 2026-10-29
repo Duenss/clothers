@@ -1,0 +1,8 @@
+ITEM ID: 400037300
+ICON ID: Icon_TokenBox_02_FFWS
+NOMBRE: Galaxy Tailor Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: After receiving the basic outfit version, open this box to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400037300.png

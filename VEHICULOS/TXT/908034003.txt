@@ -1,0 +1,8 @@
+ITEM ID: 908034003
+ICON ID: Icon_slot_Amphibian_Kongfu
+NOMBRE: Amphibian - Chef's Ride
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034003.png

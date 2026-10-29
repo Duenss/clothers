@@ -1,0 +1,8 @@
+ITEM ID: 907102910
+ICON ID: Icon_M1873_Scorpion
+NOMBRE: M1873 - Quantic Unknown
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102910.png

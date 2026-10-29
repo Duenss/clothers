@@ -1,0 +1,8 @@
+ITEM ID: 907100026
+ICON ID: Icon_Kar98k_T3
+NOMBRE: Pharaoh's Eye
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100026.png

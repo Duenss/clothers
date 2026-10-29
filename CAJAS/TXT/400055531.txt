@@ -1,0 +1,8 @@
+ITEM ID: 400055531
+ICON ID: Icon_box_Awesomeb_US_SAC_55
+NOMBRE: Awesome Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055531.png

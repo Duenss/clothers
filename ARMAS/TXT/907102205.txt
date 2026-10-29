@@ -1,0 +1,8 @@
+ITEM ID: 907102205
+ICON ID: Icon_MP40_BluePoker
+NOMBRE: MP40 - Royal Flush
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102205.png

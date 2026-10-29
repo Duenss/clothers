@@ -1,0 +1,8 @@
+ITEM ID: 929005304
+ICON ID: Icon_Photostickeritem_Worldcup25_01
+NOMBRE: Football Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Football Sticker
+IMAGEN: AVATARES/imagenes/929005304.png

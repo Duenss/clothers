@@ -1,0 +1,8 @@
+ITEM ID: 407103706
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Kami Series (M82B + SCAR) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (M82B + SCAR) from the Kami (Serpent Kami and Nightfire Kami) weapon series
+IMAGEN: ARMAS/imagenes/407103706.png

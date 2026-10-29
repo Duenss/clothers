@@ -1,0 +1,8 @@
+ITEM ID: 400042134
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: PARAFAL Sickly Sweet Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Open to receive a PARAFAL Sickly Sweet Skin
+IMAGEN: CAJAS/imagenes/400042134.png

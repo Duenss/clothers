@@ -1,0 +1,8 @@
+ITEM ID: 400027090
+ICON ID: Icon_box_3
+NOMBRE: Fairy Princess Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Fairy Princess and all its pieces
+IMAGEN: ROPA/imagenes/400027090.png

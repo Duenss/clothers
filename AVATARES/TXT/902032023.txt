@@ -1,0 +1,8 @@
+ITEM ID: 902032023
+ICON ID: Icon_face_Hoodedkiller_A
+NOMBRE: Creed Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902032023.png

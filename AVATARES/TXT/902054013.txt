@@ -1,0 +1,8 @@
+ITEM ID: 902054013
+ICON ID: Icon_face_Rank53
+NOMBRE: BR-Ranked S53 Master Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902054013.png

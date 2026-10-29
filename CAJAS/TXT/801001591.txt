@@ -1,0 +1,8 @@
+ITEM ID: 801001591
+ICON ID: Icon_exchange_Mexicanhat_es_34
+NOMBRE: Mexican Hat Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001591.png

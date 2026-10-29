@@ -1,0 +1,8 @@
+ITEM ID: 923042034
+ICON ID: FF_UI_Voiceitem_Streamer
+NOMBRE: From Zero to Hero
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042034.png

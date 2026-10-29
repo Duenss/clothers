@@ -1,0 +1,8 @@
+ITEM ID: 211042026
+ICON ID: Icon_avatar_male_cos_accessory_ffws2023
+NOMBRE: Fist of Glory (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042026.png

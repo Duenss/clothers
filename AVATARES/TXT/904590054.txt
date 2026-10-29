@@ -1,0 +1,8 @@
+ITEM ID: 904590054
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Dawn Terminator
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "Lethal Voyager" achievement
+IMAGEN: AVATARES/imagenes/904590054.png

@@ -1,0 +1,8 @@
+ITEM ID: 205044005
+ICON ID: Icon_avatar_male_cos_shoe_persona_purple
+NOMBRE: Dark Paradox (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044005.png

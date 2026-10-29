@@ -1,0 +1,8 @@
+ITEM ID: 902036006
+ICON ID: Icon_face_Icewizard_FP
+NOMBRE: Cyan Iceworld Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036006.png

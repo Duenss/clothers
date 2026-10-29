@@ -1,0 +1,8 @@
+ITEM ID: 400026078
+ICON ID: Icon_box_3
+NOMBRE: Banished Biker Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Banished Biker and all its pieces
+IMAGEN: ROPA/imagenes/400026078.png

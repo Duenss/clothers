@@ -1,0 +1,8 @@
+ITEM ID: 902052004
+ICON ID: Icon_face_IIV_CT_White
+NOMBRE: Satoru Gojo Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052004.png

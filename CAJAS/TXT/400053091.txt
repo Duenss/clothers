@@ -1,0 +1,8 @@
+ITEM ID: 400053091
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Bizon Super Void Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Open to receive a Bizon Super Void
+IMAGEN: CAJAS/imagenes/400053091.png

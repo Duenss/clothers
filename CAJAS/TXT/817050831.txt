@@ -1,0 +1,8 @@
+ITEM ID: 817050831
+ICON ID: FF_Lottery_Madara_Voucher
+NOMBRE: Madara Ring Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Voucher to spin in Madara Ring event (starts 15 Aug 2025)
+IMAGEN: CAJAS/imagenes/817050831.png

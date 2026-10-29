@@ -1,0 +1,8 @@
+ITEM ID: 400000103
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Bullet Rain Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin for the selected gun.
+IMAGEN: CAJAS/imagenes/400000103.png

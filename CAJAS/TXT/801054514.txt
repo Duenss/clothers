@@ -1,0 +1,8 @@
+ITEM ID: 801054514
+ICON ID: Icon_exchange_RingToken_latam_54
+NOMBRE: Ring Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054514.png

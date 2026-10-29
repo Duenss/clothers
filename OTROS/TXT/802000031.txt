@@ -1,0 +1,8 @@
+ITEM ID: 802000031
+ICON ID: FF_Lottery_AngelicRing_Voucher
+NOMBRE: Angelic Ring Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Used to spin in the Angelic Ring event. Expires after the Angelic Ring event ends.
+IMAGEN: OTROS/imagenes/802000031.png

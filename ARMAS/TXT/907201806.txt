@@ -1,0 +1,8 @@
+ITEM ID: 907201806
+ICON ID: Icon_AK47_Halloweenpumpkin
+NOMBRE: AK47 - Pumpkin Flames
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201806.png

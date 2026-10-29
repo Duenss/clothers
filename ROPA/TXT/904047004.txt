@@ -1,0 +1,8 @@
+ITEM ID: 904047004
+ICON ID: Icon_Bag_Valentine25
+NOMBRE: Backpack - Rosette Desire
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904047004.png

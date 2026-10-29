@@ -1,0 +1,8 @@
+ITEM ID: 203000098
+ICON ID: Icon_Avatar_Male_GSL_Tshirt
+NOMBRE: GW2018 T-shirt (male)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000098.png

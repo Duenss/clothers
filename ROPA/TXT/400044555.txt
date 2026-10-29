@@ -1,0 +1,8 @@
+ITEM ID: 400044555
+ICON ID: Icon_box_3
+NOMBRE: Evo Weapon Universal Token Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400044555.png

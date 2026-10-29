@@ -1,0 +1,8 @@
+ITEM ID: 801000657
+ICON ID: Icon_exchange_ob24_FreeFire_x-_Nakhom
+NOMBRE: Free Fire x Nakhom
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000657.png

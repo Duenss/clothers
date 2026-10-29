@@ -1,0 +1,8 @@
+ITEM ID: 400052118
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: MAG-7 Ink Lock Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive a MAG-7 Ink Lock
+IMAGEN: CAJAS/imagenes/400052118.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001158
+ICON ID: Icon_box_3
+NOMBRE: Starmoon Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: What lies within?
+IMAGEN: ROPA/imagenes/400001158.png

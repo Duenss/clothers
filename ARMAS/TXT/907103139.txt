@@ -1,0 +1,8 @@
+ITEM ID: 907103139
+ICON ID: Icon_FIST_Winterfest21
+NOMBRE: Fist - Frozen Flame
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103139.png

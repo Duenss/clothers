@@ -1,0 +1,8 @@
+ITEM ID: 907104942
+ICON ID: Icon_GlooShield_Collage25
+NOMBRE: Gloo Wall - Collage Art
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104942.png

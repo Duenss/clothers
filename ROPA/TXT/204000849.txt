@@ -1,0 +1,8 @@
+ITEM ID: 204000849
+ICON ID: Icon_avatar_male_cos_bottom_booyahday21_purple
+NOMBRE: Beta Flameborn (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000849.png

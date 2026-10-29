@@ -1,0 +1,8 @@
+ITEM ID: 909046001
+ICON ID: Icon_Emote_Yinyang24
+NOMBRE: Aura Boarder
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046001.png

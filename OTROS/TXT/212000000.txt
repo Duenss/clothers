@@ -1,0 +1,8 @@
+ITEM ID: 212000000
+ICON ID: Icon_avatar_cos_suit_default
+NOMBRE: Default
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Default
+IMAGEN: OTROS/imagenes/212000000.png

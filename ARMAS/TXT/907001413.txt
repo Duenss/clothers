@@ -1,0 +1,8 @@
+ITEM ID: 907001413
+ICON ID: Icon_Famas_Shark
+NOMBRE: FAMAS - Shark Attack
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001413.png

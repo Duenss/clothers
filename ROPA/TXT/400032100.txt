@@ -1,0 +1,8 @@
+ITEM ID: 400032100
+ICON ID: Icon_box_3
+NOMBRE: Character Thala Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Contains Character Thala and many other rewards
+IMAGEN: ROPA/imagenes/400032100.png

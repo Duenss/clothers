@@ -1,0 +1,8 @@
+ITEM ID: 400028002
+ICON ID: Icon_box_thunder_2_28
+NOMBRE: Evo Gun Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400028002.png

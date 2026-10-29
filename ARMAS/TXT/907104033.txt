@@ -1,0 +1,8 @@
+ITEM ID: 907104033
+ICON ID: Icon_Sickle_Fishbone
+NOMBRE: Scythe - Blackwater
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104033.png

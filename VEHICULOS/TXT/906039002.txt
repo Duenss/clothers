@@ -1,0 +1,8 @@
+ITEM ID: 906039002
+ICON ID: Icon_Avatar_Surfboard_Rollerskating
+NOMBRE: Skyboard - Wheels of the Future
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906039002.png

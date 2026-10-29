@@ -1,0 +1,8 @@
+ITEM ID: 907105405
+ICON ID: Icon_BM94_Darkdesires
+NOMBRE: M82B - Envious Desire
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105405.png

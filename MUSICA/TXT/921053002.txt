@@ -1,0 +1,8 @@
+ITEM ID: 921053002
+ICON ID: FF_UI_Voiceitem_Bluetears
+NOMBRE: You can't stop the tide
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Undersea Mystery Voice Pack
+IMAGEN: MUSICA/imagenes/921053002.png

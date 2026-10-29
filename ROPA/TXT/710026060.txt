@@ -1,0 +1,8 @@
+ITEM ID: 710026060
+ICON ID: Icon_bundle_EPRepurchase_26
+NOMBRE: Elite Pass Repurchase Rewards Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB26
+DESCRIPCION: Open to receive rewards from your EP repurchase
+IMAGEN: ROPA/imagenes/710026060.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001059
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: God of Speed Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Faster! Faster!
+IMAGEN: CAJAS/imagenes/801001059.png

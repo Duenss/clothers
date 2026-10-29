@@ -1,0 +1,8 @@
+ITEM ID: 400034025
+ICON ID: Icon_box_3
+NOMBRE: Palm Tree Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: It's sunny and windy!
+IMAGEN: ROPA/imagenes/400034025.png

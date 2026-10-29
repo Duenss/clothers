@@ -1,0 +1,8 @@
+ITEM ID: 801037889
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Penguin Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801037889.png

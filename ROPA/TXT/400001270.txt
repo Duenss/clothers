@@ -1,0 +1,8 @@
+ITEM ID: 400001270
+ICON ID: Icon_box_3
+NOMBRE: Snegurochka Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Snegurochka's favorite items
+IMAGEN: ROPA/imagenes/400001270.png

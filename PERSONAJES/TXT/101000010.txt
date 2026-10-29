@@ -1,0 +1,8 @@
+ITEM ID: 101000010
+ICON ID: Icon_face_female_head_sc_richgirl
+NOMBRE: Caroline
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A schoolgirl from an extremely wealthy family.
+IMAGEN: PERSONAJES/imagenes/101000010.png

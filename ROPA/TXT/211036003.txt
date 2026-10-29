@@ -1,0 +1,8 @@
+ITEM ID: 211036003
+ICON ID: Icon_avatar_female_cos_hair_decadentbear
+NOMBRE: Gothic Teddy (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036003.png

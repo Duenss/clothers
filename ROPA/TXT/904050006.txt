@@ -1,0 +1,8 @@
+ITEM ID: 904050006
+ICON ID: Icon_Bag_Funzombie
+NOMBRE: Backpack - Cherry Fuse
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050006.png

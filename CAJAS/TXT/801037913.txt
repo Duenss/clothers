@@ -1,0 +1,8 @@
+ITEM ID: 801037913
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Book Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Get Smart!
+IMAGEN: CAJAS/imagenes/801037913.png

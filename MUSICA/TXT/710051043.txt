@@ -1,0 +1,8 @@
+ITEM ID: 710051043
+ICON ID: FF_UI_Voiceitem_ID51
+NOMBRE: FFWS Global ID Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: FFWS Global Finals Indonesia 2025
+IMAGEN: MUSICA/imagenes/710051043.png

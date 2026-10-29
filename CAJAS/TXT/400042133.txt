@@ -1,0 +1,8 @@
+ITEM ID: 400042133
+ICON ID: Icon_box_Inkpainting_41
+NOMBRE: Ink Hyperbook Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042133.png

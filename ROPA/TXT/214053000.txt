@@ -1,0 +1,8 @@
+ITEM ID: 214053000
+ICON ID: Icon_avatar_cos_headadditive_eclipse_moon
+NOMBRE: Lunar Eclipse (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214053000.png

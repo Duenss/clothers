@@ -1,0 +1,8 @@
+ITEM ID: 205051019
+ICON ID: Icon_avatar_male_cos_shoe_casual_blue
+NOMBRE: Peppy Summer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051019.png

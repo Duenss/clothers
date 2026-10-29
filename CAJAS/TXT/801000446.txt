@@ -1,0 +1,8 @@
+ITEM ID: 801000446
+ICON ID: Icon_exchange_ob21_skull_purple
+NOMBRE: Purple Skull
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000446.png

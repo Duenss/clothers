@@ -1,0 +1,8 @@
+ITEM ID: 400000484
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: MP40 Sneaky Clown Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for the Sneaky Clown MP40.
+IMAGEN: CAJAS/imagenes/400000484.png

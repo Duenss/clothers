@@ -1,0 +1,8 @@
+ITEM ID: 923042033
+ICON ID: FF_UI_Voiceitem_Streamer
+NOMBRE: Finish them, finish them, finish them
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042033.png

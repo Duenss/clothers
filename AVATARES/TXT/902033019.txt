@@ -1,0 +1,8 @@
+ITEM ID: 902033019
+ICON ID: Icon_face_Veteran2
+NOMBRE: Sharp Pride Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033019.png

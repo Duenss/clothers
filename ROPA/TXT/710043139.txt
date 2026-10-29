@@ -1,0 +1,8 @@
+ITEM ID: 710043139
+ICON ID: Icon_box_3
+NOMBRE: Basic Chest
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: Basic Chest
+IMAGEN: ROPA/imagenes/710043139.png

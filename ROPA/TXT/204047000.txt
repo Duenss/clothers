@@ -1,0 +1,8 @@
+ITEM ID: 204047000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Snow Fox (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

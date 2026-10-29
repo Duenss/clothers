@@ -1,0 +1,8 @@
+ITEM ID: 801051016
+ICON ID: Icon_exchange_gcdf_51
+NOMBRE: 24K Thump Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051016.png

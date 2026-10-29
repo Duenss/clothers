@@ -1,0 +1,8 @@
+ITEM ID: 909039011
+ICON ID: Icon_Emote_Scarlet_Evogun
+NOMBRE: Crimson Doom
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909039011.png

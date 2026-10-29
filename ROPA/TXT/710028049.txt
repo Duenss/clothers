@@ -1,0 +1,8 @@
+ITEM ID: 710028049
+ICON ID: FF_UI_CupMatchBox_02
+NOMBRE: Clash Squad Cup (Preview) 1-win Chest
+TIPO: Bundles
+RAREZA: GREEN (Uncommon)
+TAG: OB28
+DESCRIPCION: Clash Squad Cup (Preview) 1-win Chest
+IMAGEN: ROPA/imagenes/710028049.png

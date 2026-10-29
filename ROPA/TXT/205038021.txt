@@ -1,0 +1,8 @@
+ITEM ID: 205038021
+ICON ID: Icon_avatar_cos_shoe_darkskeleton
+NOMBRE: Myth Nightrider (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038021.png

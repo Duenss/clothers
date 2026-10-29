@@ -1,0 +1,8 @@
+ITEM ID: 817150831
+ICON ID: FF_Lottery_Obito_Voucher
+NOMBRE: Obito Ring Voucher
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Voucher to spin in Obito Ring event (starts on 20 Aug 2025)
+IMAGEN: CAJAS/imagenes/817150831.png

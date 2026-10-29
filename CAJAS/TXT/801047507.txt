@@ -1,0 +1,8 @@
+ITEM ID: 801047507
+ICON ID: Icon_exchange_ERT_us-es_47
+NOMBRE: Energy Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047507.png

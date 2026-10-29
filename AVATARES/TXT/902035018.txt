@@ -1,0 +1,8 @@
+ITEM ID: 902035018
+ICON ID: Icon_face_Champion
+NOMBRE: Champion Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035018.png

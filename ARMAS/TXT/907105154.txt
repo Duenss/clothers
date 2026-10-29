@@ -1,0 +1,8 @@
+ITEM ID: 907105154
+ICON ID: Icon_GlooShield_SL
+NOMBRE: Gloo Wall - Peacock Plume
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105154.png

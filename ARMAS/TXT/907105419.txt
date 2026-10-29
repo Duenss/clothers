@@ -1,0 +1,8 @@
+ITEM ID: 907105419
+ICON ID: Icon_Uzi_Rank53
+NOMBRE: Mini Uzi - S53 Exclusive: Spica
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105419.png

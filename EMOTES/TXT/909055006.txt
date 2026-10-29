@@ -1,0 +1,8 @@
+ITEM ID: 909055006
+ICON ID: Icon_Emote_Blackdress26_Freeze
+NOMBRE: Cosmic Vortex
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909055006.png

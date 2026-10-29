@@ -1,0 +1,8 @@
+ITEM ID: 211033030
+ICON ID: Icon_avatar_male_cos_hair_ffunit2
+NOMBRE: Shadow Rogue (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033030.png

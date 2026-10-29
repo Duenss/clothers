@@ -1,0 +1,8 @@
+ITEM ID: 400027110
+ICON ID: Icon_box_3
+NOMBRE: Phantom Executioner Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Phantom Executioner and all its pieces
+IMAGEN: ROPA/imagenes/400027110.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000022
+ICON ID: Icon_avatar_short_camo_005
+NOMBRE: Shorts (Town)
+TIPO: Bottom
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000022.png

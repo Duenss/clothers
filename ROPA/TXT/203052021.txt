@@ -1,0 +1,8 @@
+ITEM ID: 203052021
+ICON ID: Icon_avatar_cos_top_fastbreaking_free
+NOMBRE: Treasure Finder (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052021.png

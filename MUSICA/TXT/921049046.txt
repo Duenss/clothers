@@ -1,0 +1,8 @@
+ITEM ID: 921049046
+ICON ID: FF_UI_Voiceitem_LAT49
+NOMBRE: Snag the loot!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Criminal Mayhem
+IMAGEN: MUSICA/imagenes/921049046.png

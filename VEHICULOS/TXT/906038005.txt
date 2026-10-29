@@ -1,0 +1,8 @@
+ITEM ID: 906038005
+ICON ID: Icon_Avatar_Surfboard_Skisuit
+NOMBRE: Skyboard - Blizzard Snowboard
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906038005.png

@@ -1,0 +1,8 @@
+ITEM ID: 205041039
+ICON ID: Icon_avatar_male_cos_shoe_ds_soundman
+NOMBRE: Tengen's Shoes
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041039.png

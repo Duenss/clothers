@@ -1,0 +1,8 @@
+ITEM ID: 801000724
+ICON ID: Icon_exchange_ob25_striped_sphere
+NOMBRE: Striped Sphere
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Is it white and gold or blue and black?
+IMAGEN: CAJAS/imagenes/801000724.png

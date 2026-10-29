@@ -1,0 +1,8 @@
+ITEM ID: 400000391
+ICON ID: Icon_box_3
+NOMBRE: Swimwear Collection Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Swimwear Collection Loot Crate
+IMAGEN: ROPA/imagenes/400000391.png

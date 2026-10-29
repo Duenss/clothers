@@ -1,0 +1,8 @@
+ITEM ID: 400000005
+ICON ID: Icon_box_3
+NOMBRE: Parachute - Four Seasons
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Parachute skins for the four seasons
+IMAGEN: ROPA/imagenes/400000005.png

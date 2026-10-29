@@ -1,0 +1,8 @@
+ITEM ID: 928005407
+ICON ID: Icon_GroupPhoto_FB2_02_icon
+NOMBRE: Isagi Theme
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Isagi Theme
+IMAGEN: AVATARES/imagenes/928005407.png

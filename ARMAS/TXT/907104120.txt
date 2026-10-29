@@ -1,0 +1,8 @@
+ITEM ID: 907104120
+ICON ID: Icon_GlooShield_Fisherman
+NOMBRE: Gloo Wall - Reelblade Bastion
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104120.png

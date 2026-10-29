@@ -1,0 +1,8 @@
+ITEM ID: 921052030
+ICON ID: FF_UI_Voiceitem_Trea25
+NOMBRE: To the treasure, full speed!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure Voice Pack
+IMAGEN: MUSICA/imagenes/921052030.png

@@ -1,0 +1,8 @@
+ITEM ID: 909054004
+ICON ID: Icon_Emote_Ninth_Evogun_Camera
+NOMBRE: Phoenix Flourish
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054004.png

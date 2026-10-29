@@ -1,0 +1,8 @@
+ITEM ID: 801049012
+ICON ID: Icon_exchange_Pony_Sys_1_49
+NOMBRE: Solarush! Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049012.png

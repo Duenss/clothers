@@ -1,0 +1,8 @@
+ITEM ID: 904030006
+ICON ID: Icon_Bag_Darkdragon_FP
+NOMBRE: Backpack - Fire Breath
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030006.png

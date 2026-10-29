@@ -1,0 +1,8 @@
+ITEM ID: 211043019
+ICON ID: Icon_avatar_male_cos_hair_fighter_green
+NOMBRE: Bull Incarnate (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043019.png

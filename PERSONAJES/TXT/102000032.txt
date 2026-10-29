@@ -1,0 +1,8 @@
+ITEM ID: 102000032
+ICON ID: Icon_face_male_head_sc_BooyahGuy
+NOMBRE: Leon
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Leon is a rising star in the basketball scene.
+IMAGEN: PERSONAJES/imagenes/102000032.png

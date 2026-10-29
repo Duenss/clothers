@@ -1,0 +1,8 @@
+ITEM ID: 801000634
+ICON ID: Icon_exchange_ob24_Thanks_Giving
+NOMBRE: Thanks Giving
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Appreciate for all the love you give
+IMAGEN: CAJAS/imagenes/801000634.png

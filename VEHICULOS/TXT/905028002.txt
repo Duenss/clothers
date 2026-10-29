@@ -1,0 +1,8 @@
+ITEM ID: 905028002
+ICON ID: Icon_Avatar_PARACHUTE_Foursymbols
+NOMBRE: Parachute - The Stormbringer
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905028002.png

@@ -1,0 +1,8 @@
+ITEM ID: 904050007
+ICON ID: Icon_Bag_Dunelord
+NOMBRE: Backpack - Treasure of Desert
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050007.png

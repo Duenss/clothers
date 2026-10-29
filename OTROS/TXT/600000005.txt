@@ -1,0 +1,8 @@
+ITEM ID: 600000005
+ICON ID: Icon_ff_Workshop_Roomcard
+NOMBRE: Craftland Room Card (1 Match)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Can be used to start a customized Craftland room.
+IMAGEN: OTROS/imagenes/600000005.png

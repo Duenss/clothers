@@ -1,0 +1,8 @@
+ITEM ID: 902046004
+ICON ID: Icon_face_female_head_sc_MischiefGirl_B
+NOMBRE: Gloo Artist Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046004.png

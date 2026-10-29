@@ -1,0 +1,8 @@
+ITEM ID: 801050505
+ICON ID: Icon_exchange_stt_br_50
+NOMBRE: Stylish Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050505.png

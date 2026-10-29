@@ -1,0 +1,8 @@
+ITEM ID: 801051007
+ICON ID: Icon_exchange_angp_51
+NOMBRE: Prism Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051007.png

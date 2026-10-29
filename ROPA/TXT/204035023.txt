@@ -1,0 +1,8 @@
+ITEM ID: 204035023
+ICON ID: Icon_avatar_female_cos_bottom_digitaluniverse2
+NOMBRE: Beauty Reuniter (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035023.png

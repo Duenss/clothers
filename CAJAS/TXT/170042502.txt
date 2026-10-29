@@ -1,0 +1,8 @@
+ITEM ID: 170042502
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Your Choice Crate 4
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170042502.png

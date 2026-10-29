@@ -1,0 +1,8 @@
+ITEM ID: 204042027
+ICON ID: Icon_avatar_cos_bottom_voltage_pants
+NOMBRE: Electro Shorts
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042027.png

@@ -1,0 +1,8 @@
+ITEM ID: 400047013
+ICON ID: Icon_box_Snow2_47
+NOMBRE: Frosty Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047013.png

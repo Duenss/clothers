@@ -1,0 +1,8 @@
+ITEM ID: 205046020
+ICON ID: Icon_avatar_male_cos_shoe_sugarskull24_02
+NOMBRE: Bony Punch (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046020.png

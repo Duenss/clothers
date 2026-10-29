@@ -1,0 +1,8 @@
+ITEM ID: 805000001
+ICON ID: FF_UI_Character_Icon_Awaken_Stone
+NOMBRE: Awakening Shard
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Full of mysterious powers, can be used to awaken characters
+IMAGEN: OTROS/imagenes/805000001.png

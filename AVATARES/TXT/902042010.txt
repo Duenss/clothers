@@ -1,0 +1,8 @@
+ITEM ID: 902042010
+ICON ID: Icon_face_Level80
+NOMBRE: The "80" Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042010.png

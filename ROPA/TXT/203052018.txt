@@ -1,0 +1,8 @@
+ITEM ID: 203052018
+ICON ID: Icon_avatar_cos_top_graffiti26
+NOMBRE: Shadow Walker (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052018.png

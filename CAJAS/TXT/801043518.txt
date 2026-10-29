@@ -1,0 +1,8 @@
+ITEM ID: 801043518
+ICON ID: Icon_exchange_PUMA_us_es_43
+NOMBRE: PUMA Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801043518.png

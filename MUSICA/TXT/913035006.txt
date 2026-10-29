@@ -1,0 +1,8 @@
+ITEM ID: 913035006
+ICON ID: FF_UI_Vault_Music_COBRA_BR
+NOMBRE: HS Ciao
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: An iconic Brazilian Free Fire hit song!
+IMAGEN: MUSICA/imagenes/913035006.png

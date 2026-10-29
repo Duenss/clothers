@@ -1,0 +1,8 @@
+ITEM ID: 905054005
+ICON ID: Icon_Avatar_PARACHUTE_Party_Pajama
+NOMBRE: Parachute - Pajama Party
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905054005.png

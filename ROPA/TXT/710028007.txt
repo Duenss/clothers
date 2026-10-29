@@ -1,0 +1,8 @@
+ITEM ID: 710028007
+ICON ID: Icon_bundle_Foursymbols_A_28
+NOMBRE: Azure Stormbringer Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710028007.png

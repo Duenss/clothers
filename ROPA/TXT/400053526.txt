@@ -1,0 +1,8 @@
+ITEM ID: 400053526
+ICON ID: Icon_box_3
+NOMBRE: Mauve Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400053526.png

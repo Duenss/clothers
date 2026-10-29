@@ -1,0 +1,8 @@
+ITEM ID: 801000499
+ICON ID: Icon_exchange_ob22_booyah
+NOMBRE: Booyah!
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: May the best win
+IMAGEN: CAJAS/imagenes/801000499.png

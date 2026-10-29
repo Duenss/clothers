@@ -1,0 +1,8 @@
+ITEM ID: 901031005
+ICON ID: Icon_callsign_storebg_Origami_B
+NOMBRE: Folded Flap
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901031005.png

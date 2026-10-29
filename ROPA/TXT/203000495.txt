@@ -1,0 +1,8 @@
+ITEM ID: 203000495
+ICON ID: Icon_avatar_tshirt_twzhubot_luokebenben
+NOMBRE: Louke and Ben Ben
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000495.png

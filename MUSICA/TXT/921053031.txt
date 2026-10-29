@@ -1,0 +1,8 @@
+ITEM ID: 921053031
+ICON ID: FF_UI_Voiceitem_BambinoLATAM53
+NOMBRE: For being a good guy
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Bambino voice pack
+IMAGEN: MUSICA/imagenes/921053031.png

@@ -1,0 +1,8 @@
+ITEM ID: 400044655
+ICON ID: Icon_box_Sam01_ID_44
+NOMBRE: Samsung Box 2
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044655.png

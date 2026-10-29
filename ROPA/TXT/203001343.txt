@@ -1,0 +1,8 @@
+ITEM ID: 203001343
+ICON ID: Icon_avatar_female_cos_top_blackangel
+NOMBRE: Untamed Demilady (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001343.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103734
+ICON ID: Icon_Grenade_Winterfest22
+NOMBRE: Icy Blast
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103734.png

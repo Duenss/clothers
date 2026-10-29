@@ -1,0 +1,8 @@
+ITEM ID: 905049002
+ICON ID: Icon_Avatar_PARACHUTE_Rank46
+NOMBRE: Parachute - S46 Exclusive: Signal
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905049002.png

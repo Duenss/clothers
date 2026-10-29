@@ -1,0 +1,8 @@
+ITEM ID: 211046049
+ICON ID: Icon_avatar_male_cos_accessory_th_jp
+NOMBRE: Street Savvy (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046049.png

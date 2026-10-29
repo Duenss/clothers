@@ -1,0 +1,8 @@
+ITEM ID: 211049047
+ICON ID: Icon_avatar_cos_accessory_club
+NOMBRE: Neon Glow (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049047.png

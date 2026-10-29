@@ -1,0 +1,8 @@
+ITEM ID: 203053017
+ICON ID: Icon_avatar_female_cos_top_bat25
+NOMBRE: Darkwing Darling (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053017.png

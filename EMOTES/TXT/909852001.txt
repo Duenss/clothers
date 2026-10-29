@@ -1,0 +1,8 @@
+ITEM ID: 909852001
+ICON ID: FF_UI_Vault_Icon_FinishMove_Default
+NOMBRE: Default Finishing Move
+TIPO: Finishing Move
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909852001.png

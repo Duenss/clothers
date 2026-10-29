@@ -1,0 +1,8 @@
+ITEM ID: 908000014
+ICON ID: Icon_slot_Jeep_Easter
+NOMBRE: Speedster Bunny
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000014.png

@@ -1,0 +1,8 @@
+ITEM ID: 902035021
+ICON ID: Icon_face_FFIC_IND
+NOMBRE: FFIC Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035021.png

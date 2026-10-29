@@ -1,0 +1,8 @@
+ITEM ID: 903002606
+ICON ID: Icon_Deadloot_Cobra_TWO
+NOMBRE: Loot Box - Cobra Statue
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002606.png

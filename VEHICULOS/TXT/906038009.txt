@@ -1,0 +1,8 @@
+ITEM ID: 906038009
+ICON ID: Icon_Avatar_Surfboard_Kitchen
+NOMBRE: Skyboard - Flying Pan
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906038009.png

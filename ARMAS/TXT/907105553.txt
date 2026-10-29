@@ -1,0 +1,8 @@
+ITEM ID: 907105553
+ICON ID: Icon_GlooShield_Diwali26
+NOMBRE: Gloo Wall - Firework Wall
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105553.png

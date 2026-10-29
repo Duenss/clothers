@@ -1,0 +1,8 @@
+ITEM ID: 908028005
+ICON ID: Icon_slot_Roadster_Pursuer
+NOMBRE: Sports Car - Guns for Hire
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028005.png

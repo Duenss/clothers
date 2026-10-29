@@ -1,0 +1,8 @@
+ITEM ID: 1310000113
+ICON ID: Icon_Pet_Raccoon_Undead
+NOMBRE: Pet Skin: Undead Rockie
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: The one who overdresses for costume parties
+IMAGEN: MASCOTAS/imagenes/1310000113.png

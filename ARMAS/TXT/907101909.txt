@@ -1,0 +1,8 @@
+ITEM ID: 907101909
+ICON ID: Icon_XM8_Cnnewyear19
+NOMBRE: XM8 - Aurous Dragon
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101909.png

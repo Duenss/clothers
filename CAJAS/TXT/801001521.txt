@@ -1,0 +1,8 @@
+ITEM ID: 801001521
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Back To School Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Back To School Token
+IMAGEN: CAJAS/imagenes/801001521.png

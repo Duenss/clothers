@@ -1,0 +1,8 @@
+ITEM ID: 400000179
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cheetah: Fang Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for the Cheetah: Fang.
+IMAGEN: CAJAS/imagenes/400000179.png

@@ -1,0 +1,8 @@
+ITEM ID: 203001029
+ICON ID: Icon_avatar_female_top_cos_waterfest21_a
+NOMBRE: Summer Breeze (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001029.png

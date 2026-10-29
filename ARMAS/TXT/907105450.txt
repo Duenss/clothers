@@ -1,0 +1,8 @@
+ITEM ID: 907105450
+ICON ID: Icon_GlooShield_Darkdesires
+NOMBRE: Gloo Wall - Slothful Desire
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105450.png

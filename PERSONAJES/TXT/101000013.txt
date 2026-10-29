@@ -1,0 +1,8 @@
+ITEM ID: 101000013
+ICON ID: Icon_face_female_head_sc_MadeManA
+NOMBRE: A124
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A124 is a robot made with modern technology.
+IMAGEN: PERSONAJES/imagenes/101000013.png

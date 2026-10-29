@@ -1,0 +1,8 @@
+ITEM ID: 400034027
+ICON ID: Icon_box_3
+NOMBRE: Clown Heist Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Ready for the greatest heist?
+IMAGEN: ROPA/imagenes/400034027.png

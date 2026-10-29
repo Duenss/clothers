@@ -1,0 +1,8 @@
+ITEM ID: 204039033
+ICON ID: Icon_avatar_male_cos_bottom_raiden
+NOMBRE: Thunder Raider (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039033.png

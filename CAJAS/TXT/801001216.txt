@@ -1,0 +1,8 @@
+ITEM ID: 801001216
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Elephant Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: A symbol of strength
+IMAGEN: CAJAS/imagenes/801001216.png

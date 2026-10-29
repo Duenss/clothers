@@ -1,0 +1,8 @@
+ITEM ID: 407002803
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Merciless Necromancer Weapon Loot Crate
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin (Woodpecker, Desert Eagle) from the Merciless Necromancer weapon set.
+IMAGEN: OTROS/imagenes/407002803.png

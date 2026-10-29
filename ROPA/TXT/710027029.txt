@@ -1,0 +1,8 @@
+ITEM ID: 710027029
+ICON ID: Icon_bundle_Cardboard_Prem_27
+NOMBRE: Gators Papercut Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710027029.png

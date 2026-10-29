@@ -1,0 +1,8 @@
+ITEM ID: 904052005
+ICON ID: Icon_Bag_Carnival26
+NOMBRE: Backpack - Wild Beats
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052005.png

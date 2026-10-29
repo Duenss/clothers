@@ -1,0 +1,8 @@
+ITEM ID: 907104620
+ICON ID: Icon_Baseballbat_Sushi24
+NOMBRE: Bat - Surf in Style
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104620.png

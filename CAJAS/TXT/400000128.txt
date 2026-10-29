@@ -1,0 +1,8 @@
+ITEM ID: 400000128
+ICON ID: Icon_box_special
+NOMBRE: Test Taker's Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: I wish you the best of luck on the test. Open the loot crate to receive a randomly selected item or a trial card
+IMAGEN: CAJAS/imagenes/400000128.png

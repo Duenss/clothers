@@ -1,0 +1,8 @@
+ITEM ID: 203000085
+ICON ID: Icon_avatar_tshirt_oreo_green
+NOMBRE: Cookie Green
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000085.png

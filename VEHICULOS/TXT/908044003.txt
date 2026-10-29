@@ -1,0 +1,8 @@
+ITEM ID: 908044003
+ICON ID: Icon_slot_Motobike_Crystal
+NOMBRE: Motorbike - Icicle Velocity
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908044003.png

@@ -1,0 +1,8 @@
+ITEM ID: 908038005
+ICON ID: Icon_slot_Roadster_Eldergods
+NOMBRE: Sports Car - Kitsune Kami
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908038005.png

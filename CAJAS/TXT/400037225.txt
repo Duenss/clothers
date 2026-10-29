@@ -1,0 +1,8 @@
+ITEM ID: 400037225
+ICON ID: Icon_box_KFC_Limited_2_ID_37
+NOMBRE: KFC Limited Box 2
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Congratulations! Use the Limited KFC box to be better! KFC Jagonya ayam!
+IMAGEN: CAJAS/imagenes/400037225.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000555
+ICON ID: Icon_exchange_ob23_orange_flower
+NOMBRE: Orange Flower
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Spring time blooming
+IMAGEN: CAJAS/imagenes/801000555.png

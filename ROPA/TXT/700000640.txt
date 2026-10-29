@@ -1,0 +1,8 @@
+ITEM ID: 700000640
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Agent Hop Package
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Agent Hop, the Carnival Agent Hop pet skin, and other rewards!
+IMAGEN: ROPA/imagenes/700000640.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104506
+ICON ID: Icon_Pan_Octopus
+NOMBRE: Pan - Captain Treasurehunt
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104506.png

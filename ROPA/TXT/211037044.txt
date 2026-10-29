@@ -1,0 +1,8 @@
+ITEM ID: 211037044
+ICON ID: Icon_avatar_male_cos_accessory_cricket_red
+NOMBRE: Eminent Cricketer (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037044.png

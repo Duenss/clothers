@@ -1,0 +1,8 @@
+ITEM ID: 907105122
+ICON ID: Icon_Machete_Casual_Blue
+NOMBRE: Parang - Summer Slice
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105122.png

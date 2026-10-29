@@ -1,0 +1,8 @@
+ITEM ID: 211041036
+ICON ID: Icon_avatar_cos_hair_esports_th
+NOMBRE: FFTC The Pro (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041036.png

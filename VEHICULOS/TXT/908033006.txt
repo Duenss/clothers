@@ -1,0 +1,8 @@
+ITEM ID: 908033006
+ICON ID: Icon_slot_Motobike_Fastbreaking22
+NOMBRE: Motorbike - Emerald Shimmer
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908033006.png

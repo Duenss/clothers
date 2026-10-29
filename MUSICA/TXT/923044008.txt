@@ -1,0 +1,8 @@
+ITEM ID: 923044008
+ICON ID: FF_UI_Voiceitem_PARADOX44_04
+NOMBRE: IV - No dude, please no!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Event Exclusive Voice Pack
+IMAGEN: MUSICA/imagenes/923044008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400026006
+ICON ID: Icon_box_3
+NOMBRE: Top Hat Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Egg Day 2021
+IMAGEN: ROPA/imagenes/400026006.png

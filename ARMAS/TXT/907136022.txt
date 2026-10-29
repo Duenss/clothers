@@ -1,0 +1,8 @@
+ITEM ID: 907136022
+ICON ID: Icon_Machete_BDK
+NOMBRE: Parang - Blade of Glory
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136022.png

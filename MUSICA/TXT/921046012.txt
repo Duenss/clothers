@@ -1,0 +1,8 @@
+ITEM ID: 921046012
+ICON ID: FF_UI_Voiceitem_Windah
+NOMBRE: [Windah] Mama help me
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Playing is more fun with Windah's voice!
+IMAGEN: MUSICA/imagenes/921046012.png

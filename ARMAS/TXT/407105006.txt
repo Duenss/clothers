@@ -1,0 +1,8 @@
+ITEM ID: 407105006
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Volcanic Might (P90) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive a random gun skin (P90) from the Volcanic Might set
+IMAGEN: ARMAS/imagenes/407105006.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000333
+ICON ID: Icon_exchange_ind_chocolate_black
+NOMBRE: Valentine's Love Chocolate - Black
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A symbol of love
+IMAGEN: CAJAS/imagenes/801000333.png

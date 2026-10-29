@@ -1,0 +1,8 @@
+ITEM ID: 801000497
+ICON ID: Icon_exchange_ob22_appreciation_token
+NOMBRE: Appreciation Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Thank you!
+IMAGEN: CAJAS/imagenes/801000497.png

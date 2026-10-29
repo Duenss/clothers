@@ -1,0 +1,8 @@
+ITEM ID: 211043050
+ICON ID: Icon_avatar_cos_hair_singergirl_dreadlocks
+NOMBRE: Pigtails Superstar (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043050.png

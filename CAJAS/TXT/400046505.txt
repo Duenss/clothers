@@ -1,0 +1,8 @@
+ITEM ID: 400046505
+ICON ID: Icon_box_Spooky_Box_US-ES_46
+NOMBRE: Spooky Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046505.png

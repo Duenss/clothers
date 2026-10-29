@@ -1,0 +1,8 @@
+ITEM ID: 907103143
+ICON ID: Icon_Newyear21_Grenade
+NOMBRE: Grenade - Frozen Fox
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103143.png

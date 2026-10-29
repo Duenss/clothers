@@ -1,0 +1,8 @@
+ITEM ID: 400030110
+ICON ID: Icon_box_3
+NOMBRE: Pumpkin Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Happy Halloween!
+IMAGEN: ROPA/imagenes/400030110.png

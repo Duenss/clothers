@@ -1,0 +1,8 @@
+ITEM ID: 801000953
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Purple Ramadan Lantern Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Sportsmanship and courage
+IMAGEN: CAJAS/imagenes/801000953.png

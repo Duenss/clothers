@@ -1,0 +1,8 @@
+ITEM ID: 205046008
+ICON ID: Icon_avatar_male_cos_shoe_sushi24
+NOMBRE: Wrap in Style (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205046008.png

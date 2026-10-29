@@ -1,0 +1,8 @@
+ITEM ID: 908044001
+ICON ID: Icon_slot_Jeep_Videogame
+NOMBRE: Jeep - Byte Ranger
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908044001.png

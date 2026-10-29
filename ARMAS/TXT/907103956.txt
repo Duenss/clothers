@@ -1,0 +1,8 @@
+ITEM ID: 907103956
+ICON ID: Icon_GlooShield_Selected
+NOMBRE: Gloo Wall - Cyberdelic
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103956.png

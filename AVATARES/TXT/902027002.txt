@@ -1,0 +1,8 @@
+ITEM ID: 902027002
+ICON ID: Icon_face_Horrorcircus_EP_B
+NOMBRE: Cursed Magician
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027002.png

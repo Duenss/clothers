@@ -1,0 +1,8 @@
+ITEM ID: 907101407
+ICON ID: Icon_AK47_Samurai
+NOMBRE: AK47 - Red Samurai
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101407.png

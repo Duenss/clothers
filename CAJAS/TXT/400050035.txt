@@ -1,0 +1,8 @@
+ITEM ID: 400050035
+ICON ID: Icon_box_KyB_50
+NOMBRE: Kayou Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050035.png

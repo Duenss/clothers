@@ -1,0 +1,8 @@
+ITEM ID: 907102635
+ICON ID: Icon_Katana_Cola
+NOMBRE: Katana - Tranquil Torrent
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102635.png

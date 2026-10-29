@@ -1,0 +1,8 @@
+ITEM ID: 907103210
+ICON ID: Icon_Thompson_Blackangel
+NOMBRE: Thompson - Fierce Demilord
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103210.png

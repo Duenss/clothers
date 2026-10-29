@@ -1,0 +1,8 @@
+ITEM ID: 819041004
+ICON ID: FF_UI_VFX_Slime_02
+NOMBRE: Knocking Down or Elimination Effect (Jelly Assault)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: Special effects when knocking down or eliminating an enemy when wearing the Jelly Assault themed top.
+IMAGEN: CAJAS/imagenes/819041004.png

@@ -1,0 +1,8 @@
+ITEM ID: 211001257
+ICON ID: Icon_avatar_cos_accessory_silversword_white
+NOMBRE: Metallic Circalight (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001257.png

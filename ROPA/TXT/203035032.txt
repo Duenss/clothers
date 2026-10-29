@@ -1,0 +1,8 @@
+ITEM ID: 203035032
+ICON ID: Icon_avatar_cos_top_sportswear_me
+NOMBRE: Jock Shock (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035032.png

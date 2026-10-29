@@ -1,0 +1,8 @@
+ITEM ID: 907104509
+ICON ID: Icon_MINI_Spirit24
+NOMBRE: AC80 - Anemo Limelight
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104509.png

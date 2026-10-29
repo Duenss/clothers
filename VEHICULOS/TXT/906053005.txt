@@ -1,0 +1,8 @@
+ITEM ID: 906053005
+ICON ID: Icon_Avatar_Surfboard_Gemini25_O
+NOMBRE: Skyboard - Twinstars Surf
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906053005.png

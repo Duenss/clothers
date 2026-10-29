@@ -1,0 +1,8 @@
+ITEM ID: 801041014
+ICON ID: FF_UI_Fisherman_Token
+NOMBRE: BP S10 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801041014.png

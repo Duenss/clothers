@@ -1,0 +1,8 @@
+ITEM ID: 913039006
+ICON ID: FF_UI_Vault_Music_ExplosionB_Demolitionist
+NOMBRE: Explosive Surprise
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Theme song of "Alvaro: Reignition" event
+IMAGEN: MUSICA/imagenes/913039006.png

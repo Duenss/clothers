@@ -1,0 +1,8 @@
+ITEM ID: 903039006
+ICON ID: Icon_Deadloot_Thug
+NOMBRE: Loot Box - Rage Projectile
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903039006.png

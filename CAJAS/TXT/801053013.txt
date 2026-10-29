@@ -1,0 +1,8 @@
+ITEM ID: 801053013
+ICON ID: Icon_exchange_btmt_53
+NOMBRE: Undersea Mystery Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053013.png

@@ -1,0 +1,8 @@
+ITEM ID: 921055019
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Ji
+NOMBRE: I'll never give up! That's the true choice I have to make!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Jiraiya Voice Pack
+IMAGEN: MUSICA/imagenes/921055019.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000669
+ICON ID: FF_Icon_Detective_deluxe
+NOMBRE: Clu's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Clu and her special outfit. When this outfit is equipped, Clu can display her special move on the starting island
+IMAGEN: ROPA/imagenes/710000669.png

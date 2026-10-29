@@ -1,0 +1,8 @@
+ITEM ID: 204038010
+ICON ID: Icon_avatar_male_cos_bottom_colorfest23_02
+NOMBRE: Bionic Vagabond (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038010.png

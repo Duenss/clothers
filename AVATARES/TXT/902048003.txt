@@ -1,0 +1,8 @@
+ITEM ID: 902048003
+ICON ID: Icon_face_Cupnoodle
+NOMBRE: Noodlicious Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902048003.png

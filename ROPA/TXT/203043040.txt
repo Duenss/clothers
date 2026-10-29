@@ -1,0 +1,8 @@
+ITEM ID: 203043040
+ICON ID: Icon_avatar_male_cos_top_yinyang23
+NOMBRE: Scorching Seal (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043040.png

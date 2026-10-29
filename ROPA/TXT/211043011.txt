@@ -1,0 +1,8 @@
+ITEM ID: 211043011
+ICON ID: Icon_avatar_male_cos_accessory_evilbehind
+NOMBRE: Inner Devil (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043011.png

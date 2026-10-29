@@ -1,0 +1,8 @@
+ITEM ID: 1310000122
+ICON ID: Icon_Pet_Pure
+NOMBRE: Pet Skin: Great White Beaston
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Look at him shine under the sun!
+IMAGEN: MASCOTAS/imagenes/1310000122.png

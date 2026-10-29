@@ -1,0 +1,8 @@
+ITEM ID: 801049013
+ICON ID: Icon_exchange_Pony_Sys_2_49
+NOMBRE: Solara Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049013.png

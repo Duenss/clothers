@@ -1,0 +1,8 @@
+ITEM ID: 902049011
+ICON ID: Icon_face_CSRank31_02
+NOMBRE: CS-Ranked S31 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902049011.png

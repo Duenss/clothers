@@ -1,0 +1,8 @@
+ITEM ID: 400040119
+ICON ID: Icon_box_Traphiphop22_adv_40
+NOMBRE: BP S7 Deluxe Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400040119.png

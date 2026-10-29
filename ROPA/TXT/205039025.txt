@@ -1,0 +1,8 @@
+ITEM ID: 205039025
+ICON ID: Icon_avatar_male_cos_shoe_darkspace
+NOMBRE: Mobile Weapon "X" (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039025.png

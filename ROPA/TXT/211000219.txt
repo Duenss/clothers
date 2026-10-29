@@ -1,0 +1,8 @@
+ITEM ID: 211000219
+ICON ID: Icon_avatar_male_accessory_cos_bloodmoon_gold
+NOMBRE: Golden Samurai (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000219.png

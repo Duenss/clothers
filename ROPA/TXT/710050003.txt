@@ -1,0 +1,8 @@
+ITEM ID: 710050003
+ICON ID: Icon_bundle_male_2NBCT_Six_50
+NOMBRE: Obito (The Ten Tails' Jinchuriki) Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710050003.png

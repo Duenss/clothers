@@ -1,0 +1,8 @@
+ITEM ID: 400046112
+ICON ID: Icon_box_Mr_Waggor_30D_ID_42
+NOMBRE: Ottero 30D Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046112.png

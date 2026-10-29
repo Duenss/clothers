@@ -1,0 +1,8 @@
+ITEM ID: 205035037
+ICON ID: Icon_avatar_male_cos_shoe_cateam
+NOMBRE: Azulcrema In Motion (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205035037.png

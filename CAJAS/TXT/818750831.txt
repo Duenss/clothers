@@ -1,0 +1,8 @@
+ITEM ID: 818750831
+ICON ID: FF_Lottery_Itachi_Voucher_3
+NOMBRE: Spin Shard
+TIPO: Vouchers
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Spin Shard
+IMAGEN: CAJAS/imagenes/818750831.png

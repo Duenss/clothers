@@ -1,0 +1,8 @@
+ITEM ID: 801000259
+ICON ID: Icon_exchange_White_balloon
+NOMBRE: White Balloon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Celebrate Republic Day with balloons!
+IMAGEN: CAJAS/imagenes/801000259.png

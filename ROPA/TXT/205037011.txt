@@ -1,0 +1,8 @@
+ITEM ID: 205037011
+ICON ID: Icon_avatar_male_cos_shoe_westernhunter
+NOMBRE: Steel Cowboy (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037011.png

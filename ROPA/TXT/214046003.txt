@@ -1,0 +1,8 @@
+ITEM ID: 214046003
+ICON ID: Icon_avatar_male_cos_headadditive_sugarskull24_02
+NOMBRE: Bony Punch (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214046003.png

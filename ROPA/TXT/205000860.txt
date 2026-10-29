@@ -1,0 +1,8 @@
+ITEM ID: 205000860
+ICON ID: Icon_avatar_cos_shoe_yokai_black
+NOMBRE: Iron Fiend (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000860.png

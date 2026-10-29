@@ -1,0 +1,8 @@
+ITEM ID: 907104011
+ICON ID: Icon_MAG7_Royal22
+NOMBRE: MAG-7 - Noble Sanction
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104011.png

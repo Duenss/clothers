@@ -1,0 +1,8 @@
+ITEM ID: 908052002
+ICON ID: Icon_slot_Amphibian_Pisces
+NOMBRE: Amphibian - Rippling Stars
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052002.png

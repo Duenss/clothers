@@ -1,0 +1,8 @@
+ITEM ID: 801000173
+ICON ID: Icon_exchange_tournament
+NOMBRE: Tournament Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000173.png

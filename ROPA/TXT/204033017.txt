@@ -1,0 +1,8 @@
+ITEM ID: 204033017
+ICON ID: Icon_avatar_male_cos_bottom_fastbreaking22
+NOMBRE: Timbered Blooms (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033017.png

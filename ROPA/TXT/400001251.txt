@@ -1,0 +1,8 @@
+ITEM ID: 400001251
+ICON ID: Icon_box_3
+NOMBRE: FACT4 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400001251.png

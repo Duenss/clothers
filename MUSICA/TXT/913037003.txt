@@ -1,0 +1,8 @@
+ITEM ID: 913037003
+ICON ID: FF_UI_Vault_Music_Soccer22
+NOMBRE: Score in Style
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Football Fable lobby music
+IMAGEN: MUSICA/imagenes/913037003.png

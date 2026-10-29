@@ -1,0 +1,8 @@
+ITEM ID: 400050534
+ICON ID: Icon_box_3
+NOMBRE: Special Edition Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400050534.png

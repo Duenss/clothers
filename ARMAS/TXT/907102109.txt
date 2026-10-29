@@ -1,0 +1,8 @@
+ITEM ID: 907102109
+ICON ID: Icon_XM8_Rainbow
+NOMBRE: XM8 - Abyssal
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102109.png

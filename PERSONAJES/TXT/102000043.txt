@@ -1,0 +1,8 @@
+ITEM ID: 102000043
+ICON ID: Icon_face_male_head_sc_Djmale_Awakening
+NOMBRE: Awakened Alok
+TIPO: Characters
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Awakened Alok illuminates the world with music and color.
+IMAGEN: PERSONAJES/imagenes/102000043.png

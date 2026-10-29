@@ -1,0 +1,8 @@
+ITEM ID: 906053006
+ICON ID: Icon_Avatar_Surfboard_Gemini25
+NOMBRE: Skyboard - Sparkling Twinstars
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906053006.png

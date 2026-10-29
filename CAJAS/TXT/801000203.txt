@@ -1,0 +1,8 @@
+ITEM ID: 801000203
+ICON ID: Icon_exchange_Diwali_illumination
+NOMBRE: Diwali's Illumination
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000203.png

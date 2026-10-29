@@ -1,0 +1,8 @@
+ITEM ID: 801000810
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Clown Emoji
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000810.png

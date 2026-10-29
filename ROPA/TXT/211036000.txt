@@ -1,0 +1,8 @@
+ITEM ID: 211036000
+ICON ID: Icon_avatar_male_cos_accessory_decadentbear
+NOMBRE: Nightslayer Teddy (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036000.png

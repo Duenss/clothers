@@ -1,0 +1,8 @@
+ITEM ID: 902000363
+ICON ID: Icon_face_CSRank_Flash
+NOMBRE: CS Ranked Glory Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000363.png

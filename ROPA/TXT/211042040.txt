@@ -1,0 +1,8 @@
+ITEM ID: 211042040
+ICON ID: Icon_avatar_male_cos_accessory_brazilgum
+NOMBRE: Trident Suit (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042040.png

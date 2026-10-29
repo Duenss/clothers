@@ -1,0 +1,8 @@
+ITEM ID: 909041011
+ICON ID: Icon_Emote_Reputation
+NOMBRE: Honorable Mention Emote
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041011.png

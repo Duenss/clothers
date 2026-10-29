@@ -1,0 +1,8 @@
+ITEM ID: 246955021
+ICON ID: Pet_Spark3_Back_Pumpkin
+NOMBRE: Pumpkin
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Pumpkin
+IMAGEN: MASCOTAS/imagenes/246955021.png

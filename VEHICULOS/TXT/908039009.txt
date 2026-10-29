@@ -1,0 +1,8 @@
+ITEM ID: 908039009
+ICON ID: Icon_slot_Motobike_Darkspace
+NOMBRE: Motorbike - Deep Galaxy
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039009.png

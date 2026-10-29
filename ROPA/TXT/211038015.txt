@@ -1,0 +1,8 @@
+ITEM ID: 211038015
+ICON ID: Icon_avatar_male_cos_accessory_valentine23
+NOMBRE: Sweetie Villain (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038015.png

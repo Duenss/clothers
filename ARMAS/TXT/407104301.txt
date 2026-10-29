@@ -1,0 +1,8 @@
+ITEM ID: 407104301
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Inner Whisper (AC80) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Open to receive a random gun skin (AC80) from the Inner Whisper weapon set
+IMAGEN: ARMAS/imagenes/407104301.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105243
+ICON ID: Icon_Emoji26_Grenade
+NOMBRE: Grenade - Emoji Incoming
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105243.png

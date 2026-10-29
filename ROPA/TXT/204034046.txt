@@ -1,0 +1,8 @@
+ITEM ID: 204034046
+ICON ID: Icon_avatar_male_cos_bottom_rampage4_fire_purple
+NOMBRE: Lunar Saberanger (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034046.png

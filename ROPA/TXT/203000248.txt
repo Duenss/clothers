@@ -1,0 +1,8 @@
+ITEM ID: 203000248
+ICON ID: Icon_avatar_top_cos_Prison_orange
+NOMBRE: Prisoner (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000248.png

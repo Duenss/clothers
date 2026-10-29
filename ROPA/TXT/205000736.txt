@@ -1,0 +1,8 @@
+ITEM ID: 205000736
+ICON ID: Icon_avatar_cos_shoe_pekingopera_orange
+NOMBRE: Operano Jing (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000736.png

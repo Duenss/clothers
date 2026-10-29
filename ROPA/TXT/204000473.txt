@@ -1,0 +1,8 @@
+ITEM ID: 204000473
+ICON ID: Icon_avatar_male_sc_SoccerStar_bottom
+NOMBRE: Winning Goal (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000473.png

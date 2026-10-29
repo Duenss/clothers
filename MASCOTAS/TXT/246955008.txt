@@ -1,0 +1,8 @@
+ITEM ID: 246955008
+ICON ID: Icon_SparkPet_Color_PistachioGreen
+NOMBRE: Pistachio Green
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Pistachio Green
+IMAGEN: MASCOTAS/imagenes/246955008.png

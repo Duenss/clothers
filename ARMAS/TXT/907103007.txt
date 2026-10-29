@@ -1,0 +1,8 @@
+ITEM ID: 907103007
+ICON ID: Icon_SCAR_Lightfest
+NOMBRE: SCAR - Royal Warrior
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103007.png

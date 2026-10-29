@@ -1,0 +1,8 @@
+ITEM ID: 908051006
+ICON ID: Icon_slot_TUTU_Dreamland
+NOMBRE: Tuk Tuk - Nightmarish
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051006.png

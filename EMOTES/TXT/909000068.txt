@@ -1,0 +1,8 @@
+ITEM ID: 909000068
+ICON ID: Icon_Emote_SHARK
+NOMBRE: Feeding Time
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000068.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105010
+ICON ID: Icon_GlooShield_2NBCT_Final
+NOMBRE: Gloo Wall - The Final Valley
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105010.png

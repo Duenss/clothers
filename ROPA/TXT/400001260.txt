@@ -1,0 +1,8 @@
+ITEM ID: 400001260
+ICON ID: Icon_box_3
+NOMBRE: Bunny Warrior Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Bunny Warrior Bundle and all its pieces
+IMAGEN: ROPA/imagenes/400001260.png

@@ -1,0 +1,8 @@
+ITEM ID: 905490097
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Ultimate AUG
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by upgrading the Evo AUG to the max. Lv. 7
+IMAGEN: AVATARES/imagenes/905490097.png

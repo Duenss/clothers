@@ -1,0 +1,8 @@
+ITEM ID: 801000679
+ICON ID: Icon_exchange_ob25_red_energon
+NOMBRE: Red Power Cube
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000679.png

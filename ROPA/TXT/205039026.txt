@@ -1,0 +1,8 @@
+ITEM ID: 205039026
+ICON ID: Icon_avatar_male_cos_shoe_waterfest23
+NOMBRE: Riptide Vanguard (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039026.png

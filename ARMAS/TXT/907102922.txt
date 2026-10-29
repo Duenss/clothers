@@ -1,0 +1,8 @@
+ITEM ID: 907102922
+ICON ID: Icon_MINI_Bluetribe
+NOMBRE: AC80 - Fury Tribe
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102922.png

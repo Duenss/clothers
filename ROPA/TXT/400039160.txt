@@ -1,0 +1,8 @@
+ITEM ID: 400039160
+ICON ID: Icon_box_3
+NOMBRE: AN94 Special Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Contains AN94 gun skins
+IMAGEN: ROPA/imagenes/400039160.png

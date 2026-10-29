@@ -1,0 +1,8 @@
+ITEM ID: 907202304
+ICON ID: Icon_M500_Angeldevil
+NOMBRE: M500 - Celestial Street
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202304.png

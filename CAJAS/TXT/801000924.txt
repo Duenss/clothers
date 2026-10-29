@@ -1,0 +1,8 @@
+ITEM ID: 801000924
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: May Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Exchange for great rewards!
+IMAGEN: CAJAS/imagenes/801000924.png

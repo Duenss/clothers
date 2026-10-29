@@ -1,0 +1,8 @@
+ITEM ID: 801001640
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Time Bomb Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: The bomb has been planted
+IMAGEN: CAJAS/imagenes/801001640.png

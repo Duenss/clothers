@@ -1,0 +1,8 @@
+ITEM ID: 205050026
+ICON ID: Icon_avatar_cos_shoe_batik
+NOMBRE: Golden Twilight (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050026.png

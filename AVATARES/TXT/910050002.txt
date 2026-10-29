@@ -1,0 +1,8 @@
+ITEM ID: 910050002
+ICON ID: Pin_Small_CSPeakTournament
+NOMBRE: CS-Peak Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Peak Rewards are reset when a new season starts
+IMAGEN: AVATARES/imagenes/910050002.png

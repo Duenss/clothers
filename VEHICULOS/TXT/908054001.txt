@@ -1,0 +1,8 @@
+ITEM ID: 908054001
+ICON ID: Icon_slot_Amphibian_Denim_UD
+NOMBRE: Amphibian - Denim Flipset
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054001.png

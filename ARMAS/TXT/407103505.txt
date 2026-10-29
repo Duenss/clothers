@@ -1,0 +1,8 @@
+ITEM ID: 407103505
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Darkrose Lurker (M1014 + PLASMA) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive a random gun skin (M1014 + PLASMA) from the Darkrose Lurker weapon set
+IMAGEN: ARMAS/imagenes/407103505.png

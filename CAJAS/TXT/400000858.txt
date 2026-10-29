@@ -1,0 +1,8 @@
+ITEM ID: 400000858
+ICON ID: Icon_box_piratebox
+NOMBRE: Summoner's Chest
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Follow the Orb to find this chest!
+IMAGEN: CAJAS/imagenes/400000858.png

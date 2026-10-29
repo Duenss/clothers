@@ -1,0 +1,8 @@
+ITEM ID: 907102016
+ICON ID: Icon_AK47_Valentine2020
+NOMBRE: AK47 - Valentines
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB20
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102016.png

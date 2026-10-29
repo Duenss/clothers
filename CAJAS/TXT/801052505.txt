@@ -1,0 +1,8 @@
+ITEM ID: 801052505
+ICON ID: Icon_exchange_horse_vn_52
+NOMBRE: Horse Year Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052505.png

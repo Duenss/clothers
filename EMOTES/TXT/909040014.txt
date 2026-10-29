@@ -1,0 +1,8 @@
+ITEM ID: 909040014
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Helicopter Shot
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909040014.png

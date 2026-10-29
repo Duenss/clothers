@@ -1,0 +1,8 @@
+ITEM ID: 907102440
+ICON ID: Icon_Booyahday_Grenade
+NOMBRE: Grenade - Booyah Day
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102440.png

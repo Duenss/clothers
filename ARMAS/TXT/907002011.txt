@@ -1,0 +1,8 @@
+ITEM ID: 907002011
+ICON ID: Icon_M1014_Borderlands
+NOMBRE: M1014 - Wasteland
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002011.png

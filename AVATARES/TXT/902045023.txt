@@ -1,0 +1,8 @@
+ITEM ID: 902045023
+ICON ID: Icon_face_POPID_Char_Kathrina
+NOMBRE: JKT48 - Kathrina: Moco Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902045023.png

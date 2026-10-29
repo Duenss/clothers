@@ -1,0 +1,8 @@
+ITEM ID: 907103503
+ICON ID: Icon_Kar98K_Deepseasharks
+NOMBRE: Kar98k - Apex Underwater
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103503.png

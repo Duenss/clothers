@@ -1,0 +1,8 @@
+ITEM ID: 205050014
+ICON ID: Icon_avatar_male_cos_shoe_zombieduo
+NOMBRE: Prince Darkheart (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050014.png

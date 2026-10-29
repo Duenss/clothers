@@ -1,0 +1,98 @@
+﻿ITEM_ID	ICON_ID	NOMBRE	TIPO	RAREZA	TAG	IMAGEN	DESCRIPCION
+101000001	Icon_face_female01_head	Nulla	Characters	NONE (None)		PERSONAJES/imagenes/101000001.png	Nobody knows how she got onto Bermuda, except that she was here before everyone else. Extremely good at adapting to the environment, she is like a chameleon that survives and thrives.
+101000004	Icon_face_female01_head	Unknown	Characters	WHITE (Common)		PERSONAJES/imagenes/101000004.png	
+101000005	Icon_face_female_head_sc_nurse	Olivia	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000005.png	Chief nurse of a renowned hospital.
+101000006	Icon_face_female_head_sc_runner	Kelly	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000006.png	Kelly is an athlete, a sprinter.
+101000007	Icon_face_female_head_sc_bodyguard	Nikita	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000007.png	Nikita works as a professional bodyguard.
+101000008	Icon_face_female_head_sc_racergirl	Misha	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000008.png	Misha is an extremely talented racer.
+101000009	Icon_face_female_head_sc_armsdealer	Paloma	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000009.png	Paloma is the reigning arms queen of the underworld.
+101000010	Icon_face_female_head_sc_richgirl	Caroline	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000010.png	A schoolgirl from an extremely wealthy family.
+101000011	Icon_face_female_head_sc_HackerGirl	Moco	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000011.png	Moco is an outstanding hacker.
+101000012	Icon_face_female_head_sc_Agent	Laura	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000012.png	Laura is an outstanding special agent.
+101000013	Icon_face_female_head_sc_MadeManA	A124	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000013.png	A124 is a robot made with modern technology.
+101000014	Icon_face_female_head_sc_JunkEngineer	Shani	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000014.png	Shani is an engineer who works at a junkyard.
+101000015	Icon_face_female_head_sc_Awakening	Kelly "the Swift"	Characters	ORANGE (Mythic)		PERSONAJES/imagenes/101000015.png	Kelly's potential is unlocked for use.
+101000016	Icon_face_female_head_sc_Tomboy	Notora	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000016.png	Notora is a tomboyish motorcycle gang member.
+101000017	Icon_face_female_head_sc_Graffitist	Steffie	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000017.png	Steffie is a pro graffiti artist.
+101000018	Icon_face_female_head_sc_KpopSinger	Kapella	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000018.png	Kapella is a popular pop singer and star.
+101000019	Icon_face_female_head_sc_Detective	Clu	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000019.png	Clu is a modern day private detective.
+101000020	Icon_face_female_head_sc_PartyGirl	Dasha	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000020.png	Dasha is a prankster and rebel.
+101000021	Icon_face_female_head_sc_Researcher	Snowelle	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000021.png	Snowelle is a nanotech engineer.
+101000022	Icon_face_female_head_sc_Xtreme	Xayne	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000022.png	Xayne is an extreme sports athlete.
+101000023	Icon_face_female_head_sc_Moco_Awakening	Moco "Enigma"	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000023.png	Moco "Enigma" knows what she has to do.
+101000024	Icon_face_female_head_sc_RhythmGirl	A-Patroa	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000024.png	A-Patroa is an owner of a music shop, which doubles as a safe haven for the local community. She uses her music to rehabilitate people.
+101000025	Icon_face_female_head_sc_Crazygirl	Iris	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000025.png	Iris is a deaf, tech-modded assassin who had a large hand in shaping the city she lives in.
+101000026	Icon_face_female_head_sc_GangGirl	Luna	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000026.png	Luna is the spark plug and an extremely capable leader of the Guild.
+101000027	Icon_face_female_head_sc_Nanoscientist	Sonia	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000027.png	Sonia is a genetically modified nanoscientist with exceptional intelligence and expertise in nanobiotechnology.
+101000028	Icon_face_female_head_sc_Assassingirl	Suzy	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000028.png	Suzy is a formidable bounty assassin who is kind at heart. She has a soft spot for orphans and is willing to continue her profession to prevent them from having a similar childhood as hers.
+101000049	Icon_face_female_head_sc_Electricgirl	Kassie	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000049.png	A paranoid, eccentric neuroscientist who walks the line between good and evil. She is obsessed with electroshock therapies and follows her own set of rules.
+101000050	Icon_face_female_head_sc_MischiefGirl	Lila	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000050.png	A cool, spry girl from the city of La Luna with excellent parkour skills and a playful nature. She likes to work with Mr. Waggor, outsmarting their foes together with clever pranks and innovative Gloo inventions.
+101000053	Icon_face_female_head_sc_ShadowGirl	Rin	Characters	PURPLE (Epic)		PERSONAJES/imagenes/101000053.png	Hayato's younger sister, a skilled and calm ninja. As the second child of the Yagami family, she dwells in the shadow to keep her family's flame alive.
+102000004	Icon_face_male04_head	Primis	Characters	WHITE (Common)		PERSONAJES/imagenes/102000004.png	Nobody knows how he got onto Bermuda, except that he was here before everyone else. Extremely good at adapting to the environment, he is like a chameleon that survives and thrives.
+102000005	Icon_face_male_head_sc_cop	Andrew	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000005.png	Andrew was once a police officer.
+102000006	Icon_face_male_head_sc_seaman	Ford	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000006.png	Ford is trained at sea and extremely tough.
+102000007	Icon_face_male_head_sc_foodieboy	Maxim	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000007.png	Maxim is a competitive eater.
+102000008	Icon_face_male_head_sc_thaiboxer	Kla	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000008.png	Kla is a renowned Muay Thai practitioner.
+102000009	Icon_face_male_head_sc_BrazilSoldier	Miguel	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000009.png	Miguel is the commander of a section in the special forces.
+102000010	Icon_face_male_head_sc_gangleader	Antonio	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000010.png	Antonio was an orphan who grew up to be a gangster.
+102000011	Icon_face_male_head_sc_monkeygod	Wukong	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000011.png	Monkey King is Here!
+102000012	Icon_face_male_head_sc_Samurai	Hayato	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000012.png	Hayato is a legendary Samurai
+102000013	Icon_face_male_head_sc_hitman	Rafael	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000013.png	Rafael is a deadly killer.
+102000014	Icon_face_male_head_sc_Playboy	Joseph	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000014.png	Joseph is a well-known physicist, but he is also a player.
+102000015	Icon_face_male_head_sc_Djmale	Alok	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000015.png	Alok is a world famous DJ, ready to drop a beat.
+102000016	Icon_face_male_head_sc_Demolitionist	Alvaro	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000016.png	Alvaro is a wild but skilled demolitionist.
+102000017	Icon_face_male_head_sc_ParkourGuy	Jota	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000017.png	Jota is a parkour expert and stuntman.
+102000018	Icon_face_male_head_sc_SoccerStar	Luqueta	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000018.png	Luqueta is an up and rising soccer star.
+102000019	Icon_face_male_head_sc_StreamerGuy	Wolfrahh	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000019.png	Wolfrahh is a game streamer and esport player.
+102000020	Icon_face_male_head_sc_Hayato_Awakening	Hayato "Firebrand"	Characters	ORANGE (Mythic)		PERSONAJES/imagenes/102000020.png	Something has awakened inside Hayato.
+102000021	Icon_face_male_head_sc_SwatGuy	Jai	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000021.png	Jai is a decorated SWAT commander.
+102000022	Icon_face_male_head_sc_Professor	K	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000022.png	K is a professor and jiu-jitsu expert.
+102000023	Icon_face_male_head_sc_MMAFighter	Sverr	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000023.png	Sverr is a top-tier MMA fighter.
+102000024	Icon_face_male_head_sc_Bounty	Chrono	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000024.png	Chrono is a bounty hunter from another universe.
+102000025	Icon_face_male_head_sc_Superstar	Skyler	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000025.png	Skyler is a CEO and superstar.
+102000026	Icon_face_male_head_sc_Delivery	Shirou	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000026.png	Shirou is the fastest delivery guy around.
+102000027	Icon_face_male_head_sc_Andrew_Awakening	Andrew "the Fierce"	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000027.png	Andrew "the Fierce" is a man on a mission.
+102000028	Icon_face_male_head_sc_Falconer	Maro	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000028.png	Maro is a professional falconer.
+102000029	Icon_face_male_head_sc_StreetBeat	D-bee	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000029.png	D-bee is a music maker and streetdancer.
+102000030	Icon_face_male_head_sc_MusicBro2	Thiva	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000030.png	Thiva is a rising singer-musician star.
+102000031	Icon_face_male_head_sc_MusicBro1	Dimitri	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000031.png	Dimitri is a world renowned sound technology engineer.
+102000032	Icon_face_male_head_sc_BooyahGuy	Leon	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000032.png	Leon is a rising star in the basketball scene.
+102000033	Icon_face_male_head_sc_MuertoGuy	Otho	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000033.png	Otho is a memory tech engineer at a polytech university.
+102000034	Icon_face_male_head_sc_WinterGuy	Nairi	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000034.png	Nairi is a storm chaser who researches about climate technology.
+102000035	UI_Icon_BlackWhite_01	Thala	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000035.png	Thala is a man full of motivation despite having grown up under challenging circumstances. He achieved success through sheer hard work and is now determined to help others find their light.
+102000036	Icon_face_male_head_sc_Blacksmith	Kenta	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000036.png	Kenta is Hayato's bodyguard and a skilled weaponsmith.
+102000037	Icon_face_male_head_sc_Tracker	Homer	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000037.png	Homer is a blind assassin whose other senses more than make up for his lost one.
+102000038	Icon_face_male_head_sc_Singers	J.Biebs	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000038.png	J.Biebs is a singer who dedicates his life and uses his singing to reunite the world.
+102000039	Icon_face_male_head_sc_Yakuza	Tatsuya	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000039.png	Tatsuya is a hothead who is willing to trust to make his city a better place.
+102000040	Icon_face_male_head_sc_Designer	Santino	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000040.png	Santino Valentine is a fashion designer, who is always a trending subject in the fashion world and on social media.
+102000041	Icon_face_male_head_sc_Villain	Orion	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000041.png	Orion is a former mercenary who underwent a biological transformation and obtained a formidable power.
+102000042	Icon_face_male_head_sc_Demolitionist_Awakening	Alvaro "Rageblast"	Characters	ORANGE (Mythic)		PERSONAJES/imagenes/102000042.png	Alvaro "Firebrand" is a wild but skilled demolitionist.
+102000043	Icon_face_male_head_sc_Djmale_Awakening	Awakened Alok	Characters	ORANGE (Mythic)		PERSONAJES/imagenes/102000043.png	Awakened Alok illuminates the world with music and color.
+102000044	Icon_face_male_head_sc_Superteen	Ignis	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000044.png	Ignis is a superpowered teenager who was born with the ability to "ignite". Although sometimes his power causes even bigger problems, he still steps up to fight crime and uphold justice.
+102000045	Icon_face_male_head_sc_Geek	Ryden	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000045.png	A 16-year-old genius inventor with knowledge beyond his age. Once a little boy who sought refuge under the protection of his sister, Suzy, he now bravely stands on the battlefield with his inventions.
+102000046	Icon_face_male_head_sc_Dualman	Kairos	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000046.png	A former soldier of the Special Forces. His fate took a sharp turn when encountering a mysterious energy source, which transformed his body and instilled a constant craving for more energy.
+102000051	Icon_face_male_head_sc_Auroraboy	Koda	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000051.png	Born in the arctic region, Koda was once led by a snow fox to find a mask embedded with advanced tech of his village. The nature-loving boy has longed for an adventure in the outside world. As he met Wolfrahh while playing games online and, later on, Leon and his sister, Koda began to explore what is beyond the familiar.
+102000052	Icon_face_male_head_sc_CityHeroBoy	Oscar	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000052.png	A brilliant, even slightly overachieving student by day and a beloved vigilante by night. With his flashy physical prowess, Oscar leaps through the shadows to take down the evil.
+102000054	Icon_face_male_head_sc_Dreamlandboy	Nero	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000054.png	A miraculous survivor of a brutal freeze, who gained the power to shape dreams on his last legs. All-powerful in the dreamspace, he acts solitarily and stays untraceable in the waking world.
+102000055	Icon_face_male_head_sc_Mysteryman	Morse	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000055.png	Silent and free like a mouse, Morse never leaves a trace behind. He slips between the real world and the web, driven only by self-interests.
+102000056	Icon_face_male_head_sc_EclipseMan	Ray	Characters	PURPLE (Epic)		PERSONAJES/imagenes/102000056.png	Tired of endless fighting, Ray chose to leave the gang behind with help from Shirou's father. Since then, he has wandered through the hidden corners of different cities, protecting the weak with his own power.
+103000001	Icon_face_normal02	Private	Characters	NONE (None)		PERSONAJES/imagenes/103000001.png	Private relationship locked
+103000002	FF_UI_CharacterSkill_SwatGuy	Jai's Microchip	Characters	PURPLE (Epic)		PERSONAJES/imagenes/103000002.png	Use to obtain Jai's skill - Raging Reload
+103000003	FF_UI_CharacterSkill_Singers	J.Biebs' Microchip	Characters	PURPLE (Epic)		PERSONAJES/imagenes/103000003.png	Use to obtain J.Biebs's skill - Silent Sentinel
+103000004	FF_UI_CharacterSkill_Bounty	Chrono's Microchip	Characters	PURPLE (Epic)		PERSONAJES/imagenes/103000004.png	Use to obtain Chrono's skill - Time Turner
+922042001	UI_Icon_SkillSkin_MonkeyGod_Winterland23B	Skill Skin: Frost Monkey	Skill Skins	ORANGE (Mythic)	OB42	PERSONAJES/imagenes/922042001.png	
+922042002	UI_Icon_SkillSkin_Tracker_Winterland23B	Skill Skin: Frost Shockwave	Skill Skins	ORANGE (Mythic)	OB42	PERSONAJES/imagenes/922042002.png	
+922042003	UI_Icon_SkillSkin_Yakuza_Winterland23B	Skill Skin: Frost Rush	Skill Skins	PURPLE (Epic)	OB42	PERSONAJES/imagenes/922042003.png	
+922042004	UI_Icon_SkillSkin_Yakuza	Skill Skin: Rebel Rush	Skill Skins	WHITE (Common)	OB42	PERSONAJES/imagenes/922042004.png	
+922042005	UI_Icon_SkillSkin_Tracker	Skill Skin: Senses Shockwave	Skill Skins	WHITE (Common)	OB42	PERSONAJES/imagenes/922042005.png	
+922042006	UI_Icon_SkillSkin_MonkeyGod	Skill Skin: Camouflage	Skill Skins	WHITE (Common)	OB42	PERSONAJES/imagenes/922042006.png	
+922043001	UI_Icon_SkillSkin_Alok_Summerfest	Skill Skin: Splash the Beat	Skill Skins	ORANGE (Mythic)	OB43	PERSONAJES/imagenes/922043001.png	Some effects are only visible after awakening
+922043002	UI_Icon_SkillSkin_Nanoscientist_Galaxy	Skill Skin: Galaxy Lifeshield	Skill Skins	ORANGE (Mythic)	OB43	PERSONAJES/imagenes/922043002.png	
+922043003	UI_Icon_SkillSkin_Alok	Skill Skin: Drop the Beat	Skill Skins	WHITE (Common)	OB43	PERSONAJES/imagenes/922043003.png	Some effects are only visible after awakening
+922043004	UI_Icon_SkillSkin_Nanoscientist	Skill Skin: Nano Lifeshield	Skill Skins	WHITE (Common)	OB43	PERSONAJES/imagenes/922043004.png	
+922044001	UI_Icon_SkillSkin_Villain_Persona	Skill Skin: Crimson Paradox	Skill Skins	ORANGE (Mythic)	OB44	PERSONAJES/imagenes/922044001.png	
+922044002	UI_Icon_SkillSkin_Villain	Skill Skin: Crimson Crush	Skill Skins	WHITE (Common)	OB44	PERSONAJES/imagenes/922044002.png	
+922045001	UI_Icon_SkillSkin_Superstar_Spirit24	Skill Skin: Anemo Rhythm	Skill Skins	ORANGE (Mythic)	OB45	PERSONAJES/imagenes/922045001.png	
+922045002	UI_Icon_SkillSkin_Superstar	Skill Skin: Riptide Rhythm	Skill Skins	WHITE (Common)	OB45	PERSONAJES/imagenes/922045002.png	
+922047001	UI_Icon_SkillSkin_MonkeyGod_Wukong_NB	Skill Skin: Substitution Jutsu	Skill Skins	ORANGE (Mythic)	OB47	PERSONAJES/imagenes/922047001.png	
+922048001	UI_Icon_SkillSkin_Yakuza_Cityhero	Skill Skin: Midnight Rush	Skill Skins	ORANGE (Mythic)	OB48	PERSONAJES/imagenes/922048001.png	

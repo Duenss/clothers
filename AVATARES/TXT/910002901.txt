@@ -1,0 +1,8 @@
+ITEM ID: 910002901
+ICON ID: Pin_Small_Musicfest
+NOMBRE: 4th Anniversary Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910002901.png

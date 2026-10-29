@@ -1,0 +1,8 @@
+ITEM ID: 905051002
+ICON ID: Icon_Avatar_PARACHUTE_Stylish
+NOMBRE: Parachute - Fashion Monster
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905051002.png

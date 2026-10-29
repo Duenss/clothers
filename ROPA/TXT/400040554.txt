@@ -1,0 +1,8 @@
+ITEM ID: 400040554
+ICON ID: Icon_box_3
+NOMBRE: Bunny Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Style like a bunny
+IMAGEN: ROPA/imagenes/400040554.png

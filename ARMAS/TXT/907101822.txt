@@ -1,0 +1,8 @@
+ITEM ID: 907101822
+ICON ID: Icon_SPAS12_BJD
+NOMBRE: SPAS12 - Arctic Blue
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB18
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101822.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103116
+ICON ID: Icon_AUG_Cyanphoenix
+NOMBRE: AUG - Phoenix Knight
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103116.png

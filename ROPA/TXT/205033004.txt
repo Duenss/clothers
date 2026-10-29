@@ -1,0 +1,8 @@
+ITEM ID: 205033004
+ICON ID: Icon_avatar_male_cos_shoe_chess
+NOMBRE: Checkmate Knight (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033004.png

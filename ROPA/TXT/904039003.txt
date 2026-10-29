@@ -1,0 +1,8 @@
+ITEM ID: 904039003
+ICON ID: Icon_Bag_Rollerskating_02
+NOMBRE: Backpack - Zesty Rollers
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039003.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105418
+ICON ID: Icon_Kord_CSRank38
+NOMBRE: Kord - S38 Exclusive: Crisp
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105418.png

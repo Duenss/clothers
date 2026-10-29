@@ -1,0 +1,8 @@
+ITEM ID: 204046019
+ICON ID: Icon_avatar_male_cos_bottom_sugarskull24_01
+NOMBRE: Necro Walker (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046019.png

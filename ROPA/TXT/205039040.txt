@@ -1,0 +1,8 @@
+ITEM ID: 205039040
+ICON ID: Icon_avatar_male_cos_shoe_comic
+NOMBRE: OG Hero in Action (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039040.png

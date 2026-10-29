@@ -1,0 +1,8 @@
+ITEM ID: 908039011
+ICON ID: Icon_slot_Motobike_Correction
+NOMBRE: Motorbike - Correction Tape
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039011.png

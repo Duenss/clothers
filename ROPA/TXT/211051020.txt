@@ -1,0 +1,8 @@
+ITEM ID: 211051020
+ICON ID: Icon_avatar_male_cos_accessory_urbancyber
+NOMBRE: Cyber Operator (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051020.png

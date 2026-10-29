@@ -1,0 +1,8 @@
+ITEM ID: 205047013
+ICON ID: Icon_avatar_male_cos_shoe_valentine25
+NOMBRE: Thorny Desire (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205047013.png

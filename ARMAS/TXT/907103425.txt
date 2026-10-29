@@ -1,0 +1,8 @@
+ITEM ID: 907103425
+ICON ID: Icon_Pan_Moco34
+NOMBRE: Pan - Innocent Moco
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103425.png

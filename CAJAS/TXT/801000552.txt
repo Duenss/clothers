@@ -1,0 +1,8 @@
+ITEM ID: 801000552
+ICON ID: Icon_exchange_ob23_independence_kite_orange
+NOMBRE: Independence Kite Orange
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Fly higher
+IMAGEN: CAJAS/imagenes/801000552.png

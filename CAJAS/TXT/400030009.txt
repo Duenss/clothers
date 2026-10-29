@@ -1,0 +1,8 @@
+ITEM ID: 400030009
+ICON ID: Icon_face_male_sc_SoccerStar
+NOMBRE: Luqueta's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: GREEN (Uncommon)
+TAG: OB30
+DESCRIPCION: Open to Receive Memory Fragment (Luqueta)
+IMAGEN: CAJAS/imagenes/400030009.png

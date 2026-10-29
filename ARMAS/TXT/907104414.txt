@@ -1,0 +1,8 @@
+ITEM ID: 907104414
+ICON ID: Icon_USP45_Carnivore_B
+NOMBRE: USP-2 - Poison Teeth
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104414.png

@@ -1,0 +1,8 @@
+ITEM ID: 400028310
+ICON ID: Icon_box_BooyahTV_28
+NOMBRE: MP40 Bloody Gold Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: BOOYAH! Reward
+IMAGEN: CAJAS/imagenes/400028310.png

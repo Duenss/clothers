@@ -1,0 +1,8 @@
+ITEM ID: 904050008
+ICON ID: Icon_Bag_Cloudyday
+NOMBRE: Backpack - Thunder Rumble
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050008.png

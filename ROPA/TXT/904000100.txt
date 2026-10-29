@@ -1,0 +1,8 @@
+ITEM ID: 904000100
+ICON ID: Icon_Bag_Borderlands
+NOMBRE: Backpack - Wasteland
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000100.png

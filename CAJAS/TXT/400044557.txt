@@ -1,0 +1,8 @@
+ITEM ID: 400044557
+ICON ID: Icon_box_TSYbox_47_1
+NOMBRE: Rank Store Outfits 1
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive a random piece of outfit from the Rank Exchange Store
+IMAGEN: CAJAS/imagenes/400044557.png

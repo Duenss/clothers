@@ -1,0 +1,8 @@
+ITEM ID: 205033012
+ICON ID: Icon_avatar_cos_shoe_raincoat
+NOMBRE: Raindoll (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033012.png

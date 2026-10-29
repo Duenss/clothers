@@ -1,0 +1,8 @@
+ITEM ID: 907202517
+ICON ID: Icon_SVD_Researcher
+NOMBRE: SVD - Dr. Nanotech
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202517.png

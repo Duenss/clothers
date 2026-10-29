@@ -1,0 +1,8 @@
+ITEM ID: 921054039
+ICON ID: FF_UI_Voiceitem_GOKU54TUNG
+NOMBRE: Hello everyone, I'm back again. Wow wow wow!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Hello everyone, I'm back again. Wow wow wow!
+IMAGEN: MUSICA/imagenes/921054039.png

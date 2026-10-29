@@ -1,0 +1,8 @@
+ITEM ID: 710038022
+ICON ID: Icon_bundle_female_Valentine23_38
+NOMBRE: Cutthroat Candy Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710038022.png

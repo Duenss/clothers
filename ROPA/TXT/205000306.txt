@@ -1,0 +1,8 @@
+ITEM ID: 205000306
+ICON ID: Icon_avatar_male_shoe_cos_BJD2_magma
+NOMBRE: Flaming Red (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000306.png

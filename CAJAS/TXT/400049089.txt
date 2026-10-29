@@ -1,0 +1,8 @@
+ITEM ID: 400049089
+ICON ID: Icon_box_EighthEvent3_49
+NOMBRE: Happy Anniv. Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400049089.png

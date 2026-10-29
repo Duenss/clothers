@@ -1,0 +1,8 @@
+ITEM ID: 905051006
+ICON ID: Icon_Avatar_PARACHUTE_Sports_ME
+NOMBRE: Parachute - Football Champion
+TIPO: Parachute
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905051006.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105062
+ICON ID: Icon_Diwali25_Grenade
+NOMBRE: Grenade - String Ball
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105062.png

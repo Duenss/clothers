@@ -1,0 +1,8 @@
+ITEM ID: 211039010
+ICON ID: Icon_avatar_male_cos_hair_rollerskating_basic
+NOMBRE: Freestyle Brakes (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039010.png

@@ -1,0 +1,8 @@
+ITEM ID: 801049514
+ICON ID: Icon_exchange_NLT_id_49
+NOMBRE: Nailoong Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049514.png

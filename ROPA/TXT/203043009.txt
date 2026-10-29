@@ -1,0 +1,8 @@
+ITEM ID: 203043009
+ICON ID: Icon_avatar_male_cos_top_vnnewyear24
+NOMBRE: Dragon Clouds (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043009.png

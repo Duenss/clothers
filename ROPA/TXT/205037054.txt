@@ -1,0 +1,8 @@
+ITEM ID: 205037054
+ICON ID: Icon_avatar_male_cos_shoe_cricket_black
+NOMBRE: Bumblebee Cricketer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037054.png

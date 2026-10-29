@@ -1,0 +1,8 @@
+ITEM ID: 910030002
+ICON ID: Pin_Small_Evilrhythm
+NOMBRE: Skull Punker Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910030002.png

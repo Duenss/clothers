@@ -1,0 +1,8 @@
+ITEM ID: 801001237
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Happy Night
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Carve out some good times
+IMAGEN: CAJAS/imagenes/801001237.png

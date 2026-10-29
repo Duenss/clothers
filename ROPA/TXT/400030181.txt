@@ -1,0 +1,8 @@
+ITEM ID: 400030181
+ICON ID: Icon_box_3
+NOMBRE: Jovial Diver Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Jovial Diver and all it's pieces
+IMAGEN: ROPA/imagenes/400030181.png

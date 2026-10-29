@@ -1,0 +1,8 @@
+ITEM ID: 801001737
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Lotus Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Beautiful like a flower
+IMAGEN: CAJAS/imagenes/801001737.png

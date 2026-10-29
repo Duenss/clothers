@@ -1,0 +1,8 @@
+ITEM ID: 907101403
+ICON ID: Icon_MP40_Easter
+NOMBRE: MP40 - Crazy Bunny
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101403.png

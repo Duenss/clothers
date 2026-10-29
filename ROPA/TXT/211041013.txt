@@ -1,0 +1,8 @@
+ITEM ID: 211041013
+ICON ID: Icon_avatar_male_cos_hair_slime_01
+NOMBRE: Jelly Possession (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041013.png

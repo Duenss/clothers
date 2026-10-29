@@ -1,0 +1,8 @@
+ITEM ID: 801040109
+ICON ID: FF_UI_SixthB_03_StikcerItem09
+NOMBRE: Katana
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: With this katana in hand, you once transformed into a melee master, defeated all enemies, and became a legend in Bermuda.
+IMAGEN: CAJAS/imagenes/801040109.png

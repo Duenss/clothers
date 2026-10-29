@@ -1,0 +1,8 @@
+ITEM ID: 904045006
+ICON ID: Icon_Bag_Spirit24
+NOMBRE: Backpack - Anemo Holder
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904045006.png

@@ -1,0 +1,8 @@
+ITEM ID: 211052009
+ICON ID: Icon_avatar_male_cos_accessory_treasure26
+NOMBRE: Uncharted Voyager (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052009.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105315
+ICON ID: Icon_PP19_Rank51
+NOMBRE: Bizon - S37 Exclusive: Sculpted
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105315.png

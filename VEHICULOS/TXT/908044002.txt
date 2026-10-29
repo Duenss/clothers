@@ -1,0 +1,8 @@
+ITEM ID: 908044002
+ICON ID: Icon_slot_SUV_Fragment
+NOMBRE: Pickup Truck - Airbreaker
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908044002.png

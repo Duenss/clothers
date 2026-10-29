@@ -1,0 +1,8 @@
+ITEM ID: 214039009
+ICON ID: Icon_avatar_cos_headadditive_muerte_fp
+NOMBRE: Lush Warpaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214039009.png

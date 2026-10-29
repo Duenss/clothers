@@ -1,0 +1,8 @@
+ITEM ID: 710000096
+ICON ID: Icon_box_3
+NOMBRE: Royal Badge Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Royal Badge x10
+IMAGEN: ROPA/imagenes/710000096.png

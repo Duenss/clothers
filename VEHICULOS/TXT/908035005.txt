@@ -1,0 +1,8 @@
+ITEM ID: 908035005
+ICON ID: Icon_slot_Motobike_Digitaluniverse_Tc
+NOMBRE: Motorbike - Crime Ride
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035005.png

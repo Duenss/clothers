@@ -1,0 +1,8 @@
+ITEM ID: 903049008
+ICON ID: Icon_Deadloot_Crystalline
+NOMBRE: Loot Box - Cosmic Chaos
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903049008.png

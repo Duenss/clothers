@@ -1,0 +1,8 @@
+ITEM ID: 920044002
+ICON ID: Icon_Action_Falling_Persona
+NOMBRE: Falling Posture (Paradox)
+TIPO: Posture
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Equip this to have a special falling posture in-match.
+IMAGEN: EMOTES/imagenes/920044002.png

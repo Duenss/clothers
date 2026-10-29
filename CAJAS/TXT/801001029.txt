@@ -1,0 +1,8 @@
+ITEM ID: 801001029
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Sunshade Umbrella Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Welcome to the beach party!
+IMAGEN: CAJAS/imagenes/801001029.png

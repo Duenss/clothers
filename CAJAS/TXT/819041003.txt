@@ -1,0 +1,8 @@
+ITEM ID: 819041003
+ICON ID: FF_UI_VFX_Slime_01
+NOMBRE: Switching Weapon Effect (Jelly Assault)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: Special effects when switching weapons while wearing the Jelly Assault themed top.
+IMAGEN: CAJAS/imagenes/819041003.png

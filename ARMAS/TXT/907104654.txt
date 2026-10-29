@@ -1,0 +1,8 @@
+ITEM ID: 907104654
+ICON ID: Icon_GlooShield_FB
+NOMBRE: Gloo Wall - BLUE LOCK
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104654.png

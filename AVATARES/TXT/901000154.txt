@@ -1,0 +1,8 @@
+ITEM ID: 901000154
+ICON ID: Icon_callsign_storebg_Desert_EP_02
+NOMBRE: Grand Desert
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000154.png

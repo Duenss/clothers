@@ -1,0 +1,8 @@
+ITEM ID: 908038006
+ICON ID: Icon_slot_Motobike_Colorfest23
+NOMBRE: Motorbike - Techno Joy
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908038006.png

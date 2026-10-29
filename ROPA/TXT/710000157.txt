@@ -1,0 +1,8 @@
+ITEM ID: 710000157
+ICON ID: Icon_general_female
+NOMBRE: Solar Commander Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000157.png

@@ -1,0 +1,8 @@
+ITEM ID: 904032012
+ICON ID: Icon_Bag_Hoodedkiller
+NOMBRE: Backpack - Red Aquila
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032012.png

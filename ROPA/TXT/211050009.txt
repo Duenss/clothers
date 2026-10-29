@@ -1,0 +1,8 @@
+ITEM ID: 211050009
+ICON ID: Icon_avatar_female_cos_hair_va_twoface
+NOMBRE: Pom-Pom Trouble (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050009.png

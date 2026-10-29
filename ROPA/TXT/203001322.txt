@@ -1,0 +1,8 @@
+ITEM ID: 203001322
+ICON ID: Icon_avatar_female_cos_top_inkbrush_a
+NOMBRE: Faraway Fog Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001322.png

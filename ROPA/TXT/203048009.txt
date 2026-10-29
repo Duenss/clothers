@@ -1,0 +1,8 @@
+ITEM ID: 203048009
+ICON ID: Icon_avatar_cos_top_rainforest_lizard
+NOMBRE: Tropical Reptile (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048009.png

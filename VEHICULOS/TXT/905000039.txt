@@ -1,0 +1,8 @@
+ITEM ID: 905000039
+ICON ID: Icon_Avatar_PARACHUTE_christmas_02
+NOMBRE: Parachute - Elf, Old Man, and the Elk
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000039.png

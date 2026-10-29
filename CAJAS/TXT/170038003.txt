@@ -1,0 +1,8 @@
+ITEM ID: 170038003
+ICON ID: Icon_box_evogun_38
+NOMBRE: Evo Gun Token Choice Crate
+TIPO: Choice Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Get an evo gun token of your choice
+IMAGEN: CAJAS/imagenes/170038003.png

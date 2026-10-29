@@ -1,0 +1,8 @@
+ITEM ID: 203001311
+ICON ID: Icon_avatar_female_cos_top_hoodedkiller_ff
+NOMBRE: Vengeful Brotherhood (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001311.png

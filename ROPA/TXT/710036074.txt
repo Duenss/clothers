@@ -1,0 +1,8 @@
+ITEM ID: 710036074
+ICON ID: Icon_box_3
+NOMBRE: BR-Ranked Diamond Bundle
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Open to receive a BR-Ranked Diamond Protection Card and Rank Tokens
+IMAGEN: ROPA/imagenes/710036074.png

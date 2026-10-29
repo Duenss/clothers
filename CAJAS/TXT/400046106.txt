@@ -1,0 +1,8 @@
+ITEM ID: 400046106
+ICON ID: Icon_box_BooyahDay_Box3_46
+NOMBRE: Golden Booyah Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046106.png

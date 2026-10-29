@@ -1,0 +1,8 @@
+ITEM ID: 211045033
+ICON ID: Icon_avatar_female_cos_hair_fox_vn
+NOMBRE: Foxlight Fantasy (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045033.png

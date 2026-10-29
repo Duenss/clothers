@@ -1,0 +1,8 @@
+ITEM ID: 1102000002
+ICON ID: Icon_exp_up_card_100
+NOMBRE: Double EXP Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Double EXP received at the end of the match
+IMAGEN: OTROS/imagenes/1102000002.png

@@ -1,0 +1,8 @@
+ITEM ID: 204052015
+ICON ID: Icon_avatar_male_cos_bottom_valentine26
+NOMBRE: Gilded Romance (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052015.png

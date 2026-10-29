@@ -1,0 +1,8 @@
+ITEM ID: 400000922
+ICON ID: Icon_box_3
+NOMBRE: eSports Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000922.png

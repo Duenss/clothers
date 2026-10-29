@@ -1,0 +1,8 @@
+ITEM ID: 211044008
+ICON ID: Icon_avatar_male_cos_accessory_persona_purple
+NOMBRE: Dark Paradox (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044008.png

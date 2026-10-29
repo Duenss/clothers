@@ -1,0 +1,8 @@
+ITEM ID: 204048028
+ICON ID: Icon_avatar_male_cos_bottom_blackdress
+NOMBRE: Dark Matter (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048028.png

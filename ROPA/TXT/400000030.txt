@@ -1,0 +1,8 @@
+ITEM ID: 400000030
+ICON ID: Icon_box_3
+NOMBRE: The Streets Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from The Streets series or a 3-day trial. You will not receive the same permanent item twice.
+IMAGEN: ROPA/imagenes/400000030.png

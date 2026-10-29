@@ -1,0 +1,8 @@
+ITEM ID: 801001236
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Trick or Treat
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy Halloween
+IMAGEN: CAJAS/imagenes/801001236.png

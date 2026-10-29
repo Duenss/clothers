@@ -1,0 +1,8 @@
+ITEM ID: 921055034
+ICON ID: FF_UI_Voiceitem_BR55
+NOMBRE: Get outta here, bot!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Pro Taunts voice pack
+IMAGEN: MUSICA/imagenes/921055034.png

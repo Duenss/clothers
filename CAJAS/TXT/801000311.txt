@@ -1,0 +1,8 @@
+ITEM ID: 801000311
+ICON ID: Icon_exchange_radiation_shield
+NOMBRE: Radiation Mask
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000311.png

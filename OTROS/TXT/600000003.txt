@@ -1,0 +1,8 @@
+ITEM ID: 600000003
+ICON ID: Icon_ff_Roomcard2
+NOMBRE: Premium Room Card (1 Match)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Create rooms with more customization and adjustable options
+IMAGEN: OTROS/imagenes/600000003.png

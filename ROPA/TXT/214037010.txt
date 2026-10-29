@@ -1,0 +1,8 @@
+ITEM ID: 214037010
+ICON ID: Icon_avatar_cos_headadditive_rofestival
+NOMBRE: Colors of Luck Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214037010.png

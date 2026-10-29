@@ -1,0 +1,8 @@
+ITEM ID: 901047012
+ICON ID: Icon_callsign_storebg_NB
+NOMBRE: NARUTO SHIPPUDEN Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901047012.png

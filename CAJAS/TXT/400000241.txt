@@ -1,0 +1,8 @@
+ITEM ID: 400000241
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Deluxe Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to have a chance to receive a random weapon skin.
+IMAGEN: CAJAS/imagenes/400000241.png

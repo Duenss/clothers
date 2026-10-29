@@ -1,0 +1,8 @@
+ITEM ID: 203000118
+ICON ID: Icon_avatar_tshirt_easter_pink
+NOMBRE: Easter Egg Hunt #4
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000118.png

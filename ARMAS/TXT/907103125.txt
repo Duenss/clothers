@@ -1,0 +1,8 @@
+ITEM ID: 907103125
+ICON ID: Icon_USP_Winterfest21
+NOMBRE: USP - Fire Bones
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103125.png

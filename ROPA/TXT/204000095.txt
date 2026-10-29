@@ -1,0 +1,8 @@
+ITEM ID: 204000095
+ICON ID: Icon_avatar_male_sc_foodieboy_bottom_001
+NOMBRE: Foodie bottom
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000095.png

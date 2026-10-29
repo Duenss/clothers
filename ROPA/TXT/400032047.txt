@@ -1,0 +1,8 @@
+ITEM ID: 400032047
+ICON ID: Icon_box_3
+NOMBRE: St. Patrick 2022 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Happy St. Patick's day! Bunny Box
+IMAGEN: ROPA/imagenes/400032047.png

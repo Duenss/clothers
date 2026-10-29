@@ -1,0 +1,8 @@
+ITEM ID: 203044004
+ICON ID: Icon_avatar_male_cos_top_persona_yellow
+NOMBRE: Golden Paradox (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203044004.png

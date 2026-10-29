@@ -1,0 +1,8 @@
+ITEM ID: 710000797
+ICON ID: Icon_Mech_24
+NOMBRE: Party Rockie Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Party Rockie set
+IMAGEN: ROPA/imagenes/710000797.png

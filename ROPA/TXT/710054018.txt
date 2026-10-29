@@ -1,0 +1,8 @@
+ITEM ID: 710054018
+ICON ID: Icon_bundle_male_US_Depend26_54
+NOMBRE: Captain of Justice Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710054018.png

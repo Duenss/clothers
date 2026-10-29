@@ -1,0 +1,8 @@
+ITEM ID: 203000629
+ICON ID: Icon_avatar_male_top_cos_spirit_blue
+NOMBRE: The Frosted Blue (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000629.png

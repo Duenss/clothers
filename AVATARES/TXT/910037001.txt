@@ -1,0 +1,8 @@
+ITEM ID: 910037001
+ICON ID: Pin_Small_FFWS2022
+NOMBRE: Fight As One 2022
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910037001.png

@@ -1,0 +1,8 @@
+ITEM ID: 904030010
+ICON ID: Icon_Bag_Darkdragon_Wing
+NOMBRE: Backpack - Sinister Legend
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030010.png

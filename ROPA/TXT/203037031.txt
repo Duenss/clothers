@@ -1,0 +1,8 @@
+ITEM ID: 203037031
+ICON ID: Icon_avatar_cos_top_vn_rabbit
+NOMBRE: Candy Bunny Overalls
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037031.png

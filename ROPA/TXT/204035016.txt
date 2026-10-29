@@ -1,0 +1,8 @@
+ITEM ID: 204035016
+ICON ID: Icon_avatar_cos_bottom_chameleon_purple
+NOMBRE: Stellar Carnizard (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035016.png

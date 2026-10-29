@@ -1,0 +1,8 @@
+ITEM ID: 203000037
+ICON ID: Icon_avatar_male_suit_cloth_001_5
+NOMBRE: Purple Leather Jacket (male)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000037.png

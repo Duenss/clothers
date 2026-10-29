@@ -1,0 +1,8 @@
+ITEM ID: 400000351
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: FAMAS Metallic Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random weapon skin from the Metallic set.
+IMAGEN: CAJAS/imagenes/400000351.png

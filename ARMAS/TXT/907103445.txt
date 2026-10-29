@@ -1,0 +1,8 @@
+ITEM ID: 907103445
+ICON ID: Icon_GlooShield_Rampage4
+NOMBRE: Gloo Wall - Aqua Rogue
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103445.png

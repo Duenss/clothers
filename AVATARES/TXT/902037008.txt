@@ -1,0 +1,8 @@
+ITEM ID: 902037008
+ICON ID: Icon_face_Rank32_A
+NOMBRE: BR-Ranked S32 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037008.png

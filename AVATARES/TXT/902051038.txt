@@ -1,0 +1,8 @@
+ITEM ID: 902051038
+ICON ID: Icon_face_Craftland25_B
+NOMBRE: Stellar Crafter Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051038.png

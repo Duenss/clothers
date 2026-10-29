@@ -1,0 +1,8 @@
+ITEM ID: 801001432
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fingerprint Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Think like a detective
+IMAGEN: CAJAS/imagenes/801001432.png

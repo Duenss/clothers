@@ -1,0 +1,8 @@
+ITEM ID: 903002807
+ICON ID: Icon_Deadloot_Thunder
+NOMBRE: Loot Box - Lightning Reactor
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002807.png

@@ -1,0 +1,8 @@
+ITEM ID: 101000021
+ICON ID: Icon_face_female_head_sc_Researcher
+NOMBRE: Snowelle
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Snowelle is a nanotech engineer.
+IMAGEN: PERSONAJES/imagenes/101000021.png

@@ -1,0 +1,8 @@
+ITEM ID: 211048049
+ICON ID: Icon_avatar_cos_hair_cricke25_orange
+NOMBRE: Cricket Orange Cap
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048049.png

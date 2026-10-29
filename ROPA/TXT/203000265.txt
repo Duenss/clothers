@@ -1,0 +1,8 @@
+ITEM ID: 203000265
+ICON ID: Icon_avatar_male_top_pattern
+NOMBRE: White Rose Blossom
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000265.png

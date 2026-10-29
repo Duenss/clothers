@@ -1,0 +1,8 @@
+ITEM ID: 801000956
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Ruler Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Wear it like a true king
+IMAGEN: CAJAS/imagenes/801000956.png

@@ -1,0 +1,8 @@
+ITEM ID: 211035058
+ICON ID: Icon_avatar_male_cos_accessory_cateam
+NOMBRE: Azulcrema In Motion (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035058.png

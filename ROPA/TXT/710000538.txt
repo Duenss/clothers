@@ -1,0 +1,8 @@
+ITEM ID: 710000538
+ICON ID: Icon_box_3
+NOMBRE: Clandestine Badge Bundle (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Clandestine Badges
+IMAGEN: ROPA/imagenes/710000538.png

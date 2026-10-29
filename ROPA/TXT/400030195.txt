@@ -1,0 +1,8 @@
+ITEM ID: 400030195
+ICON ID: Icon_box_3
+NOMBRE: Cyber Bounty Hunter Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Cyber Bounty Hunter and all it's pieces
+IMAGEN: ROPA/imagenes/400030195.png

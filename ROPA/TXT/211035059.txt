@@ -1,0 +1,8 @@
+ITEM ID: 211035059
+ICON ID: Icon_avatar_male_cos_hair_cateam2_bule
+NOMBRE: Monumental Strength (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035059.png

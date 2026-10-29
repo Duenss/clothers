@@ -1,0 +1,8 @@
+ITEM ID: 203055019
+ICON ID: Icon_avatar_male_cos_top_diwali26
+NOMBRE: Magma Fusion (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055019.png

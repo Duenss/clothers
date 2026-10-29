@@ -1,0 +1,8 @@
+ITEM ID: 904000087
+ICON ID: Icon_Bag_TrapHiphop_FP
+NOMBRE: Backpack - Street Cred
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000087.png

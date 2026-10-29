@@ -1,0 +1,8 @@
+ITEM ID: 710000760
+ICON ID: FF_Icon_sc_MMAFighter
+NOMBRE: Sverr;s MMA Fighter Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Sverr's outfit. When equipped, Sverr can display his unique animation on the spawn island.
+IMAGEN: ROPA/imagenes/710000760.png

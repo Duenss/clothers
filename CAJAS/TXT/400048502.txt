@@ -1,0 +1,8 @@
+ITEM ID: 400048502
+ICON ID: Icon_box_RRB_BR_48
+NOMBRE: Revelry's Refreshment Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048502.png

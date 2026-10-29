@@ -1,0 +1,8 @@
+ITEM ID: 1310000157
+ICON ID: Icon_Pet_Duck_FFWS03
+NOMBRE: Pet skin: FFWS Beanie
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: I'm a legend in e-sports, despite my size
+IMAGEN: MASCOTAS/imagenes/1310000157.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104440
+ICON ID: Icon_GlooShield_Chosen
+NOMBRE: Gloo Wall - The One
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104440.png

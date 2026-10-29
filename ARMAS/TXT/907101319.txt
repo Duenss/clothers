@@ -1,0 +1,8 @@
+ITEM ID: 907101319
+ICON ID: Icon_Bombsquad_Grenade
+NOMBRE: NT-SU62
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB13
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101319.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104341
+ICON ID: Icon_Fighter_Grenade
+NOMBRE: Grenade - Incarnation
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104341.png

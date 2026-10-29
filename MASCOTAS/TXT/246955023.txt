@@ -1,0 +1,8 @@
+ITEM ID: 246955023
+ICON ID: Pet_Spark3_Hand_Baguette
+NOMBRE: Baguette
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Baguette
+IMAGEN: MASCOTAS/imagenes/246955023.png

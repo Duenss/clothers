@@ -1,0 +1,8 @@
+ITEM ID: 907102119
+ICON ID: Icon_UMP45_Kpopsinger
+NOMBRE: UMP - Kpop Stardom
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102119.png

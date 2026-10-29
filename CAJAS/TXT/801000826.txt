@@ -1,0 +1,8 @@
+ITEM ID: 801000826
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gold Flower
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000826.png

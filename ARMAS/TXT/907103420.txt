@@ -1,0 +1,8 @@
+ITEM ID: 907103420
+ICON ID: Icon_M500_FFChar_S29
+NOMBRE: M500 - S29 Exclusive: Joseph
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103420.png

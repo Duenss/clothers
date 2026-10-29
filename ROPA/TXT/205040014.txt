@@ -1,0 +1,8 @@
+ITEM ID: 205040014
+ICON ID: Icon_avatar_male_cos_shoe_cowboy22
+NOMBRE: Midnight Rider (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205040014.png

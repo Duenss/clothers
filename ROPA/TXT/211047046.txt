@@ -1,0 +1,8 @@
+ITEM ID: 211047046
+ICON ID: Icon_avatar_male_cos_accessory_nb_white
+NOMBRE: Kakashi Headwear
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047046.png

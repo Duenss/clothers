@@ -1,0 +1,8 @@
+ITEM ID: 903049002
+ICON ID: Icon_Deadloot_Sparta_BP
+NOMBRE: Loot Box - Fallen Glory
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903049002.png

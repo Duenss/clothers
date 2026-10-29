@@ -1,0 +1,8 @@
+ITEM ID: 1300000116
+ICON ID: Icon_Pet_Tiger_Ninja
+NOMBRE: Sensei Tig
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Tig is my name, and slick is my game.
+IMAGEN: MASCOTAS/imagenes/1300000116.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102519
+ICON ID: Icon_SKS_Researcher
+NOMBRE: SKS - Dr. Nanotech
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102519.png

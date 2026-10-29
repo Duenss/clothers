@@ -1,0 +1,8 @@
+ITEM ID: 921054031
+ICON ID: FF_UI_Voiceitem_US54B
+NOMBRE: Booooooo!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: The Wrestling is here! voice pack
+IMAGEN: MUSICA/imagenes/921054031.png

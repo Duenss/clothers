@@ -1,0 +1,8 @@
+ITEM ID: 907136062
+ICON ID: Icon_Superheat_Gun_Mambas
+NOMBRE: PLASMA - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136062.png

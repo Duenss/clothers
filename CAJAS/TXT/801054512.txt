@@ -1,0 +1,8 @@
+ITEM ID: 801054512
+ICON ID: Icon_exchange_MicrophoneToken_latam_54
+NOMBRE: Microphone Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB54
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801054512.png

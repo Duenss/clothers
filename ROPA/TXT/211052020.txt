@@ -1,0 +1,8 @@
+ITEM ID: 211052020
+ICON ID: Icon_avatar_cos_accessory_aprilfool26
+NOMBRE: Quackman (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052020.png

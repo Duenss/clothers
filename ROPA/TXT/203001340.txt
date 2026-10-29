@@ -1,0 +1,8 @@
+ITEM ID: 203001340
+ICON ID: Icon_avatar_male_cos_top_reddragon
+NOMBRE: Dawnlit Hitman (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001340.png

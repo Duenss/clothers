@@ -1,0 +1,8 @@
+ITEM ID: 900000001
+ICON ID: Icon_Bag_backpack_default_003
+NOMBRE: Default Backpack
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Stores your loot during matches. Capacity depends on its level (maximum Lv. 3)
+IMAGEN: OTROS/imagenes/900000001.png

@@ -1,0 +1,8 @@
+ITEM ID: 211055022
+ICON ID: Icon_avatar_male_cos_accessory_spiritmask
+NOMBRE: Masked Fox (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211055022.png

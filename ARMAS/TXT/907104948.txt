@@ -1,0 +1,8 @@
+ITEM ID: 907104948
+ICON ID: Icon_GlooShield_VIP_Reward
+NOMBRE: Gloo Wall - Prime Honor
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104948.png

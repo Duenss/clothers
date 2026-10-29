@@ -1,0 +1,8 @@
+ITEM ID: 801000978
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Light stick 4 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Light represents Courage
+IMAGEN: CAJAS/imagenes/801000978.png

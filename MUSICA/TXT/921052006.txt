@@ -1,0 +1,8 @@
+ITEM ID: 921052006
+ICON ID: FF_UI_Voiceitem_IIV_02
+NOMBRE: Yeah, don't worry. I'm way too strong for him.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Satoru Gojo Voice Pack
+IMAGEN: MUSICA/imagenes/921052006.png

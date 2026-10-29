@@ -1,0 +1,8 @@
+ITEM ID: 904051007
+ICON ID: Icon_Bag_Redhat25
+NOMBRE: Backpack - Wolf in Red
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051007.png

@@ -1,0 +1,8 @@
+ITEM ID: 203001248
+ICON ID: Icon_avatar_male_top_cos_reggaeton_b
+NOMBRE: Everything Goes (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001248.png

@@ -1,0 +1,8 @@
+ITEM ID: 904000072
+ICON ID: Icon_Bag_anniversary19
+NOMBRE: Backpack - 2nd Anniversary
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000072.png

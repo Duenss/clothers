@@ -1,0 +1,8 @@
+ITEM ID: 908049007
+ICON ID: Icon_slot_Roadster_Samurai_ME
+NOMBRE: Sports Car - Steel Warrior
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049007.png

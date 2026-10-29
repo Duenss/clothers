@@ -1,0 +1,598 @@
+﻿ITEM_ID	ICON_ID	NOMBRE	TIPO	RAREZA	TAG	IMAGEN	DESCRIPCION
+909000001	Icon_Emote_Hello	Hello!	Emote	GREEN (Uncommon)		EMOTES/imagenes/909000001.png	
+909000002	Icon_Emote_LOL	LOL	Emote	GREEN (Uncommon)		EMOTES/imagenes/909000002.png	
+909000003	Icon_Emote_Provoke	Provoke	Emote	GREEN (Uncommon)		EMOTES/imagenes/909000003.png	
+909000004	Icon_Emote_Clap	Applause	Emote	GREEN (Uncommon)		EMOTES/imagenes/909000004.png	
+909000005	Icon_Emote_DAB	Dab	Emote	GREEN (Uncommon)		EMOTES/imagenes/909000005.png	
+909000006	Icon_Emote_FunkyChicken	Chicken	Emote	BLUE (Rare)		EMOTES/imagenes/909000006.png	
+909000007	Icon_Emote_Wave	Arm Wave	Emote	BLUE (Rare)		EMOTES/imagenes/909000007.png	
+909000008	Icon_Emote_Shootdance	Shoot Dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000008.png	
+909000009	Icon_Emote_Babyshark	Baby Shark	Emote	BLUE (Rare)		EMOTES/imagenes/909000009.png	
+909000010	Icon_Emote_Valentine	Flowers of Love	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000010.png	
+909000011	Icon_Emote_Egypt	Mummy Dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000011.png	
+909000012	Icon_Emote_Bombsquad	Push-up	Emote	BLUE (Rare)		EMOTES/imagenes/909000012.png	
+909000013	Icon_Emote_Shuffle	Shuffling	Emote	BLUE (Rare)		EMOTES/imagenes/909000013.png	
+909000014	Icon_Emote_GW	FFWC Throne	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000014.png	
+909000015	Icon_Emote_Dragons	Dragon Fist	Emote	BLUE (Rare)		EMOTES/imagenes/909000015.png	
+909000016	Icon_Emote_PVEZombie	Dangerous Game	Emote	BLUE (Rare)		EMOTES/imagenes/909000016.png	
+909000017	Icon_Emote_Jaguar	Jaguar Dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000017.png	
+909000018	Icon_Emote_Cutthroat	Threaten	Emote	BLUE (Rare)		EMOTES/imagenes/909000018.png	
+909000019	Icon_Emote_Letsgroove	Shake With Me	Emote	BLUE (Rare)		EMOTES/imagenes/909000019.png	
+909000020	Icon_Emote_Apocalypse	Devil's Move	Emote	BLUE (Rare)		EMOTES/imagenes/909000020.png	
+909000021	Icon_Emote_Desert	Furious Slam	Emote	BLUE (Rare)		EMOTES/imagenes/909000021.png	
+909000022	Icon_Emote_Kickthemoon	Moon Flip	Emote	BLUE (Rare)		EMOTES/imagenes/909000022.png	
+909000023	Icon_Emote_WiggleWalk	Wiggle walk	Emote	BLUE (Rare)		EMOTES/imagenes/909000023.png	
+909000024	Icon_Emote_EPHunter	Battle Dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000024.png	
+909000025	Icon_Emote_EPHunter2	High Five	Emote	BLUE (Rare)		EMOTES/imagenes/909000025.png	
+909000026	Icon_Emote_Boom	Shake It Up	Emote	BLUE (Rare)		EMOTES/imagenes/909000026.png	
+909000027	Icon_Emote_Splits	Glorious Spin	Emote	BLUE (Rare)		EMOTES/imagenes/909000027.png	
+909000028	Icon_Emote_CraneKick	Crane Kick	Emote	BLUE (Rare)		EMOTES/imagenes/909000028.png	
+909000029	Icon_Emote_Partydance	Party Dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000029.png	
+909000031	Icon_Emote_PirateJig	Jig Dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000031.png	
+909000032	Icon_Emote_Selfie	Selfie	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000032.png	
+909000033	Icon_Emote_FlailingSwag	Soul Shaking	Emote	BLUE (Rare)		EMOTES/imagenes/909000033.png	
+909000034	Icon_Emote_battleflag_pirate	Pirate's Flag	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000034.png	
+909000035	Icon_Emote_Partydance	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000035.png	
+909000036	Icon_Emote_Djman	Top DJ	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000036.png	
+909000037	Icon_Emote_Antonio	Death glare	Emote	BLUE (Rare)		EMOTES/imagenes/909000037.png	
+909000038	Icon_Emote_Moco	Power of money	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000038.png	
+909000039	Icon_Emote_Kelly	Eat my dust	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000039.png	
+909000040	Icon_Emote_Miguel	Break dance	Emote	BLUE (Rare)		EMOTES/imagenes/909000040.png	
+909000041	Icon_Emote_kongfu	Kongfu	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000041.png	
+909000042	Icon_Emote_Saltbae	Bon Appetit	Emote	PURPLE (Epic)		EMOTES/imagenes/909000042.png	
+909000043	Icon_Emote_StrikePose1	Aim, fire!	Emote	BLUE (Rare)		EMOTES/imagenes/909000043.png	
+909000044	Icon_Emote_Swans	The Swan	Emote	BLUE (Rare)		EMOTES/imagenes/909000044.png	
+909000045	Icon_Emote_Loveheart	I heart you	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000045.png	
+909000046	Icon_Emote_tea	Tea Time	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000046.png	
+909000047	Icon_Emote_HitDemFolks	Bring It On!	Emote	BLUE (Rare)		EMOTES/imagenes/909000047.png	
+909000048	Icon_Emote_sorrow	Why? Oh Why?	Emote	BLUE (Rare)		EMOTES/imagenes/909000048.png	
+909000049	Icon_Emote_Whirling	Fancy Hands	Emote	BLUE (Rare)		EMOTES/imagenes/909000049.png	
+909000051	Icon_Emote_Shimmy	Shimmy	Emote	BLUE (Rare)		EMOTES/imagenes/909000051.png	
+909000052	Icon_Emote_DanceWithDog	Doggie	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000052.png	
+909000053	Icon_Emote_Glitch	Challenge On!	Emote	BLUE (Rare)		EMOTES/imagenes/909000053.png	
+909000054	Icon_Emote_Lasso	Lasso	Emote	BLUE (Rare)		EMOTES/imagenes/909000054.png	
+909000055	Icon_Emote_Jumpsuit1	I'm Rich!	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000055.png	
+909000056	Icon_Emote_Jumpsuit2	Make It Rain	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000056.png	
+909000057	Icon_Emote_DustOff	Dust Off	Emote	PURPLE (Epic)		EMOTES/imagenes/909000057.png	
+909000058	Icon_Emote_Professor	Captain Booyah	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000058.png	
+909000059	Icon_Emote_Fight	Let's Go!	Emote	PURPLE (Epic)		EMOTES/imagenes/909000059.png	
+909000060	Icon_Emote_BooyahDay	BOOYAH!	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000060.png	
+909000061	Icon_Emote_Bhangra	Bhangra	Emote	BLUE (Rare)		EMOTES/imagenes/909000061.png	
+909000062	Icon_Emote_ElaborateBow	Piece of Cake	Emote	BLUE (Rare)		EMOTES/imagenes/909000062.png	
+909000063	Icon_Emote_EvilDragon	Draco's Summon	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000063.png	
+909000064	Icon_Emote_Megapunch_Smile	I'm Saitama!	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000064.png	
+909000065	Icon_Emote_BountyDance	The Victor	Emote	BLUE (Rare)		EMOTES/imagenes/909000065.png	
+909000066	Icon_Emote_BountyJump	Sii!	Emote	BLUE (Rare)		EMOTES/imagenes/909000066.png	
+909000067	Icon_Emote_Megapunch_Punch	Obliteration	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000067.png	
+909000068	Icon_Emote_SHARK	Feeding Time	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000068.png	
+909000069	Icon_Emote_Football	Top Scorer	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000069.png	
+909000070	Icon_Emote_Karate	Triple Kicks	Emote	PURPLE (Epic)		EMOTES/imagenes/909000070.png	
+909000071	Icon_Emote_Cobra_LeadEmote	Cobra Dance	Emote	RED (Artifact)		EMOTES/imagenes/909000071.png	
+909000072	Icon_Emote_Cobra_BooyahEmote	Predator Pulse	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000072.png	
+909000073	Icon_Emote_Cobra_Hitfloor	Ground Punch	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000073.png	
+909000074	Icon_Emote_Cobra_Bicycle	The Biker	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000074.png	
+909000075	Icon_Emote_Cobra_MP40	Cobra Rising	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000075.png	
+909000076	Icon_Emote_Corba_Onearm	One-Finger Pushup	Emote	BLUE (Rare)		EMOTES/imagenes/909000076.png	
+909000077	Icon_Emote_Superstar	Stage Time	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000077.png	
+909000078	Icon_Emote_Cobra_Balloon	Booyah! Balloon	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000078.png	
+909000079	Icon_Emote_Cobra_Boxer	More Practice	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000079.png	
+909000080	Icon_Emote_FFCC2021	FFWS 2021	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000080.png	
+909000081	Icon_Emote_Dragon	Draco's Soul	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000081.png	
+909000082	Icon_Emote_TwirlTiptoe	Good Game	Emote	BLUE (Rare)		EMOTES/imagenes/909000082.png	
+909000083	Icon_Emote_Greeting	Greetings	Emote	BLUE (Rare)		EMOTES/imagenes/909000083.png	
+909000084	Icon_Emote_ZombieRise	The Walker	Emote	BLUE (Rare)		EMOTES/imagenes/909000084.png	
+909000085	Icon_Emote_Thunder	Born of Light	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000085.png	
+909000086	Icon_Emote_Rampage	Mythos Four	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000086.png	
+909000087	Icon_Emote_Cup	Champion Grab	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000087.png	
+909000088	Icon_Emote_Supercar_Lean	Win and Chill	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000088.png	
+909000089	Icon_Emote_Sutorito	Hadouken	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000089.png	
+909000090	Icon_Emote_Asianoni	Blood Wraith	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000090.png	
+909000091	Icon_Emote_BigWeapon	Big Smash	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000091.png	
+909000092	Icon_Emote_DanceShuffle	Fancy Steps	Emote	BLUE (Rare)		EMOTES/imagenes/909000092.png	
+909000093	Icon_Emote_MocoMonth_Hacker	All In Control	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000093.png	
+909000094	Icon_Emote_MocoMonth_UAV	Debugging	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000094.png	
+909000095	Icon_Emote_Penguin	Waggor Wave	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000095.png	
+909000096	Icon_Emote_LegGuitar	Crazy Guitar	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000096.png	
+909000097	Icon_Emote_Poof	Poof	Emote	BLUE (Rare)		EMOTES/imagenes/909000097.png	
+909000098	Icon_Emote_Booyahday21_Gun	The Chosen Victor	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000098.png	
+909000099	Icon_Emote_Booyahday21_Provocation	Challenger	Emote	BLUE (Rare)		EMOTES/imagenes/909000099.png	
+909000100	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000100.png	
+909000101	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000101.png	
+909000102	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000102.png	
+909000103	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000103.png	
+909000104	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000104.png	
+909000105	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000105.png	
+909000106	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000106.png	
+909000107	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000107.png	
+909000108	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000108.png	
+909000109	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000109.png	
+909000110	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000110.png	
+909000111	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000111.png	
+909000112	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000112.png	
+909000113	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000113.png	
+909000114	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000114.png	
+909000115	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000115.png	
+909000116	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000116.png	
+909000117	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000117.png	
+909000118	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000118.png	
+909000119	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000119.png	
+909000120	Icon_Emote_Greeting	Unknown	Emote	PURPLE (Epic)		EMOTES/imagenes/909000120.png	
+909000121	Icon_Emote_Booyahday21_Basketball	Dribble King	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000121.png	
+909000122	Icon_Emote_LegGuitar	Unknown	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000122.png	
+909000123	Icon_Emote_Sunglasses	Mind it!	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000123.png	
+909000124	Icon_Emote_Booyahday21_BooyahEmote	Golden Combo	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000124.png	
+909000125	Icon_Emote_Booyahday21_LeadEmote	Sick Moves	Emote	RED (Artifact)		EMOTES/imagenes/909000125.png	
+909000126	Icon_Emote_Max	Rap Swag	Emote	PURPLE (Epic)		EMOTES/imagenes/909000126.png	
+909000127	Icon_Emote_BattleInStyle	BATTLE IN STYLE	Emote	BLUE (Rare)		EMOTES/imagenes/909000127.png	
+909000128	Icon_Emote_UnionWar	Ruler's Flag	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000128.png	
+909000129	Icon_Emote_Jumpsuit_Bag	Money Throw	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000129.png	
+909000130	Icon_Emote_Jumpsuit_Shoot	Endless Bullets	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000130.png	
+909000131	Icon_Emote_MJDance	Smooth Sway	Emote	BLUE (Rare)		EMOTES/imagenes/909000131.png	
+909000132	Icon_Emote_Falconer	Number 1	Emote	BLUE (Rare)		EMOTES/imagenes/909000132.png	
+909000133	Icon_Emote_Fire	Fire Slam	Emote	PURPLE (Epic)		EMOTES/imagenes/909000133.png	
+909000134	Icon_Emote_THagent	Heartbroken	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000134.png	
+909000135	Icon_Emote_FingerGuessing	Rock Paper Scissors	Emote	RED (Artifact)		EMOTES/imagenes/909000135.png	
+909000136	Icon_Emote_NewYearVR	Shattered Reality	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000136.png	
+909000137	Icon_Emote_Hurricane_Red	Halo of Music	Emote	RED (Artifact)		EMOTES/imagenes/909000137.png	
+909000138	Icon_Emote_Hurricane_BBQ	Burnt BBQ	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000138.png	
+909000139	Icon_Emote_Hurricane_Blue	Switching Steps	Emote	BLUE (Rare)		EMOTES/imagenes/909000139.png	
+909000140	Icon_Emote_Hoodedkiller_Blade	Creed Slay	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000140.png	
+909000141	Icon_Emote_Hoodedkiller_Jump	Leap of Fail	Emote	PURPLE (Epic)		EMOTES/imagenes/909000141.png	
+909000144	Icon_Emote_Tiger	Kungfu Tigers	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000144.png	
+909000145	Icon_Emote_Asianoni_Drawing	Possessed Warrior	Emote	ORANGE (Mythic)		EMOTES/imagenes/909000145.png	
+909000150	Icon_Emote_Memes1	Unknown	Emote	BLUE (Rare)		EMOTES/imagenes/909000150.png	
+909033001	Icon_Emote_Flamedragon	Fireborn	Emote	ORANGE (Mythic)	OB33	EMOTES/imagenes/909033001.png	
+909033002	Icon_Emote_Goldenwings	Golden Feather	Emote	ORANGE (Mythic)	OB33	EMOTES/imagenes/909033002.png	
+909033003	Icon_Emote_Songkran	Come and Dance	Emote	BLUE (Rare)	OB33	EMOTES/imagenes/909033003.png	
+909033004	Icon_Emote_Luchalibre_Stroke	Drop Kick	Emote	BLUE (Rare)	OB33	EMOTES/imagenes/909033004.png	
+909033005	Icon_Emote_Luchalibre_Beat	Sit Down!	Emote	ORANGE (Mythic)	OB33	EMOTES/imagenes/909033005.png	
+909033006	Icon_Emote_Fastbreaking22	BOOYAH Sparks	Emote	ORANGE (Mythic)	OB33	EMOTES/imagenes/909033006.png	
+909033007	Icon_Emote_FFWS2022	The FFWS Dance	Emote	PURPLE (Epic)	OB33	EMOTES/imagenes/909033007.png	
+909033008	Icon_Emote_Boyband_AK	Easy Peasy	Emote	ORANGE (Mythic)	OB33	EMOTES/imagenes/909033008.png	
+909033009	Icon_Emote_Boyband_Poker	Winner Throw	Emote	PURPLE (Epic)	OB33	EMOTES/imagenes/909033009.png	
+909033010	Icon_Emote_FFWS2021	Weight of Victory	Emote	ORANGE (Mythic)	OB33	EMOTES/imagenes/909033010.png	
+909034001	Icon_Emote_Rampage4_Book	Chronicle of the Sword	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034001.png	
+909034002	Icon_Emote_Rampage4_Purple	The Collapse	Emote	PURPLE (Epic)	OB34	EMOTES/imagenes/909034002.png	
+909034003	Icon_Emote_Rampage4_Lead	Flaming Groove	Emote	RED (Artifact)	OB34	EMOTES/imagenes/909034003.png	
+909034004	Icon_Emote_Rampage4_Blue	Energetic	Emote	BLUE (Rare)	OB34	EMOTES/imagenes/909034004.png	
+909034005	Icon_Emote_Ridicule	Ridicule	Emote	BLUE (Rare)	OB34	EMOTES/imagenes/909034005.png	
+909034006	Icon_Emote_BIS_Waggor	Tease Waggor	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034006.png	
+909034007	Icon_Emote_BIS_Command	Great Conductor	Emote	BLUE (Rare)	OB34	EMOTES/imagenes/909034007.png	
+909034008	Icon_Emote_Cyberwasp	Fake Death	Emote	BLUE (Rare)	OB34	EMOTES/imagenes/909034008.png	
+909034009	Icon_Emote_Rhythmgirl	Twerk	Emote	BLUE (Rare)	OB34	EMOTES/imagenes/909034009.png	
+909034010	Icon_Emote_BR_Heroic	BR-Ranked Heroic Emote	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034010.png	
+909034011	Icon_Emote_BR_Master	BR-Ranked Master Emote	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034011.png	
+909034012	Icon_Emote_CS_Heroic	CS-Ranked Heroic Emote	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034012.png	
+909034013	Icon_Emote_CS_Master	CS-Ranked Master Emote	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034013.png	
+909034014	Icon_Emote_Marry	Yes, I do	Emote	ORANGE (Mythic)	OB34	EMOTES/imagenes/909034014.png	
+909035001	Icon_Emote_Digitaluniverse_Move	Free Money!	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035001.png	
+909035005	Icon_Emote_CATeam	Victorious Eagle	Emote	PURPLE (Epic)	OB35	EMOTES/imagenes/909035005.png	
+909035006	Icon_Emote_Digitaluniverse_Red	Flying Saucer	Emote	RED (Artifact)	OB35	EMOTES/imagenes/909035006.png	
+909035007	Icon_Emote_Digitaluniverse_Gun	Weapon Magician	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035007.png	
+909035008	Icon_Emote_Digitaluniverse_Purple	Bobble Dance	Emote	PURPLE (Epic)	OB35	EMOTES/imagenes/909035008.png	
+909035009	Icon_Emote_Digitaluniverse_Orange	Weight Training	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035009.png	
+909035010	Icon_Emote_Singers_1	Beautiful Love	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035010.png	
+909035011	Icon_Emote_Singers_2	Groove Moves	Emote	BLUE (Rare)	OB35	EMOTES/imagenes/909035011.png	
+909035012	Icon_Emote_Wildfire	Howler's Rage	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035012.png	
+909035013	Icon_Emote_Listen	Louder Please	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035013.png	
+909035014	Icon_Emote_Fcninja	Ninja Stand	Emote	BLUE (Rare)	OB35	EMOTES/imagenes/909035014.png	
+909035015	Icon_Emote_UGC	Creator In Action	Emote	ORANGE (Mythic)	OB35	EMOTES/imagenes/909035015.png	
+909036001	Icon_Emote_Ghost_Move	Ghost Float	Emote	PURPLE (Epic)	OB36	EMOTES/imagenes/909036001.png	
+909036002	Icon_Emote_Shiba_Freeze	Shiba Surf	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036002.png	
+909036003	Icon_Emote_Bartendert_Move	Waiter Walk	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036003.png	
+909036004	Icon_Emote_Griza_Camera	Graffiti Cameraman	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036004.png	
+909036005	Icon_Emote_Griza_Boxing	Agile Boxer	Emote	BLUE (Rare)	OB36	EMOTES/imagenes/909036005.png	
+909036006	Icon_Emote_Sun_Freeze	Sunbathing	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036006.png	
+909036008	Icon_Emote_Skateboarding	Skateboard Swag	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036008.png	
+909036009	Icon_Emote_Ghostface	Phantom Tamer	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036009.png	
+909036010	Icon_Emote_CA	The Signal	Emote	ORANGE (Mythic)	OB36	EMOTES/imagenes/909036010.png	
+909036011	Icon_Emote_Undead_Freeze	Eternal Descent	Emote	PURPLE (Epic)	OB36	EMOTES/imagenes/909036011.png	
+909036012	Icon_Emote_Party	Swaggy Dance	Emote	BLUE (Rare)	OB36	EMOTES/imagenes/909036012.png	
+909036014	Icon_Emote_God	Admire	Emote	BLUE (Rare)	OB36	EMOTES/imagenes/909036014.png	
+909037001	Icon_Emote_Deer_Move	Reindeer Float	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037001.png	
+909037002	Icon_Emote_VNSF	Bamboo Dance	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037002.png	
+909037003	Icon_Emote_FFWS_Meteorites	Dance of Constellation	Emote	RED (Artifact)	OB37	EMOTES/imagenes/909037003.png	
+909037004	Icon_Emote_FFWS_Trophies	Trophy Grab	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037004.png	
+909037005	Icon_Emote_FFWS_Dance	Starry Hands	Emote	PURPLE (Epic)	OB37	EMOTES/imagenes/909037005.png	
+909037006	Icon_Emote_Eaten_Freeze	Yum	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037006.png	
+909037007	Icon_Emote_Hiphop	Happy Dancing	Emote	BLUE (Rare)	OB37	EMOTES/imagenes/909037007.png	
+909037008	Icon_Emote_Juggling	Juggle	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037008.png	
+909037009	Icon_Emote_Cards	Neon Sign	Emote	RED (Artifact)	OB37	EMOTES/imagenes/909037009.png	
+909037010	Icon_Emote_FFWS_Book	Beast Tease	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037010.png	
+909037011	Icon_Emote_Dragonclaws	Drachen Tear	Emote	ORANGE (Mythic)	OB37	EMOTES/imagenes/909037011.png	
+909037012	Icon_Emote_Cdband	Clap Dance	Emote	BLUE (Rare)	OB37	EMOTES/imagenes/909037012.png	
+909038001	Icon_Emote_Piseiro	The Influencer	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038001.png	
+909038003	Icon_Emote_Holi	Techno Blast	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038003.png	
+909038004	Icon_Emote_love_dance	Be My Valentine	Emote	RED (Artifact)	OB38	EMOTES/imagenes/909038004.png	
+909038005	Icon_Emote_Tom_Move	Angry Walk	Emote	PURPLE (Epic)	OB38	EMOTES/imagenes/909038005.png	
+909038006	Icon_Emote_Cow	Make Some Noise	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038006.png	
+909038008	Icon_Emote_Sticker	Croco Hooray	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038008.png	
+909038009	Icon_Emote_Nundu	Scorpio Spin	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038009.png	
+909038010	Icon_Emote_Gargoyle	Cinder Summon	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038010.png	
+909038011	Icon_Emote_DMX	Shall We Dance?	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038011.png	
+909038012	Icon_Emote_Goal	Achiever Flip	Emote	ORANGE (Mythic)	OB38	EMOTES/imagenes/909038012.png	
+909038013	Icon_Emote_yoyo	Spin Master	Emote	PURPLE (Epic)	OB38	EMOTES/imagenes/909038013.png	
+909039001	Icon_Emote_Fireworks	Festival Celebration	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039001.png	
+909039002	Icon_Emote_Kacha	Artistic Musical Dance	Emote	BLUE (Rare)	OB39	EMOTES/imagenes/909039002.png	
+909039003	Icon_Emote_Splashing	Forward, Backward	Emote	BLUE (Rare)	OB39	EMOTES/imagenes/909039003.png	
+909039004	Icon_Emote_Scarlet_Orange	Scorpion Friend	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039004.png	
+909039005	Icon_Emote_Scarlet_Purple	Aching Power	Emote	PURPLE (Epic)	OB39	EMOTES/imagenes/909039005.png	
+909039006	Icon_Emote_Growth	Earthly Force	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039006.png	
+909039007	Icon_Emote_Explosion_Orange	Grenade Magic	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039007.png	
+909039008	Icon_Emote_Explosion_Blue	Oh Yeah!	Emote	BLUE (Rare)	OB39	EMOTES/imagenes/909039008.png	
+909039009	Icon_Emote_Rollerskating	Grace On Wheels	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039009.png	
+909039010	Icon_Emote_Flex	Flex	Emote	BLUE (Rare)	OB39	EMOTES/imagenes/909039010.png	
+909039011	Icon_Emote_Scarlet_Evogun	Crimson Doom	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039011.png	
+909039012	Icon_Emote_Firedragon	Fire Beast Tamer	Emote	ORANGE (Mythic)	OB39	EMOTES/imagenes/909039012.png	
+909039013	Icon_Emote_Scarlet_Red	Crimson Tunes	Emote	RED (Artifact)	OB39	EMOTES/imagenes/909039013.png	
+909039014	Icon_Emote_Tiktok_dance	Swaggy V-Steps	Emote	BLUE (Rare)	OB39	EMOTES/imagenes/909039014.png	
+909040001	Icon_Emote_car_move	The Chromatic Finish	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040001.png	
+909040002	Icon_Emote_Shuttlecock	Smash the Feather	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040002.png	
+909040003	Icon_Emote_Speed	Sonorous Steps	Emote	RED (Artifact)	OB40	EMOTES/imagenes/909040003.png	
+909040004	Icon_Emote_Bioroids	Fishing for Wisdom	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040004.png	
+909040005	Icon_Emote_Traphiphop22_Red	Chromatic Pop Dance	Emote	RED (Artifact)	OB40	EMOTES/imagenes/909040005.png	
+909040006	Icon_Emote_Traphiphop22_Orange	Chroma Twist Twist	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040006.png	
+909040008	Icon_Emote_Angelik	Birth of Justice	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040008.png	
+909040009	Icon_Emote_Tightguy	Spider-Sense	Emote	PURPLE (Epic)	OB40	EMOTES/imagenes/909040009.png	
+909040010	Icon_Emote_Traphiphop22	Chromasonic Shot	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040010.png	
+909040011	Icon_Emote_Raiden	Play With Thunderbolt	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040011.png	
+909040012	Icon_Emote_Sixth	6th Anniversary Celebration	Emote	PURPLE (Epic)	OB40	EMOTES/imagenes/909040012.png	
+909040013	Icon_Emote_Swing	Wisdom Swing	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040013.png	
+909040014	UI_Icon_BlackWhite_01	Helicopter Shot	Emote	ORANGE (Mythic)	OB40	EMOTES/imagenes/909040014.png	
+909041001	Icon_Emote_DS_thunder	Thunder Breathing First Form: Thunder Flash	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041001.png	
+909041002	Icon_Emote_DS_water	Water Breathing Sixth Form: Whirlpool	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041002.png	
+909041003	Icon_Emote_DS_wildboar	Beast Breathing Fifth Fang: Crazy Cutting	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041003.png	
+909041004	Icon_Emote_Inkpainting	Flying Ink Sword	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041004.png	
+909041005	Icon_Emote_Sayori	Diz My Popblaster	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041005.png	
+909041006	Icon_Emote_Designertoys	Dance Puppet, Dance!	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041006.png	
+909041007	Icon_Emote_Festival_ID	High Knees	Emote	PURPLE (Epic)	OB41	EMOTES/imagenes/909041007.png	
+909041008	Icon_Emote_Sugarskull23	Bony Fumes	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041008.png	
+909041009	Icon_Emote_Flashinglights	Feel the Electricity	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041009.png	
+909041010	Icon_Emote_Rabbit	Whac-A-Cotton	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041010.png	
+909041011	Icon_Emote_Reputation	Honorable Mention Emote	Emote	BLUE (Rare)	OB41	EMOTES/imagenes/909041011.png	
+909041012	Icon_Emote_41brmaster	BR-Ranked Grandmaster Emote	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041012.png	
+909041013	Icon_Emote_41CSmaster	CS-Ranked Grandmaster Emote	Emote	ORANGE (Mythic)	OB41	EMOTES/imagenes/909041013.png	
+909041014	Icon_Emote_Monsterjacket	Monster Clubbing	Emote	RED (Artifact)	OB41	EMOTES/imagenes/909041014.png	
+909041015	Icon_Emote_Windah	Basudara Dance	Emote	BLUE (Rare)	OB41	EMOTES/imagenes/909041015.png	
+909042001	Icon_Emote_Theboy_Red	Stir-Fry Frostfire	Emote	RED (Artifact)	OB42	EMOTES/imagenes/909042001.png	
+909042002	Icon_Emote_Jumpsuit_Ghosts	Money Rain	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042002.png	
+909042003	Icon_Emote_Theboy_book	Frostfire's Calling	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042003.png	
+909042004	Icon_Emote_Getangry	Stomping Foot	Emote	PURPLE (Epic)	OB42	EMOTES/imagenes/909042004.png	
+909042005	Icon_Emote_Provokewaving	This Way	Emote	BLUE (Rare)	OB42	EMOTES/imagenes/909042005.png	
+909042006	Icon_Emote_Voltage	Excellent Service	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042006.png	
+909042007	Icon_Emote_Level100	"100" Gloo Sculpture	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042007.png	
+909042008	Icon_Emote_Evotiger	Ever Seen a Real Tiger?	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042008.png	
+909042009	Icon_Emote_Winterfest23	Celebration Schuss	Emote	PURPLE (Epic)	OB42	EMOTES/imagenes/909042009.png	
+909042011	Icon_Emote_Allseason	Dawn Voyage Emote	Emote	BLUE (Rare)	OB42	EMOTES/imagenes/909042011.png	Obtain by reaching Heroic in BR or CS twice in 2024.
+909042012	Icon_Emote_Bull	Lamborghini Ride	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042012.png	
+909042013	Icon_Emote_Theboy_Red_Double	Hello! Frostfire Style	Emote	RED (Artifact)	OB42	EMOTES/imagenes/909042013.png	
+909042016	Icon_Emote_TH_Handdance	Hand Grooves	Emote	BLUE (Rare)	OB42	EMOTES/imagenes/909042016.png	
+909042017	Icon_Emote_Toiletman	Free Fire Toiletman	Emote	ORANGE (Mythic)	OB42	EMOTES/imagenes/909042017.png	
+909042018	Icon_Emote_VN_Ninjadance	Kemusan	Emote	BLUE (Rare)	OB42	EMOTES/imagenes/909042018.png	
+909043001	Icon_Emote_Frog	Ribbit Rider	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043001.png	
+909043002	Icon_Emote_Evilbehind	Inner Self Mastery	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043002.png	
+909043003	Icon_Emote_Aprilfool24	Emperor's Treasure Machine	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043003.png	
+909043004	Icon_Emote_Chaos	Why So Chaos?	Emote	BLUE (Rare)	OB43	EMOTES/imagenes/909043004.png	
+909043005	Icon_Emote_Feaston	Huge Feast	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043005.png	
+909043006	Icon_Emote_Colorfest24	Color Burst	Emote	PURPLE (Epic)	OB43	EMOTES/imagenes/909043006.png	
+909043007	Icon_Emote_VNnewyear24	Dragon Swipe	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043007.png	
+909043008	Icon_Emote_Samba	Samba	Emote	PURPLE (Epic)	OB43	EMOTES/imagenes/909043008.png	
+909043009	Icon_Emote_Waterfest24	Speed Summon	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043009.png	
+909043010	Icon_Emote_Valentine24_Cooperate	What a Match	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043010.png	
+909043013	Icon_Emote_Valentine24_Uncooperative	What a Pair	Emote	ORANGE (Mythic)	OB43	EMOTES/imagenes/909043013.png	
+909044001	Icon_Emote_Videogame	Byte Mounting	Emote	ORANGE (Mythic)	OB44	EMOTES/imagenes/909044001.png	
+909044002	Icon_Emote_Monocycle	The Unicyclist	Emote	ORANGE (Mythic)	OB44	EMOTES/imagenes/909044002.png	
+909044003	Icon_Emote_Dopamine	Basket Rafting	Emote	ORANGE (Mythic)	OB44	EMOTES/imagenes/909044003.png	
+909044004	Icon_Emote_Festivalme_24	Happy Lamb Shouldering	Emote	ORANGE (Mythic)	OB44	EMOTES/imagenes/909044004.png	
+909044005	Icon_Emote_Persona_Book	Paradox of Enlightenment	Emote	ORANGE (Mythic)	OB44	EMOTES/imagenes/909044005.png	
+909044006	Icon_Emote_Persona_Double	Harmonious Paradox	Emote	RED (Artifact)	OB44	EMOTES/imagenes/909044006.png	
+909044007	Icon_Emote_Memes1	Raise Your Thumb!	Emote	BLUE (Rare)	OB44	EMOTES/imagenes/909044007.png	
+909044008	Icon_Emote_Memes2	Clap Your Hands!	Emote	BLUE (Rare)	OB44	EMOTES/imagenes/909044008.png	
+909044009	Icon_Emote_BR_Vapo	Done Deal	Emote	PURPLE (Epic)	OB44	EMOTES/imagenes/909044009.png	
+909044010	Icon_Emote_School_TH	Starcatcher Academy	Emote	PURPLE (Epic)	OB44	EMOTES/imagenes/909044010.png	
+909044011	Icon_Emote_Persona	Little Paradox Wings	Emote	PURPLE (Epic)	OB44	EMOTES/imagenes/909044011.png	
+909044012	Icon_Emote_Zombie24	Zombified!	Emote	PURPLE (Epic)	OB44	EMOTES/imagenes/909044012.png	
+909044015	Icon_Emote_Persona_Katana	The Final Paradox	Emote	ORANGE (Mythic)	OB44	EMOTES/imagenes/909044015.png	
+909044016	Icon_Emote_Basuri	Honk Up!	Emote	BLUE (Rare)	OB44	EMOTES/imagenes/909044016.png	
+909045001	Icon_Emote_Spirit24_Gun	Arrival of the Cyclone	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045001.png	
+909045002	Icon_Emote_Spirit24	Spring Rocker	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045002.png	
+909045003	Icon_Emote_Spirit24_Travel	Giddy Up!	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045003.png	
+909045004	Icon_Emote_Goose	The Goosy Dance	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045004.png	
+909045005	Icon_Emote_Octopus	Captain Victor	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045005.png	
+909045006	Icon_Emote_Meme3	You Know I'm Good	Emote	BLUE (Rare)	OB45	EMOTES/imagenes/909045006.png	
+909045007	Icon_Emote_Meme4	Step Step	Emote	BLUE (Rare)	OB45	EMOTES/imagenes/909045007.png	
+909045008	Icon_Emote_UMA	Super Yay	Emote	BLUE (Rare)	OB45	EMOTES/imagenes/909045008.png	
+909045009	Icon_Emote_IN_Moonwalk	Moonwalk	Emote	PURPLE (Epic)	OB45	EMOTES/imagenes/909045009.png	
+909045010	Icon_Emote_IN_Salute	A Flower Salute	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045010.png	
+909045011	Icon_Emote_VN_Fox	Little Foxy Run	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045011.png	
+909045012	Icon_Emote_Spirit24_Duo	Mr. Waggor's Seesaw	Emote	ORANGE (Mythic)	OB45	EMOTES/imagenes/909045012.png	
+909045015	Icon_Emote_BRrapper	Floating Meditation	Emote	BLUE (Rare)	OB45	EMOTES/imagenes/909045015.png	
+909045016	Icon_Emote_Folkdance	Naatu Naatu	Emote	RED (Artifact)	OB45	EMOTES/imagenes/909045016.png	
+909045017	Icon_Emote_MVPDance	Champion's Walk	Emote	PURPLE (Epic)	OB45	EMOTES/imagenes/909045017.png	
+909046001	Icon_Emote_Yinyang24	Aura Boarder	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046001.png	
+909046002	Icon_Emote_Booyahday24	Who's the Booyah Champ!	Emote	PURPLE (Epic)	OB46	EMOTES/imagenes/909046002.png	
+909046003	Icon_Emote_Microwaves	Controlled Combustion	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046003.png	
+909046004	Icon_Emote_Drinkcola	Cheers to Victory!	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046004.png	
+909046005	Icon_Emote_Football_Duo	Shoe Shining	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046005.png	
+909046006	Icon_Emote_Gunspin	Gunspinning	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046006.png	
+909046007	Icon_Emote_Meme5	Crowd Pleaser	Emote	BLUE (Rare)	OB46	EMOTES/imagenes/909046007.png	
+909046008	Icon_Emote_Meme6	No Sweat	Emote	BLUE (Rare)	OB46	EMOTES/imagenes/909046008.png	
+909046009	Icon_Emote_Lightfest24	Magma Quake	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046009.png	
+909046010	Icon_Emote_Strafe	Max Firepower	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046010.png	
+909046011	Icon_Emote_School_VN	Can't Touch This	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046011.png	
+909046012	Icon_Emote_Sugarskull24	Firestarter	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046012.png	
+909046013	Icon_Emote_BRFFWS	FFWS Flag Flair	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046013.png	
+909046014	Icon_Emote_BRrapper_Orange	Beat Drop	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046014.png	
+909046015	Icon_Emote_FB_Black	Isagi's Spatial Awareness	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046015.png	
+909046016	Icon_Emote_FB_White	Nagi's Trapping	Emote	ORANGE (Mythic)	OB46	EMOTES/imagenes/909046016.png	
+909046017	Icon_Emote_Stardance	Soaring Up	Emote	BLUE (Rare)	OB46	EMOTES/imagenes/909046017.png	
+909047001	Icon_Emote_Woodcrafter	I Won't Bow Down	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047001.png	
+909047002	Icon_Emote_Aurora_Duo	Aurora Iridescence	Emote	RED (Artifact)	OB47	EMOTES/imagenes/909047002.png	
+909047003	Icon_Emote_Valentine25_Duo	Couch For Two	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047003.png	
+909047004	Icon_Emote_Angelic_Move	Flutter Dash	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047004.png	
+909047005	Icon_Emote_Aurora	Slippery Throne	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047005.png	
+909047006	Icon_Emote_Superstar24	Acceptance Speech	Emote	PURPLE (Epic)	OB47	EMOTES/imagenes/909047006.png	
+909047007	Icon_Emote_Valentine25	Love Me, Love Me Not	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047007.png	
+909047008	Icon_Emote_Tailor	Scissor Savvy	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047008.png	
+909047009	Icon_Emote_Equation	The Thinker	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047009.png	
+909047010	Icon_Emote_Catdog	Match Countdown	Emote	PURPLE (Epic)	OB47	EMOTES/imagenes/909047010.png	
+909047011	Icon_Emote_Winterfest25	Hip Twists	Emote	BLUE (Rare)	OB47	EMOTES/imagenes/909047011.png	
+909047012	Icon_Emote_POPID_47	JKT48 No.1	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047012.png	
+909047013	Icon_Emote_Allseason25	Stormy Ascent	Emote	BLUE (Rare)	OB47	EMOTES/imagenes/909047013.png	Obtained by reaching Heroic in BR or CS 2 times in 2025
+909047015	Icon_Emote_NB_Ball	Rasengan	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047015.png	
+909047016	Icon_Emote_NB_Sennen	A Thousand Years of Death	Emote	BLUE (Rare)	OB47	EMOTES/imagenes/909047016.png	
+909047017	Icon_Emote_NB_Gesture	Ninja Sign	Emote	PURPLE (Epic)	OB47	EMOTES/imagenes/909047017.png	
+909047018	Icon_Emote_NB_Run	Ninja Run	Emote	PURPLE (Epic)	OB47	EMOTES/imagenes/909047018.png	
+909047019	Icon_Emote_NB_Shadow	Clone Jutsu	Emote	ORANGE (Mythic)	OB47	EMOTES/imagenes/909047019.png	
+909048001	Icon_Emote_Cityhero_Duo	To the Rescue	Emote	RED (Artifact)	OB48	EMOTES/imagenes/909048001.png	
+909048002	Icon_Emote_Cityhero_Book	Midnight Peruse	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048002.png	
+909048003	Icon_Emote_Rainforest_1	Guitar Groove	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048003.png	
+909048004	Icon_Emote_Rainforest_2	Keyboard Player	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048004.png	
+909048005	Icon_Emote_Rainforest_3	On Drums	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048005.png	
+909048006	Icon_Emote_Rainforest_4	Chac-Chac	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048006.png	
+909048007	Icon_Emote_Sleepcoat	Pillow Fight	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048007.png	
+909048008	Icon_Emote_Ninja_Mask	Target Practice	Emote	PURPLE (Epic)	OB48	EMOTES/imagenes/909048008.png	
+909048009	Icon_Emote_Fastbreaking_Dune	Goofy Camel	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048009.png	
+909048010	Icon_Emote_Cricke25	Hit a Six!	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048010.png	
+909048011	Icon_Emote_Blackdress	Flag Summon	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048011.png	
+909048012	Icon_Emote_Waterfest25	Swift Steps	Emote	BLUE (Rare)	OB48	EMOTES/imagenes/909048012.png	
+909048013	Icon_Emote_Carnival25	Carnival Funk	Emote	BLUE (Rare)	OB48	EMOTES/imagenes/909048013.png	
+909048014	Icon_Emote_Cupnoodle	Slurp slurp!	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048014.png	
+909048015	Icon_Emote_Comic24	Sketching	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048015.png	
+909048016	Icon_Emote_Football25_ID_Chair	Half-Time Chilling	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048016.png	
+909048017	Icon_Emote_Football25_ID_Throw	Throw-In	Emote	ORANGE (Mythic)	OB48	EMOTES/imagenes/909048017.png	
+909048018	Icon_Emote_SG_Rocky	Bailalo Rocky	Emote	PURPLE (Epic)	OB48	EMOTES/imagenes/909048018.png	
+909049001	Icon_Emote_BabyDragon	Nailoong Time!	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049001.png	
+909049002	Icon_Emote_NewSemester25	Hand Raise	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049002.png	
+909049003	Icon_Emote_Samurai_ME	Kick It Up	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049003.png	
+909049004	Icon_Emote_VN_Influencer	Slap and Twist	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049004.png	
+909049005	Icon_Emote_Local25	Side Wiggle	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049005.png	
+909049006	Icon_Emote_Eighth_Career	Creation Days	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049006.png	
+909049007	Icon_Emote_Eighth_Leading	Raining Coins	Emote	RED (Artifact)	OB49	EMOTES/imagenes/909049007.png	
+909049008	Icon_Emote_Clapping_Duo	Clap Clap Hooray	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049008.png	
+909049009	Icon_Emote_Eighth_Freezing	Infinite Loops	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049009.png	
+909049010	Icon_Emote_Jumpsuit25	P90 Surfer	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049010.png	
+909049011	Icon_Emote_BoxingTest	Boxing Machine	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049011.png	
+909049012	Icon_Emote_MultiStrafe	Open Fire	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049012.png	
+909049013	Icon_Emote_VomitingRainbows	Comic Barf	Emote	PURPLE (Epic)	OB49	EMOTES/imagenes/909049013.png	
+909049014	Icon_Emote_Eighth_Blue	Drive-By	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049014.png	
+909049015	Icon_Emote_MimeDriving	Pedal on the Metal	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049015.png	
+909049016	Icon_Emote_Sparta	Spear Spin	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049016.png	
+909049017	Icon_Emote_Guild25	Flag Wave	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049017.png	
+909049018	Icon_Emote_Club	Disco Dazzle	Emote	ORANGE (Mythic)	OB49	EMOTES/imagenes/909049018.png	
+909049019	Icon_Emote_Pony	Squat Challenge	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049019.png	
+909049020	Icon_Emote_Football25	Winning Goal	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049020.png	
+909049021	Icon_Emote_Football25_ID_Chin	Head High	Emote	BLUE (Rare)	OB49	EMOTES/imagenes/909049021.png	
+909050002	Icon_Emote_2NBCT_Revive	Reanimation Jutsu	Emote	RED (Artifact)	OB50	EMOTES/imagenes/909050002.png	
+909050003	Icon_Emote_2NBCT_Final_Duo	The Final Battle	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050003.png	
+909050004	Icon_Emote_2NBCT_Forehead	Forehead Poke	Emote	BLUE (Rare)	OB50	EMOTES/imagenes/909050004.png	
+909050005	Icon_Emote_2NBCT_Fire	Fire Style: Fireball Jutsu	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050005.png	
+909050006	Icon_Emote_2NBCT_Dad	Flying Raijin Jutsu	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050006.png	
+909050008	Icon_Emote_SL_Hammer	Hammer Slam	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050008.png	
+909050009	Icon_Emote_SL_Ring	The Rings	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050009.png	
+909050010	Icon_Emote_Festival_PK25_Freeze	Drum Twirl	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050010.png	
+909050011	Icon_Emote_Easterrabbit_2025_Scout	Bunny Action	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050011.png	
+909050012	Icon_Emote_VA_Moving	Broom Swoosh	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050012.png	
+909050013	Icon_Emote_Zombieduo_Duo	Blade from Heart	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050013.png	
+909050014	Icon_Emote_Readmap	Map Read	Emote	PURPLE (Epic)	OB50	EMOTES/imagenes/909050014.png	
+909050015	Icon_Emote_Tomato	Tomato Smash	Emote	PURPLE (Epic)	OB50	EMOTES/imagenes/909050015.png	
+909050016	Icon_Emote_Tactical	Tactical Moveout	Emote	BLUE (Rare)	OB50	EMOTES/imagenes/909050016.png	
+909050017	Icon_Emote_Easterrabbit_2025	Bunny Wiggle	Emote	BLUE (Rare)	OB50	EMOTES/imagenes/909050017.png	
+909050018	Icon_Emote_Funzombie	Flaming Heart	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050018.png	
+909050019	Icon_Emote_Cloudyday	Rain or Shine	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050019.png	
+909050020	Icon_Emote_RevengeMovie	Sholay	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050020.png	
+909050021	Icon_Emote_CSPeakTournament	Peak Points	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050021.png	Peak Rewards are reset when a new season starts
+909050026	Icon_Emote_Boatdance	Aura Farming	Emote	BLUE (Rare)	OB50	EMOTES/imagenes/909050026.png	
+909050027	Icon_Emote_Boatdance_Head_Move	Boat Race Aura	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050027.png	
+909050028	Icon_Emote_Boatdance_Body_Move	Boat Race Rowing	Emote	ORANGE (Mythic)	OB50	EMOTES/imagenes/909050028.png	
+909050029	Icon_Emote_VN_Marching	Marching	Emote	BLUE (Rare)	OB50	EMOTES/imagenes/909050029.png	
+909050030	Icon_Emote_TH_Stoopdance	Low Rider	Emote	BLUE (Rare)	OB50	EMOTES/imagenes/909050030.png	
+909051001	Icon_Emote_NewAngelic_Moving	Prismatic Flight	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051001.png	
+909051002	Icon_Emote_Dreamland_Cooperate	Gather Around	Emote	RED (Artifact)	OB51	EMOTES/imagenes/909051002.png	
+909051003	Icon_Emote_Dreamland_Evogun	Rain of Spikes	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051003.png	
+909051004	Icon_Emote_Bathtub	Shower Time	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051004.png	
+909051005	Icon_Emote_Swagger_Moving	Boss Energy	Emote	PURPLE (Epic)	OB51	EMOTES/imagenes/909051005.png	
+909051006	Icon_Emote_Meme7	Double Holster	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051006.png	
+909051007	Icon_Emote_Meme8	Finger Guns	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051007.png	
+909051008	Icon_Emote_Dreamland_Blue	Shivering	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051008.png	
+909051009	Icon_Emote_Seagames	Triple Shush	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051009.png	
+909051010	Icon_Emote_IDMotorbike_Moving	On Motorbike	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051010.png	
+909051011	Icon_Emote_Sugarskull25	Twisted Stare	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051011.png	
+909051012	Icon_Emote_Sagittarius25	Celestial Shot	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051012.png	
+909051013	Icon_Emote_Redhat25	Red Petals	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051013.png	
+909051014	Icon_Emote_TH_KOL25_Freezing	Puffer Ride	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051014.png	
+909051015	Icon_Emote_TH_KOL25_Laugh	Can't Stop Laughing	Emote	PURPLE (Epic)	OB51	EMOTES/imagenes/909051015.png	
+909051016	Icon_Emote_Allseason26	Crowned Glory Emote	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051016.png	
+909051017	Icon_Emote_CC_Duo_Freezing	Choppy Co-op	Emote	ORANGE (Mythic)	OB51	EMOTES/imagenes/909051017.png	
+909051018	Icon_Emote_Dreamland_Cooperate	Gather Around	Emote	RED (Artifact)	OB51	EMOTES/imagenes/909051018.png	
+909051019	Icon_Emote_Dreamland_Cooperate	Gather Around	Emote	RED (Artifact)	OB51	EMOTES/imagenes/909051019.png	
+909051020	Icon_Emote_Dreamland_Cooperate	Gather Around	Emote	RED (Artifact)	OB51	EMOTES/imagenes/909051020.png	
+909051021	Icon_Emote_BR_Passinho	Passinho	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051021.png	
+909051022	Icon_Emote_Security_VN	All Good, Boss!	Emote	BLUE (Rare)	OB51	EMOTES/imagenes/909051022.png	
+909051023	Icon_Emote_NA_67	67	Emote	PURPLE (Epic)	OB51	EMOTES/imagenes/909051023.png	
+909052001	Icon_Emote_IIV_CT_Pink_Freeze	TV Time	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052001.png	
+909052002	Icon_Emote_IIV_CT_White_Off	Cursed Technique Reversal: Red	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052002.png	
+909052003	Icon_Emote_IIV_CT_Rose	Straw Doll Technique	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052003.png	
+909052004	Icon_Emote_IIV_CT_Black	Ten Shadows Technique: Totality	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052004.png	
+909052005	Icon_Emote_Fastbreaking_Treasure_Freeze	Catchy Melody	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052005.png	
+909052006	Icon_Emote_Fastbreaking_Treasure_Blue	Farewell	Emote	BLUE (Rare)	OB52	EMOTES/imagenes/909052006.png	
+909052007	Icon_Emote_Carnival26_Free	Panther Move	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052007.png	
+909052008	Icon_Emote_Valentine26_Duo	Heart Attack!	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052008.png	
+909052009	Icon_Emote_Aprilfool26_Moving	Umbrella Go	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052009.png	
+909052010	Icon_Emote_Buggy_Tpose	T-pose	Emote	BLUE (Rare)	OB52	EMOTES/imagenes/909052010.png	
+909052011	Icon_Emote_Buggy_Glitchy	Laggy	Emote	PURPLE (Epic)	OB52	EMOTES/imagenes/909052011.png	
+909052012	Icon_Emote_Treasure26	Treasure Rain	Emote	ORANGE (Mythic)	OB52	EMOTES/imagenes/909052012.png	
+909052013	Icon_Emote_Fastbreaking_Treasure_Cooperate	King of Gold	Emote	RED (Artifact)	OB52	EMOTES/imagenes/909052013.png	
+909052014	Icon_Emote_Fastbreaking_Treasure_Cooperate	King of Gold	Emote	RED (Artifact)	OB52	EMOTES/imagenes/909052014.png	
+909052015	Icon_Emote_Fastbreaking_Treasure_Cooperate	King of Gold	Emote	RED (Artifact)	OB52	EMOTES/imagenes/909052015.png	
+909052016	Icon_Emote_Fastbreaking_Treasure_Cooperate	King of Gold	Emote	RED (Artifact)	OB52	EMOTES/imagenes/909052016.png	
+909052017	Icon_Emote_Fastbreaking_Treasure_Cooperate	Unknown	Emote	RED (Artifact)	OB52	EMOTES/imagenes/909052017.png	
+909052021	Icon_Emote_Huskydance	Husky Dance	Emote	BLUE (Rare)	OB52	EMOTES/imagenes/909052021.png	
+909053001	Icon_Emote_BR_Soccer	Victory Trumpet	Emote	PURPLE (Epic)	OB53	EMOTES/imagenes/909053001.png	
+909053002	Icon_Emote_Eclipse_Duo	Eclipse Creation	Emote	RED (Artifact)	OB53	EMOTES/imagenes/909053002.png	
+909053003	Icon_Emote_Eclipse	Power of Eclipse	Emote	ORANGE (Mythic)	OB53	EMOTES/imagenes/909053003.png	
+909053004	Icon_Emote_Bluetears	Undersea Wriggle	Emote	PURPLE (Epic)	OB53	EMOTES/imagenes/909053004.png	
+909053005	Icon_Emote_Worldcup25_Random_Cooperate	Reverse Penalty!	Emote	RED (Artifact)	OB53	EMOTES/imagenes/909053005.png	
+909053006	Icon_Emote_Worldcup25_Goal	Winning Kick	Emote	ORANGE (Mythic)	OB53	EMOTES/imagenes/909053006.png	
+909053007	Icon_Emote_Worldcup25_Classic	Keepie Uppie	Emote	PURPLE (Epic)	OB53	EMOTES/imagenes/909053007.png	
+909053008	Icon_Emote_Worldcup25_VAR	VAR Review	Emote	BLUE (Rare)	OB53	EMOTES/imagenes/909053008.png	
+909053009	Icon_Emote_Magical_Camera	Sweeten Up	Emote	ORANGE (Mythic)	OB53	EMOTES/imagenes/909053009.png	
+909053010	Icon_Emote_Sketch	Sculpted Stills	Emote	ORANGE (Mythic)	OB53	EMOTES/imagenes/909053010.png	
+909053011	Icon_Emote_GB_CT_Star	Multitasking	Emote	ORANGE (Mythic)	OB53	EMOTES/imagenes/909053011.png	
+909053013	Icon_Emote_Worldcup25_Random_Cooperate	Reverse Penalty!	Emote	RED (Artifact)	OB53	EMOTES/imagenes/909053013.png	
+909053014	Icon_Emote_Worldcup25_Random_Cooperate	Reverse Penalty!	Emote	RED (Artifact)	OB53	EMOTES/imagenes/909053014.png	
+909053015	Icon_Emote_Worldcup25_Random_Cooperate	Reverse Penalty!	Emote	RED (Artifact)	OB53	EMOTES/imagenes/909053015.png	
+909054001	Icon_Emote_Luchalibre2026_Info	The Champion Is Here!	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054001.png	
+909054002	Icon_Emote_HI_Depend26	Mark of Honor	Emote	PURPLE (Epic)	OB54	EMOTES/imagenes/909054002.png	
+909054003	Icon_Emote_PK_Depend26	Dance Brother Dance	Emote	PURPLE (Epic)	OB54	EMOTES/imagenes/909054003.png	
+909054004	Icon_Emote_Ninth_Evogun_Camera	Phoenix Flourish	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054004.png	
+909054005	Icon_Emote_Ninth_Groupmove	Anniversary Parade	Emote	RED (Artifact)	OB54	EMOTES/imagenes/909054005.png	
+909054006	Icon_Emote_Ninth_Blue	Celebration Dance	Emote	BLUE (Rare)	OB54	EMOTES/imagenes/909054006.png	
+909054007	Icon_Emote_Darkdesires	Volcanic Fury	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054007.png	
+909054008	Icon_Emote_Bloodmoon26	Scarlet Finish	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054008.png	
+909054009	Icon_Emote_Cottonbear	Cotton All Over	Emote	PURPLE (Epic)	OB54	EMOTES/imagenes/909054009.png	
+909054010	Icon_Emote_MusicJam_1_Freezing	Keytar Jam	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054010.png	
+909054011	Icon_Emote_MusicJam_2_Freezing	kitten Accordion	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054011.png	
+909054012	Icon_Emote_MusicJam_3_Freezing	Smooth Jam	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054012.png	
+909054013	Icon_Emote_MusicJam_4_Freezing	Drum Jam	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054013.png	
+909054014	Icon_Emote_FIFACup_Duo	Trophy Lift	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054014.png	
+909054015	Icon_Emote_Wolf_Sheep	Baa Baa Knit	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054015.png	
+909054016	Icon_Emote_Virgo26	Spotless	Emote	ORANGE (Mythic)	OB54	EMOTES/imagenes/909054016.png	
+909054017	Icon_Emote_ID_Idol54	Heart Swing	Emote	BLUE (Rare)	OB54	EMOTES/imagenes/909054017.png	
+909054019	Icon_Emote_ScubaDance	Scuba Dance	Emote	BLUE (Rare)	OB54	EMOTES/imagenes/909054019.png	
+909054020	Icon_Emote_Ninth_Groupmove	Anniversary Parade	Emote	RED (Artifact)	OB54	EMOTES/imagenes/909054020.png	
+909055001	Icon_Emote_WB_X	Alien X Power	Emote	PURPLE (Epic)	OB55	EMOTES/imagenes/909055001.png	
+909055002	Icon_Emote_Thanksgiving26_Freeze	Turkey Balloon	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055002.png	
+909055003	Icon_Emote_MAF26	Lion Dancing	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055003.png	
+909055004	Icon_Emote_Halloween_Well_Freezing	Crawl Out	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055004.png	
+909055005	Icon_Emote_Halloween26_Cry	Broken Cry	Emote	PURPLE (Epic)	OB55	EMOTES/imagenes/909055005.png	
+909055006	Icon_Emote_Blackdress26_Freeze	Cosmic Vortex	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055006.png	
+909055007	Icon_Emote_Blackdress26_Evogun_Camera	Cosmic Powershot	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055007.png	
+909055008	Icon_Emote_Storm26	Tornado Push	Emote	PURPLE (Epic)	OB55	EMOTES/imagenes/909055008.png	
+909055009	Icon_Emote_Flamedino_Move	Flame Attack!	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055009.png	
+909055010	Icon_Emote_Scorpio26	Silent Sting	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055010.png	
+909055011	Icon_Emote_Sugarskull26	Strange Power	Emote	BLUE (Rare)	OB55	EMOTES/imagenes/909055011.png	
+909055012	Icon_Emote_Overrun	Beast Pound	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055012.png	
+909055013	Icon_Emote_Figure	Firefig Showcase	Emote	ORANGE (Mythic)	OB55	EMOTES/imagenes/909055013.png	
+909547001	Icon_Emote_NB_Frog	Gamabunta Summoning	Super Emote	RED (Artifact)	OB47	EMOTES/imagenes/909547001.png	
+909550001	Icon_SuperEmote_2NBCT_Fan	Susano'o Summoning	Super Emote	RED (Artifact)	OB50	EMOTES/imagenes/909550001.png	Change the scene when used in the cabin
+909852001	FF_UI_Vault_Icon_FinishMove_Default	Default Finishing Move	Finishing Move	WHITE (Common)	OB52	EMOTES/imagenes/909852001.png	
+909852002	FF_UI_Vault_Icon_FinishMove_Hannyamask	Inferno Strike	Finishing Move	ORANGE (Mythic)	OB52	EMOTES/imagenes/909852002.png	
+909852003	FF_UI_Vault_Icon_FinishMove_Hannyamask	Inferno Strike	Finishing Move	ORANGE (Mythic)	OB52	EMOTES/imagenes/909852003.png	
+909852004	FF_UI_Vault_Icon_FinishMove_NB_Black	Flamed Slash	Finishing Move	ORANGE (Mythic)	OB52	EMOTES/imagenes/909852004.png	
+909852005	FF_UI_Vault_Icon_FinishMove_NB_Black	Flamed Slash	Finishing Move	ORANGE (Mythic)	OB52	EMOTES/imagenes/909852005.png	
+909852006	FF_UI_Vault_Icon_FinishMove_Fastbreaking_Treasure	Lost in Sand	Finishing Move	ORANGE (Mythic)	OB52	EMOTES/imagenes/909852006.png	
+909853001	FF_UI_Vault_Icon_FinishMove_GB_CT	Gooooal!	Finishing Move	ORANGE (Mythic)	OB53	EMOTES/imagenes/909853001.png	
+909854001	FF_UI_Vault_Icon_FinishMove_Darkdesires	Pride Judgment	Finishing Move	ORANGE (Mythic)	OB54	EMOTES/imagenes/909854001.png	
+909854002	FF_UI_Vault_Icon_FinishMove_Card_Killing	Red Card	Finishing Move	ORANGE (Mythic)	OB54	EMOTES/imagenes/909854002.png	
+909855001	FF_UI_Vault_Icon_FinishMove_Blackdress26	Cosmic Execution	Finishing Move	ORANGE (Mythic)	OB55	EMOTES/imagenes/909855001.png	
+912000001	Icon_GroupAnim_Cobra	Bend of Time	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912000002	Icon_GroupAnim_Supercar	Speed and Style	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912000003	Icon_GroupAnim_Booyahday	Skyrage Skeleton	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912000004	Icon_GroupAnim_Sledge	Goodies Time	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000004.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912000005	Icon_GroupAnim_Riding	Brisk Gallop	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000005.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912000006	Icon_GroupAnim_Hurricane	Cyclone Skater	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000006.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912000007	Icon_GroupAnim_Mechdragon	Dragon Rider	Arrival Animation	ORANGE (Mythic)		EMOTES/imagenes/912000007.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912033001	Icon_GroupAnim_Pegasus	Charge!	Arrival Animation	ORANGE (Mythic)	OB33	EMOTES/imagenes/912033001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912033002	Icon_GroupAnim_FFWS03	FFWS Pride	Arrival Animation	ORANGE (Mythic)	OB33	EMOTES/imagenes/912033002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912034001	Icon_GroupAnim_Rampage4	Wolf Zap	Arrival Animation	ORANGE (Mythic)	OB34	EMOTES/imagenes/912034001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912034002	Icon_GroupAnim_Tornado	Tornado	Arrival Animation	ORANGE (Mythic)	OB34	EMOTES/imagenes/912034002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912034003	Icon_GroupAnim_Cloud	Cloud Rider	Arrival Animation	ORANGE (Mythic)	OB34	EMOTES/imagenes/912034003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912035001	Icon_GroupAnim_Instant	Zig Zagger	Arrival Animation	ORANGE (Mythic)	OB35	EMOTES/imagenes/912035001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912035002	Icon_GroupAnim_TopCriminal	Spotlight Groover	Arrival Animation	ORANGE (Mythic)	OB35	EMOTES/imagenes/912035002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912035003	Icon_GroupAnim_DigitalUniverse	Spaceship Dominator	Arrival Animation	ORANGE (Mythic)	OB35	EMOTES/imagenes/912035003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912035004	Icon_GroupAnim_Singers	Peachy Ride	Arrival Animation	ORANGE (Mythic)	OB35	EMOTES/imagenes/912035004.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912036001	Icon_GroupAnim_CA_Claws	Celestial Flight	Arrival Animation	ORANGE (Mythic)	OB36	EMOTES/imagenes/912036001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912036002	Icon_GroupAnim_BulletTime	Bullet Master	Arrival Animation	ORANGE (Mythic)	OB36	EMOTES/imagenes/912036002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912036003	Icon_GroupAnim_Mirror	Superjock Dash	Arrival Animation	ORANGE (Mythic)	OB36	EMOTES/imagenes/912036003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912037001	Icon_GroupAnim_FFWS2022	Guardian Drachen	Arrival Animation	ORANGE (Mythic)	OB37	EMOTES/imagenes/912037001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912037002	Icon_GroupAnim_BlackHole	Black Hole	Arrival Animation	ORANGE (Mythic)	OB37	EMOTES/imagenes/912037002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912037003	Icon_GroupAnim_Winterfest22	Stay Frosty	Arrival Animation	ORANGE (Mythic)	OB37	EMOTES/imagenes/912037003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912037004	Icon_GroupAnim_Soccer22	Knee Slide	Arrival Animation	PURPLE (Epic)	OB37	EMOTES/imagenes/912037004.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912038001	Icon_GroupAnim_DMX	Let's Rock Baby!	Arrival Animation	ORANGE (Mythic)	OB38	EMOTES/imagenes/912038001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912038002	Icon_GroupAnim_Goal	Achiever Steps	Arrival Animation	ORANGE (Mythic)	OB38	EMOTES/imagenes/912038002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912038003	Icon_GroupAnim_Koicarp	Koi Descend	Arrival Animation	ORANGE (Mythic)	OB38	EMOTES/imagenes/912038003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912039001	Icon_GroupAnim_Fastbreaking23	Magical Lamp	Arrival Animation	ORANGE (Mythic)	OB39	EMOTES/imagenes/912039001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912039002	Icon_GroupAnim_Scarlet	Incubated Beast	Arrival Animation	ORANGE (Mythic)	OB39	EMOTES/imagenes/912039002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912040001	Icon_GroupAnim_Traphiphop22	Chromatic T.R.A.P.vasion	Arrival Animation	ORANGE (Mythic)	OB40	EMOTES/imagenes/912040001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912041001	Icon_GroupAnim_Ink_dragon	Inker the Storm	Arrival Animation	ORANGE (Mythic)	OB41	EMOTES/imagenes/912041001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912041002	Icon_GroupAnim_DS_firenwater	Water Breathing Tenth Form: Constant Flux	Arrival Animation	ORANGE (Mythic)	OB41	EMOTES/imagenes/912041002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912042001	Icon_GroupAnim_Theboy	Frostfire Ready	Arrival Animation	ORANGE (Mythic)	OB42	EMOTES/imagenes/912042001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912042002	Icon_GroupAnim_Bull	Lamborghini Drift	Arrival Animation	ORANGE (Mythic)	OB42	EMOTES/imagenes/912042002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912043001	Icon_GroupAnim_Axolotl_Airship	Happy Tubing	Arrival Animation	ORANGE (Mythic)	OB43	EMOTES/imagenes/912043001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912044001	Icon_GroupAnim_Persona	Paradox Descends	Arrival Animation	ORANGE (Mythic)	OB44	EMOTES/imagenes/912044001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912045001	Icon_GroupAnim_Spirit24	Lore Train Rollin'	Arrival Animation	ORANGE (Mythic)	OB45	EMOTES/imagenes/912045001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912045002	Icon_GroupAnim_Redcarpet	Red Carpet Focus	Arrival Animation	ORANGE (Mythic)	OB45	EMOTES/imagenes/912045002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912046001	Icon_GroupAnim_Yinyang24	Feathered Aura	Arrival Animation	ORANGE (Mythic)	OB46	EMOTES/imagenes/912046001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912046002	Icon_GroupAnim_Lightfest24	Boom and Crackle	Arrival Animation	ORANGE (Mythic)	OB46	EMOTES/imagenes/912046002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912047001	Icon_GroupAnim_Aurora	Aurora Squad	Arrival Animation	ORANGE (Mythic)	OB47	EMOTES/imagenes/912047001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912047002	Icon_GroupAnim_NB_Nine	Wrath of the Nine Tails	Arrival Animation	ORANGE (Mythic)	OB47	EMOTES/imagenes/912047002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912047003	Icon_GroupAnim_NB_Nine	Wrath of the Nine Tails	Arrival Animation	ORANGE (Mythic)	OB47	EMOTES/imagenes/912047003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912047004	Icon_GroupAnim_NB_Nine	Wrath of the Nine Tails	Arrival Animation	ORANGE (Mythic)	OB47	EMOTES/imagenes/912047004.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912048001	Icon_GroupAnim_Blackdress	Overcharged	Arrival Animation	ORANGE (Mythic)	OB48	EMOTES/imagenes/912048001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912048002	Icon_GroupAnim_Cityhero	Midnight Cape	Arrival Animation	ORANGE_PLUS (Mythic++)	OB48	EMOTES/imagenes/912048002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912049001	Icon_GroupAnim_Debut	Grand Debut	Arrival Animation	ORANGE (Mythic)	OB49	EMOTES/imagenes/912049001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912049002	Icon_GroupAnim_Jumpsuit25_Skywing	Golden Heist	Arrival Animation	ORANGE (Mythic)	OB49	EMOTES/imagenes/912049002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912050001	Icon_GroupAnim_2NBCT_Bro	Scattering Crows	Arrival Animation	ORANGE_PLUS (Mythic++)	OB50	EMOTES/imagenes/912050001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912050002	Icon_GroupAnim_SL	Ring Master	Arrival Animation	ORANGE (Mythic)	OB50	EMOTES/imagenes/912050002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912050003	Icon_GroupAnim_VA	Here Comes Trouble!	Arrival Animation	ORANGE (Mythic)	OB50	EMOTES/imagenes/912050003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912051001	Icon_GroupAnim_FFWS25	Bring the Noise!	Arrival Animation	ORANGE (Mythic)	OB51	EMOTES/imagenes/912051001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912051002	Icon_GroupAnim_Dreamland	Dream Show	Arrival Animation	ORANGE_PLUS (Mythic++)	OB51	EMOTES/imagenes/912051002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052001	Icon_GroupAnim_IIV_CT_White	Unlimited Void	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052002	Icon_GroupAnim_IIV_CT_King	Malevolent Shrine	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052003	Icon_GroupAnim_Carnival26_Free	Panther Strikes!	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052004	Icon_GroupAnim_IIV_CT_King	Malevolent Shrine	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052004.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052005	Icon_GroupAnim_IIV_CT_King	Malevolent Shrine	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052005.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052006	Icon_GroupAnim_IIV_CT_King_Clean	Malevolent Shrine	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052006.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052007	Icon_GroupAnim_IIV_CT_King_Clean	Malevolent Shrine	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052007.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912052008	Icon_GroupAnim_IIV_CT_King_Clean	Malevolent Shrine	Arrival Animation	ORANGE (Mythic)	OB52	EMOTES/imagenes/912052008.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912053001	Icon_GroupAnim_Eclipse	Eclipse Unsheathe	Arrival Animation	ORANGE_PLUS (Mythic++)	OB53	EMOTES/imagenes/912053001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912053002	Icon_GroupAnim_Bluetears	Undersea Splatter	Arrival Animation	ORANGE (Mythic)	OB53	EMOTES/imagenes/912053002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912053003	Icon_GroupAnim_GB_CT	Lightning Kick-Off	Arrival Animation	ORANGE (Mythic)	OB53	EMOTES/imagenes/912053003.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912053004	Icon_GroupAnim_Bluetears	Undersea Splatter	Arrival Animation	ORANGE (Mythic)	OB53	EMOTES/imagenes/912053004.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912054001	Icon_GroupAnim_Bloodmoon26	Scarlet Inkflare	Arrival Animation	ORANGE (Mythic)	OB54	EMOTES/imagenes/912054001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912054002	Icon_GroupAnim_Shadowboss	Big Boss	Arrival Animation	ORANGE (Mythic)	OB54	EMOTES/imagenes/912054002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912055001	Icon_GroupAnim_Blackdress26	Cosmic Ruler	Arrival Animation	ORANGE (Mythic)	OB55	EMOTES/imagenes/912055001.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+912055002	Icon_GroupAnim_Halloween26	Horror Show	Arrival Animation	ORANGE (Mythic)	OB55	EMOTES/imagenes/912055002.png	Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+918042001	Icon_Action_Cure_Default	Default - No Special Using Med Kits Posture	Posture	WHITE (Common)	OB42	EMOTES/imagenes/918042001.png	Equip this to have a special posture when using Med Kits.
+918042002	Icon_Action_Cure_Superteen	Using Med Kits Posture (Frostfire)	Posture	ORANGE (Mythic)	OB42	EMOTES/imagenes/918042002.png	Equip this to have a special posture when using Med Kits.
+918044002	Icon_Action_Cure_Persona	Use Med Kit (Paradox)	Posture	ORANGE (Mythic)	OB44	EMOTES/imagenes/918044002.png	Equip this to have a special posture when using Med Kits.
+918051002	Icon_Action_Cure_Dreamland	Use Med Kit (Dreamspace)	Posture	ORANGE (Mythic)	OB51	EMOTES/imagenes/918051002.png	Equip this to have a special posture when using Med Kits.
+919042001	Icon_Action_CrossOver_Default	Default - No Special Jumping Over a Window Posture	Posture	WHITE (Common)	OB42	EMOTES/imagenes/919042001.png	Equip this to have a special posture when jumping over a window in-match.
+919042002	Icon_Action_CrossOver_Superteen	Jumping Over a Window Posture (Frostfire)	Posture	PURPLE (Epic)	OB42	EMOTES/imagenes/919042002.png	Equip this to have a special posture when jumping over a window in-match.
+919044002	Icon_Action_CrossOver_Persona	Jumping Over a Window Posture (Paradox)	Posture	ORANGE (Mythic)	OB44	EMOTES/imagenes/919044002.png	Equip this to have a special posture when jumping over a window in-match.
+919051002	Icon_Action_CrossOver_Dreamland	Jumping Over a Window Posture (Dreamspace)	Posture	ORANGE (Mythic)	OB51	EMOTES/imagenes/919051002.png	Equip this to have a special posture when jumping over a window in-match.
+920042001	Icon_Action_Falling_Default	Default - No Special Falling Posture	Posture	WHITE (Common)	OB42	EMOTES/imagenes/920042001.png	Equip this to have a special falling posture in-match.
+920042002	Icon_Action_Falling_Superteen	Falling Posture (Frostfire)	Posture	ORANGE (Mythic)	OB42	EMOTES/imagenes/920042002.png	Equip this to have a special falling posture in-match.
+920044002	Icon_Action_Falling_Persona	Falling Posture (Paradox)	Posture	ORANGE (Mythic)	OB44	EMOTES/imagenes/920044002.png	Equip this to have a special falling posture in-match.
+920051002	Icon_Action_Falling_Dreamland	Jumping Posture (Dreamspace)	Posture	ORANGE (Mythic)	OB51	EMOTES/imagenes/920051002.png	Equip this to have a special falling posture in-match.
+923045000	Icon_FinalShot_01	Default - No Final Shot	Final Shot	WHITE (Common)	OB45	EMOTES/imagenes/923045000.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.
+923045002	Icon_Finalshot_M1014_Scarlet	Final Shot - Scorpio Rage	Final Shot	ORANGE (Mythic)	OB45	EMOTES/imagenes/923045002.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.
+923045003	Icon_Finalshot_MP40_Traphiphop22	Final Shot - Sonic Ascension	Final Shot	ORANGE (Mythic)	OB45	EMOTES/imagenes/923045003.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.
+923045004	Icon_Finalshot_FAL_Spirit24	Final Shot - Lore Yonder	Final Shot	ORANGE (Mythic)	OB45	EMOTES/imagenes/923045004.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.
+923048001	Icon_Finalshot_1887_Fastbreaking_dune	Final Shot - Shimmer Grasp	Final Shot	ORANGE (Mythic)	OB48	EMOTES/imagenes/923048001.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.
+923050001	Icon_Finalshot_MP40_2NBCT_Moon	Final Shot - Infinite Tsukuyomi	Final Shot	RED (Artifact)	OB50	EMOTES/imagenes/923050001.png	Comes with a special sky effect, final shot, and wipeout effect. Applies to all skins.
+923052001	Icon_Finalshot_Fastbreaking_Treasure	Final Shot - Coin Cascade	Final Shot	RED (Artifact)	OB52	EMOTES/imagenes/923052001.png	Comes with a special sky effect, final shot, and wipeout effect. Applies to all skins.
+923053001	Icon_Finalshot_Eclipse	Final Shot - Total Eclipse	Final Shot	RED (Artifact)	OB53	EMOTES/imagenes/923053001.png	Comes with a special sky effect, final shot, and wipeout effect. Applies to all skins.
+923054001	Icon_Finalshot_Ninth	Final Shot - Rising Phoenix	Final Shot	ORANGE (Mythic)	OB54	EMOTES/imagenes/923054001.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.
+923055001	Icon_Finalshot_Flamedino	Final Shot - Dino Shot	Final Shot	ORANGE (Mythic)	OB55	EMOTES/imagenes/923055001.png	The special effect for Final Shot and Team Wipeout. Effective on any skins.

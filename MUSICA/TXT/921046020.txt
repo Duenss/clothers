@@ -1,0 +1,8 @@
+ITEM ID: 921046020
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Swagat nahi karoge hamara?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Bolly Boli Voice Pack
+IMAGEN: MUSICA/imagenes/921046020.png

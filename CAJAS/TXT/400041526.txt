@@ -1,0 +1,8 @@
+ITEM ID: 400041526
+ICON ID: Icon_box_Runestone_Token_39
+NOMBRE: Runestone Hyperbook Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041526.png

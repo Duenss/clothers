@@ -1,0 +1,8 @@
+ITEM ID: 901049016
+ICON ID: Icon_callsign_storebg_LW49_VN25_02
+NOMBRE: LW-Ranked Elite Heroic Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901049016.png

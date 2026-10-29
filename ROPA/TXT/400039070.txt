@@ -1,0 +1,8 @@
+ITEM ID: 400039070
+ICON ID: Icon_box_3
+NOMBRE: Avenge Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400039070.png

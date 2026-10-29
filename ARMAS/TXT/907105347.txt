@@ -1,0 +1,8 @@
+ITEM ID: 907105347
+ICON ID: Icon_GlooShield_SH
+NOMBRE: Gloo Wall - Odd Jobs
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105347.png

@@ -1,0 +1,8 @@
+ITEM ID: 808000019
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Spikey Spines
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Spikey Spines set
+IMAGEN: OTROS/imagenes/808000019.png

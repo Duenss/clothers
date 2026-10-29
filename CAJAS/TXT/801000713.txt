@@ -1,0 +1,8 @@
+ITEM ID: 801000713
+ICON ID: Icon_exchange_ob25_winterlands_bell
+NOMBRE: Winterlands Bell
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Happy Holidays!
+IMAGEN: CAJAS/imagenes/801000713.png

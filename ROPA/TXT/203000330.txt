@@ -1,0 +1,8 @@
+ITEM ID: 203000330
+ICON ID: Icon_avatar_male_top_cos_rubgy
+NOMBRE: Quarterback (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000330.png

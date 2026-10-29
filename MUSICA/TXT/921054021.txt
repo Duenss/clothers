@@ -1,0 +1,8 @@
+ITEM ID: 921054021
+ICON ID: FF_UI_Voiceitem_US54A
+NOMBRE: Oh, my mind!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The LATAM Meme voice pack 1
+IMAGEN: MUSICA/imagenes/921054021.png

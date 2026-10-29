@@ -1,0 +1,8 @@
+ITEM ID: 204000116
+ICON ID: Icon_avatar_BallPants_Brazil
+NOMBRE: Conquerors' Blue
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000116.png

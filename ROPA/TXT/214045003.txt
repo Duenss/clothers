@@ -1,0 +1,8 @@
+ITEM ID: 214045003
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Say JKT48! (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

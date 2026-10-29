@@ -1,0 +1,8 @@
+ITEM ID: 913037001
+ICON ID: FF_UI_Vault_Music_FFWS2022
+NOMBRE: Prelude to Battle
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: FFWS: Fight As One lobby music
+IMAGEN: MUSICA/imagenes/913037001.png

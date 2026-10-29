@@ -1,0 +1,8 @@
+ITEM ID: 211038053
+ICON ID: Icon_avatar_male_cos_hair_alligator_basic
+NOMBRE: Crocodarer (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038053.png

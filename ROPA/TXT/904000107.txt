@@ -1,0 +1,8 @@
+ITEM ID: 904000107
+ICON ID: Icon_Bag_Eggday
+NOMBRE: Backpack - Bunny Sidekick
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000107.png

@@ -1,0 +1,8 @@
+ITEM ID: 203035028
+ICON ID: Icon_avatar_male_cos_top_riders
+NOMBRE: Grim Rider (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035028.png

@@ -1,0 +1,8 @@
+ITEM ID: 904035014
+ICON ID: Icon_Bag_Lbff
+NOMBRE: Backpack - LBFF
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035014.png

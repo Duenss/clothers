@@ -1,0 +1,8 @@
+ITEM ID: 400027114
+ICON ID: Icon_box_3
+NOMBRE: Oasis Ramadan Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains the many gifts of the oasis
+IMAGEN: ROPA/imagenes/400027114.png

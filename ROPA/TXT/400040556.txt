@@ -1,0 +1,8 @@
+ITEM ID: 400040556
+ICON ID: Icon_box_3
+NOMBRE: Career Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Dress up professionally!
+IMAGEN: ROPA/imagenes/400040556.png

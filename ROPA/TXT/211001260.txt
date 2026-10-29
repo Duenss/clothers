@@ -1,0 +1,8 @@
+ITEM ID: 211001260
+ICON ID: Icon_avatar_male_cos_accessory_winterfest21_coat
+NOMBRE: Flake Blake (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001260.png

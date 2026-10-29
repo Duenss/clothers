@@ -1,0 +1,8 @@
+ITEM ID: 907001419
+ICON ID: Icon_AK47_LavaUnicon
+NOMBRE: AK47 - Unicorn's Rage (Golden Era)
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001419.png

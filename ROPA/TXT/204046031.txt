@@ -1,0 +1,8 @@
+ITEM ID: 204046031
+ICON ID: Icon_avatar_male_cos_bottom_br_security
+NOMBRE: Code K (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204046031.png

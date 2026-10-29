@@ -1,0 +1,8 @@
+ITEM ID: 400030159
+ICON ID: Icon_box_3
+NOMBRE: dtac 6
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400030159.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001280
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Blue Fuel Shard
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Fuel Shards are important resources to rebuild your home and can be obtained in-game or through Home Rebirth missions. 1 Fuel Shard used in any one of the factories will give you 300 corresponding materials.
+IMAGEN: CAJAS/imagenes/801001280.png

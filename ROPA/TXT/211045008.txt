@@ -1,0 +1,8 @@
+ITEM ID: 211045008
+ICON ID: Icon_avatar_male_cos_hair_spirit24
+NOMBRE: Anemo Stormer (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045008.png

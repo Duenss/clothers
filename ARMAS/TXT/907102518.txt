@@ -1,0 +1,8 @@
+ITEM ID: 907102518
+ICON ID: Icon_M4A1_Researcher
+NOMBRE: M4A1 - Dr. Nanotech
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102518.png

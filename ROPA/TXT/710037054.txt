@@ -1,0 +1,8 @@
+ITEM ID: 710037054
+ICON ID: Icon_bundle_FFWS2022_37
+NOMBRE: Cosmic Drachen & Guardian Drachen Bundle
+TIPO: Bundles
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710037054.png

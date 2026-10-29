@@ -1,0 +1,8 @@
+ITEM ID: 907105156
+ICON ID: Icon_GlooShield_FFWS25_Champ
+NOMBRE: Gloo Wall - FFWS 2025 Champion
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105156.png

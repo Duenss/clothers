@@ -1,0 +1,8 @@
+ITEM ID: 211052005
+ICON ID: Icon_avatar_male_cos_accessory_iiv_ct_na
+NOMBRE: Kento Nanami's Glasses
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052005.png

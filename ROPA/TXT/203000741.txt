@@ -1,0 +1,8 @@
+ITEM ID: 203000741
+ICON ID: Icon_avatar_male_sc_SoccerStar_top
+NOMBRE: Winning Goal (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000741.png

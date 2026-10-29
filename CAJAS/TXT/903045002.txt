@@ -1,0 +1,8 @@
+ITEM ID: 903045002
+ICON ID: Icon_Deadloot_Leo
+NOMBRE: Loot Box - Leo Statue
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903045002.png

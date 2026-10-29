@@ -1,0 +1,8 @@
+ITEM ID: 710035002
+ICON ID: FF_Icon_Singers_deluxe
+NOMBRE: J.Biebs' Indigo Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: Contains J.Biebs character, J.Biebs' exclusive outfit, and 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710035002.png

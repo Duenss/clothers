@@ -1,0 +1,8 @@
+ITEM ID: 801001165
+ICON ID: Icon_exchange_ob30_treatment
+NOMBRE: Infiltrated Red Weapon Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Use to exchange for the Heal Shotgun and Heal Sniper gun skins
+IMAGEN: CAJAS/imagenes/801001165.png

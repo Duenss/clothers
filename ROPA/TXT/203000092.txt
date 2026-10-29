@@ -1,0 +1,8 @@
+ITEM ID: 203000092
+ICON ID: Icon_Avatar_female_jacket_001
+NOMBRE: Black Leather Jacket (Female)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000092.png

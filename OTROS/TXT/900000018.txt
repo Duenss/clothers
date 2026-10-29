@@ -1,0 +1,8 @@
+ITEM ID: 900000018
+ICON ID: UI_Icon_SpeedMode_Helicopter
+NOMBRE: Skyblaster
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/900000018.png

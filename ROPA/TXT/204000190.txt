@@ -1,0 +1,8 @@
+ITEM ID: 204000190
+ICON ID: Icon_avatar_male_bottom_cos_aborigine_s
+NOMBRE: Neolithic (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000190.png

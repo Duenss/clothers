@@ -1,0 +1,8 @@
+ITEM ID: 205037034
+ICON ID: Icon_avatar_cos_shoe_angelik_slippers
+NOMBRE: Angel Flip Flops
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037034.png

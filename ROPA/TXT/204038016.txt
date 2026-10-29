@@ -1,0 +1,8 @@
+ITEM ID: 204038016
+ICON ID: Icon_avatar_female_cos_bottom_mullet
+NOMBRE: Rebel's Anthem (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038016.png

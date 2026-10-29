@@ -1,0 +1,8 @@
+ITEM ID: 903031002
+ICON ID: Icon_Deadloot_Winterfest21
+NOMBRE: Loot Box - Jingle Head
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903031002.png

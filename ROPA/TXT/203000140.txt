@@ -1,0 +1,8 @@
+ITEM ID: 203000140
+ICON ID: Icon_avatar_tshirt_backschool
+NOMBRE: Back to school
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000140.png

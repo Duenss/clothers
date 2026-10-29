@@ -1,0 +1,8 @@
+ITEM ID: 700000615
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Night Panther Package
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Night Panther, the Golden Leopard pet skin, and other rewards!
+IMAGEN: ROPA/imagenes/700000615.png

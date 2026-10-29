@@ -1,0 +1,8 @@
+ITEM ID: 211033034
+ICON ID: Icon_avatar_cos_hair_onigiri
+NOMBRE: Onigiri Hood
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033034.png

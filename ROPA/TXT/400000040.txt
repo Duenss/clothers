@@ -1,0 +1,8 @@
+ITEM ID: 400000040
+ICON ID: Icon_box_3
+NOMBRE: Parachute Weather Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random parachute from the weather series. You will not receive duplicates.
+IMAGEN: ROPA/imagenes/400000040.png

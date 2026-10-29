@@ -1,0 +1,8 @@
+ITEM ID: 909051016
+ICON ID: Icon_Emote_Allseason26
+NOMBRE: Crowned Glory Emote
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051016.png

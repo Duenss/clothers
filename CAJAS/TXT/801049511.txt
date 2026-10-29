@@ -1,0 +1,8 @@
+ITEM ID: 801049511
+ICON ID: Icon_exchange_TT1_id_49
+NOMBRE: Timnas Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049511.png

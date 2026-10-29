@@ -1,0 +1,8 @@
+ITEM ID: 907000001
+ICON ID: Icon_USP_Camo
+NOMBRE: Snow Leopard
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000001.png

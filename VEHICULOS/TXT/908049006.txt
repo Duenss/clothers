@@ -1,0 +1,8 @@
+ITEM ID: 908049006
+ICON ID: Icon_slot_SUV_Academy_ID
+NOMBRE: Pickup Truck - School Bus
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049006.png

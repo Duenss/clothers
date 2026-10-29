@@ -1,0 +1,8 @@
+ITEM ID: 801049502
+ICON ID: Icon_exchange_A2T_vn_49
+NOMBRE: August 2025 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049502.png

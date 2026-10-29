@@ -1,0 +1,8 @@
+ITEM ID: 400000854
+ICON ID: Icon_box_3
+NOMBRE: Bunny Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A basket shaped like a rabbit
+IMAGEN: ROPA/imagenes/400000854.png

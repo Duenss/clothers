@@ -1,0 +1,8 @@
+ITEM ID: 203000025
+ICON ID: Icon_avatar_shirt_camo_005
+NOMBRE: Shirt (Town)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000025.png

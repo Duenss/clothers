@@ -1,0 +1,8 @@
+ITEM ID: 211000377
+ICON ID: Icon_avatar_accessory_cos_halloween2019_A
+NOMBRE: Pumpkin Candle
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000377.png

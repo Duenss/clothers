@@ -1,0 +1,8 @@
+ITEM ID: 801001064
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Kelly Supply Pack Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: A staple for survival
+IMAGEN: CAJAS/imagenes/801001064.png

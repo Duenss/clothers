@@ -1,0 +1,8 @@
+ITEM ID: 204000660
+ICON ID: Icon_avatar_male_bottom_cos_cobra_purple
+NOMBRE: Cobra Cyber (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000660.png

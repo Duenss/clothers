@@ -1,0 +1,8 @@
+ITEM ID: 205051010
+ICON ID: Icon_avatar_cos_shoe_ffws25
+NOMBRE: FFWS Will of Fire (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051010.png

@@ -1,0 +1,8 @@
+ITEM ID: 906045003
+ICON ID: Icon_Avatar_Surfboard_Leo
+NOMBRE: Skyboard - Leo Trek
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906045003.png

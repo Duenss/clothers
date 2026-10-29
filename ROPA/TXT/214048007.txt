@@ -1,0 +1,8 @@
+ITEM ID: 214048007
+ICON ID: Icon_avatar_cos_headadditive_cityhero_fp
+NOMBRE: Vanguard of Justice (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214048007.png

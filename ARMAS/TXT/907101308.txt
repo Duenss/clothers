@@ -1,0 +1,8 @@
+ITEM ID: 907101308
+ICON ID: Icon_Famas_Hacker
+NOMBRE: FAMAS - Digital Invasion
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB13
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101308.png

@@ -1,0 +1,8 @@
+ITEM ID: 710028048
+ICON ID: FF_UI_CupMatchBox_01
+NOMBRE: Clash Squad Cup (Preview) Participation Chest
+TIPO: Bundles
+RAREZA: WHITE (Common)
+TAG: OB28
+DESCRIPCION: Clash Squad Cup (Preview) Participation Chest
+IMAGEN: ROPA/imagenes/710028048.png

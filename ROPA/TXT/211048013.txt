@@ -1,0 +1,8 @@
+ITEM ID: 211048013
+ICON ID: Icon_avatar_cos_hair_rainforest_snake
+NOMBRE: Tropical Fangs (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048013.png

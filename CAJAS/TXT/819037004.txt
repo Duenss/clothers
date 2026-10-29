@@ -1,0 +1,8 @@
+ITEM ID: 819037004
+ICON ID: FF_UI_VFX_FFWS_03
+NOMBRE: Running Effect (FFWS Galaxy)
+TIPO: Vouchers
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: When you equip a pair of FFWS Galaxy theme pants, running will display this special effect.
+IMAGEN: CAJAS/imagenes/819037004.png

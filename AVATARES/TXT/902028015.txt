@@ -1,0 +1,8 @@
+ITEM ID: 902028015
+ICON ID: Icon_face_Rank23
+NOMBRE: Season 23 Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902028015.png

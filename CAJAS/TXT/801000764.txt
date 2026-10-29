@@ -1,0 +1,8 @@
+ITEM ID: 801000764
+ICON ID: Icon_exchange_ob25_clubber_token
+NOMBRE: Clubber Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: To club or not to club? That is not even a question
+IMAGEN: CAJAS/imagenes/801000764.png

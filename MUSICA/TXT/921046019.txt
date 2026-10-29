@@ -1,0 +1,8 @@
+ITEM ID: 921046019
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Tera bhai Sambhaal lega
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Bolly Boli Voice Pack
+IMAGEN: MUSICA/imagenes/921046019.png

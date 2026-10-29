@@ -1,0 +1,8 @@
+ITEM ID: 902037015
+ICON ID: Icon_face_FFWS_TH2
+NOMBRE: EVOS Phoenix Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037015.png

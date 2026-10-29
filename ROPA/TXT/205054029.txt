@@ -1,0 +1,8 @@
+ITEM ID: 205054029
+ICON ID: Icon_avatar_cos_shoe_th_seal
+NOMBRE: Seal Slippers
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054029.png

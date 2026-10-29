@@ -1,0 +1,8 @@
+ITEM ID: 921047021
+ICON ID: FF_UI_Voiceitem_BD47
+NOMBRE: Bujho nai bepar ta?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Appreciating teammates
+IMAGEN: MUSICA/imagenes/921047021.png

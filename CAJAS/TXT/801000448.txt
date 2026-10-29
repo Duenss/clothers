@@ -1,0 +1,8 @@
+ITEM ID: 801000448
+ICON ID: Icon_exchange_ob21_cell_purple
+NOMBRE: Purple Cell
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000448.png

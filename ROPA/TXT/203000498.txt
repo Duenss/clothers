@@ -1,0 +1,8 @@
+ITEM ID: 203000498
+ICON ID: Icon_avatar_tshirt_twzhubot_joeman
+NOMBRE: Joeman
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000498.png

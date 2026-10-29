@@ -1,0 +1,8 @@
+ITEM ID: 211000956
+ICON ID: Icon_avatar_male_hair_cos_horrorcircus_headwear
+NOMBRE: Cursed Magician - Ovation (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000956.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001828
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Kelly's Badge Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: What can you exchange this with?
+IMAGEN: CAJAS/imagenes/801001828.png

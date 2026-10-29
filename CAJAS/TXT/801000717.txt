@@ -1,0 +1,8 @@
+ITEM ID: 801000717
+ICON ID: Icon_exchange_ob25_new_years_purpose
+NOMBRE: New Year's Resolution
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Make a list and work hard for your goals!
+IMAGEN: CAJAS/imagenes/801000717.png

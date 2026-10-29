@@ -1,0 +1,8 @@
+ITEM ID: 902035001
+ICON ID: Icon_face_Deepseasharks_EP_A
+NOMBRE: Shark Fright Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035001.png

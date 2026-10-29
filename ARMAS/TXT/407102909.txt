@@ -1,0 +1,8 @@
+ITEM ID: 407102909
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Quadri Lava Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open to receive a random gun skin from the Quadri Lava weapon set.
+IMAGEN: ARMAS/imagenes/407102909.png

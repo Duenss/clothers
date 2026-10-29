@@ -1,0 +1,8 @@
+ITEM ID: 801000592
+ICON ID: Icon_exchange_ob23_moon_token
+NOMBRE: Moon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Reflect the night sky
+IMAGEN: CAJAS/imagenes/801000592.png

@@ -1,0 +1,8 @@
+ITEM ID: 211053048
+ICON ID: Icon_avatar_female_cos_hair_th_style
+NOMBRE: Silky Glam (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053048.png

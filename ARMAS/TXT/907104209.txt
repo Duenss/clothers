@@ -1,0 +1,8 @@
+ITEM ID: 907104209
+ICON ID: Icon_GlooShield_Theboy
+NOMBRE: Gloo Wall - Frostfire Keeper
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104209.png

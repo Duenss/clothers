@@ -1,0 +1,8 @@
+ITEM ID: 400001041
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda Pickup Truck Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains Plan Bermuda Pickup Truck, Pan Greatest Heist, Plan Bermuda Vault and Raining Cash
+IMAGEN: ROPA/imagenes/400001041.png

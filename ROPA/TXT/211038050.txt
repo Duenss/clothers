@@ -1,0 +1,8 @@
+ITEM ID: 211038050
+ICON ID: Icon_avatar_male_cos_hair_cybermech_basic
+NOMBRE: Project Azure (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038050.png

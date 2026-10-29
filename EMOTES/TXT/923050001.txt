@@ -1,0 +1,8 @@
+ITEM ID: 923050001
+ICON ID: Icon_Finalshot_MP40_2NBCT_Moon
+NOMBRE: Final Shot - Infinite Tsukuyomi
+TIPO: Final Shot
+RAREZA: RED (Artifact)
+TAG: OB50
+DESCRIPCION: Comes with a special sky effect, final shot, and wipeout effect. Applies to all skins.
+IMAGEN: EMOTES/imagenes/923050001.png

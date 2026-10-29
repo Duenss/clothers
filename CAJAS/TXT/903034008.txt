@@ -1,0 +1,8 @@
+ITEM ID: 903034008
+ICON ID: Icon_Deadloot_Barocco
+NOMBRE: Loot Box - Heart Laced
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903034008.png

@@ -1,0 +1,8 @@
+ITEM ID: 211041040
+ICON ID: Icon_avatar_cos_accessory_ninja_mask
+NOMBRE: Knitted In Darkness (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041040.png

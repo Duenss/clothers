@@ -1,0 +1,8 @@
+ITEM ID: 204035042
+ICON ID: Icon_avatar_cos_bottom_sportswear35
+NOMBRE: Cobalt Athlete (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035042.png

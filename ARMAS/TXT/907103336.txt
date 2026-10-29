@@ -1,0 +1,8 @@
+ITEM ID: 907103336
+ICON ID: Icon_Machete_Aprilfool22
+NOMBRE: Parang - Steak Slicer
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103336.png

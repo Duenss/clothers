@@ -1,0 +1,8 @@
+ITEM ID: 929005509
+ICON ID: Icon_Photostickeritem_NB1RE_CT_Sticker_09
+NOMBRE: Deidara Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Deidara Sticker
+IMAGEN: AVATARES/imagenes/929005509.png

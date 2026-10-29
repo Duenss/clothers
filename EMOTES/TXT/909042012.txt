@@ -1,0 +1,8 @@
+ITEM ID: 909042012
+ICON ID: Icon_Emote_Bull
+NOMBRE: Lamborghini Ride
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909042012.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037062
+ICON ID: Icon_avatar_male_cos_accessory_emoji_basic
+NOMBRE: Hidden Blast (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037062.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000763
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FACT4 Pink
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: FLEX
+IMAGEN: CAJAS/imagenes/801000763.png

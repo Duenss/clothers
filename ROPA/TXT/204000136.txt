@@ -1,0 +1,8 @@
+ITEM ID: 204000136
+ICON ID: Icon_avatar_bottom_cos_royal_A
+NOMBRE: Royal Casuals (Pants)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000136.png

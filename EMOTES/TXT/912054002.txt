@@ -1,0 +1,8 @@
+ITEM ID: 912054002
+ICON ID: Icon_GroupAnim_Shadowboss
+NOMBRE: Big Boss
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912054002.png

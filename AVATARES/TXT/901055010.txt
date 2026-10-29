@@ -1,0 +1,8 @@
+ITEM ID: 901055010
+ICON ID: Icon_callsign_storebg_Rank54
+NOMBRE: BR-Ranked S54 Master Banner
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901055010.png

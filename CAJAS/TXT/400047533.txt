@@ -1,0 +1,8 @@
+ITEM ID: 400047533
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Groza Poppin' Shootin' Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Open to receive a Groza Poppin' Shootin'
+IMAGEN: CAJAS/imagenes/400047533.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103042
+ICON ID: Icon_GlooShield_Lightfest
+NOMBRE: Gloo Wall - Stick No Bills
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103042.png

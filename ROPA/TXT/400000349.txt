@@ -1,0 +1,8 @@
+ITEM ID: 400000349
+ICON ID: Icon_box_3
+NOMBRE: Random Bottom Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random clothing (Bottom)
+IMAGEN: ROPA/imagenes/400000349.png

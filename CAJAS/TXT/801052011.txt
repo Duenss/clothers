@@ -1,0 +1,8 @@
+ITEM ID: 801052011
+ICON ID: Icon_exchange_Coa_2_52
+NOMBRE: Purple Lightstick
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052011.png

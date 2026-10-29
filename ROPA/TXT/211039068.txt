@@ -1,0 +1,8 @@
+ITEM ID: 211039068
+ICON ID: Icon_avatar_male_cos_hair_comic_blue
+NOMBRE: OG Hero's Day Off (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039068.png

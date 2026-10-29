@@ -1,0 +1,8 @@
+ITEM ID: 907104643
+ICON ID: Icon_GlooShield_Yinyang24
+NOMBRE: Gloo Wall - Aura of Chaos
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104643.png

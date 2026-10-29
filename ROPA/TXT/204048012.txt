@@ -1,0 +1,8 @@
+ITEM ID: 204048012
+ICON ID: Icon_avatar_cos_bottom_rainforest_free
+NOMBRE: Tropical Misfits (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048012.png

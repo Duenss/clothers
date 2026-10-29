@@ -1,0 +1,8 @@
+ITEM ID: 904048002
+ICON ID: Icon_Bag_Firefly
+NOMBRE: Backpack - Firefly Lamp
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904048002.png

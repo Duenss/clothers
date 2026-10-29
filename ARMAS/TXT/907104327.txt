@@ -1,0 +1,8 @@
+ITEM ID: 907104327
+ICON ID: Icon_Baseballbat_Colorfest24
+NOMBRE: Bat - Color Splash
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104327.png

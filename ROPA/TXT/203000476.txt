@@ -1,0 +1,8 @@
+ITEM ID: 203000476
+ICON ID: Icon_avatar_top_cos_gold_s10
+NOMBRE: Season 10 Gold Shirt
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000476.png

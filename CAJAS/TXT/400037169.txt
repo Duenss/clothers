@@ -1,0 +1,8 @@
+ITEM ID: 400037169
+ICON ID: Icon_box_Universal_Evo_43
+NOMBRE: Universal Evo Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400037169.png

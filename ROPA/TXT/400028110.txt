@@ -1,0 +1,8 @@
+ITEM ID: 400028110
+ICON ID: Icon_box_3
+NOMBRE: Sea Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: What could possibly be in it
+IMAGEN: ROPA/imagenes/400028110.png

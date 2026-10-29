@@ -1,0 +1,8 @@
+ITEM ID: 400041093
+ICON ID: Icon_box_classic_41
+NOMBRE: Classic Consumable Lucky Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041093.png

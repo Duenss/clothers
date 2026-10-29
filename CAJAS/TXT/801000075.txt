@@ -1,0 +1,8 @@
+ITEM ID: 801000075
+ICON ID: Icon_exchange_HUAWEIxMX
+NOMBRE: HUAWEI Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A gift from HUAWEI!
+IMAGEN: CAJAS/imagenes/801000075.png

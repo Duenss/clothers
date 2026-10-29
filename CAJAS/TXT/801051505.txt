@@ -1,0 +1,8 @@
+ITEM ID: 801051505
+ICON ID: Icon_exchange_sfkt_id_51
+NOMBRE: Snowflake Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051505.png

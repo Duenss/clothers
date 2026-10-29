@@ -1,0 +1,8 @@
+ITEM ID: 801046504
+ICON ID: Icon_exchange_Firebones_Token_us-es_46
+NOMBRE: Firebones Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046504.png

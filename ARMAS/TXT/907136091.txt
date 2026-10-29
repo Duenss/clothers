@@ -1,0 +1,8 @@
+ITEM ID: 907136091
+ICON ID: Icon_Ice_Gun_Mambas
+NOMBRE: Ice Gun - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136091.png

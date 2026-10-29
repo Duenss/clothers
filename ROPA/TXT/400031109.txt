@@ -1,0 +1,8 @@
+ITEM ID: 400031109
+ICON ID: Icon_box_3
+NOMBRE: Yeti Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Contains Pet Yeti and many other rewards
+IMAGEN: ROPA/imagenes/400031109.png

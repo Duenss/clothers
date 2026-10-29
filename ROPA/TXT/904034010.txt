@@ -1,0 +1,8 @@
+ITEM ID: 904034010
+ICON ID: Icon_Bag_Kuma
+NOMBRE: Backpack - Tweed Duffle
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034010.png

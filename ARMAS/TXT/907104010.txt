@@ -1,0 +1,8 @@
+ITEM ID: 907104010
+ICON ID: Icon_AUG_Surf
+NOMBRE: AUG - Aqua Blast
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104010.png

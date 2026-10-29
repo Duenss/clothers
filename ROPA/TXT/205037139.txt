@@ -1,0 +1,8 @@
+ITEM ID: 205037139
+ICON ID: Icon_avatar_male_cos_hair_cricket_green
+NOMBRE: Glorious Cricketer (Head)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037139.png

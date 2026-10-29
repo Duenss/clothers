@@ -1,0 +1,8 @@
+ITEM ID: 801049535
+ICON ID: Icon_exchange_TMT_th_49
+NOMBRE: Twisted Minds Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049535.png

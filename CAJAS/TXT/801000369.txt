@@ -1,0 +1,8 @@
+ITEM ID: 801000369
+ICON ID: Icon_exchange_ro_coin
+NOMBRE: RO Coin
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000369.png

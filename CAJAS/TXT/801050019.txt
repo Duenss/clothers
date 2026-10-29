@@ -1,0 +1,8 @@
+ITEM ID: 801050019
+ICON ID: Icon_exchange_dwlt_3_50
+NOMBRE: Bright Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050019.png

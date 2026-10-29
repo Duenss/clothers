@@ -1,0 +1,8 @@
+ITEM ID: 203001172
+ICON ID: Icon_avatar_male_top_cos_heroic_s08
+NOMBRE: CS-Ranked S8 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001172.png

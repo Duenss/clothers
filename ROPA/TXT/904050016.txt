@@ -1,0 +1,8 @@
+ITEM ID: 904050016
+ICON ID: Icon_equipment_Back_E_03
+NOMBRE: Default Backpack
+TIPO: Bag Skins
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Stores your loot during matches. Capacity depends on its level (maximum Lv. 3)
+IMAGEN: ROPA/imagenes/904050016.png

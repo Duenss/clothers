@@ -1,0 +1,8 @@
+ITEM ID: 907104229
+ICON ID: Icon_Kar98k_Rank37
+NOMBRE: Kar98k - S37 Exclusive: Electro
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104229.png

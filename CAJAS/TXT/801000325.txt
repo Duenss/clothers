@@ -1,0 +1,8 @@
+ITEM ID: 801000325
+ICON ID: Icon_exchange_green_paint
+NOMBRE: Green Paint
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Green Colored Paint
+IMAGEN: CAJAS/imagenes/801000325.png

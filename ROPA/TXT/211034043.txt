@@ -1,0 +1,8 @@
+ITEM ID: 211034043
+ICON ID: Icon_avatar_male_cos_hair_angel_bw
+NOMBRE: Wing Haircut
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034043.png

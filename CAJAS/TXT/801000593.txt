@@ -1,0 +1,8 @@
+ITEM ID: 801000593
+ICON ID: Icon_exchange_ob23_sun_token
+NOMBRE: Sun Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Light the world
+IMAGEN: CAJAS/imagenes/801000593.png

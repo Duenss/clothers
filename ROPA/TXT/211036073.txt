@@ -1,0 +1,8 @@
+ITEM ID: 211036073
+ICON ID: Icon_avatar_cos_hair_shiba_hw01
+NOMBRE: Shy Shiba Mask
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036073.png

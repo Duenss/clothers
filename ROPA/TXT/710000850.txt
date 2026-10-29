@@ -1,0 +1,8 @@
+ITEM ID: 710000850
+ICON ID: Icon_bundle_Hell_25
+NOMBRE: Blazing Beaston Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Blazing Beaston set
+IMAGEN: ROPA/imagenes/710000850.png

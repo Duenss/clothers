@@ -1,0 +1,8 @@
+ITEM ID: 902031003
+ICON ID: Icon_face_Alienpilot_FP
+NOMBRE: Childhood Dream
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031003.png

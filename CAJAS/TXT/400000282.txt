@@ -1,0 +1,8 @@
+ITEM ID: 400000282
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AK47 - Water Balloon Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for AK47 Water Balloon.
+IMAGEN: CAJAS/imagenes/400000282.png

@@ -1,0 +1,8 @@
+ITEM ID: 170044002
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Crate 7
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170044002.png

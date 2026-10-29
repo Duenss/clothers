@@ -1,0 +1,8 @@
+ITEM ID: 801044519
+ICON ID: Icon_exchange_Premium_collection_th_44
+NOMBRE: Premium Collection Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044519.png

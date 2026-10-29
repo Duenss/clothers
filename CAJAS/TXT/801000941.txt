@@ -1,0 +1,8 @@
+ITEM ID: 801000941
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion P Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Priceless story to tell...
+IMAGEN: CAJAS/imagenes/801000941.png

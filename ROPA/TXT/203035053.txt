@@ -1,0 +1,8 @@
+ITEM ID: 203035053
+ICON ID: Icon_avatar_cos_top_painting
+NOMBRE: Squeeze Tee
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035053.png

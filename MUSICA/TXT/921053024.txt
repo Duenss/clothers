@@ -1,0 +1,8 @@
+ITEM ID: 921053024
+ICON ID: FF_UI_Voiceitem_RonaldoLATAM53
+NOMBRE: I've made all my dreams come true
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho voice pack
+IMAGEN: MUSICA/imagenes/921053024.png

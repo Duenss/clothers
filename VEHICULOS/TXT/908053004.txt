@@ -1,0 +1,8 @@
+ITEM ID: 908053004
+ICON ID: Icon_slot_TUTU_Sketch
+NOMBRE: Tuk Tuk - Sculpted Elegance
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908053004.png

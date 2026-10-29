@@ -1,0 +1,8 @@
+ITEM ID: 400000916
+ICON ID: Icon_box_3
+NOMBRE: Emote I'm Saitama Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Emote I'm Saitama and other rewards
+IMAGEN: ROPA/imagenes/400000916.png

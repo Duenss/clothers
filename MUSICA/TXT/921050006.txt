@@ -1,0 +1,8 @@
+ITEM ID: 921050006
+ICON ID: FF_UI_Voiceitem_VA50
+NOMBRE: What was that sound?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Trouble Night Voice Pack
+IMAGEN: MUSICA/imagenes/921050006.png

@@ -1,0 +1,8 @@
+ITEM ID: 903046004
+ICON ID: Icon_Deadloot_Lightfest24
+NOMBRE: Loot Box - Light Fireworks
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903046004.png

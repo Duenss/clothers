@@ -1,0 +1,8 @@
+ITEM ID: 211044039
+ICON ID: Icon_avatar_male_cos_hair_sport_th
+NOMBRE: Gym Uniform (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044039.png

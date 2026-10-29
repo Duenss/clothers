@@ -1,0 +1,8 @@
+ITEM ID: 760031058
+ICON ID: Icon_box_3
+NOMBRE: FFWS League Deck Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive FFWS League Cards
+IMAGEN: ROPA/imagenes/760031058.png

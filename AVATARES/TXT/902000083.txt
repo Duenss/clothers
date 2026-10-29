@@ -1,0 +1,8 @@
+ITEM ID: 902000083
+ICON ID: Icon_face_pirate_ep2
+NOMBRE: Seadog
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000083.png

@@ -1,0 +1,8 @@
+ITEM ID: 407102202
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Apocalyptic Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB22
+DESCRIPCION: Open to receive a random gun skin from the Apocalyptic weapon set.
+IMAGEN: ARMAS/imagenes/407102202.png

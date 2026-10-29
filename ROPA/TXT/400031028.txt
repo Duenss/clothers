@@ -1,0 +1,8 @@
+ITEM ID: 400031028
+ICON ID: Icon_box_3
+NOMBRE: Snowy Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Nothing better than snow! Open up to get amazing rewards
+IMAGEN: ROPA/imagenes/400031028.png

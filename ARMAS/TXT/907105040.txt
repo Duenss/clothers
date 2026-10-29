@@ -1,0 +1,8 @@
+ITEM ID: 907105040
+ICON ID: Icon_AirBurst_Rank47
+NOMBRE: M590 - S47 Exclusive: Desert
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: BR-Ranked S47 Reward
+IMAGEN: ARMAS/imagenes/907105040.png

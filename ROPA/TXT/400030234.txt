@@ -1,0 +1,8 @@
+ITEM ID: 400030234
+ICON ID: Icon_box_3
+NOMBRE: Beeline KZ
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Exclusive Box for Beeline KZ
+IMAGEN: ROPA/imagenes/400030234.png

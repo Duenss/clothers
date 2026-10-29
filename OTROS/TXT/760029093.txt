@@ -1,0 +1,8 @@
+ITEM ID: 760029093
+ICON ID: FF_UI_CupMatchBox_04A
+NOMBRE: Clash Squad Cup (Advanced) 3-wins Chest
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Clash Squad Cup (Advanced) 3-wins Chest
+IMAGEN: OTROS/imagenes/760029093.png

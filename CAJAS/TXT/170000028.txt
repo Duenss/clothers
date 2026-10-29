@@ -1,0 +1,8 @@
+ITEM ID: 170000028
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Your Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Pick any one of the rewards to claim. The choice is yours!
+IMAGEN: CAJAS/imagenes/170000028.png

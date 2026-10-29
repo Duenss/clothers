@@ -1,0 +1,8 @@
+ITEM ID: 907194005
+ICON ID: Icon_G18_Goal_02
+NOMBRE: G18 - Ultimate Achiever
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907194005.png

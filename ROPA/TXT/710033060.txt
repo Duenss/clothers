@@ -1,0 +1,8 @@
+ITEM ID: 710033060
+ICON ID: Icon_bundle_male_Boyband_8_33
+NOMBRE: Gen FF Picked Bundle 5
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: Obtain Gen FF Picked Bundle 5 and Maxim character
+IMAGEN: ROPA/imagenes/710033060.png

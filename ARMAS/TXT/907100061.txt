@@ -1,0 +1,8 @@
+ITEM ID: 907100061
+ICON ID: Icon_SPAS12_Pharaoh
+NOMBRE: Pharaoh's Eyes
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100061.png

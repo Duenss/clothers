@@ -1,0 +1,798 @@
+﻿ITEM_ID	ICON_ID	NOMBRE	TIPO	RAREZA	TAG	IMAGEN	DESCRIPCION
+710042001	FF_UI_Voiceitem_Winterland	Winterlands Voice Pack	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/710042001.png	Exclusive voice pack for Winterlands 2023! Let's break the ice in a fun and cool way!
+710042002	FF_UI_Voiceitem_Ironbull	Streamer's Voice Pack (Ironbull)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/710042002.png	Ironbull can take good care of you!
+710042003	FF_UI_Voiceitem_Primkung	Primkung's Voice Pack	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/710042003.png	This is the best voice pack by Primkung
+710042004	FF_UI_Voiceitem_Streamer	Streamer Voice Pack	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/710042004.png	Pick your favorite Streamer's line
+710042005	FF_UI_Voiceitem_DoD	Day of the Dead Voice Pack 1	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/710042005.png	Let's celebrate together! A special voice pack for the Day of the Dead event is here!
+710043127	FF_UI_Voiceitem_CHAOS43	The Chaos Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043127.png	The Chaos event reward
+710043128	FF_UI_Voiceitem_MEME43	Community Memes	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043128.png	The most popular phrases in the community
+710043129	FF_UI_Voiceitem_VALENTINE43	Valentine Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043129.png	Two famous Thai voice actors, BeamSensei and YesiamDart, are here to share sweet love messages
+710043130	FF_UI_Voiceitem_KOUKI43	Let's Go - Kouki's Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043130.png	Happy 2024 Lunar New Year, your Kouki is coming!
+710043131	FF_UI_Voiceitem_KOUKI43	Needing Help - Kouki's Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043131.png	Happy 2024 Lunar New Year, your Kouki is coming!
+710043132	FF_UI_Voiceitem_KOUKI43	Exclamations - Kouki's Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043132.png	Happy 2024 Lunar New Year, your Kouki is coming!
+710043133	FF_UI_Voiceitem_KOUKI43	Be Patient - Kouki's Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043133.png	Happy 2024 Lunar New Year, your Kouki is coming!
+710043134	FF_UI_Voiceitem_TET43	Tet	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043134.png	
+710043135	FF_UI_Voiceitem_TET43	No Hope!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043135.png	
+710043136	FF_UI_Voiceitem_Dragunov43	Dragunov Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043136.png	Get Dragunov's one-of-a-kind "Eat it, Bro!" voice pack here!
+710043137	FF_UI_Voiceitem_Dragunov43	Dragunov Voice Pack	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/710043137.png	Get Dragunov's one-of-a-kind "Eat it, Bro!" voice pack here!
+710044036	FF_UI_Voiceitem_PARADOX44	The Paradox Voice Pack	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/710044036.png	Event Exclusive Voice Pack
+710044037	FF_UI_Voiceitem_POPID_Zee	JKT48 - Zee Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044037.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044038	FF_UI_Voiceitem_POPID_Zee	JKT48 - Zee Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044038.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044039	FF_UI_Voiceitem_POPID_Zee	JKT48 - Zee Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044039.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044040	FF_UI_Voiceitem_POPID_Freya	JKT48 - Freya Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044040.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044041	FF_UI_Voiceitem_POPID_Freya	JKT48 - Freya Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044041.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044158	FF_UI_Voiceitem_POPID_Freya	JKT48 - Freya Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044158.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044159	FF_UI_Voiceitem_POPID_Adel	JKT48 - Adel Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044159.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044160	FF_UI_Voiceitem_POPID_Adel	JKT48 - Adel Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044160.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044161	FF_UI_Voiceitem_POPID_Adel	JKT48 - Adel Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044161.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044162	FF_UI_Voiceitem_POPID_Christy	JKT48 - Christy Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044162.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044163	FF_UI_Voiceitem_POPID_Christy	JKT48 - Christy Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044163.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044164	FF_UI_Voiceitem_POPID_Christy	JKT48 - Christy Voice Pack	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/710044164.png	Playing will be even more fun with the special voices of the JKT48 members!
+710044165	FF_UI_Voiceitem_MEMES44	Memes Voice Pack	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/710044165.png	Trending phrases are now here in Free Fire
+710044166	FF_UI_Voiceitem_Primkung	Primkung's Voice Pack	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/710044166.png	This is the best voice pack by Primkung
+710046047	FF_UI_Voiceitem_BRrapper	Matuê	Voice Packs	ORANGE (Mythic)	OB46	MUSICA/imagenes/710046047.png	Matuê
+710046048	FF_UI_Voiceitem_Windah	Windah Voice Pack 1	Voice Packs	ORANGE (Mythic)	OB46	MUSICA/imagenes/710046048.png	Playing is more fun with Windah's voice!
+710046049	FF_UI_Voiceitem_Windah	Windah Voice Pack 1	Voice Packs	ORANGE (Mythic)	OB46	MUSICA/imagenes/710046049.png	Playing is more fun with Windah's voice!
+710046050	FF_UI_Voiceitem_TH46	Trendy Voice Pack	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/710046050.png	Trendy Voice Pack
+710046051	FF_UI_Voiceitem_IH46	Bolly Boli Voice Pack	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/710046051.png	Bolly Boli Voice Pack
+710046052	FF_UI_Voiceitem_VN46	Trendy Voice Pack	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/710046052.png	Trendy Voice Pack
+710046053	FF_UI_Voiceitem_Windah	Windah Voice Pack 2	Voice Packs	ORANGE (Mythic)	OB46	MUSICA/imagenes/710046053.png	Playing is more fun with Windah's voice!
+710046054	FF_UI_Voiceitem_Windah	Windah Voice Pack 2	Voice Packs	ORANGE (Mythic)	OB46	MUSICA/imagenes/710046054.png	Playing is more fun with Windah's voice!
+710047029	FF_UI_Voiceitem_Winterfest25_1	Winterlands 2024 Voice Pack	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047029.png	Event-exclusive voice pack
+710047030	FF_UI_Voiceitem_ME47	Legends x Dominators	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047030.png	Legends x Dominators
+710047031	FF_UI_Voiceitem_ME47	Legends x Dominators	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047031.png	Legends x Dominators
+710047032	FF_UI_Voiceitem_ME47	Legends x Dominators	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047032.png	Legends x Dominators
+710047033	FF_UI_Voiceitem_ID47	Viral Voice Pack	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047033.png	Have more fun playing with funny voice lines!
+710047034	FF_UI_Voiceitem_ID47	Viral Voice Pack	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047034.png	Have more fun playing with funny voice lines!
+710047035	FF_UI_Voiceitem_BD47	Amar Voice 1.0	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047035.png	Appreciating teammates
+710047036	FF_UI_Voiceitem_VN47	Nhà Sáng Tạo Free Fire VN	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/710047036.png	Free Fire VN Creator
+710048034	FF_UI_Voiceitem_Ramadan25_1	Ramadan 2025 Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048034.png	Ramadan 2025 Voice Pack
+710048035	FF_UI_Voiceitem_TH48Tar	Yut Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048035.png	Tar Voice Pack
+710048036	FF_UI_Voiceitem_ID48FAST	Fasting Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048036.png	Fasting Voice Pack
+710048037	FF_UI_Voiceitem_ID48PT	Pemuda Tersesat Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048037.png	Pemuda Tersesat Voice Pack
+710048097	FF_UI_Voiceitem_ID48FAST	Fasting Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048097.png	Fasting Voice Pack
+710048098	FF_UI_Voiceitem_ID48PT	Pemuda Tersesat Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048098.png	Pemuda Tersesat Voice Pack
+710048099	FF_UI_Voiceitem_TH48Tar	Yut Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048099.png	Tar Voice Pack
+710048121	FF_UI_Voiceitem_RUOK	RUOK Voice Pack	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/710048121.png	RUOK Voice Pack
+710049038	FF_UI_Voiceitem_BR49	LOUD Voice Pack	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049038.png	LOUD Voice Pack
+710049039	FF_UI_Voiceitem_VN49	Trendy Sound	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049039.png	Trendy Sound
+710049040	FF_UI_Voiceitem_PONY49_1	Solarush! Voice Pack	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049040.png	Solarush! Voice Pack
+710049041	FF_UI_Voiceitem_EIGHTINF49_1	8th Anniversary Voice Pack	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049041.png	8th Anniversary Voice Pack
+710049044	FF_UI_Voiceitem_US49	Memes 3	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049044.png	Memes 3
+710049045	FF_UI_Voiceitem_SAC49	FF Nostalgia	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049045.png	FF Nostalgia
+710049046	FF_UI_Voiceitem_LAT49	Criminal Mayhem	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049046.png	Criminal Mayhem
+710049047	FF_UI_Voiceitem_TH49	Phanthamit Voice Pack	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/710049047.png	Phanthamit Voice Pack
+710050088	FF_UI_Voiceitem_BR50	FFWS Voice Pack	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050088.png	FFWS Voice Pack
+710050089	FF_UI_Voiceitem_VA50	Trouble Night Voice Pack	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050089.png	Trouble Night Voice Pack
+710050090	FF_UI_Voiceitem_Easterrabbit50	Bunnyverse Voice Pack	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050090.png	Bunnyverse Voice Pack
+710050091	FF_UI_Voiceitem_IH50	Sholay Voice Pack	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/710050091.png	Sholay Voice Pack
+710050092	FF_UI_Voiceitem_TH50A	Anime Voice Pack	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050092.png	Anime Voice Pack
+710050093	FF_UI_Voiceitem_TH50P	Phanthamit Voice Pack 2	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050093.png	Phanthamit Voice Pack 2
+710050094	FF_UI_Voiceitem_US50	LATAM Party Voice Pack	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050094.png	LATAM Party Voice Pack
+710050095	FF_UI_Voiceitem_SAC50	LATAM Party Voice Pack 2	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050095.png	LATAM Party Voice Pack 2
+710050096	FF_UI_Voiceitem_DIWALI50	Bolly Boli: Part 2	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/710050096.png	Bolly Boli: Part 2
+710051040	FF_UI_Voiceitem_FA51	Flame Arena Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051040.png	Flame Arena Voice Pack
+710051041	FF_UI_Voiceitem_WL51	Winterlands: Dreamspace Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051041.png	Winterlands: Dreamspace Voice Pack
+710051042	FF_UI_Voiceitem_NY26	Happy New Year Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051042.png	Happy New Year Voice Pack
+710051043	FF_UI_Voiceitem_ID51	FFWS Global ID Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051043.png	FFWS Global Finals Indonesia 2025
+710051044	FF_UI_Voiceitem_DOD25	Day of the Dead 2025 Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051044.png	Day of the Dead 2025 Voice Pack
+710051045	FF_UI_Voiceitem_US51	Happy Holidays! 2025 Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051045.png	Happy Holidays! 2025 Voice Pack
+710051046	FF_UI_Voiceitem_SAC51	New Year 2026 Voice Pack	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/710051046.png	New Year 2026 Voice Pack
+710051047	FF_UI_Voiceitem_TH51H1	HRK Voice Pack 1	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/710051047.png	HRK Voice Pack 1
+710051048	FF_UI_Voiceitem_TH51H2	HRK Voice Pack 2	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/710051048.png	HRK Voice Pack 2
+710052006	FF_UI_Voiceitem_IIV_01	Yuji Itadori Voice Pack	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/710052006.png	Yuji Itadori Voice Pack
+710052007	FF_UI_Voiceitem_IIV_02	Satoru Gojo Voice Pack	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/710052007.png	Satoru Gojo Voice Pack
+710052008	FF_UI_Voiceitem_IIV_03	Ryomen Sukuna Voice Pack	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/710052008.png	Ryomen Sukuna Voice Pack
+710052009	FF_UI_Voiceitem_IIV_04	Megumi Fushiguro Voice Pack	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/710052009.png	Megumi Fushiguro Voice Pack
+710052010	FF_UI_Voiceitem_IIV_05	Nobara Kugisaki Voice Pack	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/710052010.png	Nobara Kugisaki Voice Pack
+710052039	FF_UI_Voiceitem_Carni25	Beat Carnival Voice Pack	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/710052039.png	Beat Carnival Voice Pack
+710052040	FF_UI_Voiceitem_Trea25	Lost Treasure Voice Pack	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/710052040.png	Lost Treasure Voice Pack
+710052103	FF_UI_Voiceitem_EsEaster	Auron Funny Voice Pack 1	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/710052103.png	Auron Funny Voice Pack 1
+710053046	FF_UI_Voiceitem_Bluetears	Undersea Mystery Voice Pack	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/710053046.png	Undersea Mystery Voice Pack
+710053047	FF_UI_Voiceitem_Eclipse	Eclipse Rise Voice Pack	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/710053047.png	Eclipse Rise Voice Pack
+710053048	FF_UI_Voiceitem_Worldcup25	Fire Kickoff Voice Pack	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/710053048.png	Fire Kickoff Voice Pack
+710053049	FF_UI_Voiceitem_Corban53	Eid Adha 2026 Voice Pack	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/710053049.png	Eid Adha 2026 Voice Pack
+710053050	FF_UI_Voiceitem_TH53	Songkran 2026 Voice Pack	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/710053050.png	Songkran 2026 Voice Pack
+710053051	FF_UI_Voiceitem_ME53	I Need Money Voice Pack	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/710053051.png	I Need Money Voice Pack
+710053099	FF_UI_Voiceitem_RonaldoBR53	Ronaldinho Gaúcho Voice Pack	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/710053099.png	The Ronaldinho Gaúcho voice pack
+710053100	FF_UI_Voiceitem_RonaldoLATAM53	Ronaldinho Voice Pack	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/710053100.png	The Ronaldinho voice pack
+710053101	FF_UI_Voiceitem_BambinoLATAM53	Bambino Voice Pack	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/710053101.png	The Bambino voice pack
+710054033	FF_UI_Voiceitem_Ninth	9th Anniversary Voice Pack	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/710054033.png	The 9th Anniversary voice pack
+710054034	FF_UI_Voiceitem_Bloodmoon26Male	Scarlet Howler Voice Pack	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/710054034.png	The Scarlet Howler voice pack
+710054035	FF_UI_Voiceitem_Bloodmoon26Female	Scarlet Whisperer Voice Pack	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/710054035.png	The Scarlet Whisperer voice pack
+710054036	FF_UI_Voiceitem_PK54	Independence Day Voice Pack	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/710054036.png	The Independence Day voice pack
+710054038	FF_UI_Voiceitem_US54C	Verified Voices Voice Pack	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/710054038.png	The Verified Voices voice pack
+710054039	FF_UI_Voiceitem_US54A	LATAM Meme Voice Pack 1	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/710054039.png	The LATAM Meme voice pack 1
+710054040	FF_UI_Voiceitem_US54B	Wrestling is here!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/710054040.png	The Wrestling is here! voice pack
+710054049	FF_UI_Voiceitem_ID54	Tenxi Voice Pack	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/710054049.png	The Tenxi voice pack
+710054052	FF_UI_Voiceitem_GOKU54TUNG	Sahurrr Voice Pack	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/710054052.png	Hello everyone, I'm back again. Wow wow wow!
+710055037	FF_UI_Voiceitem_NB1RE_CT_Yellow	Naruto Voice Pack	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055037.png	Naruto Voice Pack
+710055038	FF_UI_Voiceitem_NB1RE_CT_Black	Sasuke Voice Pack	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055038.png	Sasuke Voice Pack
+710055039	FF_UI_Voiceitem_NB1RE_CT_Pink	Sakura Voice Pack	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055039.png	Sakura Voice Pack
+710055040	FF_UI_Voiceitem_NB1RE_CT_Card	Kakashi Voice Pack	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055040.png	Kakashi Voice Pack
+710055041	FF_UI_Voiceitem_NB1RE_CT_Ji	Jiraiya Voice Pack	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055041.png	Jiraiya Voice Pack
+710055042	FF_UI_Voiceitem_NB1RE_CT_White	Hinata Voice Pack	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055042.png	Hinata Voice Pack
+710055043	FF_UI_Voiceitem_Halloween26	The Unseen Voice Pack	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/710055043.png	The Unseen voice pack
+710055044	FF_UI_Voiceitem_Storm26	Storm Arena Voice Pack	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/710055044.png	Storm Arena voice pack
+710055045	FF_UI_Voiceitem_BR55	Pro Taunts Voice Pack	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/710055045.png	Pro Taunts voice pack
+710055046	FF_UI_Voiceitem_US55	Day of the Dead 2026 Voice Pack	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/710055046.png	Day of the Dead 2026 voice pack
+710055047	FF_UI_Voiceitem_GOKU55A	Mirzapur Voice Pack 1	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055047.png	Mirzapur Voice Pack 1
+710055048	FF_UI_Voiceitem_GOKU55B	Mirzapur Voice Pack 2	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/710055048.png	Mirzapur Voice Pack 2
+913000001	FF_UI_Vault_Music_SquadBEATz	SQUAD BEATz	Music	PURPLE (Epic)		MUSICA/imagenes/913000001.png	Lobby music of SQUAD BEATz
+913000002	FF_UI_Vault_Music_TheCreedofFire	The Creed of Fire	Music	PURPLE (Epic)		MUSICA/imagenes/913000002.png	Lobby music of The Creed of Fire
+913000003	FF_UI_Vault_Music_3rdAnniversary	3rd Anniversary	Music	PURPLE (Epic)		MUSICA/imagenes/913000003.png	Lobby music of 3rd Anniversary
+913000004	FF_UI_Vault_Music_SquadBEATz	SQUAD BEATz	Music	PURPLE (Epic)		MUSICA/imagenes/913000004.png	Lobby music of SQUAD BEATz
+913000005	FF_UI_Vault_Music_TheCreedofFire	The Creed of Fire	Music	PURPLE (Epic)		MUSICA/imagenes/913000005.png	Lobby music of The Creed of Fire
+913000006	FF_UI_Vault_Music_3rdAnniversary	3rd Anniversary	Music	PURPLE (Epic)		MUSICA/imagenes/913000006.png	Lobby music of 3rd Anniversary
+913033001	FF_UI_Vault_Music_Boyband	GEN FF	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033001.png	Gen FF event lobby music
+913033002	FF_UI_Vault_Music_FFWS2021	FFWS 2021	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033002.png	Lobby music of FFWS 2021
+913033003	FF_UI_Vault_Music_FFWS03	FFWS 2022	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033003.png	Lobby music of FFWS 2022
+913033004	FF_UI_Vault_Music_INMU01	Kill Chori	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033004.png	Diwali 2021 track with Shraddha Kapoor and Bhuvan Bam
+913033005	FF_UI_Vault_Music_BRMU01	Hoje é Só Capa	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033005.png	Iconic Brazilian FF song
+913033006	FF_UI_Vault_Music_Boyband	GEN FF	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033006.png	Gen FF event lobby music
+913033007	FF_UI_Vault_Music_FFWS03	FFWS 2022	Music	PURPLE (Epic)	OB33	MUSICA/imagenes/913033007.png	Lobby music of FFWS 2022
+913034001	FF_UI_Vault_Music_Rampage	Rampage 2020	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034001.png	Rampage 2020 lobby music
+913034002	FF_UI_Vault_Music_Foursymbols	Rampage 2021	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034002.png	Rampage 2021 lobby music
+913034003	FF_UI_Vault_Music_Rampage4	Rampage 2022	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034003.png	Rampage 2022 lobby music
+913034004	FF_UI_Vault_Music_BIS2021	Battle In Style 2021	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034004.png	Battle In Style 2021 Campaign Theme Song
+913034005	FF_UI_Vault_Music_BIS	Battle In Style 2022	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034005.png	Battle In Style 2022 lobby music
+913034006	FF_UI_Vault_Music_MUBR	Gathering my Squad	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034006.png	Anitta feat. Free Fire hit song
+913034007	FF_UI_Vault_Music_MUVN	Booyah! The Pride of Vietnam!	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034007.png	Let's put on the proud red outfit and move forward to the place where victory awaits.
+913034008	FF_UI_Vault_Music_MUSG	Light Of The World	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034008.png	Theme of Free Fire Untuk Semua Hobi in collaboration with Ismail Izzani
+913034009	FF_UI_Vault_Music_MUID	Isyana #BattleInStyle	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034009.png	By Indonesian DIVA to boost your gameplay experience
+913034010	FF_UI_Vault_Music_MURU	Mike, sneakers	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034010.png	Free Fire x Irina Kairatovna collaboration
+913034011	FF_UI_Vault_Music_Rampage4	Rampage 2022	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034011.png	Rampage 2022 lobby music
+913034012	FF_UI_Vault_Music_BIS	Battle In Style 2022	Music	PURPLE (Epic)	OB34	MUSICA/imagenes/913034012.png	Battle In Style 2022 lobby music
+913035001	FF_UI_Vault_Music_Digitaluniverse	Celebration Call - 5th Anniversary	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035001.png	Free Fire 5th anniversary lobby music
+913035002	FF_UI_Vault_Music_Digitaluniverse_01	Unite - FF 5th Anniversary	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035002.png	Free Fire 5th anniversary theme song
+913035004	FF_UI_Vault_Music_LIGHTFEST	Kill Chori	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035004.png	Free Fire India's Diwali theme song for 2021
+913035005	FF_UI_Vault_Music_MAX_PK	To The MAX (Urdu)	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035005.png	For Free Fire MAX
+913035006	FF_UI_Vault_Music_COBRA_BR	HS Ciao	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035006.png	An iconic Brazilian Free Fire hit song!
+913035007	FF_UI_Vault_Music_FASTBREAKING22	Beatz Go Boom	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035007.png	ft. 2WEI, Joznez, SkayMen, Naaoum & BEATz
+913035008	FF_UI_Vault_Music_RAMPAGE4_MY	FIGHT	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035008.png	Theme song of Free Fire Untuk Semua Budaya in collaboration with DOLLA
+913035009	FF_UI_Vault_Music_Digitaluniverse	Celebration Call - 5th Anniversary	Music	PURPLE (Epic)	OB35	MUSICA/imagenes/913035009.png	Free Fire 5th anniversary lobby music
+913036001	FF_UI_Vault_Music_YAKUZA	No King of Me	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036001.png	Double Trouble event lobby music
+913036002	FF_UI_Vault_Music_POTENTIA	The Road to Booyah	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036002.png	Booyah Day 2022 lobby music
+913036003	FF_UI_Vault_Music_HALLOWEEN22	Hello Darkness	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036003.png	Halloween lobby music
+913036004	FF_UI_Vault_Music_BR_36	Respeita a Minha História	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036004.png	An iconic Brazilian Free Fire hit song
+913036005	FF_UI_Vault_Music_MAX_RU	To The MAX (Russian)	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036005.png	Free Fire MAX release song
+913036006	FF_UI_Vault_Music_SUGARSKULL22	Por la Noche	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036006.png	Day of the Dead 2022 lobby music
+913036007	FF_UI_Vault_Music_SUGARSKULL21	Mariachi de Free Fire	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036007.png	Day of the Dead 2021 lobby music
+913036008	FF_UI_Vault_Music_MAX_PK	Troublemaker	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036008.png	Double Trouble event spawn island music
+913036009	FF_UI_Vault_Music_YAKUZA	No King of Me	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036009.png	Double Trouble event lobby music
+913036010	FF_UI_Vault_Music_POTENTIA	The Road to Booyah	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036010.png	Booyah Day 2022 lobby music
+913036011	FF_UI_Vault_Music_HALLOWEEN22	Hello Darkness	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036011.png	Halloween lobby music
+913036012	FF_UI_Vault_Music_SUGARSKULL21	Mariachi de Free Fire	Music	PURPLE (Epic)	OB36	MUSICA/imagenes/913036012.png	Day of the Dead 2021 lobby music
+913037001	FF_UI_Vault_Music_FFWS2022	Prelude to Battle	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037001.png	FFWS: Fight As One lobby music
+913037002	FF_UI_Vault_Music_FFWS03_37	Heroes Arise - FFWS 2022 SENTOSA	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037002.png	FFWS 2022 Sentosa Theme Song
+913037003	FF_UI_Vault_Music_Soccer22	Score in Style	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037003.png	Football Fable lobby music
+913037004	FF_UI_Vault_Music_Winterfest22	SUBZERO	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037004.png	Winterlands: Subzero theme song
+913037005	FF_UI_Vault_Music_Winterfest21	Winterlands 2018 Remix	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037005.png	Winterlands: Subzero lobby music
+913037006	FF_UI_Vault_Music_Ganggirl	Moonlight Memories Ost. LUNA	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037006.png	"Free Fire x Yaya"\n\nStand out, Victory, and Friendship. This is Yaya's New World, BOOYAH!
+913037007	FF_UI_Vault_Music_LATAM37	Blast The Halls With Hard Rock Golly	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037007.png	Winterlands 2022 event lobby music
+913037008	FF_UI_Vault_Music_ID37	JKT48 - Feel The Fire	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037008.png	Translated based on the Booyah Day Feel the Fire song
+913037009	FF_UI_Vault_Music_Cricket	Aakhri Aadmi	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037009.png	Aakhri Aadmi PK Music 2022
+913037010	FF_UI_Vault_Music_FFWS2022	Prelude to Battle	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037010.png	FFWS: Fight As One lobby music
+913037011	FF_UI_Vault_Music_Soccer22	Score in Style	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037011.png	Football Fable lobby music
+913037012	FF_UI_Vault_Music_Winterfest21	Winterlands 2018 Remix	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037012.png	Winterlands: Subzero lobby music
+913037013	FF_UI_Vault_Music_FFWS2022T	Fight As One - FFWS 2022 BANGKOK	Music	PURPLE (Epic)	OB37	MUSICA/imagenes/913037013.png	FFWS 2022 Bangkok theme music
+913038001	FF_UI_Vault_Music_MO	Style It Up	Music	PURPLE (Epic)	OB38	MUSICA/imagenes/913038001.png	"Mission: Makeover" lobby music
+913038002	FF_UI_Vault_Music_Cdband	Adidasii gri	Music	PURPLE (Epic)	OB38	MUSICA/imagenes/913038002.png	Free Fire x Carla's Dreams\nThe Masked Adventures\nRunning to the Booyah
+913038004	FF_UI_Vault_Music_MO	Style It Up	Music	PURPLE (Epic)	OB38	MUSICA/imagenes/913038004.png	"Mission: Makeover" lobby music
+913039001	FF_UI_Vault_Music_ExplosionB_Demolitionist	Explosive Surprise	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039001.png	Theme song of "Alvaro: Reignition" event
+913039002	FF_UI_Vault_Music_Scarlet	Project Crimson	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039002.png	Theme song of "Project Crimson" event
+913039003	FF_UI_Vault_Music_Waterfest23_01	Gor Free Pa	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039003.png	Songkran "Splash Em'UP" 2022. Happiness and enjoy all the event.
+913039004	FF_UI_Vault_Music_Waterfest23_02	Mun Sard Day	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039004.png	Songkran 2021\nSongkran 2021. I have wanna have a cool time with you... in Free Fire~
+913039005	FF_UI_Vault_Music_Fastbreaking23	Ramadan Booyah!	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039005.png	Play together & celebrate Ramadan
+913039006	FF_UI_Vault_Music_ExplosionB_Demolitionist	Explosive Surprise	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039006.png	Theme song of "Alvaro: Reignition" event
+913039007	FF_UI_Vault_Music_Scarlet	Project Crimson	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039007.png	Theme song of "Project Crimson" event
+913039008	FF_UI_Vault_Music_Fastbreaking23_01	The Joy of Ramadan	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039008.png	Celebrate Ramadan together
+913039009	FF_UI_Vault_Music_3rdAnniversary	3rd Anniversary	Music	PURPLE (Epic)	OB39	MUSICA/imagenes/913039009.png	Lobby music of 3rd Anniversary
+913040001	FF_UI_Vault_Music_lobby_original	Free Fire Lobby: Original	Music	PURPLE (Epic)	OB40	MUSICA/imagenes/913040001.png	Free Fire original lobby music
+913040002	FF_UI_Vault_Music_SixthB	FF 6th Anniversary	Music	PURPLE (Epic)	OB40	MUSICA/imagenes/913040002.png	Free Fire 6th Anniversary lobby music
+913040003	FF_UI_Vault_Music_SixthB	FF 6th Anniversary	Music	PURPLE (Epic)	OB40	MUSICA/imagenes/913040003.png	Free Fire 6th Anniversary lobby music
+913040004	FF_UI_Vault_Music_lobby_original	Free Fire Lobby: Original	Music	PURPLE (Epic)	OB40	MUSICA/imagenes/913040004.png	Free Fire original lobby music
+913041001	FF_UI_Vault_Music_Booyahday23	Booyah Day 2023	Music	PURPLE (Epic)	OB41	MUSICA/imagenes/913041001.png	Booyah Day 2023 lobby music
+913041002	FF_UI_Vault_Music_Dod23	Death Walks With Me	Music	PURPLE (Epic)	OB41	MUSICA/imagenes/913041002.png	Day of the Dead theme music
+913041003	FF_UI_Vault_Music_Waterfest23	Free Fire Songkran Splash the Big Fun	Music	PURPLE (Epic)	OB41	MUSICA/imagenes/913041003.png	Free Fire Songkran Event 2023 Theme Song
+913041004	FF_UI_Vault_Music_Booyahday23	Booyah Day 2023	Music	PURPLE (Epic)	OB41	MUSICA/imagenes/913041004.png	Booyah Day 2023 lobby music
+913042001	FF_UI_Vault_Music_Winterland23B	Winterlands: Frostfire	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042001.png	Winterlands 2023 lobby music
+913042002	FF_UI_Vault_Music_Winterfest19	Free Fire Lobby Winterlands I	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042002.png	Winterlands 2023 lobby music
+913042003	FF_UI_Vault_Music_FFWS2021	All In	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042003.png	Free Fire World Series 2021 Singapore
+913042004	FF_UI_Vault_Music_Diwali23B	Kill Chori	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042004.png	Diwali Festival Theme Song
+913042005	FF_UI_Vault_Music_Halloween_TH	Thai Halloween	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042005.png	Free Fire Thai Halloween 2023 Theme Song for new 4v4 map with famous Thai ghosts
+913042006	FF_UI_Vault_Music_Winterland23B	Winterlands: Frostfire	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042006.png	Winterlands 2023 lobby music
+913042007	FF_UI_Vault_Music_Winterfest19	Free Fire Lobby Winterlands I	Music	PURPLE (Epic)	OB42	MUSICA/imagenes/913042007.png	Winterlands 2023 lobby music
+913043001	FF_UI_Vault_Music_Chaos24B	The Chaos	Music	PURPLE (Epic)	OB43	MUSICA/imagenes/913043001.png	This is The Chaos
+913043002	FF_UI_Vault_Music_Ramadan24B	Ramadan Spirit	Music	PURPLE (Epic)	OB43	MUSICA/imagenes/913043002.png	This is Ramadan Spirit
+913043003	FF_UI_Vault_Music_VNNEWYEAR24	Tet Booyah!	Music	PURPLE (Epic)	OB43	MUSICA/imagenes/913043003.png	Lunar New Year 2024 theme song
+913043004	FF_UI_Vault_Music_Chaos24B	The Chaos	Music	PURPLE (Epic)	OB43	MUSICA/imagenes/913043004.png	This is The Chaos
+913043005	FF_UI_Vault_Music_Ramadan24B	Ramadan Spirit	Music	PURPLE (Epic)	OB43	MUSICA/imagenes/913043005.png	This is Ramadan Spirit
+913044001	FF_UI_Vault_Music_PersonaB	The Paradox	Music	PURPLE (Epic)	OB44	MUSICA/imagenes/913044001.png	The Paradox lobby music
+913044002	FF_UI_Vault_Music_PersonaB	The Paradox	Music	PURPLE (Epic)	OB44	MUSICA/imagenes/913044002.png	The Paradox lobby music
+913045001	FF_UI_Vault_Music_Screaming	Free Fire Lobby: Original (Chicky Version)	Music	PURPLE (Epic)	OB45	MUSICA/imagenes/913045001.png	Free Fire original lobby music (Chicky Version)
+913045002	FF_UI_Vault_Music_lobby_original	Free Fire Lobby: Original	Music	PURPLE (Epic)	OB45	MUSICA/imagenes/913045002.png	Free Fire original lobby music
+913045003	FF_UI_Vault_Music_SeventhB	Feeling The Fire	Music	PURPLE (Epic)	OB45	MUSICA/imagenes/913045003.png	7th Anniversary Theme Song
+913045004	FF_UI_Vault_Music_Waterfest24	Wanna Battle Draft 7.4	Music	PURPLE (Epic)	OB45	MUSICA/imagenes/913045004.png	Songkran Free Fire Fun Fair, Wanna Battle?!
+913045005	FF_UI_Vault_Music_POPID	Love, Friendship & Struggle	Music	ORANGE (Mythic)	OB45	MUSICA/imagenes/913045005.png	Play together and celebrate the 7th anniversary with JKT48!
+913046001	FF_UI_Vault_Music_Glooworld	Gloo Nova	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046001.png	Theme song of "Gloo Nova" event
+913046002	FF_UI_Vault_Music_Glooworld	Gloo Nova	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046002.png	Theme song of "Gloo Nova" event
+913046003	FF_UI_Vault_Music_Booyahday24	Booyah Day 2024	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046003.png	Booyah Day 2024 lobby music
+913046004	FF_UI_Vault_Music_Booyahday24	Booyah Day 2024	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046004.png	Booyah Day 2024 lobby music
+913046005	FF_UI_Vault_Music_Lightfest24	Light Fest 2024	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046005.png	Light Fest 2024 lobby music
+913046006	FF_UI_Vault_Music_Lightfest24	Light Fest 2024	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046006.png	Light Fest 2024 lobby music
+913046007	FF_UI_Vault_Music_Sugarskull24	Death Accompanies Me (Rock)	Music	PURPLE (Epic)	OB46	MUSICA/imagenes/913046007.png	Day of the Dead 2024 lobby music
+913047001	FF_UI_Vault_Music_Winterfest24_Sys	Aurora - Winterlands 2024	Music	PURPLE (Epic)	OB47	MUSICA/imagenes/913047001.png	Winterlands 2024 lobby music
+913047002	FF_UI_Vault_Music_Winterfest24_Sys	Aurora - Winterlands 2024	Music	PURPLE (Epic)	OB47	MUSICA/imagenes/913047002.png	Winterlands 2024 lobby music
+913047003	FF_UI_Vault_Music_ME_Regala	Regalia: Earned Not Given	Music	PURPLE (Epic)	OB47	MUSICA/imagenes/913047003.png	The Regalia campaign lobby music
+913047004	FF_UI_Vault_Music_ME_Regala	Regalia: Earned Not Given	Music	PURPLE (Epic)	OB47	MUSICA/imagenes/913047004.png	The Regalia campaign lobby music
+913047005	FF_UI_Vault_Music_ID_GYC	GYC 2024 Theme Song	Music	PURPLE (Epic)	OB47	MUSICA/imagenes/913047005.png	Make your school proud!
+913047006	FF_UI_Vault_Music_ID_GYC	GYC 2024 Theme Song	Music	PURPLE (Epic)	OB47	MUSICA/imagenes/913047006.png	Make your school proud!
+913047007	FF_UI_Vault_Music_BRrapper	Bang Bang	Music	ORANGE (Mythic)	OB47	MUSICA/imagenes/913047007.png	The official collaboration music of Free Fire x Matuê
+913047008	FF_UI_Vault_Music_BRrapper	Bang Bang	Music	ORANGE (Mythic)	OB47	MUSICA/imagenes/913047008.png	The official collaboration music of Free Fire x Matuê
+913047009	FF_UI_Vault_Music_Woodcrafter	Pushpa 2: The Rule	Music	ORANGE (Mythic)	OB47	MUSICA/imagenes/913047009.png	The official collaboration music of Free Fire MAX x Pushpa 2: The Rule
+913047010	FF_UI_Vault_Music_Woodcrafter	Pushpa 2: The Rule	Music	ORANGE (Mythic)	OB47	MUSICA/imagenes/913047010.png	The official collaboration music of Free Fire MAX x Pushpa 2: The Rule
+913047011	FF_UI_Vault_Music_NB	Naruto Main Theme	Music	ORANGE (Mythic)	OB47	MUSICA/imagenes/913047011.png	The collaboration music of Free Fire x NARUTO SHIPPUDEN
+913048001	FF_UI_Vault_Music_Ramadan25	Blessing Festival - Ramadan 2025	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048001.png	Ramadan 2025 lobby music
+913048002	FF_UI_Vault_Music_Ramadan25	Blessing Festival - Ramadan 2025	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048002.png	Ramadan 2025 lobby music
+913048003	FF_UI_Vault_Music_MyZone25	MyZone	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048003.png	MyZone lobby music
+913048004	FF_UI_Vault_Music_MyZone25	MyZone	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048004.png	MyZone lobby music
+913048005	FF_UI_Vault_Music_MidnightAce25	Midnight Ace	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048005.png	Legendary Midnight Ace lobby music
+913048006	FF_UI_Vault_Music_MidnightAce25	Midnight Ace	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048006.png	Legendary Midnight Ace lobby music
+913048007	FF_UI_Vault_Music_Holi25	Original Lobby - Holi Version	Music	PURPLE (Epic)	OB48	MUSICA/imagenes/913048007.png	Free Fire MAX original lobby music remixed with a Holi theme
+913049002	FF_UI_Vault_Music_PONY49	Rush	Music	PURPLE (Epic)	OB49	MUSICA/imagenes/913049002.png	The theme song of the new map Solara
+913049003	FF_UI_Vault_Music_PONY49	Rush	Music	PURPLE (Epic)	OB49	MUSICA/imagenes/913049003.png	The theme song of the new map Solara
+913049004	FF_UI_Vault_Music_EIGHTINF49	Infinity	Music	PURPLE (Epic)	OB49	MUSICA/imagenes/913049004.png	Free Fire 8th anniversary music
+913049005	FF_UI_Vault_Music_EIGHTINF49	Infinity	Music	PURPLE (Epic)	OB49	MUSICA/imagenes/913049005.png	Free Fire 8th anniversary music
+913049006	FF_UI_Vault_Music_LULLABY49	Dreams on Fire	Music	PURPLE (Epic)	OB49	MUSICA/imagenes/913049006.png	The Sleepcoat theme song
+913049007	FF_UI_Vault_Music_TH49SONGKRAN	Bid Mun Sad	Music	PURPLE (Epic)	OB49	MUSICA/imagenes/913049007.png	The 2025 Songkran theme song
+913050001	FF_UI_Vault_Music_DIWALI50	Original Lobby Music (Bollywood Light Fest)	Music	PURPLE (Epic)	OB50	MUSICA/imagenes/913050001.png	Light Fest 2025 lobby music
+913050002	FF_UI_Vault_Music_DIWALI50	Original Lobby Music (Bollywood Light Fest)	Music	PURPLE (Epic)	OB50	MUSICA/imagenes/913050002.png	Light Fest 2025 lobby music
+913050004	FF_UI_Vault_Music_2NB_PAIN	Pain Theme Song	Music	ORANGE (Mythic)	OB50	MUSICA/imagenes/913050004.png	The collaboration music of Free Fire x NARUTO SHIPPUDEN Chapter 2
+913050005	FF_UI_Vault_Music_VA50	TROUBLE NIGHT	Music	PURPLE (Epic)	OB50	MUSICA/imagenes/913050005.png	Trouble Night theme song
+913050006	FF_UI_Vault_Music_VA50	TROUBLE NIGHT	Music	PURPLE (Epic)	OB50	MUSICA/imagenes/913050006.png	Trouble Night theme song
+913050007	FF_UI_Vault_Music_IH50	Original Lobby: 50 Years of Sholay Ver.	Music	PURPLE (Epic)	OB50	MUSICA/imagenes/913050007.png	Sholay theme song
+913051001	FF_UI_Vault_Music_FA51	Burn Bright	Music	PURPLE (Epic)	OB51	MUSICA/imagenes/913051001.png	Flame Arena theme song
+913051002	FF_UI_Vault_Music_FA51	Burn Bright	Music	PURPLE (Epic)	OB51	MUSICA/imagenes/913051002.png	Flame Arena theme song
+913051003	FF_UI_Vault_Music_WL51	Dream Invasion	Music	PURPLE (Epic)	OB51	MUSICA/imagenes/913051003.png	Winterlands: Dreamspace theme song
+913051004	FF_UI_Vault_Music_WL51	Dream Invasion	Music	PURPLE (Epic)	OB51	MUSICA/imagenes/913051004.png	Winterlands: Dreamspace theme song
+913051005	FF_UI_Vault_Music_WL51	Dream Invasion	Music	PURPLE (Epic)	OB51	MUSICA/imagenes/913051005.png	Winterlands: Dreamspace theme song
+913052001	FF_UI_Vault_Music_IIV	Awakening Path	Music	ORANGE (Mythic)	OB52	MUSICA/imagenes/913052001.png	Jujutsu Kaisen collaboration theme song
+913052002	FF_UI_Vault_Music_IIV	Awakening Path	Music	ORANGE (Mythic)	OB52	MUSICA/imagenes/913052002.png	Jujutsu Kaisen collaboration theme song
+913052003	FF_UI_Vault_Music_IIV_01	Awakening Battle	Music	ORANGE (Mythic)	OB52	MUSICA/imagenes/913052003.png	Jujutsu Kaisen collaboration theme song
+913052004	FF_UI_Vault_Music_IIV_01	Awakening Battle	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052004.png	Jujutsu Kaisen collaboration theme song
+913052005	FF_UI_Vault_Music_Carni25	BULLETPROOF	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052005.png	Beat Carnival theme song
+913052006	FF_UI_Vault_Music_Carni25	BULLETPROOF	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052006.png	Beat Carnival theme song
+913052007	FF_UI_Vault_Music_Carni25_01	Vale Vale	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052007.png	Beat Carnival theme song
+913052008	FF_UI_Vault_Music_Carni25_01	Vale Vale	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052008.png	Beat Carnival theme song
+913052009	FF_UI_Vault_Music_Carni25_02	Reunion	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052009.png	Beat Carnival theme song
+913052010	FF_UI_Vault_Music_Carni25_02	Reunion	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052010.png	Beat Carnival theme song
+913052011	FF_UI_Vault_Music_Trea25	Lost Treasure	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052011.png	Ramadan
+913052012	FF_UI_Vault_Music_Trea25	Lost Treasure	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052012.png	Ramadan
+913052013	FF_UI_Vault_Music_IDTrea25	Berburu Berkah	Music	PURPLE (Epic)	OB52	MUSICA/imagenes/913052013.png	Ramadan ID 2026
+913053001	FF_UI_Vault_Music_Bluetears	Undersea Mystery	Music	PURPLE (Epic)	OB53	MUSICA/imagenes/913053001.png	Undersea Mystery theme song
+913053002	FF_UI_Vault_Music_Bluetears	Undersea Mystery	Music	PURPLE (Epic)	OB53	MUSICA/imagenes/913053002.png	Undersea Mystery theme song
+913053003	FF_UI_Vault_Music_Worldcup25	Booyah Olé	Music	PURPLE (Epic)	OB53	MUSICA/imagenes/913053003.png	Fire Kickoff theme song
+913053004	FF_UI_Vault_Music_Worldcup25	Booyah Olé	Music	PURPLE (Epic)	OB53	MUSICA/imagenes/913053004.png	Fire Kickoff theme song
+913053005	FF_UI_Vault_Music_Eclipse	Eclipse	Music	PURPLE (Epic)	OB53	MUSICA/imagenes/913053005.png	Eclipse Rise theme song
+913053006	FF_UI_Vault_Music_Eclipse	Eclipse	Music	PURPLE (Epic)	OB53	MUSICA/imagenes/913053006.png	Eclipse Rise theme song
+913054001	FF_UI_Vault_Music_Luchalibre2026	Booyahka	Music	ORANGE (Mythic)	OB54	MUSICA/imagenes/913054001.png	AAA collab theme song
+913054002	FF_UI_Vault_Music_Luchalibre2026	Booyahka	Music	ORANGE (Mythic)	OB54	MUSICA/imagenes/913054002.png	AAA collab theme song
+913054003	FF_UI_Vault_Music_Ninth	Made for the Fire	Music	PURPLE (Epic)	OB54	MUSICA/imagenes/913054003.png	9th Anniversary theme song
+913054004	FF_UI_Vault_Music_Ninth	Made for the Fire	Music	PURPLE (Epic)	OB54	MUSICA/imagenes/913054004.png	9th Anniversary theme song
+913054005	FF_UI_Vault_Music_TH54	ก้าว (9)	Music	PURPLE (Epic)	OB54	MUSICA/imagenes/913054005.png	9th Anniversary theme song
+913054007	FF_UI_Vault_Music_ID54	Cari yang Baru	Music	ORANGE (Mythic)	OB54	MUSICA/imagenes/913054007.png	Tenxi collab theme song
+913055001	FF_UI_Vault_Music_Storm26	Storm Δrena	Music	PURPLE (Epic)	OB55	MUSICA/imagenes/913055001.png	Storm Arena theme song
+913055002	FF_UI_Vault_Music_Storm26	Storm Δrena	Music	PURPLE (Epic)	OB55	MUSICA/imagenes/913055002.png	Storm Arena theme song
+913055003	FF_UI_Vault_Music_NB1RE	Main Theme	Music	PURPLE (Epic)	OB55	MUSICA/imagenes/913055003.png	NARUTO SHIPPUDEN collaboration theme song
+913055004	FF_UI_Vault_Music_NB1RE	Blue Bird	Music	PURPLE (Epic)	OB55	MUSICA/imagenes/913055004.png	NARUTO SHIPPUDEN collaboration music
+921046001	FF_UI_Voiceitem_Booyahday24	Booyahahaha	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046001.png	Event-exclusive voice pack
+921046002	FF_UI_Voiceitem_Glooworld_1	Boom shaka laka	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046002.png	Event-exclusive voice pack
+921046003	FF_UI_Voiceitem_Glooworld_2	Knock knock	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046003.png	Event-exclusive voice pack
+921046004	FF_UI_Voiceitem_BRrapper	Found a mushroom	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046004.png	Matuê
+921046005	FF_UI_Voiceitem_BRrapper	I got another plan for us	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046005.png	Matuê
+921046006	FF_UI_Voiceitem_BRrapper	Pass it to me!	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046006.png	Matuê
+921046007	FF_UI_Voiceitem_BRrapper	Got a bit too proud, huh?	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046007.png	Matuê
+921046008	FF_UI_Voiceitem_Windah	[Windah] Let's take attendance!	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046008.png	Playing is more fun with Windah's voice!
+921046009	FF_UI_Voiceitem_Windah	[Windah] The hope is to Booyah	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046009.png	Playing is more fun with Windah's voice!
+921046010	FF_UI_Voiceitem_Windah	[Windah] Weak	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046010.png	Playing is more fun with Windah's voice!
+921046011	FF_UI_Voiceitem_Windah	[Windah] Let's loot first	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046011.png	Playing is more fun with Windah's voice!
+921046012	FF_UI_Voiceitem_Windah	[Windah] Mama help me	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046012.png	Playing is more fun with Windah's voice!
+921046013	FF_UI_Voiceitem_Windah	[Windah] The boss is here	Voice Packs	ORANGE_PLUS (Mythic++)	OB46	MUSICA/imagenes/921046013.png	Playing is more fun with Windah's voice!
+921046014	FF_UI_Voiceitem_TH46	Come on baby!	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046014.png	Trendy Voice Pack
+921046015	FF_UI_Voiceitem_TH46	Very impulsive!	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046015.png	Trendy Voice Pack
+921046016	FF_UI_Voiceitem_TH46	Aren't I cool?	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046016.png	Trendy Voice Pack
+921046017	FF_UI_Voiceitem_TH46	Here I come!	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046017.png	Trendy Voice Pack
+921046018	FF_UI_Voiceitem_IH46	Tumse na ho payega	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046018.png	Bolly Boli Voice Pack
+921046019	FF_UI_Voiceitem_IH46	Tera bhai Sambhaal lega	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046019.png	Bolly Boli Voice Pack
+921046020	FF_UI_Voiceitem_IH46	Swagat nahi karoge hamara?	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046020.png	Bolly Boli Voice Pack
+921046021	FF_UI_Voiceitem_IH46	Waat lag gayi	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046021.png	Bolly Boli Voice Pack
+921046022	FF_UI_Voiceitem_VN46	Go home if you're scared!	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046022.png	Trendy Voice Pack
+921046023	FF_UI_Voiceitem_IHPopular	Thann Khachh Booyah!	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046023.png	From the FFM community, for the FFM community!
+921046024	FF_UI_Voiceitem_IHPopular	Khelega Free Fire?	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046024.png	From the FFM community, for the FFM community!
+921046025	FF_UI_Voiceitem_IHPopular	Darr Raha Hai Kya?	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046025.png	From the FFM community, for the FFM community!
+921046026	FF_UI_Voiceitem_IHPopular	Tere Bass Ki Baat Nahi	Voice Packs	PURPLE (Epic)	OB46	MUSICA/imagenes/921046026.png	From the FFM community, for the FFM community!
+921047001	FF_UI_Voiceitem_Winterfest25_1	Happy new year!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047001.png	Event-exclusive voice pack
+921047002	FF_UI_Voiceitem_Winterfest25_2	Brrr—booyah!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047002.png	Event-exclusive voice pack
+921047003	FF_UI_Voiceitem_Winterfest25_3	Whoosh!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047003.png	Event-exclusive voice pack
+921047004	FF_UI_Voiceitem_Winterfest25_4	It's snow problem!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047004.png	Event-exclusive voice pack
+921047005	FF_UI_Voiceitem_ME47	Legends, are you ready?	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047005.png	Legends x Dominators
+921047006	FF_UI_Voiceitem_ME47	Dominators, are you ready?	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047006.png	Legends x Dominators
+921047007	FF_UI_Voiceitem_ID47	Kenok sikok!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047007.png	Have more fun playing with funny voice lines!
+921047008	FF_UI_Voiceitem_ID47	Please, stop	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047008.png	Have more fun playing with funny voice lines!
+921047009	FF_UI_Voiceitem_ID47	Share location, I'll go there	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047009.png	Have more fun playing with funny voice lines!
+921047010	FF_UI_Voiceitem_ID47	I'm just chilling friend	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047010.png	Have more fun playing with funny voice lines!
+921047011	FF_UI_Voiceitem_ID47	I'm actually 2 person	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047011.png	Have more fun playing with funny voice lines!
+921047012	FF_UI_Voiceitem_Woodcrafter	Hargiz Jhukega Nahi	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047012.png	
+921047013	FF_UI_Voiceitem_Woodcrafter	Fire Nahi, Wildfire Hai	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047013.png	
+921047014	FF_UI_Voiceitem_Woodcrafter	Pushpa ko national Khiladi samjhe kya? International hai	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047014.png	
+921047015	FF_UI_Voiceitem_Woodcrafter	Asalu thaggede le	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047015.png	
+921047016	FF_UI_Voiceitem_Woodcrafter	Flower anukuntiva? Wildfireu	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047016.png	
+921047017	FF_UI_Voiceitem_Woodcrafter	Pushpa ante national anukuntiraa? Internationallu	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047017.png	
+921047018	FF_UI_Voiceitem_BD47	Mama, tumi to sera!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047018.png	Appreciating teammates
+921047019	FF_UI_Voiceitem_BD47	Amar bhul hoyeche!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047019.png	Appreciating teammates
+921047020	FF_UI_Voiceitem_BD47	Na ami bishwash kori na	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047020.png	Appreciating teammates
+921047021	FF_UI_Voiceitem_BD47	Bujho nai bepar ta?	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047021.png	Appreciating teammates
+921047022	FF_UI_Voiceitem_BD47	Dourao...!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047022.png	Appreciating teammates
+921047023	FF_UI_Voiceitem_VN47	Wow, that's so cute	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047023.png	Free Fire VN Creator
+921047024	FF_UI_Voiceitem_VN47	Oh my!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047024.png	Free Fire VN Creator
+921047025	FF_UI_Voiceitem_VN47	I can't do it	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047025.png	Free Fire VN Creator
+921047026	FF_UI_Voiceitem_VN47	Three strong, one weak	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047026.png	Free Fire VN Creator
+921047027	FF_UI_Voiceitem_VN47	Let it go!	Voice Packs	PURPLE (Epic)	OB47	MUSICA/imagenes/921047027.png	Free Fire VN Creator
+921047028	FF_UI_Voiceitem_Woodcrafter	Ekdom nichu hobo na	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047028.png	
+921047029	FF_UI_Voiceitem_Woodcrafter	Flower toh naki? Wildfire!	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047029.png	
+921047030	FF_UI_Voiceitem_Woodcrafter	Pushpa ke shudhu national vabchish naki? International	Voice Packs	ORANGE (Mythic)	OB47	MUSICA/imagenes/921047030.png	
+921048001	FF_UI_Voiceitem_Ramadan25_1	Ramadan Mubarak!	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048001.png	Ramadan 2025 Voice Pack
+921048002	FF_UI_Voiceitem_Ramadan25_2	Iftar first, then Booyah!	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048002.png	Ramadan 2025 Voice Pack
+921048003	FF_UI_Voiceitem_Ramadan25_3	Rank up, break your fast, repeat!	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048003.png	Ramadan 2025 Voice Pack
+921048004	FF_UI_Voiceitem_TH48Tar	Don't let there be a second time	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048004.png	Tar Voice Pack
+921048005	FF_UI_Voiceitem_TH48Tar	Don't let there be a third time	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048005.png	Tar Voice Pack
+921048006	FF_UI_Voiceitem_TH48Tar	The fourth time? That's just wrong.	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048006.png	Tar Voice Pack
+921048007	FF_UI_Voiceitem_TH48Tar	It's about to go down	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048007.png	Tar Voice Pack
+921048008	FF_UI_Voiceitem_TH48Tar	You can revive me here, buddy	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048008.png	Tar Voice Pack
+921048009	FF_UI_Voiceitem_TH48Tar	Saving up coins for a house or what!?	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048009.png	Tar Voice Pack
+921048010	FF_UI_Voiceitem_ID48FAST	[Habib Ja'far] Heart can be empty, but my fasting won't be	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048010.png	Fasting Voice Pack
+921048011	FF_UI_Voiceitem_ID48FAST	[Habib Ja'far] You can play, but don't forget to pray	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048011.png	Fasting Voice Pack
+921048012	FF_UI_Voiceitem_ID48FAST	[Habib Ja'far] Sahoor, sahoor!	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048012.png	Fasting Voice Pack
+921048013	FF_UI_Voiceitem_ID48FAST	[Habib Ja'far] Don't be angry while playing!	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048013.png	Fasting Voice Pack
+921048014	FF_UI_Voiceitem_ID48PT	[Habib Ja'far] Huh, you're also knocked down	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048014.png	Pemuda Tersesat Voice Pack
+921048015	FF_UI_Voiceitem_ID48PT	[Habib Ja'far] Are you lost, young one?	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048015.png	Pemuda Tersesat Voice Pack
+921048016	FF_UI_Voiceitem_ID48PT	[Habib Ja'far] Do you want to log in?	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048016.png	Pemuda Tersesat Voice Pack
+921048017	FF_UI_Voiceitem_ID48PT	[Habib Ja'far] I'll help by praying	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048017.png	Pemuda Tersesat Voice Pack
+921048018	FF_UI_Voiceitem_RUOK	Hello!	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048018.png	RUOK Voice Pack
+921048019	FF_UI_Voiceitem_RUOK	Thank you	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048019.png	RUOK Voice Pack
+921048020	FF_UI_Voiceitem_RUOK	You can heal	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048020.png	RUOK Voice Pack
+921048021	FF_UI_Voiceitem_RUOK	I'll heal you	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048021.png	RUOK Voice Pack
+921048022	FF_UI_Voiceitem_RUOK	Play with style	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048022.png	RUOK Voice Pack
+921048023	FF_UI_Voiceitem_RUOK	Do you want me to help rank up?	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048023.png	RUOK Voice Pack
+921048024	FF_UI_Voiceitem_RUOK	I don't know, don't know x3	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048024.png	RUOK Voice Pack
+921048025	FF_UI_Voiceitem_RUOK	You're so sharp, kid	Voice Packs	PURPLE (Epic)	OB48	MUSICA/imagenes/921048025.png	RUOK Voice Pack
+921049004	FF_UI_Voiceitem_BR49	What's up guys, are you afraid? Let rush in, let's go!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049004.png	LOUD Voice Pack
+921049005	FF_UI_Voiceitem_BR49	Wow, that's not worth it!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049005.png	LOUD Voice Pack
+921049006	FF_UI_Voiceitem_BR49	Go back to the lobby, pal!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049006.png	LOUD Voice Pack
+921049007	FF_UI_Voiceitem_BR49	Not even with a Lv. 4 Backpack could I carry you, huh?	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049007.png	LOUD Voice Pack
+921049008	FF_UI_Voiceitem_VN49	Nothing's happened yet	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049008.png	Trendy Sound
+921049009	FF_UI_Voiceitem_VN49	Crazy intense!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049009.png	Trendy Sound
+921049010	FF_UI_Voiceitem_VN49	Troll Troll Free Fire	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049010.png	Trendy Sound
+921049011	FF_UI_Voiceitem_VN49	Still no eliminations	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049011.png	Trendy Sound
+921049012	FF_UI_Voiceitem_VN49	Applause for you	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049012.png	Trendy Sound
+921049013	FF_UI_Voiceitem_VN49	Crazy move!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049013.png	Trendy Sound
+921049014	FF_UI_Voiceitem_VN49	What's going on?	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049014.png	Trendy Sound
+921049015	FF_UI_Voiceitem_VN49	Get over here	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049015.png	Trendy Sound
+921049016	FF_UI_Voiceitem_PONY49_1	Let's rush into Solara!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049016.png	Solarush! Voice Pack
+921049017	FF_UI_Voiceitem_PONY49_2	Booyah from day to night!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049017.png	Solarush! Voice Pack
+921049018	FF_UI_Voiceitem_PONY49_3	Big star's in the house!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049018.png	Solarush! Voice Pack
+921049019	FF_UI_Voiceitem_EIGHTINF49_1	Haaaaappy birthday!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049019.png	8th Anniversary Voice Pack
+921049020	FF_UI_Voiceitem_EIGHTINF49_2	Ride the 8 to infinite space!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049020.png	8th Anniversary Voice Pack
+921049021	FF_UI_Voiceitem_EIGHTINF49_3	Woo—wooh! (train sound)	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049021.png	8th Anniversary Voice Pack
+921049022	FF_UI_Voiceitem_EIGHTINF49_4	All aboard, let's roll!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049022.png	8th Anniversary Voice Pack
+921049023	FF_UI_Voiceitem_Seafood_Voice	Red Light, Green Light	Voice Packs	ORANGE (Mythic)	OB49	MUSICA/imagenes/921049023.png	Free Fire x Squid Game Collab Voice Pack
+921049025	FF_UI_Voiceitem_Seafood_Voice	Pink Soldiers	Voice Packs	ORANGE (Mythic)	OB49	MUSICA/imagenes/921049025.png	Free Fire x Squid Game Collab Voice Pack
+921049029	FF_UI_Voiceitem_US49	Well done, well done!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049029.png	Memes 3
+921049030	FF_UI_Voiceitem_US49	That's crazy!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049030.png	Memes 3
+921049031	FF_UI_Voiceitem_US49	I'm sorry	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049031.png	Memes 3
+921049032	FF_UI_Voiceitem_US49	You know it!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049032.png	Memes 3
+921049033	FF_UI_Voiceitem_US49	Oof!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049033.png	Memes 3
+921049034	FF_UI_Voiceitem_SAC49	To infinity and beyond!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049034.png	FF Nostalgia
+921049035	FF_UI_Voiceitem_SAC49	Enemies down on the ground, eliminations up to the sky!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049035.png	FF Nostalgia
+921049036	FF_UI_Voiceitem_SAC49	Veterans, but good guys	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049036.png	FF Nostalgia
+921049037	FF_UI_Voiceitem_SAC49	All headshot, my friend.	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049037.png	FF Nostalgia
+921049038	FF_UI_Voiceitem_SAC49	Pure red, no yellow.	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049038.png	FF Nostalgia
+921049039	FF_UI_Voiceitem_SAC49	Remember the broken roof?	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049039.png	FF Nostalgia
+921049040	FF_UI_Voiceitem_SAC49	Another one back to the lobby!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049040.png	FF Nostalgia
+921049041	FF_UI_Voiceitem_SAC49	Let's rush Peak!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049041.png	FF Nostalgia
+921049042	FF_UI_Voiceitem_LAT49	(Clown laugh)	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049042.png	Criminal Mayhem
+921049043	FF_UI_Voiceitem_LAT49	My work here is done!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049043.png	Criminal Mayhem
+921049044	FF_UI_Voiceitem_LAT49	What about the coins?	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049044.png	Criminal Mayhem
+921049045	FF_UI_Voiceitem_LAT49	Why so serious?	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049045.png	Criminal Mayhem
+921049046	FF_UI_Voiceitem_LAT49	Snag the loot!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049046.png	Criminal Mayhem
+921049047	FF_UI_Voiceitem_TH49	Hey buddy, you are naughty!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049047.png	Phanthamit Voice Pack
+921049048	FF_UI_Voiceitem_TH49	Dodge in digital! Digital! Digital!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049048.png	Phanthamit Voice Pack
+921049049	FF_UI_Voiceitem_TH49	Go talk to a mango tree!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049049.png	Phanthamit Voice Pack
+921049050	FF_UI_Voiceitem_TH49	Out of coins, can't revive my friend	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049050.png	Phanthamit Voice Pack
+921049051	FF_UI_Voiceitem_TH49	Hahahahahaha!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049051.png	Phanthamit Voice Pack
+921049052	FF_UI_Voiceitem_TH49	Ugh, almost fell asleep, but I made it back	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049052.png	Phanthamit Voice Pack
+921049053	FF_UI_Voiceitem_ME49	Technologiya!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049053.png	Technologiya Voice Pack
+921049054	FF_UI_Voiceitem_Tung	Tung Tung Tung Sahur!	Voice Packs	PURPLE (Epic)	OB49	MUSICA/imagenes/921049054.png	Tung Tung Tung Sahur Voice Pack
+921050001	FF_UI_Voiceitem_BR50	Cleared for takeoff!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050001.png	FFWS Voice Pack
+921050002	FF_UI_Voiceitem_BR50	Brace yourself—the beatdown's coming!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050002.png	FFWS Voice Pack
+921050003	FF_UI_Voiceitem_BR50	This is the Final Equation!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050003.png	FFWS Voice Pack
+921050004	FF_UI_Voiceitem_BR50	Shots fired!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050004.png	FFWS Voice Pack
+921050005	FF_UI_Voiceitem_VA50	Haha... sorry	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050005.png	Trouble Night Voice Pack
+921050006	FF_UI_Voiceitem_VA50	What was that sound?	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050006.png	Trouble Night Voice Pack
+921050007	FF_UI_Voiceitem_VA50	No treats, just tricks!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050007.png	Trouble Night Voice Pack
+921050008	FF_UI_Voiceitem_VA50	Wanna play with me?	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050008.png	Trouble Night Voice Pack
+921050009	FF_UI_Voiceitem_Easterrabbit50	Yo c'mon, time to save the world!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050009.png	Bunnyverse Voice Pack
+921050010	FF_UI_Voiceitem_Easterrabbit50	Go go Bunny Warriors!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050010.png	Bunnyverse Voice Pack
+921050011	FF_UI_Voiceitem_Easterrabbit50	Just a Bunny Warrior passing by, you know it!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050011.png	Bunnyverse Voice Pack
+921050012	FF_UI_Voiceitem_IH50	Why is there so much silence?	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/921050012.png	Sholay Voice Pack
+921050013	FF_UI_Voiceitem_IH50	How many guys were there?	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/921050013.png	Sholay Voice Pack
+921050014	FF_UI_Voiceitem_IH50	Now what will you do Kaliya?	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/921050014.png	Sholay Voice Pack
+921050015	FF_UI_Voiceitem_IH50	Basanti, don't dance in front of these guys	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/921050015.png	Sholay Voice Pack
+921050016	FF_UI_Voiceitem_IH50	The one who gets scared, gets eliminated	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/921050016.png	Sholay Voice Pack
+921050017	FF_UI_Voiceitem_IH50	If you will eliminate 1, we will eliminate 4	Voice Packs	ORANGE (Mythic)	OB50	MUSICA/imagenes/921050017.png	Sholay Voice Pack
+921050018	FF_UI_Voiceitem_TH50A	No good, no good, no good, no good!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050018.png	Anime Voice Pack
+921050019	FF_UI_Voiceitem_TH50A	I must become a Grandmaster	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050019.png	Anime Voice Pack
+921050020	FF_UI_Voiceitem_TH50A	It's not over yet!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050020.png	Anime Voice Pack
+921050021	FF_UI_Voiceitem_TH50A	New gun near me	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050021.png	Anime Voice Pack
+921050022	FF_UI_Voiceitem_TH50A	You wanna fight? Come on, then!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050022.png	Anime Voice Pack
+921050023	FF_UI_Voiceitem_TH50A	You nailed it, pal	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050023.png	Anime Voice Pack
+921050024	FF_UI_Voiceitem_TH50P	Ughh... bleeding out, need a revival	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050024.png	Phanthamit Voice Pack 2
+921050025	FF_UI_Voiceitem_TH50P	Heeelp meee!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050025.png	Phanthamit Voice Pack 2
+921050026	FF_UI_Voiceitem_TH50P	Thanks a lot, mate	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050026.png	Phanthamit Voice Pack 2
+921050027	FF_UI_Voiceitem_TH50P	This is Free Fire	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050027.png	Phanthamit Voice Pack 2
+921050028	FF_UI_Voiceitem_TH50P	I want the heaaaals!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050028.png	Phanthamit Voice Pack 2
+921050029	FF_UI_Voiceitem_TH50P	You're really trying hard	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050029.png	Phanthamit Voice Pack 2
+921050030	FF_UI_Voiceitem_US50	Let's go party!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050030.png	LATAM Party Voice Pack
+921050031	FF_UI_Voiceitem_US50	There are enemies nearby	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050031.png	LATAM Party Voice Pack
+921050032	FF_UI_Voiceitem_US50	That's cool, buddy	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050032.png	LATAM Party Voice Pack
+921050033	FF_UI_Voiceitem_US50	Sorry, my bad	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050033.png	LATAM Party Voice Pack
+921050034	FF_UI_Voiceitem_US50	Sure, pal	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050034.png	LATAM Party Voice Pack
+921050035	FF_UI_Voiceitem_US50	Let's go!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050035.png	LATAM Party Voice Pack
+921050036	FF_UI_Voiceitem_SAC50	My Latin community!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050036.png	LATAM Party Voice Pack 2
+921050037	FF_UI_Voiceitem_SAC50	Help me!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050037.png	LATAM Party Voice Pack 2
+921050038	FF_UI_Voiceitem_SAC50	Oh woow!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050038.png	LATAM Party Voice Pack 2
+921050039	FF_UI_Voiceitem_SAC50	Hey, what are you doing?	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050039.png	LATAM Party Voice Pack 2
+921050040	FF_UI_Voiceitem_SAC50	All red, pal	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050040.png	LATAM Party Voice Pack 2
+921050041	FF_UI_Voiceitem_SAC50	Be patient!	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050041.png	LATAM Party Voice Pack 2
+921050042	FF_UI_Voiceitem_DIWALI50	In this relationship, I'm basically your boss	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050042.png	Bolly Boli: Part 2
+921050043	FF_UI_Voiceitem_DIWALI50	If the crew says do it, we do it—no questions	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050043.png	Bolly Boli: Part 2
+921050044	FF_UI_Voiceitem_DIWALI50	The movie isn't over yet, my friend	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050044.png	Bolly Boli: Part 2
+921050045	FF_UI_Voiceitem_DIWALI50	Hey, who's babbling like a rude guy?	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050045.png	Bolly Boli: Part 2
+921050046	FF_UI_Voiceitem_DIWALI50	I'm the leader of this team	Voice Packs	PURPLE (Epic)	OB50	MUSICA/imagenes/921050046.png	Bolly Boli: Part 2
+921051001	FF_UI_Voiceitem_FA51	Crush doubts, burn bright!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051001.png	Flame Arena Voice Pack
+921051002	FF_UI_Voiceitem_FA51	Crush them all!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051002.png	Flame Arena Voice Pack
+921051003	FF_UI_Voiceitem_FA51	We are the champions!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051003.png	Flame Arena Voice Pack
+921051004	FF_UI_Voiceitem_FA51	Woohoo—look at that move!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051004.png	Flame Arena Voice Pack
+921051005	FF_UI_Voiceitem_WL51	(snow bells melody)	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051005.png	Winterlands: Dreamspace Voice Pack
+921051006	FF_UI_Voiceitem_WL51	(snoring) Huh... what?	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051006.png	Winterlands: Dreamspace Voice Pack
+921051007	FF_UI_Voiceitem_WL51	You guys play, I gotta sleep	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051007.png	Winterlands: Dreamspace Voice Pack
+921051008	FF_UI_Voiceitem_WL51	(shivering) It's freezing!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051008.png	Winterlands: Dreamspace Voice Pack
+921051009	FF_UI_Voiceitem_NY26	Happy new year!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051009.png	Happy New Year Voice Pack
+921051010	FF_UI_Voiceitem_ID51	[ONIC] Go Onic!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051010.png	FFWS Global Finals Indonesia 2025
+921051011	FF_UI_Voiceitem_ID51	[BTR] Bigetron Win!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051011.png	FFWS Global Finals Indonesia 2025
+921051012	FF_UI_Voiceitem_ID51	[KAGE] Kagendra Juara!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051012.png	FFWS Global Finals Indonesia 2025
+921051013	FF_UI_Voiceitem_ID51	[RRQ] Viva RRQ!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051013.png	FFWS Global Finals Indonesia 2025
+921051014	FF_UI_Voiceitem_ID51	[EVOS] EVOS Roar!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051014.png	FFWS Global Finals Indonesia 2025
+921051015	FF_UI_Voiceitem_DOD25	Loot or trick?	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051015.png	Day of the Dead 2025 Voice Pack
+921051016	FF_UI_Voiceitem_DOD25	Can you give me my candies?	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051016.png	Day of the Dead 2025 Voice Pack
+921051017	FF_UI_Voiceitem_DOD25	Ohhh my squad!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051017.png	Day of the Dead 2025 Voice Pack
+921051018	FF_UI_Voiceitem_DOD25	(sobbing) Waah... waaahhh	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051018.png	Day of the Dead 2025 Voice Pack
+921051019	FF_UI_Voiceitem_DOD25	Caw—caw	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051019.png	Day of the Dead 2025 Voice Pack
+921051020	FF_UI_Voiceitem_DOD25	Awoooooo!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051020.png	Day of the Dead 2025 Voice Pack
+921051021	FF_UI_Voiceitem_US51	Brrr... so cold!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051021.png	Happy Holidays! 2025 Voice Pack
+921051022	FF_UI_Voiceitem_US51	It is horrible!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051022.png	Happy Holidays! 2025 Voice Pack
+921051023	FF_UI_Voiceitem_US51	Snow fight!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051023.png	Happy Holidays! 2025 Voice Pack
+921051024	FF_UI_Voiceitem_US51	Careful with the Yeti	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051024.png	Happy Holidays! 2025 Voice Pack
+921051025	FF_UI_Voiceitem_US51	Happy holidays!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051025.png	Happy Holidays! 2025 Voice Pack
+921051026	FF_UI_Voiceitem_US51	Ho ho ho!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051026.png	Happy Holidays! 2025 Voice Pack
+921051027	FF_UI_Voiceitem_SAC51	My objective: survive!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051027.png	New Year 2026 Voice Pack
+921051028	FF_UI_Voiceitem_SAC51	Happy 2026!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051028.png	New Year 2026 Voice Pack
+921051029	FF_UI_Voiceitem_SAC51	My wish: a good duo	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051029.png	New Year 2026 Voice Pack
+921051030	FF_UI_Voiceitem_SAC51	This year... Grandmaster!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051030.png	New Year 2026 Voice Pack
+921051031	FF_UI_Voiceitem_SAC51	This year I will be great!	Voice Packs	PURPLE (Epic)	OB51	MUSICA/imagenes/921051031.png	New Year 2026 Voice Pack
+921051032	FF_UI_Voiceitem_TH51H1	Wow, so cool!	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051032.png	HRK Voice Pack 1
+921051033	FF_UI_Voiceitem_TH51H1	Hey buddy, save meee!	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051033.png	HRK Voice Pack 1
+921051034	FF_UI_Voiceitem_TH51H1	Don't even say it	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051034.png	HRK Voice Pack 1
+921051035	FF_UI_Voiceitem_TH51H1	What grade are you in, pal?	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051035.png	HRK Voice Pack 1
+921051036	FF_UI_Voiceitem_TH51H2	See you again yesterday. Don't forget to get canker sores!	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051036.png	HRK Voice Pack 2
+921051037	FF_UI_Voiceitem_TH51H2	Straight line is the best path	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051037.png	HRK Voice Pack 2
+921051038	FF_UI_Voiceitem_TH51H2	Screeeeam	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051038.png	HRK Voice Pack 2
+921051039	FF_UI_Voiceitem_TH51H2	See ya	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051039.png	HRK Voice Pack 2
+921051040	FF_UI_Voiceitem_TH51H2	Brrrt	Voice Packs	ORANGE (Mythic)	OB51	MUSICA/imagenes/921051040.png	HRK Voice Pack 2
+921052001	FF_UI_Voiceitem_IIV_01	I want to live!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052001.png	Yuji Itadori Voice Pack
+921052002	FF_UI_Voiceitem_IIV_01	Can't wait.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052002.png	Yuji Itadori Voice Pack
+921052003	FF_UI_Voiceitem_IIV_01	Let's win!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052003.png	Yuji Itadori Voice Pack
+921052004	FF_UI_Voiceitem_IIV_01	What gives you the right to just stomp all over my head like that?	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052004.png	Yuji Itadori Voice Pack
+921052005	FF_UI_Voiceitem_IIV_01	My new best friend!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052005.png	Yuji Itadori Voice Pack
+921052006	FF_UI_Voiceitem_IIV_02	Yeah, don't worry. I'm way too strong for him.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052006.png	Satoru Gojo Voice Pack
+921052007	FF_UI_Voiceitem_IIV_02	I think I'll show off a little. Yeah.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052007.png	Satoru Gojo Voice Pack
+921052008	FF_UI_Voiceitem_IIV_02	You're kind of weak.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052008.png	Satoru Gojo Voice Pack
+921052009	FF_UI_Voiceitem_IIV_02	That should settle everything!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052009.png	Satoru Gojo Voice Pack
+921052010	FF_UI_Voiceitem_IIV_03	You just keep trying.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052010.png	Ryomen Sukuna Voice Pack
+921052011	FF_UI_Voiceitem_IIV_03	HAHAHAHA	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052011.png	Ryomen Sukuna Voice Pack
+921052012	FF_UI_Voiceitem_IIV_03	Uh-oh, something wrong, brat?	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052012.png	Ryomen Sukuna Voice Pack
+921052013	FF_UI_Voiceitem_IIV_03	I'll allow it this once.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052013.png	Ryomen Sukuna Voice Pack
+921052014	FF_UI_Voiceitem_IIV_04	I save people unequally.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052014.png	Megumi Fushiguro Voice Pack
+921052015	FF_UI_Voiceitem_IIV_04	I have to get stronger. And I'll do anything to achieve that!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052015.png	Megumi Fushiguro Voice Pack
+921052016	FF_UI_Voiceitem_IIV_04	You're acting so proud. But I've been holding back.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052016.png	Megumi Fushiguro Voice Pack
+921052017	FF_UI_Voiceitem_IIV_04	You go down again and I'll finish you myself.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052017.png	Megumi Fushiguro Voice Pack
+921052018	FF_UI_Voiceitem_IIV_05	Fine then, I'll do this from here.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052018.png	Nobara Kugisaki Voice Pack
+921052019	FF_UI_Voiceitem_IIV_05	We beat it.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052019.png	Nobara Kugisaki Voice Pack
+921052020	FF_UI_Voiceitem_IIV_05	So stupid.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052020.png	Nobara Kugisaki Voice Pack
+921052021	FF_UI_Voiceitem_IIV_05	So thanks.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052021.png	Nobara Kugisaki Voice Pack
+921052022	FF_UI_Voiceitem_Carni25	Let the party begin!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052022.png	Beat Carnival Voice Pack
+921052023	FF_UI_Voiceitem_Carni25	Panther strikes, the beat ignites!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052023.png	Beat Carnival Voice Pack
+921052024	FF_UI_Voiceitem_Carni25	Time to hear me roar!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052024.png	Beat Carnival Voice Pack
+921052025	FF_UI_Voiceitem_Carni25	Headshot? Mic drop!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052025.png	Beat Carnival Voice Pack
+921052026	FF_UI_Voiceitem_Carni25	Boom, they're out of the room!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052026.png	Beat Carnival Voice Pack
+921052027	FF_UI_Voiceitem_Trea25	Treasure favors the daring	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052027.png	Lost Treasure Voice Pack
+921052028	FF_UI_Voiceitem_Trea25	Ohh, shiny!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052028.png	Lost Treasure Voice Pack
+921052029	FF_UI_Voiceitem_Trea25	We fight, till the treasure's in sight!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052029.png	Lost Treasure Voice Pack
+921052030	FF_UI_Voiceitem_Trea25	To the treasure, full speed!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052030.png	Lost Treasure Voice Pack
+921052031	FF_UI_Voiceitem_Trea25	X marks the gold, let's go!	Voice Packs	PURPLE (Epic)	OB52	MUSICA/imagenes/921052031.png	Lost Treasure Voice Pack
+921052032	FF_UI_Voiceitem_IIV_02	Domain Expansion. Unlimited Void.	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052032.png	Satoru Gojo Voice Pack
+921052033	FF_UI_Voiceitem_IIV_04	Stay alive!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052033.png	Megumi Fushiguro Voice Pack
+921052034	FF_UI_Voiceitem_EsEaster	Careful, you	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052034.png	Auron Funny Voice Pack 1
+921052035	FF_UI_Voiceitem_EsEaster	We're so done!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052035.png	Auron Funny Voice Pack 1
+921052036	FF_UI_Voiceitem_EsEaster	Smooooth!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052036.png	Auron Funny Voice Pack 1
+921052037	FF_UI_Voiceitem_EsEaster	But what happened?	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052037.png	Auron Funny Voice Pack 1
+921052038	FF_UI_Voiceitem_EsEaster	WHAAAAAT?	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052038.png	Auron Funny Voice Pack 1
+921052039	FF_UI_Voiceitem_EsEaster	Sheesh, that's wild!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052039.png	Auron Funny Voice Pack 1
+921052040	FF_UI_Voiceitem_EsEaster	Yo, no way!	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052040.png	Auron Funny Voice Pack 1
+921052041	FF_UI_Voiceitem_EsEaster	Oh, wow?	Voice Packs	ORANGE (Mythic)	OB52	MUSICA/imagenes/921052041.png	Auron Funny Voice Pack 1
+921053001	FF_UI_Voiceitem_Bluetears	Move like current, hit like a storm.	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053001.png	Undersea Mystery Voice Pack
+921053002	FF_UI_Voiceitem_Bluetears	You can't stop the tide	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053002.png	Undersea Mystery Voice Pack
+921053003	FF_UI_Voiceitem_Bluetears	Dive! Dive! Dive!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053003.png	Undersea Mystery Voice Pack
+921053004	FF_UI_Voiceitem_Eclipse	Sword out, just you and me.	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053004.png	Eclipse Rise Voice Pack
+921053005	FF_UI_Voiceitem_Eclipse	Even the sun must hide, my will burns on.	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053005.png	Eclipse Rise Voice Pack
+921053006	FF_UI_Voiceitem_Worldcup25	Charge the field, let's score!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053006.png	Fire Kickoff Voice Pack
+921053007	FF_UI_Voiceitem_Worldcup25	Goooooal!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053007.png	Fire Kickoff Voice Pack
+921053008	FF_UI_Voiceitem_Worldcup25	Red card! Enemy eliminated.	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053008.png	Fire Kickoff Voice Pack
+921053009	FF_UI_Voiceitem_Worldcup25	(referee whistle) Booyah!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053009.png	Fire Kickoff Voice Pack
+921053010	FF_UI_Voiceitem_Corban53	Every sacrifice has a price!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053010.png	
+921053011	FF_UI_Voiceitem_Corban53	Either be a HERO, or a ZERO!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053011.png	
+921053013	FF_UI_Voiceitem_TH53	If you want a splash, come to me!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053013.png	
+921053014	FF_UI_Voiceitem_TH53	Don't play with me	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053014.png	
+921053015	FF_UI_Voiceitem_TH53	Got flanked, got flanked	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053015.png	
+921053016	FF_UI_Voiceitem_TH53	Splash harder	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053016.png	
+921053017	FF_UI_Voiceitem_TH53	We got 2, please join for 4	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053017.png	
+921053018	FF_UI_Voiceitem_TH53	This is Songkran powder	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053018.png	
+921053019	FF_UI_Voiceitem_ME53	Give me my money!	Voice Packs	PURPLE (Epic)	OB53	MUSICA/imagenes/921053019.png	
+921053020	FF_UI_Voiceitem_RonaldoBR53	They are letting us dream!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053020.png	The Ronaldinho Gaúcho voice pack
+921053021	FF_UI_Voiceitem_RonaldoBR53	Check out this crazy headshot!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053021.png	The Ronaldinho Gaúcho voice pack
+921053022	FF_UI_Voiceitem_RonaldoBR53	Look at this guy, I just juked you	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053022.png	The Ronaldinho Gaúcho voice pack
+921053023	FF_UI_Voiceitem_RonaldoBR53	Another outing on the board!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053023.png	The Ronaldinho Gaúcho voice pack
+921053024	FF_UI_Voiceitem_RonaldoLATAM53	I've made all my dreams come true	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053024.png	The Ronaldinho voice pack
+921053025	FF_UI_Voiceitem_RonaldoLATAM53	Hey you, play with style	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053025.png	The Ronaldinho voice pack
+921053026	FF_UI_Voiceitem_RonaldoLATAM53	Enjoy!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053026.png	The Ronaldinho voice pack
+921053027	FF_UI_Voiceitem_RonaldoLATAM53	I like to make my mark on the field	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053027.png	The Ronaldinho voice pack
+921053028	FF_UI_Voiceitem_BambinoLATAM53	Why did I bring you here?	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053028.png	The Bambino voice pack
+921053029	FF_UI_Voiceitem_BambinoLATAM53	Shoot if you want to win!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053029.png	The Bambino voice pack
+921053030	FF_UI_Voiceitem_BambinoLATAM53	But there's still time!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053030.png	The Bambino voice pack
+921053031	FF_UI_Voiceitem_BambinoLATAM53	For being a good guy	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053031.png	The Bambino voice pack
+921053032	FF_UI_Voiceitem_BambinoLATAM53	Wow, what a goal!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053032.png	The Bambino voice pack
+921053033	FF_UI_Voiceitem_BambinoLATAM53	What a beauty!	Voice Packs	ORANGE (Mythic)	OB53	MUSICA/imagenes/921053033.png	The Bambino voice pack
+921054001	FF_UI_Voiceitem_Ninth	(Happy Birthday song)	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054001.png	The 9th Anniversary voice pack
+921054002	FF_UI_Voiceitem_Bloodmoon26Male	Awoooooo	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054002.png	The Scarlet Howler voice pack
+921054003	FF_UI_Voiceitem_Bloodmoon26Male	With you, I will never lose my way.	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054003.png	The Scarlet Howler voice pack
+921054004	FF_UI_Voiceitem_Bloodmoon26Male	We are destined to be together!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054004.png	The Scarlet Howler voice pack
+921054005	FF_UI_Voiceitem_Bloodmoon26Female	Focus! My voice will guide you.	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054005.png	The Scarlet Whisperer voice pack
+921054006	FF_UI_Voiceitem_Bloodmoon26Female	Don't be afraid, I'm right beside you.	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054006.png	The Scarlet Whisperer voice pack
+921054007	FF_UI_Voiceitem_Bloodmoon26Female	We are destined to be together!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054007.png	The Scarlet Whisperer voice pack
+921054008	FF_UI_Voiceitem_PK54	Help me!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054008.png	The Independence Day voice pack
+921054009	FF_UI_Voiceitem_PK54	Are you even trying?	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054009.png	The Independence Day voice pack
+921054010	FF_UI_Voiceitem_PK54	For the homeland!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054010.png	The Independence Day voice pack
+921054011	FF_UI_Voiceitem_PK54	Look behind you	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054011.png	The Independence Day voice pack
+921054016	FF_UI_Voiceitem_US54C	Hey legends	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054016.png	The Verified Voices voice pack
+921054017	FF_UI_Voiceitem_US54C	Oh, c'mon!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054017.png	The Verified Voices voice pack
+921054018	FF_UI_Voiceitem_US54C	No way!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054018.png	The Verified Voices voice pack
+921054019	FF_UI_Voiceitem_US54C	And all what? All red!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054019.png	The Verified Voices voice pack
+921054020	FF_UI_Voiceitem_US54C	I hate being so bad	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054020.png	The Verified Voices voice pack
+921054021	FF_UI_Voiceitem_US54A	Oh, my mind!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054021.png	The LATAM Meme voice pack 1
+921054022	FF_UI_Voiceitem_US54A	I need the officer, urgently!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054022.png	The LATAM Meme voice pack 1
+921054023	FF_UI_Voiceitem_US54A	I'm scared! I'm scared!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054023.png	The LATAM Meme voice pack 1
+921054024	FF_UI_Voiceitem_US54A	Fact!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054024.png	The LATAM Meme voice pack 1
+921054025	FF_UI_Voiceitem_US54A	This is cinema...	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054025.png	The LATAM Meme voice pack 1
+921054026	FF_UI_Voiceitem_US54A	Time to sleep!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054026.png	The LATAM Meme voice pack 1
+921054027	FF_UI_Voiceitem_US54B	Hit them with the chair!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054027.png	The Wrestling is here! voice pack
+921054028	FF_UI_Voiceitem_US54B	This is wrestling!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054028.png	The Wrestling is here! voice pack
+921054029	FF_UI_Voiceitem_US54B	Count faster, ref!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054029.png	The Wrestling is here! voice pack
+921054030	FF_UI_Voiceitem_US54B	Eeeeeeee!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054030.png	The Wrestling is here! voice pack
+921054031	FF_UI_Voiceitem_US54B	Booooooo!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054031.png	The Wrestling is here! voice pack
+921054032	FF_UI_Voiceitem_US54B	They will fight!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054032.png	The Wrestling is here! voice pack
+921054034	FF_UI_Voiceitem_ID54	[Tenxi] Help me!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054034.png	The Tenxi voice pack
+921054035	FF_UI_Voiceitem_ID54	[Tenxi] Why is the enemy so easy?	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054035.png	The Tenxi voice pack
+921054036	FF_UI_Voiceitem_ID54	[Tenxi] Give us a heads-up first, buddy	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054036.png	The Tenxi voice pack
+921054037	FF_UI_Voiceitem_ID54	[Tenxi] Go go go!	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054037.png	The Tenxi voice pack
+921054038	FF_UI_Voiceitem_ID54	[Tenxi] My chest hurts	Voice Packs	ORANGE (Mythic)	OB54	MUSICA/imagenes/921054038.png	The Tenxi voice pack
+921054039	FF_UI_Voiceitem_GOKU54TUNG	Hello everyone, I'm back again. Wow wow wow!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054039.png	Hello everyone, I'm back again. Wow wow wow!
+921054040	FF_UI_Voiceitem_GOKU54TUNG	Whoa, what is this? Seriously, what is this?	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054040.png	Hello everyone, I'm back again. Wow wow wow!
+921054041	FF_UI_Voiceitem_GOKU54TUNG	Yeah, yeah, I'm going, I'm going. But I'll definitely be back! Ay, ay, ay!	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054041.png	Hello everyone, I'm back again. Wow wow wow!
+921054042	FF_UI_Voiceitem_GOKU54TUNG	Tung tung tung	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054042.png	Hello everyone, I'm back again. Wow wow wow!
+921054043	FF_UI_Voiceitem_GOKU54TUNG	Hello everyone, my name is Tung Tung Sahur	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054043.png	Hello everyone, I'm back again. Wow wow wow!
+921054044	FF_UI_Voiceitem_GOKU54TUNG	Don't keep yapping on and on	Voice Packs	PURPLE (Epic)	OB54	MUSICA/imagenes/921054044.png	Hello everyone, I'm back again. Wow wow wow!
+921055001	FF_UI_Voiceitem_NB1RE_CT_Yellow	How can you become the Hokage if you can't even save your friend?	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055001.png	Naruto Voice Pack
+921055002	FF_UI_Voiceitem_NB1RE_CT_Yellow	We go down together, Sasuke.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055002.png	Naruto Voice Pack
+921055003	FF_UI_Voiceitem_NB1RE_CT_Yellow	My dream is to become the Hokage!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055003.png	Naruto Voice Pack
+921055004	FF_UI_Voiceitem_NB1RE_CT_Yellow	Because we are friends!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055004.png	Naruto Voice Pack
+921055005	FF_UI_Voiceitem_NB1RE_CT_Yellow	Rasengan!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055005.png	Naruto Voice Pack
+921055006	FF_UI_Voiceitem_NB1RE_CT_Yellow	Shadow Clone Jutsu!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055006.png	Naruto Voice Pack
+921055007	FF_UI_Voiceitem_NB1RE_CT_Black	I lost.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055007.png	Sasuke Voice Pack
+921055008	FF_UI_Voiceitem_NB1RE_CT_Black	Loser ninja.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055008.png	Sasuke Voice Pack
+921055009	FF_UI_Voiceitem_NB1RE_CT_Black	Disappear with the thunder!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055009.png	Sasuke Voice Pack
+921055010	FF_UI_Voiceitem_NB1RE_CT_Black	Amaterasu!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055010.png	Sasuke Voice Pack
+921055011	FF_UI_Voiceitem_NB1RE_CT_Black	Hahahahaha!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055011.png	Sasuke Voice Pack
+921055012	FF_UI_Voiceitem_NB1RE_CT_Pink	Cha!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055012.png	Sakura Voice Pack
+921055013	FF_UI_Voiceitem_NB1RE_CT_Pink	I think I've finally caught up to those two!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055013.png	Sakura Voice Pack
+921055014	FF_UI_Voiceitem_NB1RE_CT_Pink	This time, I want all of you to watch me from behind!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055014.png	Sakura Voice Pack
+921055015	FF_UI_Voiceitem_NB1RE_CT_Card	Yo! Morning, everyone! I got a little lost on the road of life today...	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055015.png	Kakashi Voice Pack
+921055016	FF_UI_Voiceitem_NB1RE_CT_Card	Anyone who doesn't value their friends is no better than trash!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055016.png	Kakashi Voice Pack
+921055017	FF_UI_Voiceitem_NB1RE_CT_Card	I won't let anyone take down my friends!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055017.png	Kakashi Voice Pack
+921055018	FF_UI_Voiceitem_NB1RE_CT_Ji	Bet I won't make it.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055018.png	Jiraiya Voice Pack
+921055019	FF_UI_Voiceitem_NB1RE_CT_Ji	I'll never give up! That's the true choice I have to make!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055019.png	Jiraiya Voice Pack
+921055020	FF_UI_Voiceitem_NB1RE_CT_Ji	The frog in the well won't survive the great sea.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055020.png	Jiraiya Voice Pack
+921055021	FF_UI_Voiceitem_NB1RE_CT_White	Because... I really like Naruto!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055021.png	Hinata Voice Pack
+921055022	FF_UI_Voiceitem_NB1RE_CT_White	I'm standing here by my own will.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055022.png	Hinata Voice Pack
+921055023	FF_UI_Voiceitem_NB1RE_CT_White	I never break my word... that's my ninja way!	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055023.png	Hinata Voice Pack
+921055024	FF_UI_Voiceitem_Halloween26	Shh... listen!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055024.png	The Unseen voice pack
+921055025	FF_UI_Voiceitem_Halloween26	Put your mask on!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055025.png	The Unseen voice pack
+921055026	FF_UI_Voiceitem_Halloween26	I want to play... a game	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055026.png	The Unseen voice pack
+921055027	FF_UI_Voiceitem_Halloween26	Who's there?	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055027.png	The Unseen voice pack
+921055028	FF_UI_Voiceitem_Storm26	Dark void falls upon the arena!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055028.png	Storm Arena voice pack
+921055029	FF_UI_Voiceitem_Storm26	Through the storm, to Booyah!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055029.png	Storm Arena voice pack
+921055030	FF_UI_Voiceitem_Storm26	I AM the storm!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055030.png	Storm Arena voice pack
+921055031	FF_UI_Voiceitem_Storm26	Only the strongest survive the storm	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055031.png	Storm Arena voice pack
+921055032	FF_UI_Voiceitem_Storm26	Reach your prime!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055032.png	Storm Arena voice pack
+921055033	FF_UI_Voiceitem_BR55	Miracle? Nope, just skill!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055033.png	Pro Taunts voice pack
+921055034	FF_UI_Voiceitem_BR55	Get outta here, bot!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055034.png	Pro Taunts voice pack
+921055035	FF_UI_Voiceitem_BR55	Yep, back to the lobby you go!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055035.png	Pro Taunts voice pack
+921055036	FF_UI_Voiceitem_BR55	Better luck next time!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055036.png	Pro Taunts voice pack
+921055037	FF_UI_Voiceitem_US55	You little monster!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055037.png	Day of the Dead 2026 voice pack
+921055038	FF_UI_Voiceitem_US55	Suffer like I did!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055038.png	Day of the Dead 2026 voice pack
+921055039	FF_UI_Voiceitem_US55	Where's my squad?	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055039.png	Day of the Dead 2026 voice pack
+921055040	FF_UI_Voiceitem_US55	They got me!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055040.png	Day of the Dead 2026 voice pack
+921055041	FF_UI_Voiceitem_US55	Oh, you are doing magic	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055041.png	Day of the Dead 2026 voice pack
+921055042	FF_UI_Voiceitem_US55	Is that all? Ahhh!	Voice Packs	PURPLE (Epic)	OB55	MUSICA/imagenes/921055042.png	Day of the Dead 2026 voice pack
+921055043	FF_UI_Voiceitem_GOKU55A	You're quite a smooth talker	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055043.png	Mirzapur Voice Pack 1
+921055044	FF_UI_Voiceitem_GOKU55A	You will feel proud	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055044.png	Mirzapur Voice Pack 1
+921055045	FF_UI_Voiceitem_GOKU55A	Hey, focus on your studies. Become an IAS officer or something.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055045.png	Mirzapur Voice Pack 1
+921055046	FF_UI_Voiceitem_GOKU55A	We started because we had no choice, but now we're enjoying it	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055046.png	Mirzapur Voice Pack 1
+921055047	FF_UI_Voiceitem_GOKU55A	We run this place	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055047.png	Mirzapur Voice Pack 1
+921055048	FF_UI_Voiceitem_GOKU55A	That works too	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055048.png	Mirzapur Voice Pack 1
+921055049	FF_UI_Voiceitem_GOKU55B	It's risky	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055049.png	Mirzapur Voice Pack 2
+921055050	FF_UI_Voiceitem_GOKU55B	You're learning slowly, slowly	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055050.png	Mirzapur Voice Pack 2
+921055051	FF_UI_Voiceitem_GOKU55B	Red flower, blue flower, Munna Bhaiya is beautiful	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055051.png	Mirzapur Voice Pack 2
+921055052	FF_UI_Voiceitem_GOKU55B	That was awesome, boss	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055052.png	Mirzapur Voice Pack 2
+921055053	FF_UI_Voiceitem_GOKU55B	This thing is wild! It shakes up the whole system.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055053.png	Mirzapur Voice Pack 2
+921055054	FF_UI_Voiceitem_GOKU55B	Yeah, I mean, we haven't thought about it immediately, but we'll think about it.	Voice Packs	ORANGE (Mythic)	OB55	MUSICA/imagenes/921055054.png	Mirzapur Voice Pack 2
+923042001	FF_UI_Voiceitem_Winterland	You are SNOW cool!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042001.png	
+923042002	FF_UI_Voiceitem_Winterland	There's ice in my veins	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042002.png	
+923042003	FF_UI_Voiceitem_Winterland	Chill bro, chill	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042003.png	
+923042004	FF_UI_Voiceitem_Winterland	Happy New Year!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042004.png	
+923042005	FF_UI_Voiceitem_Winterland	We are on fire!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042005.png	
+923042006	FF_UI_Voiceitem_Basic	Nice!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042006.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923042007	FF_UI_Voiceitem_Basic	The train is coming!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042007.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923042008	FF_UI_Voiceitem_Basic	WOW!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042008.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923042009	FF_UI_Voiceitem_RANK43	Respect!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042009.png	Express your emotions!
+923042011	FF_UI_Voiceitem_Ironbull	Follow me! (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042011.png	
+923042012	FF_UI_Voiceitem_Ironbull	Mic on please (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042012.png	
+923042013	FF_UI_Voiceitem_Ironbull	Good job! (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042013.png	
+923042014	FF_UI_Voiceitem_Ironbull	Sorry (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042014.png	
+923042015	FF_UI_Voiceitem_Ironbull	Resources here! (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042015.png	
+923042016	FF_UI_Voiceitem_Ironbull	Go go go! (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042016.png	
+923042017	FF_UI_Voiceitem_Ironbull	It's hunting time! (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042017.png	
+923042018	FF_UI_Voiceitem_Ironbull	Got it (Kouki)	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042018.png	
+923042021	FF_UI_Voiceitem_Primkung	That's dope!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042021.png	
+923042022	FF_UI_Voiceitem_Primkung	Hi there	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042022.png	
+923042023	FF_UI_Voiceitem_Primkung	So cool!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042023.png	
+923042024	FF_UI_Voiceitem_Primkung	Love ya!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042024.png	
+923042025	FF_UI_Voiceitem_Primkung	That's lit!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042025.png	
+923042026	FF_UI_Voiceitem_Primkung	Assemble!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042026.png	
+923042027	FF_UI_Voiceitem_Primkung	Ouchhh!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042027.png	
+923042028	FF_UI_Voiceitem_Primkung	Don't do that	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042028.png	
+923042031	FF_UI_Voiceitem_Streamer	Surprise them, finish them, or else, run away	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042031.png	
+923042032	FF_UI_Voiceitem_Streamer	Your aim is amazing!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042032.png	
+923042033	FF_UI_Voiceitem_Streamer	Finish them, finish them, finish them	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042033.png	
+923042034	FF_UI_Voiceitem_Streamer	From Zero to Hero	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042034.png	
+923042035	FF_UI_Voiceitem_Streamer	You're amazing!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042035.png	
+923042036	FF_UI_Voiceitem_Streamer	I defeated you!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042036.png	
+923042041	FF_UI_Voiceitem_DoD	Let's go, let's go!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042041.png	
+923042042	FF_UI_Voiceitem_DoD	Help me, mate!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042042.png	
+923042043	FF_UI_Voiceitem_DoD	Good job!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042043.png	
+923042044	FF_UI_Voiceitem_DoD	C'mon!	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042044.png	
+923042045	FF_UI_Voiceitem_DoD	So good, right?	Voice Packs	PURPLE (Epic)	OB42	MUSICA/imagenes/923042045.png	
+923043001	FF_UI_Voiceitem_RANK43	What a view up here!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043001.png	Rank reward
+923043002	FF_UI_Voiceitem_RANK43	Sharp blade, sharp mind	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043002.png	Rank reward
+923043003	FF_UI_Voiceitem_RANK43	I'm in it to win it!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043003.png	Rank reward
+923043004	FF_UI_Voiceitem_RANK43	Dead-on aim, killed the game!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043004.png	Rank reward
+923043005	FF_UI_Voiceitem_RANK43	Master to the rescue!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043005.png	Rank reward
+923043006	FF_UI_Voiceitem_RANK43	Keep climbing, pal. Almost there!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043006.png	Rank reward
+923043007	FF_UI_Voiceitem_RANK43	Voila! Your hero has arrived!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043007.png	Rank reward
+923043008	FF_UI_Voiceitem_RANK43	Think you can make it out alive?	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043008.png	Rank reward
+923043009	FF_UI_Voiceitem_CHAOS43	Why so serious?	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043009.png	The Chaos event reward
+923043010	FF_UI_Voiceitem_CHAOS43	Bring on the chaos!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043010.png	The Chaos event reward
+923043011	FF_UI_Voiceitem_CHAOS43	It's party time!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043011.png	The Chaos event reward
+923043012	FF_UI_Voiceitem_CHAOS43	Catch me if you can	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043012.png	The Chaos event reward
+923043013	FF_UI_Voiceitem_CHAOS43	Let's blow it up!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043013.png	The Chaos event reward
+923043014	FF_UI_Voiceitem_MEME43	PvP	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043014.png	The most popular phrases in the community
+923043015	FF_UI_Voiceitem_MEME43	Yeah boiiiiiiii	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043015.png	The most popular phrases in the community
+923043016	FF_UI_Voiceitem_MEME43	You already know	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043016.png	The most popular phrases in the community
+923043017	FF_UI_Voiceitem_MEME43	Hey, stop it!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043017.png	The most popular phrases in the community
+923043018	FF_UI_Voiceitem_VALENTINE43	Love you baby	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043018.png	
+923043019	FF_UI_Voiceitem_VALENTINE43	Love ya!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043019.png	
+923043020	FF_UI_Voiceitem_VALENTINE43	Who's the lucky guy?	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043020.png	
+923043021	FF_UI_Voiceitem_VALENTINE43	Please help me!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043021.png	
+923043022	FF_UI_Voiceitem_VALENTINE43	I love you so much	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043022.png	
+923043023	FF_UI_Voiceitem_VALENTINE43	I'm super duper in love with you	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043023.png	
+923043024	FF_UI_Voiceitem_VALENTINE43	This handsome guy is yours	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043024.png	
+923043025	FF_UI_Voiceitem_VALENTINE43	Good night!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043025.png	
+923043026	FF_UI_Voiceitem_KOUKI43	Follow me! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043026.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043027	FF_UI_Voiceitem_KOUKI43	Head to the Safe Zone! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043027.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043028	FF_UI_Voiceitem_KOUKI43	Stay together! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043028.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043029	FF_UI_Voiceitem_KOUKI43	Go go go! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043029.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043030	FF_UI_Voiceitem_KOUKI43	Let's crush them! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043030.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043031	FF_UI_Voiceitem_KOUKI43	Help me! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043031.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043032	FF_UI_Voiceitem_KOUKI43	I need Med Kits (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043032.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043033	FF_UI_Voiceitem_KOUKI43	I need ammo (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043033.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043034	FF_UI_Voiceitem_KOUKI43	I need guns (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043034.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043035	FF_UI_Voiceitem_KOUKI43	Mic on please (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043035.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043036	FF_UI_Voiceitem_KOUKI43	Good job! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043036.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043037	FF_UI_Voiceitem_KOUKI43	Nice job! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043037.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043038	FF_UI_Voiceitem_KOUKI43	Sorry (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043038.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043039	FF_UI_Voiceitem_KOUKI43	Resources here (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043039.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043040	FF_UI_Voiceitem_KOUKI43	Roger (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043040.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043041	FF_UI_Voiceitem_KOUKI43	Stay alert (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043041.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043042	FF_UI_Voiceitem_KOUKI43	Enemy spotted (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043042.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043043	FF_UI_Voiceitem_KOUKI43	Be patient (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043043.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043044	FF_UI_Voiceitem_KOUKI43	Watch your back! (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043044.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043045	FF_UI_Voiceitem_KOUKI43	Save money (Kouki)	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043045.png	Happy 2024 Lunar New Year, your Kouki is coming!
+923043046	FF_UI_Voiceitem_TET43	New Year, Booyah!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043046.png	
+923043047	FF_UI_Voiceitem_TET43	Let's land in Peak on New Year's Eve!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043047.png	
+923043048	FF_UI_Voiceitem_TET43	No hope!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043048.png	
+923043049	FF_UI_Voiceitem_TET43	Game over!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043049.png	
+923043050	FF_UI_Voiceitem_TET43	Dance on!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043050.png	
+923043051	FF_UI_Voiceitem_TET43	Excellent!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043051.png	
+923043052	FF_UI_Voiceitem_TET43	Don't rush!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043052.png	
+923043053	FF_UI_Voiceitem_TET43	The enemy is almost down!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043053.png	
+923043054	FF_UI_Voiceitem_Dragunov43	I defeated you!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043054.png	
+923043055	FF_UI_Voiceitem_Dragunov43	You're amazing!	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043055.png	
+923043056	FF_UI_Voiceitem_Dragunov43	From Zero to Hero	Voice Packs	PURPLE (Epic)	OB43	MUSICA/imagenes/923043056.png	
+923044001	FF_UI_Voiceitem_RANK43	A hero speaks with an aim	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044001.png	Rank reward
+923044002	FF_UI_Voiceitem_RANK43	You can keep trying, but I've seen it all	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044002.png	Rank reward
+923044003	FF_UI_Voiceitem_RANK43	Charge!	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044003.png	Rank Rewards
+923044004	FF_UI_Voiceitem_RANK43	There's no stopping me!	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044004.png	Rank Rewards
+923044005	FF_UI_Voiceitem_PARADOX44_01	I - Bwahahaha!	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044005.png	Event Exclusive Voice Pack
+923044006	FF_UI_Voiceitem_PARADOX44_02	II - Madness runs in my blood	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044006.png	Event Exclusive Voice Pack
+923044007	FF_UI_Voiceitem_PARADOX44_03	III - Mayday, Mayday!	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044007.png	Event Exclusive Voice Pack
+923044008	FF_UI_Voiceitem_PARADOX44_04	IV - No dude, please no!	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044008.png	Event Exclusive Voice Pack
+923044009	FF_UI_Voiceitem_Basic	Help...me...	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044009.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923044010	FF_UI_Voiceitem_Basic	Yeah, yeah, my bad	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044010.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923044011	FF_UI_Voiceitem_Basic	Yeah, yeah, sure	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044011.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923044012	FF_UI_Voiceitem_POPID_Zee	Don't be afraid, I'm here! (Zee)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044012.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044013	FF_UI_Voiceitem_POPID_Zee	Please revive me (Zee)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044013.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044014	FF_UI_Voiceitem_POPID_Zee	Let's find enemies! (Zee)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044014.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044015	FF_UI_Voiceitem_POPID_Freya	What's up, everyone! (Freya)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044015.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044016	FF_UI_Voiceitem_POPID_Freya	GG, everyone (Freya)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044016.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044017	FF_UI_Voiceitem_POPID_Freya	Thank you, handsome (Freya)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044017.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044018	FF_UI_Voiceitem_POPID_Adel	Let's rush forward! (Adel)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044018.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044019	FF_UI_Voiceitem_POPID_Adel	You think I'm scared? (Adel)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044019.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044020	FF_UI_Voiceitem_POPID_Adel	Vroom, stutututu... (Adel)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044020.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044021	FF_UI_Voiceitem_POPID_Christy	Guys, wait for me! (Christy)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044021.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044022	FF_UI_Voiceitem_POPID_Christy	Hurry and revive me! (Christy)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044022.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044023	FF_UI_Voiceitem_POPID_Christy	The enemies are weak! (Christy)	Voice Packs	ORANGE (Mythic)	OB44	MUSICA/imagenes/923044023.png	Playing will be even more fun with the special voices of the JKT48 members!
+923044024	FF_UI_Voiceitem_MEMES44	I'm so cool	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044024.png	Trending phrases are now here in Free Fire
+923044025	FF_UI_Voiceitem_MEMES44	The real deal	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044025.png	Trending phrases are now here in Free Fire
+923044026	FF_UI_Voiceitem_MEMES44	It's so annoying	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044026.png	Trending phrases are now here in Free Fire
+923044027	FF_UI_Voiceitem_MEMES44	Juicy!	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044027.png	Trending phrases are now here in Free Fire
+923044028	FF_UI_Voiceitem_Basic	They are attacking us! (Spanish)	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044028.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923044029	FF_UI_Voiceitem_Basic	Where's my weapon? (Spanish)	Voice Packs	PURPLE (Epic)	OB44	MUSICA/imagenes/923044029.png	Express your emotions! (Exclusively available at the Guild Exchange Store.)
+923045005	FF_UI_Voiceitem_IH46	Ae noobde	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045005.png	Bhaichara Voice Pack
+923045006	FF_UI_Voiceitem_IH46	Arre bhai bhai bhai bhai bhai	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045006.png	Bhaichara Voice Pack
+923045007	FF_UI_Voiceitem_IH46	Bhai matter ho gaya	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045007.png	Bhaichara Voice Pack
+923045008	FF_UI_Voiceitem_IH46	Bhai main toh nahi sehta	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045008.png	Bhaichara Voice Pack
+923045009	FF_UI_Voiceitem_SeventhB_1	(Iconic FF melody)	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045009.png	7th Anniversary Voice Pack
+923045010	FF_UI_Voiceitem_SeventhB_2	I'll carry you for another 7 years	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045010.png	7th Anniversary Voice Pack
+923045011	FF_UI_Voiceitem_SeventhB_3	One, two, three, four, five, six -- seven!	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045011.png	7th Anniversary Voice Pack
+923045012	FF_UI_Voiceitem_SeventhB_4	Haaaaappy birthday!	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045012.png	7th Anniversary Voice Pack
+923045013	FF_UI_Voiceitem_SeventhB_5	Let's celebrate!	Voice Packs	PURPLE (Epic)	OB45	MUSICA/imagenes/923045013.png	7th Anniversary Voice Pack

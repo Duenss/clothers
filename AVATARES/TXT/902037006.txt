@@ -1,0 +1,8 @@
+ITEM ID: 902037006
+ICON ID: Icon_face_CSRank16_A
+NOMBRE: CS-Ranked S16 Heroic Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037006.png

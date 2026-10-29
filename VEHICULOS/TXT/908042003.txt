@@ -1,0 +1,8 @@
+ITEM ID: 908042003
+ICON ID: Icon_slot_Motobike_Urban_BW
+NOMBRE: Motorbike - Urban Scooter
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908042003.png

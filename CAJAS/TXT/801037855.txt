@@ -1,0 +1,8 @@
+ITEM ID: 801037855
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Icy Breadman
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Use to build your Battle of the Rock stage
+IMAGEN: CAJAS/imagenes/801037855.png

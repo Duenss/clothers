@@ -1,0 +1,8 @@
+ITEM ID: 907103015
+ICON ID: Icon_MP5_Darkdragon
+NOMBRE: MP5 - Beastly Wrath
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103015.png

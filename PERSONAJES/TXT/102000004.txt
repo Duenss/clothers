@@ -1,0 +1,8 @@
+ITEM ID: 102000004
+ICON ID: Icon_face_male04_head
+NOMBRE: Primis
+TIPO: Characters
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Nobody knows how he got onto Bermuda, except that he was here before everyone else. Extremely good at adapting to the environment, he is like a chameleon that survives and thrives.
+IMAGEN: PERSONAJES/imagenes/102000004.png

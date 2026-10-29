@@ -1,0 +1,8 @@
+ITEM ID: 907202230
+ICON ID: Icon_M1014_Apocalypse2_Green
+NOMBRE: M1014 - Apocalyptic Green
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202230.png

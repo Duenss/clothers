@@ -1,0 +1,8 @@
+ITEM ID: 400029082
+ICON ID: Icon_box_3
+NOMBRE: Water Elemental Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB29
+DESCRIPCION: Contains Water Elemental Bundle and all of its pieces
+IMAGEN: ROPA/imagenes/400029082.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000216
+ICON ID: Icon_box_3
+NOMBRE: A Pleasant Surprise Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this box to have a chance to get the Plumber Set or one of the Musical Couples set.
+IMAGEN: ROPA/imagenes/400000216.png

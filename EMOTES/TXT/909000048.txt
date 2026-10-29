@@ -1,0 +1,8 @@
+ITEM ID: 909000048
+ICON ID: Icon_Emote_sorrow
+NOMBRE: Why? Oh Why?
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000048.png

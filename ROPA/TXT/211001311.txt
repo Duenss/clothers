@@ -1,0 +1,8 @@
+ITEM ID: 211001311
+ICON ID: Icon_avatar_cos_hair_shamrock
+NOMBRE: Shamrock Bucket Hat
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001311.png

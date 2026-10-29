@@ -1,0 +1,8 @@
+ITEM ID: 904000115
+ICON ID: Icon_Bag_Sushikiller_Model
+NOMBRE: Backpack - Sashimi Boat
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000115.png

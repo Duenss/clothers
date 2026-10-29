@@ -1,0 +1,8 @@
+ITEM ID: 904090004
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Resurrector
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the "A Benevolent Heart" achievement
+IMAGEN: AVATARES/imagenes/904090004.png

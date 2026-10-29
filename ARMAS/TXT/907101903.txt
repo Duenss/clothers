@@ -1,0 +1,8 @@
+ITEM ID: 907101903
+ICON ID: Icon_XM8_Ninjas
+NOMBRE: XM8 - Clandestine Impulse
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101903.png

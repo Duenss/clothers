@@ -1,0 +1,8 @@
+ITEM ID: 910032001
+ICON ID: Pin_Small_Hurricane
+NOMBRE: Jewel of BEATz
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910032001.png

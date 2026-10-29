@@ -1,0 +1,8 @@
+ITEM ID: 904890067
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Workshop Artist
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Complete the task on the Artifact Log page in the MyZone event to obtain this title
+IMAGEN: AVATARES/imagenes/904890067.png

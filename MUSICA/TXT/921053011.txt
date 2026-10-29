@@ -1,0 +1,8 @@
+ITEM ID: 921053011
+ICON ID: FF_UI_Voiceitem_Corban53
+NOMBRE: Either be a HERO, or a ZERO!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/921053011.png

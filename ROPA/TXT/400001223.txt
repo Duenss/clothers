@@ -1,0 +1,8 @@
+ITEM ID: 400001223
+ICON ID: Icon_box_3
+NOMBRE: FFC SS1 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Free Fire Community Cup Season 1
+IMAGEN: ROPA/imagenes/400001223.png

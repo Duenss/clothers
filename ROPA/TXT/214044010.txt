@@ -1,0 +1,8 @@
+ITEM ID: 214044010
+ICON ID: Icon_avatar_cos_headadditive_persona_fp
+NOMBRE: Paradox Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214044010.png

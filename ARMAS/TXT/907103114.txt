@@ -1,0 +1,8 @@
+ITEM ID: 907103114
+ICON ID: Icon_FAL_Onikoi
+NOMBRE: PARAFAL - Aurora Oni
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103114.png

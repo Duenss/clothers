@@ -1,0 +1,8 @@
+ITEM ID: 910040001
+ICON ID: Pin_Small_Goal
+NOMBRE: Achievement Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910040001.png

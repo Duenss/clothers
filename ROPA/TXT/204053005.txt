@@ -1,0 +1,8 @@
+ITEM ID: 204053005
+ICON ID: Icon_avatar_cos_bottom_sh_white_other
+NOMBRE: Strawberry Shorts
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053005.png

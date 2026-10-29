@@ -1,0 +1,8 @@
+ITEM ID: 203043016
+ICON ID: Icon_avatar_male_cos_top_aprilfool24
+NOMBRE: Emperor's New Clothes (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043016.png

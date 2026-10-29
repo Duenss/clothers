@@ -1,0 +1,8 @@
+ITEM ID: 801001586
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Clown Heist Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Ready for the greatest heist?
+IMAGEN: CAJAS/imagenes/801001586.png

@@ -1,0 +1,8 @@
+ITEM ID: 214000000
+ICON ID: Icon_avatar_default_headadditive
+NOMBRE: Facepaint preset
+TIPO: Facepaint
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Default facepaint for characters
+IMAGEN: ROPA/imagenes/214000000.png

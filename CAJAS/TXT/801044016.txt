@@ -1,0 +1,8 @@
+ITEM ID: 801044016
+ICON ID: Icon_Exchange_HuntingGround_TokenNew
+NOMBRE: Grim Token
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Earn by playing Zombie Hunt Mode and can be used to get exclusive goodies at the Zombie Hunt Exchange Store.
+IMAGEN: CAJAS/imagenes/801044016.png

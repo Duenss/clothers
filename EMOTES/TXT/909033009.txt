@@ -1,0 +1,8 @@
+ITEM ID: 909033009
+ICON ID: Icon_Emote_Boyband_Poker
+NOMBRE: Winner Throw
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909033009.png

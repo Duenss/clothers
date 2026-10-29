@@ -1,0 +1,8 @@
+ITEM ID: 906000064
+ICON ID: Icon_Avatar_Surfboard_cowboymk2_A
+NOMBRE: Skyboard - Cowboy
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000064.png

@@ -1,0 +1,8 @@
+ITEM ID: 802000084
+ICON ID: FF_Lottery_Newbie_Voucher
+NOMBRE: Newbie Voucher
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Get one spin at Newbie Event in Luck Royale!
+IMAGEN: OTROS/imagenes/802000084.png

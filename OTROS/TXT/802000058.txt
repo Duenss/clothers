@@ -1,0 +1,8 @@
+ITEM ID: 802000058
+ICON ID: FF_Lottery_Holi_Voucher
+NOMBRE: Holi Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Spin in Holi Hai 2024 event
+IMAGEN: OTROS/imagenes/802000058.png

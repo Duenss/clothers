@@ -1,0 +1,8 @@
+ITEM ID: 203048035
+ICON ID: Icon_avatar_male_cos_top_rank44
+NOMBRE: BR-Ranked S44 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048035.png

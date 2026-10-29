@@ -1,0 +1,8 @@
+ITEM ID: 214049007
+ICON ID: Icon_avatar_cos_headadditive_coolguy_fp
+NOMBRE: Thorny Rose Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214049007.png

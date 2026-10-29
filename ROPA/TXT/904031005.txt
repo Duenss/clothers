@@ -1,0 +1,8 @@
+ITEM ID: 904031005
+ICON ID: Icon_Bag_Heroicmark
+NOMBRE: Backpack - Heroic Emblem
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031005.png

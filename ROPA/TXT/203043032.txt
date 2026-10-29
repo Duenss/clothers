@@ -1,0 +1,8 @@
+ITEM ID: 203043032
+ICON ID: Icon_avatar_female_cos_top_csrank24
+NOMBRE: CS-Ranked S24 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043032.png

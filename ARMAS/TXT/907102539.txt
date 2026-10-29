@@ -1,0 +1,8 @@
+ITEM ID: 907102539
+ICON ID: Icon_Timemachine_Grenade
+NOMBRE: Grenade - Time Travellers
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102539.png

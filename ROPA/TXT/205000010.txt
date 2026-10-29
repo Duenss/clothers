@@ -1,0 +1,8 @@
+ITEM ID: 205000010
+ICON ID: Icon_avatar_shoes_10
+NOMBRE: Sneaker (Vogue)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000010.png

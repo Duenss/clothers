@@ -1,0 +1,8 @@
+ITEM ID: 910034002
+ICON ID: Pin_Small_BIS
+NOMBRE: Digital Mania Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910034002.png

@@ -1,0 +1,8 @@
+ITEM ID: 205048038
+ICON ID: Icon_avatar_cos_shoe_football25_idblue
+NOMBRE: Goalkeeper Away Jersey (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048038.png

@@ -1,0 +1,8 @@
+ITEM ID: 801047105
+ICON ID: Icon_exchange_ntk5_47
+NOMBRE: Cloud Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047105.png

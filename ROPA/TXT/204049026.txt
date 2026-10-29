@@ -1,0 +1,8 @@
+ITEM ID: 204049026
+ICON ID: Icon_avatar_cos_bottom_club
+NOMBRE: Neon Glow (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204049026.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000274
+ICON ID: Icon_avatar_male_bottom_cos_wights
+NOMBRE: Crystal Giant (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000274.png

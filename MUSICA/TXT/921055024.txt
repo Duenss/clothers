@@ -1,0 +1,8 @@
+ITEM ID: 921055024
+ICON ID: FF_UI_Voiceitem_Halloween26
+NOMBRE: Shh... listen!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: The Unseen voice pack
+IMAGEN: MUSICA/imagenes/921055024.png

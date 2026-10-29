@@ -1,0 +1,8 @@
+ITEM ID: 801000659
+ICON ID: Icon_exchange_ob24_Bronze_FFIM_Token
+NOMBRE: Bronze FFIM Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Those who participates
+IMAGEN: CAJAS/imagenes/801000659.png

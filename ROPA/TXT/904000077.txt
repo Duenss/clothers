@@ -1,0 +1,8 @@
+ITEM ID: 904000077
+ICON ID: Icon_Bag_HockeyGoalie01
+NOMBRE: Backpack - Bloody Skull
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000077.png

@@ -1,0 +1,8 @@
+ITEM ID: 400033105
+ICON ID: Icon_box_3
+NOMBRE: Ruby Bride Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Contains Ruby Bride and all it's pieces
+IMAGEN: ROPA/imagenes/400033105.png

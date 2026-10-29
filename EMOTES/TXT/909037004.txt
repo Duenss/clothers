@@ -1,0 +1,8 @@
+ITEM ID: 909037004
+ICON ID: Icon_Emote_FFWS_Trophies
+NOMBRE: Trophy Grab
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909037004.png

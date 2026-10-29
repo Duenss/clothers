@@ -1,0 +1,8 @@
+ITEM ID: 907104648
+ICON ID: Icon_GlooShield_School_VN
+NOMBRE: Gloo Wall - Class Begin
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104648.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105505
+ICON ID: Icon_USP45_Flamedino
+NOMBRE: USP-2 - Flame Dino
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105505.png

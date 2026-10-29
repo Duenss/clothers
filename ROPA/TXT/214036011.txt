@@ -1,0 +1,8 @@
+ITEM ID: 214036011
+ICON ID: Icon_avatar_male_cos_headadditive_punks
+NOMBRE: Barbaric Raider (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214036011.png

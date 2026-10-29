@@ -1,0 +1,8 @@
+ITEM ID: 921048022
+ICON ID: FF_UI_Voiceitem_RUOK
+NOMBRE: Play with style
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: RUOK Voice Pack
+IMAGEN: MUSICA/imagenes/921048022.png

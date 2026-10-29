@@ -1,0 +1,8 @@
+ITEM ID: 801040107
+ICON ID: FF_UI_SixthB_03_StikcerItem07
+NOMBRE: Mr. Waggor
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Accompanying you through countless battles, Mr. Waggor is your most reliable ally.
+IMAGEN: CAJAS/imagenes/801040107.png

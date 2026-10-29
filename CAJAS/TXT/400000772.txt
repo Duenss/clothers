@@ -1,0 +1,8 @@
+ITEM ID: 400000772
+ICON ID: Icon_box_Night_Panther
+NOMBRE: Warrior Box
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to get exciting rewards!
+IMAGEN: CAJAS/imagenes/400000772.png

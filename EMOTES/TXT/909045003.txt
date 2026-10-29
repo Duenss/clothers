@@ -1,0 +1,8 @@
+ITEM ID: 909045003
+ICON ID: Icon_Emote_Spirit24_Travel
+NOMBRE: Giddy Up!
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909045003.png

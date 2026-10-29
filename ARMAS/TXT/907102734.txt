@@ -1,0 +1,8 @@
+ITEM ID: 907102734
+ICON ID: Icon_SCAR_FFChar_S22
+NOMBRE: SCAR - S22 Exclusive: Maxim
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102734.png

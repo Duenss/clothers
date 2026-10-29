@@ -1,0 +1,8 @@
+ITEM ID: 921048023
+ICON ID: FF_UI_Voiceitem_RUOK
+NOMBRE: Do you want me to help rank up?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: RUOK Voice Pack
+IMAGEN: MUSICA/imagenes/921048023.png

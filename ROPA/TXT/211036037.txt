@@ -1,0 +1,8 @@
+ITEM ID: 211036037
+ICON ID: Icon_avatar_male_cos_accessory_vn_playoffs
+NOMBRE: Iron Hero (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036037.png

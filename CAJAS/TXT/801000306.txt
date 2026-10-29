@@ -1,0 +1,8 @@
+ITEM ID: 801000306
+ICON ID: Icon_exchange_bluer_bouquet
+NOMBRE: Heart Bouquet (Blue)
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000306.png

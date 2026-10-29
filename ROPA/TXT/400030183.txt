@@ -1,0 +1,8 @@
+ITEM ID: 400030183
+ICON ID: Icon_box_3
+NOMBRE: Gentleman by Day Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Gentleman by Day and all it's pieces
+IMAGEN: ROPA/imagenes/400030183.png

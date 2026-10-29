@@ -1,0 +1,8 @@
+ITEM ID: 901030016
+ICON ID: Icon_callsign_storebg_Rank25_02
+NOMBRE: Season 25 Gold Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901030016.png

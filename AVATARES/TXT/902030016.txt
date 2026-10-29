@@ -1,0 +1,8 @@
+ITEM ID: 902030016
+ICON ID: Icon_face_Guildwar_A
+NOMBRE: The Honorable Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030016.png

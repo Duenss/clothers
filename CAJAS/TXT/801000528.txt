@@ -1,0 +1,8 @@
+ITEM ID: 801000528
+ICON ID: Icon_exchange_ob22_brachiosaurus_token
+NOMBRE: Brachiosaurus Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: I am a Sauropod
+IMAGEN: CAJAS/imagenes/801000528.png

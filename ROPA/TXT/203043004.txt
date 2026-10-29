@@ -1,0 +1,8 @@
+ITEM ID: 203043004
+ICON ID: Icon_avatar_female_cos_top_frog
+NOMBRE: Ribbit Fairytale (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043004.png

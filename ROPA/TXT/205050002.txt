@@ -1,0 +1,8 @@
+ITEM ID: 205050002
+ICON ID: Icon_avatar_female_cos_shoe_funzombie
+NOMBRE: Scarlet Ash (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050002.png

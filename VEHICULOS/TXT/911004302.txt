@@ -1,0 +1,8 @@
+ITEM ID: 911004302
+ICON ID: Icon_Mounts_Axolotl_Airship
+NOMBRE: Joyful Tubing
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004302.png

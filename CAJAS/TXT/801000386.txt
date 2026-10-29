@@ -1,0 +1,8 @@
+ITEM ID: 801000386
+ICON ID: Icon_exchange_ob21_pineapple
+NOMBRE: Pineapple
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Labor Day
+IMAGEN: CAJAS/imagenes/801000386.png

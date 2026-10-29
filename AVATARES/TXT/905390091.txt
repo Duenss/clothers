@@ -1,0 +1,8 @@
+ITEM ID: 905390091
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Match Predictor
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Placed in the top 5% of the Pick'ems event
+IMAGEN: AVATARES/imagenes/905390091.png

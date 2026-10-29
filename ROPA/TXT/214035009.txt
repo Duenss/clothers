@@ -1,0 +1,8 @@
+ITEM ID: 214035009
+ICON ID: Icon_avatar_female_cos_headadditive_goldchain
+NOMBRE: Armor of Riches (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214035009.png

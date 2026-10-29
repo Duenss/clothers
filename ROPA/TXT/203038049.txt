@@ -1,0 +1,8 @@
+ITEM ID: 203038049
+ICON ID: Icon_avatar_cos_top_mo_hoodie
+NOMBRE: Nightlife Hoodie
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038049.png

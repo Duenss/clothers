@@ -1,0 +1,8 @@
+ITEM ID: 907101525
+ICON ID: Icon_P90_Viking
+NOMBRE: P90 - The Viking
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101525.png

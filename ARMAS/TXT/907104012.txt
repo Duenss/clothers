@@ -1,0 +1,8 @@
+ITEM ID: 907104012
+ICON ID: Icon_M1216_Royal22
+NOMBRE: Trogon - Noble Sanction
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104012.png

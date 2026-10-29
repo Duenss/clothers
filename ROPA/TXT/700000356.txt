@@ -1,0 +1,8 @@
+ITEM ID: 700000356
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Robo and Pet Skin: Pharaoh's Robo
+IMAGEN: ROPA/imagenes/700000356.png

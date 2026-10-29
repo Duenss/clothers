@@ -1,0 +1,8 @@
+ITEM ID: 710052040
+ICON ID: FF_UI_Voiceitem_Trea25
+NOMBRE: Lost Treasure Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure Voice Pack
+IMAGEN: MUSICA/imagenes/710052040.png

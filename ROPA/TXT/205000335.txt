@@ -1,0 +1,8 @@
+ITEM ID: 205000335
+ICON ID: Icon_avatar_male_shoe_cos_kabuki_yellow
+NOMBRE: Noble Samurai (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000335.png

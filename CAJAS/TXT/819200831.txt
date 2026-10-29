@@ -1,0 +1,8 @@
+ITEM ID: 819200831
+ICON ID: FF_Lottery_gun_big
+NOMBRE: Weapon Royale Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Weapon Royale.
+IMAGEN: CAJAS/imagenes/819200831.png

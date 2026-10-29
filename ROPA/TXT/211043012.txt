@@ -1,0 +1,8 @@
+ITEM ID: 211043012
+ICON ID: Icon_avatar_male_cos_hair_evilbehind
+NOMBRE: Inner Devil (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043012.png

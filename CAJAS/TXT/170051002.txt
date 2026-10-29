@@ -1,0 +1,8 @@
+ITEM ID: 170051002
+ICON ID: Icon_OptionalBundle_ffwst_51
+NOMBRE: FFWS 2025 Team Jersey Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170051002.png

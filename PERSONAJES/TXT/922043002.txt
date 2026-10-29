@@ -1,0 +1,8 @@
+ITEM ID: 922043002
+ICON ID: UI_Icon_SkillSkin_Nanoscientist_Galaxy
+NOMBRE: Skill Skin: Galaxy Lifeshield
+TIPO: Skill Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922043002.png

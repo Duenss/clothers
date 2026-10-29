@@ -1,0 +1,8 @@
+ITEM ID: 801047006
+ICON ID: Icon_exchange_Aurora_Aug_47
+NOMBRE: Holler Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047006.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000647
+ICON ID: Icon_exchange_ob24_TW_candy_P
+NOMBRE: Candy P
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Delicious candy
+IMAGEN: CAJAS/imagenes/801000647.png

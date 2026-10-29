@@ -1,0 +1,8 @@
+ITEM ID: 407105007
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Galactic Bunny (Kord) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive a random gun skin (Kord) from the Galactic Bunny set
+IMAGEN: ARMAS/imagenes/407105007.png

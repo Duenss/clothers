@@ -1,0 +1,8 @@
+ITEM ID: 400031029
+ICON ID: Icon_box_3
+NOMBRE: New Year Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Happy New Year!
+IMAGEN: ROPA/imagenes/400031029.png

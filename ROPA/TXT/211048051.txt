@@ -1,0 +1,8 @@
+ITEM ID: 211048051
+ICON ID: Icon_avatar_cos_accessory_lotusleaf
+NOMBRE: Lotus Leaf Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048051.png

@@ -1,0 +1,8 @@
+ITEM ID: 908049009
+ICON ID: Icon_slot_Motobike_FFWS_Spring25
+NOMBRE: Motorbike - FFWS 2025 Spring
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049009.png

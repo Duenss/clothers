@@ -1,0 +1,8 @@
+ITEM ID: 907002501
+ICON ID: Icon_USP_Yakuza
+NOMBRE: USP - Fuji Folklore
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002501.png

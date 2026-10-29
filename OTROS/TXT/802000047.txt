@@ -1,0 +1,8 @@
+ITEM ID: 802000047
+ICON ID: FF_Lottery_Playtime_Voucher
+NOMBRE: Playtime Voucher
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Used for playtime mission
+IMAGEN: OTROS/imagenes/802000047.png

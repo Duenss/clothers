@@ -1,0 +1,8 @@
+ITEM ID: 801040108
+ICON ID: FF_UI_SixthB_03_StikcerItem08
+NOMBRE: M1887
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: With this shotgun, you have defeated countless enemies and become the ruler of the battlefield.
+IMAGEN: CAJAS/imagenes/801040108.png

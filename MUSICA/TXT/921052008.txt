@@ -1,0 +1,8 @@
+ITEM ID: 921052008
+ICON ID: FF_UI_Voiceitem_IIV_02
+NOMBRE: You're kind of weak.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Satoru Gojo Voice Pack
+IMAGEN: MUSICA/imagenes/921052008.png

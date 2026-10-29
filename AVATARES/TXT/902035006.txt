@@ -1,0 +1,8 @@
+ITEM ID: 902035006
+ICON ID: Icon_face_Fcninja_FP
+NOMBRE: Ninja Blade Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035006.png

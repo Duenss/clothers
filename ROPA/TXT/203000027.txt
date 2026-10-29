@@ -1,0 +1,8 @@
+ITEM ID: 203000027
+ICON ID: Icon_avatar_undershirt_diy_004
+NOMBRE: Singlet (Defeat)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000027.png

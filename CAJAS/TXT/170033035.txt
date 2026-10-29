@@ -1,0 +1,8 @@
+ITEM ID: 170033035
+ICON ID: Icon_OptionalBundle_Emote_33
+NOMBRE: Emote Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170033035.png

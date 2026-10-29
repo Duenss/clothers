@@ -1,0 +1,8 @@
+ITEM ID: 907104052
+ICON ID: Icon_GlooShield_Densho
+NOMBRE: Gloo Wall - Gate to Sanctuary
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104052.png

@@ -1,0 +1,8 @@
+ITEM ID: 203049000
+ICON ID: Icon_avatar_male_cos_top_sparta
+NOMBRE: Fearless General (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049000.png

@@ -1,0 +1,8 @@
+ITEM ID: 921048012
+ICON ID: FF_UI_Voiceitem_ID48FAST
+NOMBRE: [Habib Ja'far] Sahoor, sahoor!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Fasting Voice Pack
+IMAGEN: MUSICA/imagenes/921048012.png

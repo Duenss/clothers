@@ -1,0 +1,8 @@
+ITEM ID: 904046006
+ICON ID: Icon_Bag_Purplelight
+NOMBRE: Backpack - Violet Discharge
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904046006.png

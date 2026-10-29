@@ -1,0 +1,8 @@
+ITEM ID: 902050005
+ICON ID: Icon_face_2NBCT_Snake
+NOMBRE: Orochimaru Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902050005.png

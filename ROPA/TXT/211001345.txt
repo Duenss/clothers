@@ -1,0 +1,8 @@
+ITEM ID: 211001345
+ICON ID: Icon_avatar_male_cos_accessory_chocolate
+NOMBRE: Choco Booster (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001345.png

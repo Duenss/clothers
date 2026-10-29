@@ -1,0 +1,8 @@
+ITEM ID: 906043007
+ICON ID: Icon_Avatar_Surfboard_CSRank24
+NOMBRE: Skyboard - S24 Exclusive: Wrathful
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906043007.png

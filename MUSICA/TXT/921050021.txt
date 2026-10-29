@@ -1,0 +1,8 @@
+ITEM ID: 921050021
+ICON ID: FF_UI_Voiceitem_TH50A
+NOMBRE: New gun near me
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Anime Voice Pack
+IMAGEN: MUSICA/imagenes/921050021.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000023
+ICON ID: Icon_avatar_shirt_camo_003
+NOMBRE: Shirt (Camouflage)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000023.png

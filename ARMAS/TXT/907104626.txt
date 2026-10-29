@@ -1,0 +1,8 @@
+ITEM ID: 907104626
+ICON ID: Icon_G36_CSRank28
+NOMBRE: G36 - S28 Exclusive: Horsin'
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: CS-Ranked S28 Reward
+IMAGEN: ARMAS/imagenes/907104626.png

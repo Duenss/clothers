@@ -1,0 +1,8 @@
+ITEM ID: 801000042
+ICON ID: Icon_StoreReceiver
+NOMBRE: Emotional Letter
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000042.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000022
+ICON ID: Icon_avatar_shirt_camo_002
+NOMBRE: Shirt (Jungle)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000022.png

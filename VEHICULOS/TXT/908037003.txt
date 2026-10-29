@@ -1,0 +1,8 @@
+ITEM ID: 908037003
+ICON ID: Icon_slot_Motobike_Winterfest22
+NOMBRE: Motorbike - Rock 'n' Rider
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908037003.png

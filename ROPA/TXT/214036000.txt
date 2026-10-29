@@ -1,0 +1,8 @@
+ITEM ID: 214036000
+ICON ID: Icon_avatar_male_cos_headadditive_frankenstein
+NOMBRE: Gnarl Electrocution (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214036000.png

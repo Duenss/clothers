@@ -1,0 +1,8 @@
+ITEM ID: 902047007
+ICON ID: Icon_face_Tailor
+NOMBRE: Mad Stitcher Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047007.png

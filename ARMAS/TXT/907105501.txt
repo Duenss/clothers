@@ -1,0 +1,8 @@
+ITEM ID: 907105501
+ICON ID: Icon_MAG7_WB_Sky
+NOMBRE: MAG-7 - Ben 10
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105501.png

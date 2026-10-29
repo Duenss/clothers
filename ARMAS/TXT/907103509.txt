@@ -1,0 +1,8 @@
+ITEM ID: 907103509
+ICON ID: Icon_AWM_Chameleon_Green
+NOMBRE: AWM - Mossy Vinehorn
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103509.png

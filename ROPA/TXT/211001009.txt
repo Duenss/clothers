@@ -1,0 +1,8 @@
+ITEM ID: 211001009
+ICON ID: Icon_avatar_male_hair_cos_foursymbols_b
+NOMBRE: Frost Sabertooth (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001009.png

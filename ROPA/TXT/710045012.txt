@@ -1,0 +1,8 @@
+ITEM ID: 710045012
+ICON ID: Icon_bundle_male_Fashionist4_45
+NOMBRE: Denim Beat Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710045012.png

@@ -1,0 +1,8 @@
+ITEM ID: 851000004
+ICON ID: UI_BonusCard_CS
+NOMBRE: Guild PP Bonus Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Team up with guild members and Booyah in the next CS-Ranked match to get 10 bonus protection points.
+IMAGEN: OTROS/imagenes/851000004.png

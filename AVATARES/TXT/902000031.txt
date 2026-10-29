@@ -1,0 +1,8 @@
+ITEM ID: 902000031
+ICON ID: Icon_face_dinosaur
+NOMBRE: Dino
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000031.png

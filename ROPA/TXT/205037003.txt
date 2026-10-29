@@ -1,0 +1,8 @@
+ITEM ID: 205037003
+ICON ID: Icon_avatar_male_cos_shoe_surveillance_yellow
+NOMBRE: Cloaked Doom (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037003.png

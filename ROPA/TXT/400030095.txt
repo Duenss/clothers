@@ -1,0 +1,8 @@
+ITEM ID: 400030095
+ICON ID: Icon_box_3
+NOMBRE: Owl Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Teacher's Day 2021
+IMAGEN: ROPA/imagenes/400030095.png

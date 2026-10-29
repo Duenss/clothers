@@ -1,0 +1,8 @@
+ITEM ID: 211040010
+ICON ID: Icon_avatar_male_cos_hair_traphiphop22
+NOMBRE: T.R.A.P. Stage (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040010.png

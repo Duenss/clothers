@@ -1,0 +1,8 @@
+ITEM ID: 907101919
+ICON ID: Icon_MGL140_Demolitionist
+NOMBRE: MGL140 - Demolitionist
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB19
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101919.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000117
+ICON ID: Icon_avatar_tshirt_easter_green
+NOMBRE: Easter Egg Hunt #3
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000117.png

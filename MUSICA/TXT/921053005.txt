@@ -1,0 +1,8 @@
+ITEM ID: 921053005
+ICON ID: FF_UI_Voiceitem_Eclipse
+NOMBRE: Even the sun must hide, my will burns on.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Eclipse Rise Voice Pack
+IMAGEN: MUSICA/imagenes/921053005.png

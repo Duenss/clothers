@@ -1,0 +1,8 @@
+ITEM ID: 400031054
+ICON ID: Icon_box_3
+NOMBRE: Welcome 2022 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Let's start 2022!
+IMAGEN: ROPA/imagenes/400031054.png

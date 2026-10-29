@@ -1,0 +1,8 @@
+ITEM ID: 907103820
+ICON ID: Icon_Baseballbat_Eldergods
+NOMBRE: Bat - Luminus
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103820.png

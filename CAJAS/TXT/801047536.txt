@@ -1,0 +1,8 @@
+ITEM ID: 801047536
+ICON ID: Icon_exchange_UST_th_47
+NOMBRE: Universal Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047536.png

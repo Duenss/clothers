@@ -1,0 +1,8 @@
+ITEM ID: 908055002
+ICON ID: Icon_slot_Motobike_Thanksgiving26
+NOMBRE: Motorbike - Turkey Turbo
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908055002.png

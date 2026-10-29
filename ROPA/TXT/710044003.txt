@@ -1,0 +1,8 @@
+ITEM ID: 710044003
+ICON ID: Icon_bundle_male_Fragment_44
+NOMBRE: Dawnbreaker Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710044003.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000103
+ICON ID: Icon_exchange_Horse_Skull
+NOMBRE: Horse Skull
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000103.png

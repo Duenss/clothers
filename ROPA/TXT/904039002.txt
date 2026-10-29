@@ -1,0 +1,8 @@
+ITEM ID: 904039002
+ICON ID: Icon_Bag_Fishtank
+NOMBRE: Backpack - Little Submarine
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039002.png

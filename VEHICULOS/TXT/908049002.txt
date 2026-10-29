@@ -1,0 +1,8 @@
+ITEM ID: 908049002
+ICON ID: Icon_slot_Amphibian_TVman
+NOMBRE: Amphibian - Signal Error
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908049002.png

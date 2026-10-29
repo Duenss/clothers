@@ -1,0 +1,8 @@
+ITEM ID: 400000840
+ICON ID: Icon_box_3
+NOMBRE: Ramadhan Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains gifts for the holy month
+IMAGEN: ROPA/imagenes/400000840.png

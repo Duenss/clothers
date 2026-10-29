@@ -1,0 +1,8 @@
+ITEM ID: 904036006
+ICON ID: Icon_Bag_Griza
+NOMBRE: Backpack - Skater Gadget
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904036006.png

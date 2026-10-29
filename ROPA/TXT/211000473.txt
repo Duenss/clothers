@@ -1,0 +1,8 @@
+ITEM ID: 211000473
+ICON ID: Icon_avatar_female_hair_cos_cnnewyear19
+NOMBRE: Azure Annihilation (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000473.png

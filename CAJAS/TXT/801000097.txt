@@ -1,0 +1,8 @@
+ITEM ID: 801000097
+ICON ID: Icon_exchange_Angle_Hola
+NOMBRE: Angel's Wings
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000097.png

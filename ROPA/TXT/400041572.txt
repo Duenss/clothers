@@ -1,0 +1,8 @@
+ITEM ID: 400041572
+ICON ID: Icon_box_3
+NOMBRE: Spirit Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400041572.png

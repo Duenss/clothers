@@ -1,0 +1,8 @@
+ITEM ID: 801000584
+ICON ID: Icon_exchange_ob23_fight_for_survival_token
+NOMBRE: Fight for Survival Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Never forget our heroes
+IMAGEN: CAJAS/imagenes/801000584.png

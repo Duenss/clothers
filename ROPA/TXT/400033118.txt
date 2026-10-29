@@ -1,0 +1,8 @@
+ITEM ID: 400033118
+ICON ID: Icon_box_3
+NOMBRE: Spring and Labor Day Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Open up to get amazing rewards
+IMAGEN: ROPA/imagenes/400033118.png

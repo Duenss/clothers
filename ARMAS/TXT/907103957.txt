@@ -1,0 +1,8 @@
+ITEM ID: 907103957
+ICON ID: Icon_GlooShield_Comic
+NOMBRE: Gloo Wall - OGSuperhero
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103957.png

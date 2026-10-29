@@ -1,0 +1,8 @@
+ITEM ID: 203043031
+ICON ID: Icon_avatar_cos_top_camouflage
+NOMBRE: Soldier Boy Top
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043031.png

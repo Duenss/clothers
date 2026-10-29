@@ -1,0 +1,8 @@
+ITEM ID: 760029052
+ICON ID: Icon_box_3
+NOMBRE: Daily Mission Chest
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive rewards for completing daily missions
+IMAGEN: ROPA/imagenes/760029052.png

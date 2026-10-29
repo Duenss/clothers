@@ -1,0 +1,8 @@
+ITEM ID: 905033005
+ICON ID: Icon_Avatar_PARACHUTE_Goldenwings
+NOMBRE: Parachute - Wings of Divinity
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905033005.png

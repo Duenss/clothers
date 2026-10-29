@@ -1,0 +1,8 @@
+ITEM ID: 700000558
+ICON ID: Icon_box_3
+NOMBRE: Ultimate Fighter rewards
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: K.O. Night Ultimate Rewards
+IMAGEN: ROPA/imagenes/700000558.png

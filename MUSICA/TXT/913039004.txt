@@ -1,0 +1,8 @@
+ITEM ID: 913039004
+ICON ID: FF_UI_Vault_Music_Waterfest23_02
+NOMBRE: Mun Sard Day
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Songkran 2021\nSongkran 2021. I have wanna have a cool time with you... in Free Fire~
+IMAGEN: MUSICA/imagenes/913039004.png

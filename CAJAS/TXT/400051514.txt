@@ -1,0 +1,8 @@
+ITEM ID: 400051514
+ICON ID: Icon_box_DGB_US-ES_51
+NOMBRE: Digital Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400051514.png

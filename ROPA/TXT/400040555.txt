@@ -1,0 +1,8 @@
+ITEM ID: 400040555
+ICON ID: Icon_box_3
+NOMBRE: Athlete Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Boost your style
+IMAGEN: ROPA/imagenes/400040555.png

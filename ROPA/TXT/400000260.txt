@@ -1,0 +1,8 @@
+ITEM ID: 400000260
+ICON ID: Icon_box_3
+NOMBRE: Red Envelope
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Loot crate for 2019 Lunar new year events
+IMAGEN: ROPA/imagenes/400000260.png

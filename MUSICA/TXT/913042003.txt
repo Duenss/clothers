@@ -1,0 +1,8 @@
+ITEM ID: 913042003
+ICON ID: FF_UI_Vault_Music_FFWS2021
+NOMBRE: All In
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Free Fire World Series 2021 Singapore
+IMAGEN: MUSICA/imagenes/913042003.png

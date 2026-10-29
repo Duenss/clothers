@@ -1,0 +1,8 @@
+ITEM ID: 908039006
+ICON ID: Icon_slot_Roadster_Burning
+NOMBRE: Sports Car - Fiery Race
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039006.png

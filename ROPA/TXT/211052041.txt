@@ -1,0 +1,8 @@
+ITEM ID: 211052041
+ICON ID: Icon_avatar_male_cos_accessory_eggday26
+NOMBRE: Sea Monster (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052041.png

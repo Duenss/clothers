@@ -1,0 +1,8 @@
+ITEM ID: 904055012
+ICON ID: Icon_Bag_Scorpio26
+NOMBRE: Backpack - Scorpio Strings
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904055012.png

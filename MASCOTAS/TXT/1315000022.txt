@@ -1,0 +1,8 @@
+ITEM ID: 1315000022
+ICON ID: FF_UI_Pet_Wolf_Skill
+NOMBRE: Wolf Pact
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Receive EP/HP whenever a teammate is knocked down by an enemy
+IMAGEN: MASCOTAS/imagenes/1315000022.png

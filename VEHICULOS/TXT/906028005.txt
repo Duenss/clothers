@@ -1,0 +1,8 @@
+ITEM ID: 906028005
+ICON ID: Icon_Avatar_Surfboard_Thunder
+NOMBRE: Skyboard - Destiny Guardian
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906028005.png

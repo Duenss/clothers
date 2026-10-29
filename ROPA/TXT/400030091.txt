@@ -1,0 +1,8 @@
+ITEM ID: 400030091
+ICON ID: Icon_box_3
+NOMBRE: Venom Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Chance to obtain 19999 diamonds!
+IMAGEN: ROPA/imagenes/400030091.png

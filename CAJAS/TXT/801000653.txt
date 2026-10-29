@@ -1,0 +1,8 @@
+ITEM ID: 801000653
+ICON ID: Icon_exchange_ob24_Le_Professor
+NOMBRE: Le Professor
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000653.png

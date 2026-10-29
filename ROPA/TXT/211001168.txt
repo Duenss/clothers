@@ -1,0 +1,8 @@
+ITEM ID: 211001168
+ICON ID: Icon_avatar_female_cos_accessory_sugarskull21
+NOMBRE: Goldrim Queen (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001168.png

@@ -1,0 +1,8 @@
+ITEM ID: 902046007
+ICON ID: Icon_face_TH_JP
+NOMBRE: Street Savvy Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046007.png

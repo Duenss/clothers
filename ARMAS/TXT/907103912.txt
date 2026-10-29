@@ -1,0 +1,8 @@
+ITEM ID: 907103912
+ICON ID: Icon_Uzi_Space_Red
+NOMBRE: Mini Uzi - Space Expedition
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103912.png

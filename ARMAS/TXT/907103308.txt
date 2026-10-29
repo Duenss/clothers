@@ -1,0 +1,8 @@
+ITEM ID: 907103308
+ICON ID: Icon_AR15_Cyberopera
+NOMBRE: Kingfisher - Neon Opera
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103308.png

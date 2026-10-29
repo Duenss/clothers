@@ -1,0 +1,8 @@
+ITEM ID: 904090018
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: BR Master
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the "Last One Standing" achievement
+IMAGEN: AVATARES/imagenes/904090018.png

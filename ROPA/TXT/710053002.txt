@@ -1,0 +1,8 @@
+ITEM ID: 710053002
+ICON ID: Icon_bundle_female_SH_Red_53
+NOMBRE: Kagura Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710053002.png

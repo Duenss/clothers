@@ -1,0 +1,8 @@
+ITEM ID: 909950001
+ICON ID: Icon_AvatarFrame_CSPeakTournament
+NOMBRE: Peak Avatar Frame
+TIPO: Avatar Frame
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Peak Rewards are reset when a new season starts
+IMAGEN: AVATARES/imagenes/909950001.png

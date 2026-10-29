@@ -1,0 +1,8 @@
+ITEM ID: 203036043
+ICON ID: Icon_avatar_male_cos_top_rank31
+NOMBRE: BR-Ranked S31 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036043.png

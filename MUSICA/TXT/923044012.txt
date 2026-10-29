@@ -1,0 +1,8 @@
+ITEM ID: 923044012
+ICON ID: FF_UI_Voiceitem_POPID_Zee
+NOMBRE: Don't be afraid, I'm here! (Zee)
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Playing will be even more fun with the special voices of the JKT48 members!
+IMAGEN: MUSICA/imagenes/923044012.png

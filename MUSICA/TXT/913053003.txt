@@ -1,0 +1,8 @@
+ITEM ID: 913053003
+ICON ID: FF_UI_Vault_Music_Worldcup25
+NOMBRE: Booyah Olé
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Fire Kickoff theme song
+IMAGEN: MUSICA/imagenes/913053003.png

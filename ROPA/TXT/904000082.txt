@@ -1,0 +1,8 @@
+ITEM ID: 904000082
+ICON ID: Icon_Bag_Spirit
+NOMBRE: Backpack - The Warrior's Spirit
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000082.png

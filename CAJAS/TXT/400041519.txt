@@ -1,0 +1,8 @@
+ITEM ID: 400041519
+ICON ID: Icon_box_FFWS2022B_Evo_37
+NOMBRE: Drachen Fist Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041519.png

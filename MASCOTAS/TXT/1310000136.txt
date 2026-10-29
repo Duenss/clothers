@@ -1,0 +1,8 @@
+ITEM ID: 1310000136
+ICON ID: Icon_Pet_Dragon_Supercar
+NOMBRE: Pet Skin: Racer Dreki
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Speed is my name.
+IMAGEN: MASCOTAS/imagenes/1310000136.png

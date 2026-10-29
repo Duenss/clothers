@@ -1,0 +1,8 @@
+ITEM ID: 500000008
+ICON ID: Icon_NewLoadout_Reinforced
+NOMBRE: Enhance Hammer
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Enhance Hammer loadout has different effects in BR and CS
+IMAGEN: OTROS/imagenes/500000008.png

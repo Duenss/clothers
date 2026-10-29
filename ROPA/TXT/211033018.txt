@@ -1,0 +1,8 @@
+ITEM ID: 211033018
+ICON ID: Icon_avatar_female_cos_hair_spiderlily
+NOMBRE: Shinobi Ignite (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033018.png

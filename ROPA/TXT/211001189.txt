@@ -1,0 +1,8 @@
+ITEM ID: 211001189
+ICON ID: Icon_avatar_cos_accessory_brmascot_adult
+NOMBRE: Angry Chick Head
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001189.png

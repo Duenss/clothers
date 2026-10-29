@@ -1,0 +1,8 @@
+ITEM ID: 211033019
+ICON ID: Icon_avatar_male_cos_hair_fastbreaking22
+NOMBRE: Timbered Blooms (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033019.png

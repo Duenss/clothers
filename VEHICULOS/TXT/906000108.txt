@@ -1,0 +1,8 @@
+ITEM ID: 906000108
+ICON ID: Icon_Avatar_Surfboard_Faimplague2_VFX
+NOMBRE: Skyboard - Catastrophe Bringer
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000108.png

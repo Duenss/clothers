@@ -1,0 +1,8 @@
+ITEM ID: 908034005
+ICON ID: Icon_slot_Motobike_Rampage4
+NOMBRE: Motorbike - Rapidus
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034005.png

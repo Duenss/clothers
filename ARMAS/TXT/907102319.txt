@@ -1,0 +1,8 @@
+ITEM ID: 907102319
+ICON ID: Icon_UMP45_SwatGuy
+NOMBRE: UMP - Justice Fighter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102319.png

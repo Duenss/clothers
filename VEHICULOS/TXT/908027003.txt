@@ -1,0 +1,8 @@
+ITEM ID: 908027003
+ICON ID: Icon_slot_SUV_Dragon
+NOMBRE: Pickup Truck - Flame Draco
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908027003.png

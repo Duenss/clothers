@@ -1,0 +1,8 @@
+ITEM ID: 907102629
+ICON ID: Icon_M249_Superstar
+NOMBRE: M249 - Superstar
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102629.png

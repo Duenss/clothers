@@ -1,0 +1,8 @@
+ITEM ID: 907104147
+ICON ID: Icon_Katana_Hannyamask
+NOMBRE: Katana - Infernoshock
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104147.png

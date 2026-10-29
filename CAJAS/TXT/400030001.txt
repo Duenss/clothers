@@ -1,0 +1,8 @@
+ITEM ID: 400030001
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Flaming Skull Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: GREEN (Uncommon)
+TAG: OB30
+DESCRIPCION: Open to receive a random gun skin from the Flaming Skull set.
+IMAGEN: CAJAS/imagenes/400030001.png

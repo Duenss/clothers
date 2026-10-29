@@ -1,0 +1,8 @@
+ITEM ID: 400027100
+ICON ID: Icon_box_3
+NOMBRE: FFCS The Apprentice Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains FFCS The Apprentice and all its pieces
+IMAGEN: ROPA/imagenes/400027100.png

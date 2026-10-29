@@ -1,0 +1,8 @@
+ITEM ID: 400001038
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda Gloo Wall Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains Gloo Wall Plan Bermuda, Pet Skin: Ottero Heist and Emote: Make It Rain
+IMAGEN: ROPA/imagenes/400001038.png

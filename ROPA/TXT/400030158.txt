@@ -1,0 +1,8 @@
+ITEM ID: 400030158
+ICON ID: Icon_box_3
+NOMBRE: Katana dtac
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400030158.png

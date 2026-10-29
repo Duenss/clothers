@@ -1,0 +1,8 @@
+ITEM ID: 205034040
+ICON ID: Icon_avatar_male_cos_shoe_angel_bw
+NOMBRE: Heavenly Shoes (M)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205034040.png

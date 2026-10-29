@@ -1,0 +1,8 @@
+ITEM ID: 400000174
+ICON ID: Icon_box_special
+NOMBRE: Astronaut Pack
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Chance to get pieces from the Astronaut set and other rewards (All fashion obtained are permanent)
+IMAGEN: CAJAS/imagenes/400000174.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104832
+ICON ID: Icon_FAMAS_CSRank30
+NOMBRE: FAMAS - S30 Exclusive: Firefly
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: CS-Ranked S30 Reward
+IMAGEN: ARMAS/imagenes/907104832.png

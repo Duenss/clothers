@@ -1,0 +1,8 @@
+ITEM ID: 710043128
+ICON ID: FF_UI_Voiceitem_MEME43
+NOMBRE: Community Memes
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: The most popular phrases in the community
+IMAGEN: MUSICA/imagenes/710043128.png

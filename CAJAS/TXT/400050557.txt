@@ -1,0 +1,8 @@
+ITEM ID: 400050557
+ICON ID: Icon_box_SSFB1_TH_50
+NOMBRE: Style Starter Fashion Box 3
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050557.png

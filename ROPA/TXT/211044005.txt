@@ -1,0 +1,8 @@
+ITEM ID: 211044005
+ICON ID: Icon_avatar_female_cos_hair_fragment
+NOMBRE: Duskbreaker (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044005.png

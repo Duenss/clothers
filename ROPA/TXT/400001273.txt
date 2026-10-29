@@ -1,0 +1,8 @@
+ITEM ID: 400001273
+ICON ID: Icon_box_3
+NOMBRE: FF x Time
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: It's Free Fire Time!!
+IMAGEN: ROPA/imagenes/400001273.png

@@ -1,0 +1,8 @@
+ITEM ID: 400027092
+ICON ID: Icon_box_3
+NOMBRE: Mr. Death Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Mr. Death and all its pieces
+IMAGEN: ROPA/imagenes/400027092.png

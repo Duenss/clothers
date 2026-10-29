@@ -1,0 +1,8 @@
+ITEM ID: 204043015
+ICON ID: Icon_avatar_male_cos_bottom_colorfest24
+NOMBRE: Chroma Flare (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043015.png

@@ -1,0 +1,8 @@
+ITEM ID: 203033055
+ICON ID: Icon_avatar_cos_top_boyband
+NOMBRE: Purple Dazzle T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033055.png

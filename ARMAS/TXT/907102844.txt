@@ -1,0 +1,8 @@
+ITEM ID: 907102844
+ICON ID: Icon_Redsmoke_Grenade
+NOMBRE: Smoke Grenade - Red Devil
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102844.png

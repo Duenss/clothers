@@ -1,0 +1,8 @@
+ITEM ID: 801038002
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gory Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038002.png

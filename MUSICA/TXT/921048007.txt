@@ -1,0 +1,8 @@
+ITEM ID: 921048007
+ICON ID: FF_UI_Voiceitem_TH48Tar
+NOMBRE: It's about to go down
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Tar Voice Pack
+IMAGEN: MUSICA/imagenes/921048007.png

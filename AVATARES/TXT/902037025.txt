@@ -1,0 +1,8 @@
+ITEM ID: 902037025
+ICON ID: Icon_face_FFWS_TW
+NOMBRE: LGDS Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902037025.png

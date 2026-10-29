@@ -1,0 +1,8 @@
+ITEM ID: 801000731
+ICON ID: Icon_exchange_ob25_emote_token
+NOMBRE: Emote Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Go get your Emote
+IMAGEN: CAJAS/imagenes/801000731.png

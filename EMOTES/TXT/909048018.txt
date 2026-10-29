@@ -1,0 +1,8 @@
+ITEM ID: 909048018
+ICON ID: Icon_Emote_SG_Rocky
+NOMBRE: Bailalo Rocky
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048018.png

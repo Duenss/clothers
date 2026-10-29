@@ -1,0 +1,8 @@
+ITEM ID: 902038003
+ICON ID: Icon_face_Cybermech_BP
+NOMBRE: Qualia Wave Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038003.png

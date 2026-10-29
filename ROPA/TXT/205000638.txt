@@ -1,0 +1,8 @@
+ITEM ID: 205000638
+ICON ID: Icon_avatar_male_shoe_cos_hype_red
+NOMBRE: Crimson Parkour (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000638.png

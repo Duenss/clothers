@@ -1,0 +1,8 @@
+ITEM ID: 211000005
+ICON ID: Icon_Avatar_hair_cos_PatrolCap_black
+NOMBRE: Soldier Cap
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000005.png

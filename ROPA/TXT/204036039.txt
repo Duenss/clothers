@@ -1,0 +1,8 @@
+ITEM ID: 204036039
+ICON ID: Icon_avatar_male_cos_bottom_bartender
+NOMBRE: Bartender (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036039.png

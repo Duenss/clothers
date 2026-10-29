@@ -1,0 +1,8 @@
+ITEM ID: 907103421
+ICON ID: Icon_katana_Rampage4
+NOMBRE: Katana - Hybrid Explosion
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103421.png

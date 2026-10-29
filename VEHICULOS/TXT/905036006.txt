@@ -1,0 +1,8 @@
+ITEM ID: 905036006
+ICON ID: Icon_Avatar_PARACHUTE_Pattern
+NOMBRE: Parachute - Carpet Print
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905036006.png

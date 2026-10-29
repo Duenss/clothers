@@ -1,0 +1,8 @@
+ITEM ID: 801040006
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Spider Society Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801040006.png

@@ -1,0 +1,8 @@
+ITEM ID: 204048021
+ICON ID: Icon_avatar_female_cos_bottom_goldenthunder
+NOMBRE: Metro Flash (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048021.png

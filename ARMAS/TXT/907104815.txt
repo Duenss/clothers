@@ -1,0 +1,8 @@
+ITEM ID: 907104815
+ICON ID: Icon_M24_Monkeyboy
+NOMBRE: M24 - Scarlet Nimbus
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104815.png

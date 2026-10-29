@@ -1,0 +1,8 @@
+ITEM ID: 906000068
+ICON ID: Icon_Avatar_Surfboard_vampire_A
+NOMBRE: Skyboard - Blood Bat
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000068.png

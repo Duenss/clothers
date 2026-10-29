@@ -1,0 +1,8 @@
+ITEM ID: 203001168
+ICON ID: Icon_avatar_top_cos_trjersey
+NOMBRE: Striped Soccer Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001168.png

@@ -1,0 +1,8 @@
+ITEM ID: 905490093
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Runway Legend
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by completing the "You Are What Your Wear II" achievement
+IMAGEN: AVATARES/imagenes/905490093.png

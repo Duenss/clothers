@@ -1,0 +1,8 @@
+ITEM ID: 710030004
+ICON ID: FF_Icon_sc_MuertoGuy_deluxe
+NOMBRE: Otho's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: Contains Otho and his special outfit. When this outfit is equipped, Otho can display his special move on the spawn island. Also contains 900 Universal Fragments.
+IMAGEN: ROPA/imagenes/710030004.png

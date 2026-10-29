@@ -1,0 +1,8 @@
+ITEM ID: 211000902
+ICON ID: Icon_avatar_male_hair_cos_pairing
+NOMBRE: Dynamic Duo M (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000902.png

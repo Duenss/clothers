@@ -1,0 +1,8 @@
+ITEM ID: 909547001
+ICON ID: Icon_Emote_NB_Frog
+NOMBRE: Gamabunta Summoning
+TIPO: Super Emote
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909547001.png

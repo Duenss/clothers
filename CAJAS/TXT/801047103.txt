@@ -1,0 +1,8 @@
+ITEM ID: 801047103
+ICON ID: Icon_exchange_ntk3_47
+NOMBRE: Snake Sword Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047103.png

@@ -1,0 +1,8 @@
+ITEM ID: 921054003
+ICON ID: FF_UI_Voiceitem_Bloodmoon26Male
+NOMBRE: With you, I will never lose my way.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The Scarlet Howler voice pack
+IMAGEN: MUSICA/imagenes/921054003.png

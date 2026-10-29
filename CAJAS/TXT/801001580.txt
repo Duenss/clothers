@@ -1,0 +1,8 @@
+ITEM ID: 801001580
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Rose Voucher
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy Valentine's Day!
+IMAGEN: CAJAS/imagenes/801001580.png

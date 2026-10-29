@@ -1,0 +1,8 @@
+ITEM ID: 903055007
+ICON ID: Icon_Deadloot_Owlranger
+NOMBRE: Loot Box - Owl Tent
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903055007.png

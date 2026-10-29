@@ -1,0 +1,8 @@
+ITEM ID: 1310000068
+ICON ID: Icon_Pet_Robot_VNdrink
+NOMBRE: Pet Skin: Green Freeze Robo
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: One more bottle please!
+IMAGEN: MASCOTAS/imagenes/1310000068.png

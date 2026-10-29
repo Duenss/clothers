@@ -1,0 +1,8 @@
+ITEM ID: 902031002
+ICON ID: Icon_face_Alienpilot_B
+NOMBRE: Extraterrestrial Mind
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031002.png

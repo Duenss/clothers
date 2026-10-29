@@ -1,0 +1,8 @@
+ITEM ID: 211043022
+ICON ID: Icon_avatar_male_cos_hair_colorfest24
+NOMBRE: Chroma Flare (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043022.png

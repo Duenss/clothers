@@ -1,0 +1,8 @@
+ITEM ID: 710052006
+ICON ID: FF_UI_Voiceitem_IIV_01
+NOMBRE: Yuji Itadori Voice Pack
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Yuji Itadori Voice Pack
+IMAGEN: MUSICA/imagenes/710052006.png

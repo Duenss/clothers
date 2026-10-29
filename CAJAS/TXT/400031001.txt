@@ -1,0 +1,8 @@
+ITEM ID: 400031001
+ICON ID: Icon_face_male_sc_WinterGuy
+NOMBRE: Nairi's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive Memory Fragment (Nairi)
+IMAGEN: CAJAS/imagenes/400031001.png

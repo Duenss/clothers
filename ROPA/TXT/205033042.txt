@@ -1,0 +1,8 @@
+ITEM ID: 205033042
+ICON ID: Icon_avatar_cos_shoe_cubby_purple
+NOMBRE: Cuboot Stars
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205033042.png

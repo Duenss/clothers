@@ -1,0 +1,8 @@
+ITEM ID: 901000079
+ICON ID: Icon_callsign_storebg_rank6_04
+NOMBRE: Hero's Diamond
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000079.png

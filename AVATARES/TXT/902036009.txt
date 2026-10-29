@@ -1,0 +1,8 @@
+ITEM ID: 902036009
+ICON ID: Icon_face_Lightfest22
+NOMBRE: The Golden Tiger
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036009.png

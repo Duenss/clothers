@@ -1,0 +1,8 @@
+ITEM ID: 400001176
+ICON ID: Icon_box_3
+NOMBRE: Dragon Tattoo Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: I broke into the sky, turning into a dragon...
+IMAGEN: ROPA/imagenes/400001176.png

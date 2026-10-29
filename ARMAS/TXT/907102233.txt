@@ -1,0 +1,8 @@
+ITEM ID: 907102233
+ICON ID: Icon_Sushikiller_Grenade
+NOMBRE: Grenade - Sushi Menace
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102233.png

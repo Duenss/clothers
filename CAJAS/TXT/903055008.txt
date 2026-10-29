@@ -1,0 +1,8 @@
+ITEM ID: 903055008
+ICON ID: Icon_Deadloot_Scorpio26
+NOMBRE: Loot Box - Scorpio Record
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903055008.png

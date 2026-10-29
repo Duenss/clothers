@@ -1,0 +1,8 @@
+ITEM ID: 903047005
+ICON ID: Icon_Deadloot_Tailor
+NOMBRE: Loot Box - Sharp Stitches
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903047005.png

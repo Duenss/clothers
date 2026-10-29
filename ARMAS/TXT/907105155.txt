@@ -1,0 +1,8 @@
+ITEM ID: 907105155
+ICON ID: Icon_GlooShield_CC
+NOMBRE: Gloo Wall - Choppy Cuts
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105155.png

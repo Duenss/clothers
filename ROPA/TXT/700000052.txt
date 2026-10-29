@@ -1,0 +1,8 @@
+ITEM ID: 700000052
+ICON ID: FF_Icon_sc_paloma
+NOMBRE: Paloma's Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Paloma Arms Queen set.
+IMAGEN: ROPA/imagenes/700000052.png

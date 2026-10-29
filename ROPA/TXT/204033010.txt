@@ -1,0 +1,8 @@
+ITEM ID: 204033010
+ICON ID: Icon_avatar_cos_bottom_firephoenix_blue
+NOMBRE: Phoenix Zest (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033010.png

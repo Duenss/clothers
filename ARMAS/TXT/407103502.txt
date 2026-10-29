@@ -1,0 +1,8 @@
+ITEM ID: 407103502
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Paradise Defender (XM8 + Mini Uzi) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive a random gun skin (XM8 + Mini Uzi) from the Paradise Defender weapon set
+IMAGEN: ARMAS/imagenes/407103502.png

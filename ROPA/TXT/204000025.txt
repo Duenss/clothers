@@ -1,0 +1,8 @@
+ITEM ID: 204000025
+ICON ID: Icon_avatar_jeans_diy_003
+NOMBRE: Jeans (Stripe)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000025.png

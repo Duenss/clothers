@@ -1,0 +1,8 @@
+ITEM ID: 1310000013
+ICON ID: Icon_Pet_Irondog_Dog
+NOMBRE: Pet Skin: Full Steel Pup
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Body made out of iron, blood made out of flames.
+IMAGEN: MASCOTAS/imagenes/1310000013.png

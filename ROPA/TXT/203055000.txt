@@ -1,0 +1,8 @@
+ITEM ID: 203055000
+ICON ID: Icon_avatar_male_cos_top_wb_boy
+NOMBRE: Ben Tennyson Top
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055000.png

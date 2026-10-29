@@ -1,0 +1,8 @@
+ITEM ID: 801049533
+ICON ID: Icon_exchange_TFT_th_49
+NOMBRE: Team Falcons Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049533.png

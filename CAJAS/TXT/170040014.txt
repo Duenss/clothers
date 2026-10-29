@@ -1,0 +1,8 @@
+ITEM ID: 170040014
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Shotgun Choice Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Trending Gun Choice Box
+IMAGEN: CAJAS/imagenes/170040014.png

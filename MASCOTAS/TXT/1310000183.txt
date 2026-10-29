@@ -1,0 +1,8 @@
+ITEM ID: 1310000183
+ICON ID: Icon_Pet_Yeti_Green
+NOMBRE: Pet Skin: Tribal Yeti
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: When you see glowing green dots in the snow, you know you've found their tribe.
+IMAGEN: MASCOTAS/imagenes/1310000183.png

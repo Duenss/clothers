@@ -1,0 +1,8 @@
+ITEM ID: 913036008
+ICON ID: FF_UI_Vault_Music_MAX_PK
+NOMBRE: Troublemaker
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Double Trouble event spawn island music
+IMAGEN: MUSICA/imagenes/913036008.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000226
+ICON ID: Icon_avatar_hair_cos_easter_up
+NOMBRE: Chicken and Egg
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000226.png

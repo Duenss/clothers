@@ -1,0 +1,8 @@
+ITEM ID: 205050020
+ICON ID: Icon_avatar_male_cos_shoe_lineart
+NOMBRE: Line Art Pro (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050020.png

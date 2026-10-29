@@ -1,0 +1,8 @@
+ITEM ID: 205043005
+ICON ID: Icon_avatar_male_cos_shoe_asura
+NOMBRE: Wrathful Illusion (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043005.png

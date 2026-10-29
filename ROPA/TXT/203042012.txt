@@ -1,0 +1,8 @@
+ITEM ID: 203042012
+ICON ID: Icon_avatar_female_cos_top_smudge
+NOMBRE: Feline Fatale (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042012.png

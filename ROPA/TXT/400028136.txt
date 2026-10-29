@@ -1,0 +1,8 @@
+ITEM ID: 400028136
+ICON ID: Icon_box_3
+NOMBRE: Buff Mask Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains a plethora of Bandanas for your choosing
+IMAGEN: ROPA/imagenes/400028136.png

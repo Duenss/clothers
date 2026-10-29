@@ -1,0 +1,8 @@
+ITEM ID: 905034005
+ICON ID: Icon_Avatar_PARACHUTE_Wildfire_Skeleton
+NOMBRE: Parachute - Blazed Night
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905034005.png

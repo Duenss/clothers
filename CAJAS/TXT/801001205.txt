@@ -1,0 +1,8 @@
+ITEM ID: 801001205
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Golden Leaf Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Welcome to autumn!
+IMAGEN: CAJAS/imagenes/801001205.png

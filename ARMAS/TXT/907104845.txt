@@ -1,0 +1,8 @@
+ITEM ID: 907104845
+ICON ID: Icon_Rainforest_Free_Grenade
+NOMBRE: Grenade - Tropical Monster
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104845.png

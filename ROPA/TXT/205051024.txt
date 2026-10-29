@@ -1,0 +1,8 @@
+ITEM ID: 205051024
+ICON ID: Icon_avatar_male_cos_shoe_ffws25_free
+NOMBRE: FFWS Role Star (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051024.png

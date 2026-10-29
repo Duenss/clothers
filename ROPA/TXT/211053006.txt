@@ -1,0 +1,8 @@
+ITEM ID: 211053006
+ICON ID: Icon_avatar_cos_accessory_sh_eight
+NOMBRE: Shinpachi's Glasses
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053006.png

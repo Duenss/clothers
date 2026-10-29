@@ -1,0 +1,8 @@
+ITEM ID: 211001142
+ICON ID: Icon_avatar_cos_hair_zascarf
+NOMBRE: Bold Gold Scarf
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001142.png

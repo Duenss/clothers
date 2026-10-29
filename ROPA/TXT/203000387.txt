@@ -1,0 +1,8 @@
+ITEM ID: 203000387
+ICON ID: Icon_avatar_female_top_cos_beast
+NOMBRE: Fairy Princess (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000387.png

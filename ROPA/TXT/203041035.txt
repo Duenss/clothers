@@ -1,0 +1,8 @@
+ITEM ID: 203041035
+ICON ID: Icon_avatar_cos_top_football_eu03
+NOMBRE: Majestic Crown Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041035.png

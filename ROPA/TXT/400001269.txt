@@ -1,0 +1,8 @@
+ITEM ID: 400001269
+ICON ID: Icon_box_3
+NOMBRE: Winterlands Box II
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Celebrate the holidays!
+IMAGEN: ROPA/imagenes/400001269.png

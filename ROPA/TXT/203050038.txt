@@ -1,0 +1,8 @@
+ITEM ID: 203050038
+ICON ID: Icon_avatar_cos_top_brss25
+NOMBRE: Samsung Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050038.png

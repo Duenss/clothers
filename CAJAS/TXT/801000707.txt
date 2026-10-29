@@ -1,0 +1,8 @@
+ITEM ID: 801000707
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Sixteenth Note
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000707.png

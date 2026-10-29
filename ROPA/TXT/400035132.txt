@@ -1,0 +1,8 @@
+ITEM ID: 400035132
+ICON ID: Icon_box_3
+NOMBRE: Hoot Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains Pet Hoot and many other rewards
+IMAGEN: ROPA/imagenes/400035132.png

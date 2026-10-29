@@ -1,0 +1,8 @@
+ITEM ID: 203040017
+ICON ID: Icon_avatar_female_cos_top_fashionist2
+NOMBRE: Starlight Gal (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040017.png

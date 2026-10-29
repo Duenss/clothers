@@ -1,0 +1,8 @@
+ITEM ID: 901040008
+ICON ID: Icon_callsign_storebg_Festivalme_22
+NOMBRE: Bunny Leader Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901040008.png

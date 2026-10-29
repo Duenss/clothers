@@ -1,0 +1,8 @@
+ITEM ID: 203000079
+ICON ID: Icon_avatar_tshirt_week_006
+NOMBRE: SOLO SAT
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000079.png

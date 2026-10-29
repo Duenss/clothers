@@ -1,0 +1,8 @@
+ITEM ID: 203000115
+ICON ID: Icon_avatar_tshirt_easter_red
+NOMBRE: Easter Egg Hunt #1
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000115.png

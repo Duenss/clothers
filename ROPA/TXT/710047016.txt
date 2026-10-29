@@ -1,0 +1,8 @@
+ITEM ID: 710047016
+ICON ID: Icon_bundle_male_VNnewyear25_47
+NOMBRE: Auspicious Year Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB47
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710047016.png

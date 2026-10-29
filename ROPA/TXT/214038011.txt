@@ -1,0 +1,8 @@
+ITEM ID: 214038011
+ICON ID: Icon_avatar_cos_headadditive_goal
+NOMBRE: Achiever Tattoo
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214038011.png

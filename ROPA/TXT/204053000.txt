@@ -1,0 +1,8 @@
+ITEM ID: 204053000
+ICON ID: Icon_avatar_male_cos_bottom_sh_white
+NOMBRE: Gintoki Sakata Bottom
+TIPO: Bottom
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053000.png

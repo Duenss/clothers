@@ -1,0 +1,8 @@
+ITEM ID: 203041019
+ICON ID: Icon_avatar_male_cos_top_inkpainting
+NOMBRE: Ink Stroke (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203041019.png

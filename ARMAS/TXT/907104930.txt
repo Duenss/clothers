@@ -1,0 +1,8 @@
+ITEM ID: 907104930
+ICON ID: Icon_Fist_Wrestling
+NOMBRE: Fist - Brass Knuckles
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104930.png

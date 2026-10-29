@@ -1,0 +1,8 @@
+ITEM ID: 204043019
+ICON ID: Icon_avatar_cos_bottom_waterfest24
+NOMBRE: Black, White, Meow (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204043019.png

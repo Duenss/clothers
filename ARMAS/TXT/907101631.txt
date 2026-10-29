@@ -1,0 +1,8 @@
+ITEM ID: 907101631
+ICON ID: Icon_Water_Grenade
+NOMBRE: Ice Bomb
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB16
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101631.png

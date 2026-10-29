@@ -1,0 +1,8 @@
+ITEM ID: 203053012
+ICON ID: Icon_avatar_female_cos_top_bluetears
+NOMBRE: Undersea Beauty (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053012.png

@@ -1,0 +1,8 @@
+ITEM ID: 909852005
+ICON ID: FF_UI_Vault_Icon_FinishMove_NB_Black
+NOMBRE: Flamed Slash
+TIPO: Finishing Move
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909852005.png

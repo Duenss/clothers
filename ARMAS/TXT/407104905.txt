@@ -1,0 +1,8 @@
+ITEM ID: 407104905
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Sharp Tactician (USP + USP-2) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive a random gun skin (USP + USP-2) from the Sharp Tactician set
+IMAGEN: ARMAS/imagenes/407104905.png

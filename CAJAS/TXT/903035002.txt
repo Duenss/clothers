@@ -1,0 +1,8 @@
+ITEM ID: 903035002
+ICON ID: Icon_Deadloot_Deepseasharks
+NOMBRE: Loot Box - Metal Jaws
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903035002.png

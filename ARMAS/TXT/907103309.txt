@@ -1,0 +1,8 @@
+ITEM ID: 907103309
+ICON ID: Icon_SPAS12_Cyberopera
+NOMBRE: SPAS12 - Neon Opera
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103309.png

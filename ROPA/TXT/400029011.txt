@@ -1,0 +1,8 @@
+ITEM ID: 400029011
+ICON ID: Icon_box_3
+NOMBRE: Thiva Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Chance to get Character - Thiva!
+IMAGEN: ROPA/imagenes/400029011.png

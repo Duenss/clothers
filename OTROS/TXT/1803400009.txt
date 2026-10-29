@@ -1,0 +1,8 @@
+ITEM ID: 1803400009
+ICON ID: Icon_HyperBook_Cityhero
+NOMBRE: Midnight
+TIPO: Hyper Book
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: A mystic book with sealed powers in its pages.
+IMAGEN: OTROS/imagenes/1803400009.png

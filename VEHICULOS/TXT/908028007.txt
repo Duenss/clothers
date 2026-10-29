@@ -1,0 +1,8 @@
+ITEM ID: 908028007
+ICON ID: Icon_slot_MonsterTruck_Foursymbols
+NOMBRE: Monster Truck - Sabertooth
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028007.png

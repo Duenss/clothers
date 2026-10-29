@@ -1,0 +1,8 @@
+ITEM ID: 921051024
+ICON ID: FF_UI_Voiceitem_US51
+NOMBRE: Careful with the Yeti
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Happy Holidays! 2025 Voice Pack
+IMAGEN: MUSICA/imagenes/921051024.png

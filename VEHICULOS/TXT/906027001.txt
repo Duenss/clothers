@@ -1,0 +1,8 @@
+ITEM ID: 906027001
+ICON ID: Icon_Avatar_Surfboard_Crystalslipper
+NOMBRE: Skyboard - Crystal Heels
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906027001.png

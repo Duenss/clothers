@@ -1,0 +1,8 @@
+ITEM ID: 907104935
+ICON ID: Icon_TVman_Grenade
+NOMBRE: Grenade - Telly Boom
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104935.png

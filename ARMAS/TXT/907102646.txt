@@ -1,0 +1,8 @@
+ITEM ID: 907102646
+ICON ID: Icon_GlooShield_Cola
+NOMBRE: Gloo Wall - Hayato the Guardian
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102646.png

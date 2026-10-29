@@ -1,0 +1,8 @@
+ITEM ID: 819041001
+ICON ID: FF_UI_VFX_Fisherman_01
+NOMBRE: Using Med Kit Effect (Fishing Frenzy)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: Special effects when using a Med Kit while wearing the Fishing Frenzy themed bottom.
+IMAGEN: CAJAS/imagenes/819041001.png

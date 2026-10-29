@@ -1,0 +1,8 @@
+ITEM ID: 906042002
+ICON ID: Icon_Avatar_Surfboard_Voltage
+NOMBRE: Skyboard - Electric
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906042002.png

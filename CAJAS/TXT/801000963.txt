@@ -1,0 +1,8 @@
+ITEM ID: 801000963
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Green City Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: The most beautiful in the land
+IMAGEN: CAJAS/imagenes/801000963.png

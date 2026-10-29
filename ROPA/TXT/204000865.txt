@@ -1,0 +1,8 @@
+ITEM ID: 204000865
+ICON ID: Icon_avatar_cos_bottom_electronic_green
+NOMBRE: Tornado Bolt (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000865.png

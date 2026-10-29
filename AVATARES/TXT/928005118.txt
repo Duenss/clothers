@@ -1,0 +1,8 @@
+ITEM ID: 928005118
+ICON ID: Icon_GroupPhoto_Birthdaycele_icon
+NOMBRE: Birthday Star
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Birthday Star
+IMAGEN: AVATARES/imagenes/928005118.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000637
+ICON ID: Icon_EAP_Bundle_package
+NOMBRE: Voucher Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Battle in style!
+IMAGEN: ROPA/imagenes/700000637.png

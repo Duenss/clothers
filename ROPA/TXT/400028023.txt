@@ -1,0 +1,8 @@
+ITEM ID: 400028023
+ICON ID: Icon_box_3
+NOMBRE: Quindim Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Festa Junina
+IMAGEN: ROPA/imagenes/400028023.png

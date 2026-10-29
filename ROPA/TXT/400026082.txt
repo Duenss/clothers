@@ -1,0 +1,8 @@
+ITEM ID: 400026082
+ICON ID: Icon_box_3
+NOMBRE: Captain Bubbles Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Captain Bubbles and all its pieces
+IMAGEN: ROPA/imagenes/400026082.png

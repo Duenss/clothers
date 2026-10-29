@@ -1,0 +1,8 @@
+ITEM ID: 913040004
+ICON ID: FF_UI_Vault_Music_lobby_original
+NOMBRE: Free Fire Lobby: Original
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Free Fire original lobby music
+IMAGEN: MUSICA/imagenes/913040004.png

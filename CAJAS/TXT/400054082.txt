@@ -1,0 +1,8 @@
+ITEM ID: 400054082
+ICON ID: Icon_box_Bloodmoon26Event2_54
+NOMBRE: Scarlet Night Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054082.png

@@ -1,0 +1,8 @@
+ITEM ID: 203035017
+ICON ID: Icon_avatar_cos_top_chameleon_sliver
+NOMBRE: Guerilla Carnizard (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035017.png

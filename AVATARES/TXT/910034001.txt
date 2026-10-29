@@ -1,0 +1,8 @@
+ITEM ID: 910034001
+ICON ID: Pin_Small_Rampage4
+NOMBRE: Thunder Blaze Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910034001.png

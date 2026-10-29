@@ -1,0 +1,8 @@
+ITEM ID: 921047018
+ICON ID: FF_UI_Voiceitem_BD47
+NOMBRE: Mama, tumi to sera!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Appreciating teammates
+IMAGEN: MUSICA/imagenes/921047018.png

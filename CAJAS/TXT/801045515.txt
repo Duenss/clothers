@@ -1,0 +1,8 @@
+ITEM ID: 801045515
+ICON ID: Icon_exchange_Lcollection_th_45
+NOMBRE: Lucky Collection Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB45
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801045515.png

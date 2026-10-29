@@ -1,0 +1,8 @@
+ITEM ID: 900000006
+ICON ID: Icon_slot_Jeep_Default
+NOMBRE: Default Jeep
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 4-seater with medium speed
+IMAGEN: OTROS/imagenes/900000006.png

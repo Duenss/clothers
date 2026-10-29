@@ -1,0 +1,8 @@
+ITEM ID: 907001718
+ICON ID: Icon_MP5_Playboy
+NOMBRE: MP5 - Old Fashioned
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001718.png

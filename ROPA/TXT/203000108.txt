@@ -1,0 +1,8 @@
+ITEM ID: 203000108
+ICON ID: Icon_avatar_tshirt_foolsday_white_2
+NOMBRE: My Dear Teammate (White) #2
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000108.png

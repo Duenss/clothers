@@ -1,0 +1,8 @@
+ITEM ID: 400038018
+ICON ID: Icon_box_alligator_2_38
+NOMBRE: BP S2 Deluxe Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400038018.png

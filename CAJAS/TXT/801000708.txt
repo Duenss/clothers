@@ -1,0 +1,8 @@
+ITEM ID: 801000708
+ICON ID: Icon_exchange_ob25_dragon_tattoo
+NOMBRE: Dragon Tattoo
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000708.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103914
+ICON ID: Icon_G36_Burning
+NOMBRE: G36 - Fiery Fantasy
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103914.png

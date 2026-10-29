@@ -1,0 +1,8 @@
+ITEM ID: 801000727
+ICON ID: Icon_exchange_ob25_new_year_token
+NOMBRE: New Year Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Wish you a best year ever!
+IMAGEN: CAJAS/imagenes/801000727.png

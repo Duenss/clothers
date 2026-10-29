@@ -1,0 +1,8 @@
+ITEM ID: 907102105
+ICON ID: Icon_M1014_Goliath
+NOMBRE: M1014 - Attack on Titan
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102105.png

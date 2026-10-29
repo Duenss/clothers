@@ -1,0 +1,8 @@
+ITEM ID: 921048024
+ICON ID: FF_UI_Voiceitem_RUOK
+NOMBRE: I don't know, don't know x3
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: RUOK Voice Pack
+IMAGEN: MUSICA/imagenes/921048024.png

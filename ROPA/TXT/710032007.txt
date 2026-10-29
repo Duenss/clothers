@@ -1,0 +1,8 @@
+ITEM ID: 710032007
+ICON ID: Icon_bundle_male_Inkbrush_32
+NOMBRE: Brushtail Duke Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB32
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710032007.png

@@ -1,0 +1,8 @@
+ITEM ID: 205000017
+ICON ID: Icon_avatar_male_suit_shoes_001_3
+NOMBRE: Maroon Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000017.png

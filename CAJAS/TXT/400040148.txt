@@ -1,0 +1,8 @@
+ITEM ID: 400040148
+ICON ID: Icon_box_Evo_gun_MP40_40
+NOMBRE: Chromasonic MP40 Token Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400040148.png

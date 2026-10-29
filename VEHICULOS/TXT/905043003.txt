@@ -1,0 +1,8 @@
+ITEM ID: 905043003
+ICON ID: Icon_Avatar_PARACHUTE_CSRank23
+NOMBRE: Parachute - S23 Exclusive: Crystal
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905043003.png

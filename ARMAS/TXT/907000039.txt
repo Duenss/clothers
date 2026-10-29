@@ -1,0 +1,8 @@
+ITEM ID: 907000039
+ICON ID: Icon_M1014_Circus_T1
+NOMBRE: Underground Howl
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000039.png

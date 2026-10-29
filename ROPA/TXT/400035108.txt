@@ -1,0 +1,8 @@
+ITEM ID: 400035108
+ICON ID: Icon_box_3
+NOMBRE: Wavebreaker Kaze Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: Contains Wavebreaker Kaze and all its pieces
+IMAGEN: ROPA/imagenes/400035108.png

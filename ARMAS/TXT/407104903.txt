@@ -1,0 +1,8 @@
+ITEM ID: 407104903
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Tiger Boxer (VSS + M1873) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive a random gun skin (VSS + M1873) from the Tiger Boxer set
+IMAGEN: ARMAS/imagenes/407104903.png

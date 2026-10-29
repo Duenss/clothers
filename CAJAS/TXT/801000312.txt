@@ -1,0 +1,8 @@
+ITEM ID: 801000312
+ICON ID: Icon_exchange_nuclear_raw
+NOMBRE: Radioactive Waste
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000312.png

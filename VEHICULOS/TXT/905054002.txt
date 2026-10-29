@@ -1,0 +1,8 @@
+ITEM ID: 905054002
+ICON ID: Icon_Avatar_PARACHUTE_Denim_UD
+NOMBRE: Parachute - Denim Flipset
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905054002.png

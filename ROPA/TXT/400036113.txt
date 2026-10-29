@@ -1,0 +1,8 @@
+ITEM ID: 400036113
+ICON ID: Icon_box_3
+NOMBRE: Fortune Telling Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400036113.png

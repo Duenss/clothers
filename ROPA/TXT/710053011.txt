@@ -1,0 +1,8 @@
+ITEM ID: 710053011
+ICON ID: Icon_bundle_Eclipse_Moon_53
+NOMBRE: Lunar Eclipse Bundle
+TIPO: Bundles
+RAREZA: RED (Artifact)
+TAG: OB53
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710053011.png

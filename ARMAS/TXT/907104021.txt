@@ -1,0 +1,8 @@
+ITEM ID: 907104021
+ICON ID: Icon_USP45_CSRank19
+NOMBRE: The Golden USP-2
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104021.png

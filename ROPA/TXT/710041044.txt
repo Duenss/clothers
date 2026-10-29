@@ -1,0 +1,8 @@
+ITEM ID: 710041044
+ICON ID: Icon_box_3
+NOMBRE: Evo Gun Token Random Pack
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710041044.png

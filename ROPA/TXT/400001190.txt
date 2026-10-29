@@ -1,0 +1,8 @@
+ITEM ID: 400001190
+ICON ID: Icon_box_3
+NOMBRE: FFL Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Thank you for supporting Free Fire League!
+IMAGEN: ROPA/imagenes/400001190.png

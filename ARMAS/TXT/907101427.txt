@@ -1,0 +1,8 @@
+ITEM ID: 907101427
+ICON ID: Icon_Easter_Grenade
+NOMBRE: Egg Grenade
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101427.png

@@ -1,0 +1,8 @@
+ITEM ID: 903039004
+ICON ID: Icon_Deadloot_Scarlet
+NOMBRE: Loot Box - Scorpio Core
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903039004.png

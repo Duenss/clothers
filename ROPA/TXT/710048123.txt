@@ -1,0 +1,8 @@
+ITEM ID: 710048123
+ICON ID: Icon_bundle_Football25_IDRed
+NOMBRE: Home Timnas Jersey Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/710048123.png

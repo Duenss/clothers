@@ -1,0 +1,8 @@
+ITEM ID: 205045003
+ICON ID: Icon_avatar_female_cos_shoe_leo
+NOMBRE: Leo Gut (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205045003.png

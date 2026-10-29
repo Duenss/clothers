@@ -1,0 +1,8 @@
+ITEM ID: 904029004
+ICON ID: Icon_Bag_Matryoshka
+NOMBRE: Backpack - Moco Doll
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904029004.png

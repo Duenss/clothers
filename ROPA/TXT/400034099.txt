@@ -1,0 +1,8 @@
+ITEM ID: 400034099
+ICON ID: Icon_box_3
+NOMBRE: Shark Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Pet Finn and many other rewards
+IMAGEN: ROPA/imagenes/400034099.png

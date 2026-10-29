@@ -1,0 +1,8 @@
+ITEM ID: 710034007
+ICON ID: Icon_bundle_female_cyberwasp_34
+NOMBRE: Cyborg Piercer Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710034007.png

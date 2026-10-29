@@ -1,0 +1,8 @@
+ITEM ID: 203000312
+ICON ID: Icon_avatar_cos_nyaruko
+NOMBRE: Mr. Squido
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000312.png

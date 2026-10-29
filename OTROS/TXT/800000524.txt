@@ -1,0 +1,8 @@
+ITEM ID: 800000524
+ICON ID: Icon_WSM_M60_Dreamland
+NOMBRE: M60 - Dreambreaker Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the M60 skin. Obtain from events or buy directly from Store.
+IMAGEN: OTROS/imagenes/800000524.png

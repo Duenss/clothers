@@ -1,0 +1,8 @@
+ITEM ID: 205000005
+ICON ID: Icon_avatar_shoes_1
+NOMBRE: Sneakers (White)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000005.png

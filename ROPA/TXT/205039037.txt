@@ -1,0 +1,8 @@
+ITEM ID: 205039037
+ICON ID: Icon_avatar_male_cos_shoe_scarlet_yellow
+NOMBRE: Scorching Scorpio (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039037.png

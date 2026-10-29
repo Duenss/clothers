@@ -1,0 +1,8 @@
+ITEM ID: 801044527
+ICON ID: Icon_exchange_Final_exam_th_44
+NOMBRE: Final Exam Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044527.png

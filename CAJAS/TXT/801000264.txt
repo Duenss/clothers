@@ -1,0 +1,8 @@
+ITEM ID: 801000264
+ICON ID: Icon_exchange_New_Version_Token
+NOMBRE: New Version Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: New Version. New Start!
+IMAGEN: CAJAS/imagenes/801000264.png

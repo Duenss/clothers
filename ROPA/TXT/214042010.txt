@@ -1,0 +1,8 @@
+ITEM ID: 214042010
+ICON ID: Icon_avatar_male_cos_headadditive_blazing
+NOMBRE: Fiery Radiance (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214042010.png

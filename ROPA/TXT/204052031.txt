@@ -1,0 +1,8 @@
+ITEM ID: 204052031
+ICON ID: Icon_avatar_male_cos_bottom_eggday26
+NOMBRE: Sea Monster (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052031.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104941
+ICON ID: Icon_GlooShield_Prison25
+NOMBRE: Gloo Wall - Striped Swag
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104941.png

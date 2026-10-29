@@ -1,0 +1,8 @@
+ITEM ID: 907101619
+ICON ID: Icon_FAMS_Blackwidowdarkblue
+NOMBRE: FAMAS - Black Widow Lightning
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB16
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101619.png

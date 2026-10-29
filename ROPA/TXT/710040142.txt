@@ -1,0 +1,8 @@
+ITEM ID: 710040142
+ICON ID: Icon_box_3
+NOMBRE: CS-Ranked Master Profile Bundle
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Open to receive the exclusive avatar and banner for CS-Ranked Master
+IMAGEN: ROPA/imagenes/710040142.png

@@ -1,0 +1,8 @@
+ITEM ID: 928005114
+ICON ID: Icon_GroupPhoto_Bigsnowball_icon
+NOMBRE: Build A Snowman
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Build A Snowman
+IMAGEN: AVATARES/imagenes/928005114.png

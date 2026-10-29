@@ -1,0 +1,8 @@
+ITEM ID: 903031005
+ICON ID: Icon_Deadloot_Origami
+NOMBRE: Loot Box - Swan Embrace
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903031005.png

@@ -1,0 +1,8 @@
+ITEM ID: 211041056
+ICON ID: Icon_avatar_male_cos_hair_ds_soundman
+NOMBRE: Tengen's Headpiece
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041056.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104402
+ICON ID: Icon_Thompson_Fragment
+NOMBRE: Thompson - Daybreaker
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104402.png

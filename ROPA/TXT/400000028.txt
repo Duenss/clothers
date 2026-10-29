@@ -1,0 +1,8 @@
+ITEM ID: 400000028
+ICON ID: Icon_box_3
+NOMBRE: Jersey Bundle C
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random permanent pair of shorts. You will not receive duplicates, so collect them all!
+IMAGEN: ROPA/imagenes/400000028.png

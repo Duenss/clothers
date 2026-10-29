@@ -1,0 +1,8 @@
+ITEM ID: 801001134
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Patch Medal Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Soldiering through!
+IMAGEN: CAJAS/imagenes/801001134.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000810
+ICON ID: Icon_avatar_male_cos_bottom_musicfest_pants
+NOMBRE: Amplified Bassrock (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000810.png

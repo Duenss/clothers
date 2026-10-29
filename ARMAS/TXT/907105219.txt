@@ -1,0 +1,8 @@
+ITEM ID: 907105219
+ICON ID: Icon_XM8_Rank50
+NOMBRE: XM8 - S50 Exclusive: Voyager
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: BR-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105219.png

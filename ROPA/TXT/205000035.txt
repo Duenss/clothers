@@ -1,0 +1,8 @@
+ITEM ID: 205000035
+ICON ID: Icon_avatar_founder_shoes_1
+NOMBRE: Swifts
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000035.png

@@ -1,0 +1,8 @@
+ITEM ID: 770000004
+ICON ID: Icon_box_3
+NOMBRE: Daily Bonus Reward
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: AUG - Cosmic Teleportia
+IMAGEN: ROPA/imagenes/770000004.png

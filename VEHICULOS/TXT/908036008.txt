@@ -1,0 +1,8 @@
+ITEM ID: 908036008
+ICON ID: Icon_slot_Roadster_BDK
+NOMBRE: Sports Car - Speed Acer
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908036008.png

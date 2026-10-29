@@ -1,0 +1,8 @@
+ITEM ID: 710033013
+ICON ID: Icon_bundle_Firephoenix_Blue_33
+NOMBRE: Phoenix Zest Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710033013.png

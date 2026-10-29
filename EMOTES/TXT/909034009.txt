@@ -1,0 +1,8 @@
+ITEM ID: 909034009
+ICON ID: Icon_Emote_Rhythmgirl
+NOMBRE: Twerk
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909034009.png

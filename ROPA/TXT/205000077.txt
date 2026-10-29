@@ -1,0 +1,8 @@
+ITEM ID: 205000077
+ICON ID: Icon_avatar_leathershoe_bullock
+NOMBRE: Bullock shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000077.png

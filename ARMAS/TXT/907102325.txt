@@ -1,0 +1,8 @@
+ITEM ID: 907102325
+ICON ID: Icon_Nuclear_Imperialegypt
+NOMBRE: Grenade - Anubis Legend II
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102325.png

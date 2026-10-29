@@ -1,0 +1,8 @@
+ITEM ID: 710000573
+ICON ID: FF_Icon_sc_Kelly_AwakeningPackage
+NOMBRE: Kelly "the Swift" 's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Kelly "the Swift" and her special outfit. When this outfit is equipped, Kelly "the Swift" can display her special move on the starting island
+IMAGEN: ROPA/imagenes/710000573.png

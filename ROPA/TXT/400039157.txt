@@ -1,0 +1,8 @@
+ITEM ID: 400039157
+ICON ID: Icon_box_3
+NOMBRE: AWM Special Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Contains AWM gun skins
+IMAGEN: ROPA/imagenes/400039157.png

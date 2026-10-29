@@ -1,0 +1,8 @@
+ITEM ID: 801000935
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Apple Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Our partner in fun
+IMAGEN: CAJAS/imagenes/801000935.png

@@ -1,0 +1,8 @@
+ITEM ID: 500000007
+ICON ID: Icon_Treasuremap
+NOMBRE: Secret Clue
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A treasure map left behind by a secret organization. It has different effects in Battle Royale and Clash Squad.
+IMAGEN: OTROS/imagenes/500000007.png

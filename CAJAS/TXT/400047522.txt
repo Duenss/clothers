@@ -1,0 +1,8 @@
+ITEM ID: 400047522
+ICON ID: Icon_box_CDB_TH_47
+NOMBRE: Children' Day Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047522.png

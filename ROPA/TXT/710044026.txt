@@ -1,0 +1,8 @@
+ITEM ID: 710044026
+ICON ID: Icon_bundle_male_Sport_TH_44
+NOMBRE: Gym Uniform Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710044026.png

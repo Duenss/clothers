@@ -1,0 +1,8 @@
+ITEM ID: 801049008
+ICON ID: Icon_exchange_Wrestling1_49
+NOMBRE: Tiger Wrestler Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049008.png

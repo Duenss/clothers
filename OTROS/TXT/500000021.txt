@@ -1,0 +1,8 @@
+ITEM ID: 500000021
+ICON ID: Icon_ff_PlayCard_Supplies
+NOMBRE: Super Leg Pockets Play Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use Super Leg Pockets loadout with this card
+IMAGEN: OTROS/imagenes/500000021.png

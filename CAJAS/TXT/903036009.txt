@@ -1,0 +1,8 @@
+ITEM ID: 903036009
+ICON ID: Icon_Deadloot_Sugarskull22
+NOMBRE: Loot Box - Altar of the Dead
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903036009.png

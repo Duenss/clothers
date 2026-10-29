@@ -1,0 +1,8 @@
+ITEM ID: 801001327
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Sorcerer Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Reality is only a description
+IMAGEN: CAJAS/imagenes/801001327.png

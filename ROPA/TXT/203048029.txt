@@ -1,0 +1,8 @@
+ITEM ID: 203048029
+ICON ID: Icon_avatar_female_cos_top_blackdress
+NOMBRE: Antimatter (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048029.png

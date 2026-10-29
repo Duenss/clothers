@@ -1,0 +1,8 @@
+ITEM ID: 400000122
+ICON ID: Icon_box_special
+NOMBRE: Activity Event Reward Box 1
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this loot crate to win exciting rewards.
+IMAGEN: CAJAS/imagenes/400000122.png

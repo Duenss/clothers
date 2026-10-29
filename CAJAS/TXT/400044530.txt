@@ -1,0 +1,8 @@
+ITEM ID: 400044530
+ICON ID: Icon_box_Elite_Fashion_TH_44
+NOMBRE: Elite Fashion Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044530.png

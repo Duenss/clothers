@@ -1,0 +1,8 @@
+ITEM ID: 407103701
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cannibal Crush (AC80 + AUG) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (AC80 + AUG) from the Cannibal Crush weapon set
+IMAGEN: ARMAS/imagenes/407103701.png

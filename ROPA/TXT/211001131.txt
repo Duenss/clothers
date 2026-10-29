@@ -1,0 +1,8 @@
+ITEM ID: 211001131
+ICON ID: Icon_avatar_male_cos_hair_lightfest_prince
+NOMBRE: Warrior Prince (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001131.png

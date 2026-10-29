@@ -1,0 +1,8 @@
+ITEM ID: 907105508
+ICON ID: Icon_M1216_Cat26
+NOMBRE: Trogon - Kittensitter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105508.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000958
+ICON ID: Icon_avatar_male_cos_bottom_blackangel
+NOMBRE: Fierce Demilord (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000958.png

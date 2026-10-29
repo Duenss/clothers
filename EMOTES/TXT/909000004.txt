@@ -1,0 +1,8 @@
+ITEM ID: 909000004
+ICON ID: Icon_Emote_Clap
+NOMBRE: Applause
+TIPO: Emote
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000004.png

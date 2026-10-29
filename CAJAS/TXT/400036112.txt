@@ -1,0 +1,8 @@
+ITEM ID: 400036112
+ICON ID: Icon_box_Room_card_US_ES_36
+NOMBRE: Room Card Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400036112.png

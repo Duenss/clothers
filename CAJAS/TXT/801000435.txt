@@ -1,0 +1,8 @@
+ITEM ID: 801000435
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Black Cube
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Ever dark, ever mysterious, what secret lies behind it?
+IMAGEN: CAJAS/imagenes/801000435.png

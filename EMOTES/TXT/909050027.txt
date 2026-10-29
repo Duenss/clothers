@@ -1,0 +1,8 @@
+ITEM ID: 909050027
+ICON ID: Icon_Emote_Boatdance_Head_Move
+NOMBRE: Boat Race Aura
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909050027.png

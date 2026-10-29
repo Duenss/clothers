@@ -1,0 +1,8 @@
+ITEM ID: 203051060
+ICON ID: Icon_avatar_cos_top_football25_th
+NOMBRE: SEA Games Thailand Jersey (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051060.png

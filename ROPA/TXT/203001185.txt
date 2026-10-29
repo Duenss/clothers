@@ -1,0 +1,8 @@
+ITEM ID: 203001185
+ICON ID: Icon_avatar_male_top_cos_playingcard_a
+NOMBRE: Poker's Tyranny T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001185.png

@@ -1,0 +1,8 @@
+ITEM ID: 205000343
+ICON ID: Icon_avatar_male_shoe_cos_signaltroops
+NOMBRE: Storm Whisperer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000343.png

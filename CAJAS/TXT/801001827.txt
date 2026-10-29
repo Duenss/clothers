@@ -1,0 +1,8 @@
+ITEM ID: 801001827
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Youth Pledge Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Who said cute couldn't be deadly?
+IMAGEN: CAJAS/imagenes/801001827.png

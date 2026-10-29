@@ -1,0 +1,8 @@
+ITEM ID: 710037052
+ICON ID: Icon_bundle_Flyingcreature_1_37
+NOMBRE: Firemyth Arvon Pet Skin Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/710037052.png

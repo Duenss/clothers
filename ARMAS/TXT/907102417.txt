@@ -1,0 +1,8 @@
+ITEM ID: 907102417
+ICON ID: Icon_AWM_Booyahday
+NOMBRE: AWM - Booyah Day
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102417.png

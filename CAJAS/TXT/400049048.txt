@@ -1,0 +1,8 @@
+ITEM ID: 400049048
+ICON ID: Icon_box_PonyEvent2_49
+NOMBRE: Solara Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400049048.png

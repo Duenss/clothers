@@ -1,0 +1,8 @@
+ITEM ID: 211000112
+ICON ID: Icon_avatar_accessory_cos_dayofdead_C
+NOMBRE: Skeleton Magician Mask (Gold)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000112.png

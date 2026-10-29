@@ -1,0 +1,8 @@
+ITEM ID: 907195117
+ICON ID: Icon_M60_Dreamland_03
+NOMBRE: M60 - Dreambreaker
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907195117.png

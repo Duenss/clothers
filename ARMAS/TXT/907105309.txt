@@ -1,0 +1,8 @@
+ITEM ID: 907105309
+ICON ID: Icon_M1917_Worldcup25
+NOMBRE: M1917 - Goal Kick
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105309.png

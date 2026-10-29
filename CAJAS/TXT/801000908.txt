@@ -1,0 +1,8 @@
+ITEM ID: 801000908
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Wrench Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Labour Day 2021
+IMAGEN: CAJAS/imagenes/801000908.png

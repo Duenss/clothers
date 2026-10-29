@@ -1,0 +1,8 @@
+ITEM ID: 801000281
+ICON ID: Icon_exchange_Shield
+NOMBRE: President Cup Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Support Indonesia in President Cup Final 2020
+IMAGEN: CAJAS/imagenes/801000281.png

@@ -1,0 +1,8 @@
+ITEM ID: 907101531
+ICON ID: Icon_EP_SKS_Apocalypse
+NOMBRE: SKS - Death Wish
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101531.png

@@ -1,0 +1,8 @@
+ITEM ID: 903047006
+ICON ID: Icon_Deadloot_Express
+NOMBRE: Loot Box - Delivery Pal
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903047006.png

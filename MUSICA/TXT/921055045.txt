@@ -1,0 +1,8 @@
+ITEM ID: 921055045
+ICON ID: FF_UI_Voiceitem_GOKU55A
+NOMBRE: Hey, focus on your studies. Become an IAS officer or something.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Mirzapur Voice Pack 1
+IMAGEN: MUSICA/imagenes/921055045.png

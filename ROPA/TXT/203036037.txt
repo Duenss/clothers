@@ -1,0 +1,8 @@
+ITEM ID: 203036037
+ICON ID: Icon_avatar_cos_top_tshirt_frankenstein
+NOMBRE: Freaky Franky T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036037.png

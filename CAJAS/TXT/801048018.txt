@@ -1,0 +1,8 @@
+ITEM ID: 801048018
+ICON ID: Icon_exchange_Create_Sys_2_48
+NOMBRE: Purple Zone Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048018.png

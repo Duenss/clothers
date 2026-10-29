@@ -1,0 +1,8 @@
+ITEM ID: 211050038
+ICON ID: Icon_avatar_cos_hair_cloudyday_01
+NOMBRE: Brewing Thunder Hat
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050038.png

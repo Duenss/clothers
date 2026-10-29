@@ -1,0 +1,8 @@
+ITEM ID: 904050013
+ICON ID: Icon_Bag_FFWS_SF25
+NOMBRE: Backpack - FFWS 2025 Fall
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050013.png

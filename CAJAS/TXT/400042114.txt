@@ -1,0 +1,8 @@
+ITEM ID: 400042114
+ICON ID: Icon_box_Watcher_adv_42
+NOMBRE: BP S13 Deluxe Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042114.png

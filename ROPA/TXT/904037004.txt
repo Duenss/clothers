@@ -1,0 +1,8 @@
+ITEM ID: 904037004
+ICON ID: Icon_Bag_Angelik
+NOMBRE: Backpack - Deadly Angelic
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904037004.png

@@ -1,0 +1,8 @@
+ITEM ID: 905037003
+ICON ID: Icon_Avatar_PARACHUTE_Soccer22
+NOMBRE: Parachute - Magenta Football
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905037003.png

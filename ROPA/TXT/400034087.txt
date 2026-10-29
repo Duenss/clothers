@@ -1,0 +1,8 @@
+ITEM ID: 400034087
+ICON ID: Icon_box_3
+NOMBRE: Hypercore Blues Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Hypercore Blues and all its pieces
+IMAGEN: ROPA/imagenes/400034087.png

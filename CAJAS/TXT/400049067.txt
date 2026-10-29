@@ -1,0 +1,8 @@
+ITEM ID: 400049067
+ICON ID: Icon_box_EighthEvent1_49
+NOMBRE: Infinity Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400049067.png

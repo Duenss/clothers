@@ -1,0 +1,8 @@
+ITEM ID: 907102324
+ICON ID: Icon_Pan_Jumpsuit
+NOMBRE: Pan - Greatest Heist
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB23
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102324.png

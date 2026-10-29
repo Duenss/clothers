@@ -1,0 +1,8 @@
+ITEM ID: 203038064
+ICON ID: Icon_avatar_male_cos_top_pirate_new
+NOMBRE: Elite Captain's Order (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038064.png

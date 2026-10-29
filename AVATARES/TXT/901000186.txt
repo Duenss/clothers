@@ -1,0 +1,8 @@
+ITEM ID: 901000186
+ICON ID: Icon_callsign_storebg_Rank12_04
+NOMBRE: Season 12 Diamond Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000186.png

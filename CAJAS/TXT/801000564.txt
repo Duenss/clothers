@@ -1,0 +1,8 @@
+ITEM ID: 801000564
+ICON ID: Icon_exchange_ob23_back_to_school_token
+NOMBRE: Back to School Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000564.png

@@ -1,0 +1,8 @@
+ITEM ID: 211048046
+ICON ID: Icon_avatar_cos_hair_waterfest25
+NOMBRE: Sea Foam (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048046.png

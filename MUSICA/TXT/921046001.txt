@@ -1,0 +1,8 @@
+ITEM ID: 921046001
+ICON ID: FF_UI_Voiceitem_Booyahday24
+NOMBRE: Booyahahaha
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Event-exclusive voice pack
+IMAGEN: MUSICA/imagenes/921046001.png

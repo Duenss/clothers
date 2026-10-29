@@ -1,0 +1,8 @@
+ITEM ID: 211001008
+ICON ID: Icon_avatar_male_hair_cos_foursymbols_a
+NOMBRE: Azure Stormbringer (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001008.png

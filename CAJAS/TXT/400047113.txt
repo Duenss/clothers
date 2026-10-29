@@ -1,0 +1,8 @@
+ITEM ID: 400047113
+ICON ID: Icon_box_Nbx4_47
+NOMBRE: Ninjutsu Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047113.png

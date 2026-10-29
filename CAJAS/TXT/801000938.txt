@@ -1,0 +1,8 @@
+ITEM ID: 801000938
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: 30/04 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Art of Destruction
+IMAGEN: CAJAS/imagenes/801000938.png

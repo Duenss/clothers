@@ -1,0 +1,8 @@
+ITEM ID: 921050017
+ICON ID: FF_UI_Voiceitem_IH50
+NOMBRE: If you will eliminate 1, we will eliminate 4
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Sholay Voice Pack
+IMAGEN: MUSICA/imagenes/921050017.png

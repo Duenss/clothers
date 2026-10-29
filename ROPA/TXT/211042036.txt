@@ -1,0 +1,8 @@
+ITEM ID: 211042036
+ICON ID: Icon_avatar_cos_accessory_glass2024
+NOMBRE: The 2024 Glasses
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042036.png

@@ -1,0 +1,8 @@
+ITEM ID: 205000379
+ICON ID: Icon_avatar_female_shoe_sc_Kelly_Awakening
+NOMBRE: Kelly "the Swift" (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000379.png

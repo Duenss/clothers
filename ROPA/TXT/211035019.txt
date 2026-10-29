@@ -1,0 +1,8 @@
+ITEM ID: 211035019
+ICON ID: Icon_avatar_cos_hair_chameleon_red
+NOMBRE: Infernal Carnizard (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035019.png

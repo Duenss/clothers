@@ -1,0 +1,8 @@
+ITEM ID: 923043018
+ICON ID: FF_UI_Voiceitem_VALENTINE43
+NOMBRE: Love you baby
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923043018.png

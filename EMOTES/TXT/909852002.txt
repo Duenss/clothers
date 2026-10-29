@@ -1,0 +1,8 @@
+ITEM ID: 909852002
+ICON ID: FF_UI_Vault_Icon_FinishMove_Hannyamask
+NOMBRE: Inferno Strike
+TIPO: Finishing Move
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909852002.png

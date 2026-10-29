@@ -1,0 +1,8 @@
+ITEM ID: 801041016
+ICON ID: FF_UI_Designertoys_Token
+NOMBRE: BP S11 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801041016.png

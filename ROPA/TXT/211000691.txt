@@ -1,0 +1,8 @@
+ITEM ID: 211000691
+ICON ID: Icon_avatar_male_hair_cos_maxcap
+NOMBRE: MAX Cap (Male)
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000691.png

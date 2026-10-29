@@ -1,0 +1,8 @@
+ITEM ID: 801001296
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: 2021 End of Year Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Let's celebrate 2021!
+IMAGEN: CAJAS/imagenes/801001296.png

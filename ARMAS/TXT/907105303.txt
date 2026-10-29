@@ -1,0 +1,8 @@
+ITEM ID: 907105303
+ICON ID: Icon_Katana_Eclipse
+NOMBRE: Katana - Eclipse Sunflare
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105303.png

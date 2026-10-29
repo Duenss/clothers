@@ -1,0 +1,8 @@
+ITEM ID: 907103014
+ICON ID: Icon_Baseballbat_Darkdragon
+NOMBRE: Bat - Beastly Basher
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103014.png

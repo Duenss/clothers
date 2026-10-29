@@ -1,0 +1,8 @@
+ITEM ID: 907001518
+ICON ID: Icon_SCAR_FutureHell
+NOMBRE: SCAR - Inferno
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001518.png

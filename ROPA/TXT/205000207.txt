@@ -1,0 +1,8 @@
+ITEM ID: 205000207
+ICON ID: Icon_avatar_female_shoe_cos_bloodmoon_blue
+NOMBRE: Blue Moon (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000207.png

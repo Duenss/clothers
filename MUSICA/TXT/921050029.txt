@@ -1,0 +1,8 @@
+ITEM ID: 921050029
+ICON ID: FF_UI_Voiceitem_TH50P
+NOMBRE: You're really trying hard
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Phanthamit Voice Pack 2
+IMAGEN: MUSICA/imagenes/921050029.png

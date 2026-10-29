@@ -1,0 +1,8 @@
+ITEM ID: 1310000253
+ICON ID: Icon_Pet_Cactus_Yellow
+NOMBRE: Pet Skin: Palm Dream Kactus
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Sunshine and mango juice!
+IMAGEN: MASCOTAS/imagenes/1310000253.png

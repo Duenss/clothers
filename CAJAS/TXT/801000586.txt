@@ -1,0 +1,8 @@
+ITEM ID: 801000586
+ICON ID: Icon_exchange_ob23_school_bell_token
+NOMBRE: School Bell Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Let the School Days begin
+IMAGEN: CAJAS/imagenes/801000586.png

@@ -1,0 +1,8 @@
+ITEM ID: 203033023
+ICON ID: Icon_avatar_male_cos_top_fastbreaking22
+NOMBRE: Timbered Blooms (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033023.png

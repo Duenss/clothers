@@ -1,0 +1,8 @@
+ITEM ID: 905041002
+ICON ID: Icon_Avatar_PARACHUTE_Sugarskull23
+NOMBRE: Parachute - Neon Bones
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905041002.png

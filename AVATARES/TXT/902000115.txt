@@ -1,0 +1,8 @@
+ITEM ID: 902000115
+ICON ID: Icon_face_cny2019
+NOMBRE: Boar's Blessings
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000115.png

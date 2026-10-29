@@ -1,0 +1,8 @@
+ITEM ID: 808000057
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Bunny Bundle
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained from the Incubator and is a required ingredient to craft the Bunny Bundle
+IMAGEN: OTROS/imagenes/808000057.png

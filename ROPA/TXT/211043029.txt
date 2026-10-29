@@ -1,0 +1,8 @@
+ITEM ID: 211043029
+ICON ID: Icon_avatar_male_cos_hair_machinery
+NOMBRE: Turquoise Tech (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043029.png

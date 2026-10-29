@@ -1,0 +1,8 @@
+ITEM ID: 801042532
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Tent Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801042532.png

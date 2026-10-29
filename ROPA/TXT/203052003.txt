@@ -1,0 +1,8 @@
+ITEM ID: 203052003
+ICON ID: Icon_avatar_male_cos_top_iiv_ct_white
+NOMBRE: Satoru Gojo Top
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052003.png

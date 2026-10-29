@@ -1,0 +1,8 @@
+ITEM ID: 907105325
+ICON ID: Icon_Machete_Fishseller
+NOMBRE: Parang - Tuna's Doom
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105325.png

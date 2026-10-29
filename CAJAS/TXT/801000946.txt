@@ -1,0 +1,8 @@
+ITEM ID: 801000946
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: An Unidentified Flying Object Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: - failed to detect -
+IMAGEN: CAJAS/imagenes/801000946.png

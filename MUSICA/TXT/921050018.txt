@@ -1,0 +1,8 @@
+ITEM ID: 921050018
+ICON ID: FF_UI_Voiceitem_TH50A
+NOMBRE: No good, no good, no good, no good!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Anime Voice Pack
+IMAGEN: MUSICA/imagenes/921050018.png

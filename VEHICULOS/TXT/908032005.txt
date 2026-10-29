@@ -1,0 +1,8 @@
+ITEM ID: 908032005
+ICON ID: Icon_slot_Motobike_Hurricane
+NOMBRE: Motorbike - Purple Rev
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908032005.png

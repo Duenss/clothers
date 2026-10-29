@@ -1,0 +1,8 @@
+ITEM ID: 818970331
+ICON ID: FF_Lottery_fragment
+NOMBRE: Spin Shard
+TIPO: Vouchers
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: For some Token Tower events, every 3 shards can be exchanged for one free spin
+IMAGEN: CAJAS/imagenes/818970331.png

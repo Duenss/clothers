@@ -1,0 +1,8 @@
+ITEM ID: 907104503
+ICON ID: Icon_M21A5_Octopus
+NOMBRE: Woodpecker - Captain Tentacles
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104503.png

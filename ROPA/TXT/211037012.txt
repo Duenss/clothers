@@ -1,0 +1,8 @@
+ITEM ID: 211037012
+ICON ID: Icon_avatar_female_cos_hair_kabuki
+NOMBRE: Song of Hana (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037012.png

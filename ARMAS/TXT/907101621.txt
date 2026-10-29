@@ -1,0 +1,8 @@
+ITEM ID: 907101621
+ICON ID: Icon_M14_Booyah
+NOMBRE: M14 - BOOYAH
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB16
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101621.png

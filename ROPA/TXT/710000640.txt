@@ -1,0 +1,8 @@
+ITEM ID: 710000640
+ICON ID: Icon_female_spine
+NOMBRE: Cosmic Ridge Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000640.png

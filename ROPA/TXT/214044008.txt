@@ -1,0 +1,8 @@
+ITEM ID: 214044008
+ICON ID: Icon_avatar_female_cos_headadditive_carnivore
+NOMBRE: Poison Sundew (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214044008.png

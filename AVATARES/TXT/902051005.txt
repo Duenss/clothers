@@ -1,0 +1,8 @@
+ITEM ID: 902051005
+ICON ID: Icon_face_Sagittarius25
+NOMBRE: Stellar Shot Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051005.png

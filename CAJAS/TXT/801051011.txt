@@ -1,0 +1,8 @@
+ITEM ID: 801051011
+ICON ID: Icon_exchange_nfdb_51
+NOMBRE: Fury Hyperbook
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051011.png

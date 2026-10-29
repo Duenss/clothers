@@ -1,0 +1,8 @@
+ITEM ID: 205053021
+ICON ID: Icon_avatar_cos_shoe_fishseller
+NOMBRE: Fishmonger (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053021.png

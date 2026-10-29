@@ -1,0 +1,8 @@
+ITEM ID: 407105203
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Fiery Battle (VSS) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive a random gun skin (VSS) from the Fiery Battle set
+IMAGEN: ARMAS/imagenes/407105203.png

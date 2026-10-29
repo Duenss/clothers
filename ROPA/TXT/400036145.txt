@@ -1,0 +1,8 @@
+ITEM ID: 400036145
+ICON ID: Icon_box_3
+NOMBRE: Rocket Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400036145.png

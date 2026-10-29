@@ -1,0 +1,8 @@
+ITEM ID: 407003004
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Crimson Heir (PARAFAL + Woodpecker) Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin (PARAFAL + Woodpecker) from the Crimson Heir weapon set
+IMAGEN: OTROS/imagenes/407003004.png

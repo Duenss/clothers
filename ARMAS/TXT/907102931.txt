@@ -1,0 +1,8 @@
+ITEM ID: 907102931
+ICON ID: Icon_FIST_Musicfest
+NOMBRE: Fist - Fist Bump
+TIPO: Fist Skins
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102931.png

@@ -1,0 +1,8 @@
+ITEM ID: 928005115
+ICON ID: Icon_GroupPhoto_Sled_icon
+NOMBRE: Ski Time
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Ski Time
+IMAGEN: AVATARES/imagenes/928005115.png

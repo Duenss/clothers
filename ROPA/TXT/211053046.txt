@@ -1,0 +1,8 @@
+ITEM ID: 211053046
+ICON ID: Icon_avatar_cos_hair_garden_carrot
+NOMBRE: Free Garden Carrot (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053046.png

@@ -1,0 +1,8 @@
+ITEM ID: 902040017
+ICON ID: Icon_face_Sixth
+NOMBRE: 6th Anniversary Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902040017.png

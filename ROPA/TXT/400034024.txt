@@ -1,0 +1,8 @@
+ITEM ID: 400034024
+ICON ID: Icon_box_3
+NOMBRE: Celebrate box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Let's celebrate!
+IMAGEN: ROPA/imagenes/400034024.png

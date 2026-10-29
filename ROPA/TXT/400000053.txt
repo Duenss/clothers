@@ -1,0 +1,8 @@
+ITEM ID: 400000053
+ICON ID: Icon_box_3
+NOMBRE: AK47 Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a permanent weapon skin with a chance to get an ultra rare AK47 skin. Duplicates will be converted into tokens.
+IMAGEN: ROPA/imagenes/400000053.png

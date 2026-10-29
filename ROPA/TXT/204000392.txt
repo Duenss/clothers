@@ -1,0 +1,8 @@
+ITEM ID: 204000392
+ICON ID: Icon_avatar_male_bottom_cos_tanglion
+NOMBRE: Nerves of Steel (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000392.png

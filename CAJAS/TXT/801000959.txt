@@ -1,0 +1,8 @@
+ITEM ID: 801000959
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Knife Display Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Encased forever to display its brilliance
+IMAGEN: CAJAS/imagenes/801000959.png

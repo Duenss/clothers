@@ -1,0 +1,8 @@
+ITEM ID: 903048007
+ICON ID: Icon_Deadloot_Sleepcoat
+NOMBRE: Loot Box - Sleepyhead
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903048007.png

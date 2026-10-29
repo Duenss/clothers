@@ -1,0 +1,8 @@
+ITEM ID: 400000408
+ICON ID: Icon_box_Night_Panther
+NOMBRE: Night Panther Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open this box to get exciting rewards
+IMAGEN: CAJAS/imagenes/400000408.png

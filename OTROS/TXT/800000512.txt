@@ -1,0 +1,8 @@
+ITEM ID: 800000512
+ICON ID: Icon_WSM_AN94_Wildfire_Skeleton
+NOMBRE: AN94 - Evil Howler Timeline Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the AN94 skin. Obtain from events or buy directly from Store.
+IMAGEN: OTROS/imagenes/800000512.png

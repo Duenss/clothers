@@ -1,0 +1,8 @@
+ITEM ID: 904090013
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Well-Connected
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by attaining the "Connect the World" achievement
+IMAGEN: AVATARES/imagenes/904090013.png

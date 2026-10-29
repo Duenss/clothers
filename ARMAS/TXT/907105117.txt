@@ -1,0 +1,8 @@
+ITEM ID: 907105117
+ICON ID: Icon_M21A5_CSRank34
+NOMBRE: Woodpecker - S34 Exclusive: Archer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105117.png

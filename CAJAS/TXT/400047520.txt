@@ -1,0 +1,8 @@
+ITEM ID: 400047520
+ICON ID: Icon_box_NYB_TH_47
+NOMBRE: New Year Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047520.png

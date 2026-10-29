@@ -1,0 +1,8 @@
+ITEM ID: 907001908
+ICON ID: Icon_SCAR_Cnnewyear19
+NOMBRE: SCAR - Aurous Dragon
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001908.png

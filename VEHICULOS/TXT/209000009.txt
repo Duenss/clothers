@@ -1,0 +1,8 @@
+ITEM ID: 209000009
+ICON ID: Icon_avatar_parachute_8
+NOMBRE: Parachute - Smiley
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/209000009.png

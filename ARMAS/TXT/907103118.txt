@@ -1,0 +1,8 @@
+ITEM ID: 907103118
+ICON ID: Icon_M249_Winterfest21
+NOMBRE: M249 - Fire Bones
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103118.png

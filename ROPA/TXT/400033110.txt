@@ -1,0 +1,8 @@
+ITEM ID: 400033110
+ICON ID: Icon_box_3
+NOMBRE: Soulless Executioner Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Contains Soulless Executioner and all it's pieces
+IMAGEN: ROPA/imagenes/400033110.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000194
+ICON ID: Icon_exchange_Silvery_flying_knife_trophy
+NOMBRE: Cold Steel- Silver
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000194.png

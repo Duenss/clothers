@@ -1,0 +1,8 @@
+ITEM ID: 203051024
+ICON ID: Icon_avatar_male_cos_top_ffws25_free
+NOMBRE: FFWS Role Star (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051024.png

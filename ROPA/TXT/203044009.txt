@@ -1,0 +1,8 @@
+ITEM ID: 203044009
+ICON ID: Icon_avatar_male_cos_top_chosen
+NOMBRE: The Destined One (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203044009.png

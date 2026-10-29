@@ -1,0 +1,8 @@
+ITEM ID: 801046521
+ICON ID: Icon_exchange_DoubleEleven_th_46
+NOMBRE: 11.11 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046521.png

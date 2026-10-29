@@ -1,0 +1,8 @@
+ITEM ID: 907102107
+ICON ID: Icon_M79_Rabbitkiller
+NOMBRE: M79 - Hipster Bunny
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102107.png

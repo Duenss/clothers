@@ -1,0 +1,8 @@
+ITEM ID: 905000035
+ICON ID: Icon_Avatar_PARACHUTE_devil
+NOMBRE: Parachute - Wings of the Devil
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000035.png

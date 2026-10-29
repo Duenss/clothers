@@ -1,0 +1,8 @@
+ITEM ID: 907102218
+ICON ID: Icon_SKS_Swallowtail
+NOMBRE: SKS - Duchess Swallowtail
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102218.png

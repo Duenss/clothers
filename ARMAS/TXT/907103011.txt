@@ -1,0 +1,8 @@
+ITEM ID: 907103011
+ICON ID: Icon_AUG_FFChar_S25
+NOMBRE: AUG - S25 Exclusive: Miguel
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103011.png

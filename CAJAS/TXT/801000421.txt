@@ -1,0 +1,8 @@
+ITEM ID: 801000421
+ICON ID: Icon_exchange_ob21_character
+NOMBRE: Character Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Here comes the next hero!
+IMAGEN: CAJAS/imagenes/801000421.png

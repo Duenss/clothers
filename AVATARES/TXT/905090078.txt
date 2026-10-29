@@ -1,0 +1,8 @@
+ITEM ID: 905090078
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Shadow Tycoon
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by obtaining the "Shadow Harvest" achievement
+IMAGEN: AVATARES/imagenes/905090078.png

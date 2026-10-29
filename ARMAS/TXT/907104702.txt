@@ -1,0 +1,8 @@
+ITEM ID: 907104702
+ICON ID: Icon_VSK94_Projector
+NOMBRE: VSK94 - Projected Memories
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104702.png

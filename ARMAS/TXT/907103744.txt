@@ -1,0 +1,8 @@
+ITEM ID: 907103744
+ICON ID: Icon_GlooShield_BRSoccer
+NOMBRE: Gloo Wall - Steady Goal
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103744.png

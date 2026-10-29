@@ -1,0 +1,8 @@
+ITEM ID: 700000665
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Pet Food Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive 100 Diamonds and 20 Pet Foods
+IMAGEN: ROPA/imagenes/700000665.png

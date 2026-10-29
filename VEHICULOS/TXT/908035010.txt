@@ -1,0 +1,8 @@
+ITEM ID: 908035010
+ICON ID: Icon_slot_Jeep_Pantomime
+NOMBRE: Jeep - Monochrome Jigsaw
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035010.png

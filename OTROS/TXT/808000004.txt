@@ -1,0 +1,8 @@
+ITEM ID: 808000004
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Dark Tales
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Big Bad Wolf set
+IMAGEN: OTROS/imagenes/808000004.png

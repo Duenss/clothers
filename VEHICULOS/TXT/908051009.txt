@@ -1,0 +1,8 @@
+ITEM ID: 908051009
+ICON ID: Icon_slot_Motobike_Redhat25
+NOMBRE: Motorbike - Little Red Ride
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051009.png

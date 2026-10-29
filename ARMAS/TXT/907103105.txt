@@ -1,0 +1,8 @@
+ITEM ID: 907103105
+ICON ID: Icon_FAMAS_Origami
+NOMBRE: FAMAS - Whirlwind Crease
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103105.png

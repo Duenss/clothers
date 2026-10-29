@@ -1,0 +1,8 @@
+ITEM ID: 801000758
+ICON ID: Icon_exchange_ob25_hny_2021
+NOMBRE: HNY 2021
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Wish you the best year ever!
+IMAGEN: CAJAS/imagenes/801000758.png

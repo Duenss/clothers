@@ -1,0 +1,8 @@
+ITEM ID: 400000769
+ICON ID: Icon_box_3
+NOMBRE: Poring Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Something this cute must contain valuables!
+IMAGEN: ROPA/imagenes/400000769.png

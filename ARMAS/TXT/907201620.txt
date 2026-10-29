@@ -1,0 +1,8 @@
+ITEM ID: 907201620
+ICON ID: Icon_AN94_Booyah
+NOMBRE: AN94 - BOOYAH
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201620.png

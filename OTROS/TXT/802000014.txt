@@ -1,0 +1,8 @@
+ITEM ID: 802000014
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: Plan Bermuda Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Plan Bermuda Royale
+IMAGEN: OTROS/imagenes/802000014.png

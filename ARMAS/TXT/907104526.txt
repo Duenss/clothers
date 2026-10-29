@@ -1,0 +1,8 @@
+ITEM ID: 907104526
+ICON ID: Icon_M1216_Vintage
+NOMBRE: Trogon - Bermuda Flashback
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104526.png

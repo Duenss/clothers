@@ -1,0 +1,8 @@
+ITEM ID: 801001167
+ICON ID: Icon_exchange_ob30_cybernobility
+NOMBRE: AWM - Skull Punker Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Can be used to exchange for the AWM Skull Punker gun skin.
+IMAGEN: CAJAS/imagenes/801001167.png

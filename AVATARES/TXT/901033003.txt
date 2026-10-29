@@ -1,0 +1,8 @@
+ITEM ID: 901033003
+ICON ID: Icon_callsign_storebg_Chess_FP
+NOMBRE: Art of Chess
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901033003.png

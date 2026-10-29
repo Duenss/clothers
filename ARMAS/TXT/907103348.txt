@@ -1,0 +1,8 @@
+ITEM ID: 907103348
+ICON ID: Icon_GlooShield_Luchalibre2_1
+NOMBRE: Crazy Look Wall
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103348.png

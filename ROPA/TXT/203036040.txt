@@ -1,0 +1,8 @@
+ITEM ID: 203036040
+ICON ID: Icon_avatar_cos_top_brfootball_blue01
+NOMBRE: CBF Ocean Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036040.png

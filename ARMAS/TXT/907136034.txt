@@ -1,0 +1,8 @@
+ITEM ID: 907136034
+ICON ID: Icon_Sickle_Sugarskull22
+NOMBRE: Scythe - Shadow
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136034.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000489
+ICON ID: Icon_exchange_ob22_boot_camp_ticket
+NOMBRE: Boot Camp Ticket
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Join FF Boot \nCamp!
+IMAGEN: CAJAS/imagenes/801000489.png

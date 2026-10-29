@@ -1,0 +1,8 @@
+ITEM ID: 929005206
+ICON ID: Icon_Photostickeritem_Coachella
+NOMBRE: Panther Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Panther Sticker
+IMAGEN: AVATARES/imagenes/929005206.png

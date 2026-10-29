@@ -1,0 +1,8 @@
+ITEM ID: 400001258
+ICON ID: Icon_box_3
+NOMBRE: Space Ops Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Space Ops Bundle and all its pieces
+IMAGEN: ROPA/imagenes/400001258.png

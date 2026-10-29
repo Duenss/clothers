@@ -1,0 +1,8 @@
+ITEM ID: 1310000165
+ICON ID: Icon_Pet_Tiger_BIS
+NOMBRE: Pet Skin: Digital Tig
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Battle in style
+IMAGEN: MASCOTAS/imagenes/1310000165.png

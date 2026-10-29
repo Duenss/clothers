@@ -1,0 +1,8 @@
+ITEM ID: 203000165
+ICON ID: Icon_avatar_male_hoodie_zipper_grey
+NOMBRE: Grey Zipper Hoodie
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000165.png

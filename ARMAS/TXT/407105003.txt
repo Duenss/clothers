@@ -1,0 +1,8 @@
+ITEM ID: 407105003
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Prince Darkheart (SKS + Bizon) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive a random gun skin (SKS + Bizon) from the Prince Darkheart set
+IMAGEN: ARMAS/imagenes/407105003.png

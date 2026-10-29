@@ -1,0 +1,8 @@
+ITEM ID: 400052523
+ICON ID: Icon_box_3
+NOMBRE: Exclusive Item Box 18
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Get your exclusive item from this box!
+IMAGEN: ROPA/imagenes/400052523.png

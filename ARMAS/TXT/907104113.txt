@@ -1,0 +1,8 @@
+ITEM ID: 907104113
+ICON ID: Icon_Sickle_Sugarskull23
+NOMBRE: Scythe - Bony Beak
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104113.png

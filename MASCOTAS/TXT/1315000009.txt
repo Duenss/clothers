@@ -1,0 +1,8 @@
+ITEM ID: 1315000009
+ICON ID: FF_UI_Pet_Penguin_Skill
+NOMBRE: Smooth Gloo
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Produces a Gloo Wall when the owner seems to be needing one
+IMAGEN: MASCOTAS/imagenes/1315000009.png

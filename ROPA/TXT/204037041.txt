@@ -1,0 +1,8 @@
+ITEM ID: 204037041
+ICON ID: Icon_avatar_male_cos_bottom_ffws2022_basic
+NOMBRE: Navy Starsea (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037041.png

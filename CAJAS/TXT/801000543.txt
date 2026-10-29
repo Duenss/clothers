@@ -1,0 +1,8 @@
+ITEM ID: 801000543
+ICON ID: Icon_exchange_ob23_paper_money
+NOMBRE: Heisted Cash
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Big, fat stack of cash. Imagine what you can buy with this.
+IMAGEN: CAJAS/imagenes/801000543.png

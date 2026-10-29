@@ -1,0 +1,8 @@
+ITEM ID: 908000028
+ICON ID: Icon_slot_Roadster_Futuristiccity
+NOMBRE: Sports Car - FFCS
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000028.png

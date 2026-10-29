@@ -1,0 +1,8 @@
+ITEM ID: 907105131
+ICON ID: Icon_Pan_Rank48
+NOMBRE: Pan - S48 Exclusive: Spoosker
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105131.png

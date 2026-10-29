@@ -1,0 +1,8 @@
+ITEM ID: 904053005
+ICON ID: Icon_Bag_Y2K_Plush
+NOMBRE: Backpack - Grumpy Plush
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053005.png

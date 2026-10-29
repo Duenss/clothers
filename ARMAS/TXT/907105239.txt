@@ -1,0 +1,8 @@
+ITEM ID: 907105239
+ICON ID: Icon_Fist_Carnival26
+NOMBRE: Fist - Untamed Beat
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105239.png

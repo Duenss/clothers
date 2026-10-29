@@ -1,0 +1,8 @@
+ITEM ID: 211038121
+ICON ID: Icon_avatar_male_cos_accessory_madmax_new
+NOMBRE: Elite Harbinger (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038121.png

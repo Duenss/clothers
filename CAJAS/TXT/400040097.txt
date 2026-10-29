@@ -1,0 +1,8 @@
+ITEM ID: 400040097
+ICON ID: Icon_box_Comic_adv_40
+NOMBRE: BP S6 Deluxe Box
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400040097.png

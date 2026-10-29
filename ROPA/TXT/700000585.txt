@@ -1,0 +1,8 @@
+ITEM ID: 700000585
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Dreki Package
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Dreki, Galaxy Dreki skin, and exciting rewards
+IMAGEN: ROPA/imagenes/700000585.png

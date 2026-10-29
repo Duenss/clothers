@@ -1,0 +1,8 @@
+ITEM ID: 929005518
+ICON ID: Icon_Photostickeritem_Halloween26_04
+NOMBRE: Cloaked Terror Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Cloaked Terror Sticker
+IMAGEN: AVATARES/imagenes/929005518.png

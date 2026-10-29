@@ -1,0 +1,8 @@
+ITEM ID: 821100002
+ICON ID: FF_UI_CharacterSkill_Singers
+NOMBRE: J.Biebs' Microchip
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to obtain J.Biebs's skill - Silent Sentinel
+IMAGEN: OTROS/imagenes/821100002.png

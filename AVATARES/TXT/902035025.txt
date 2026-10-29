@@ -1,0 +1,8 @@
+ITEM ID: 902035025
+ICON ID: Icon_face_VFL_VN
+NOMBRE: VFL Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035025.png

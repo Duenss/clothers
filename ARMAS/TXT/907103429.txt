@@ -1,0 +1,8 @@
+ITEM ID: 907103429
+ICON ID: Icon_Throwingknife_Banana
+NOMBRE: Dagger - Banana
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103429.png

@@ -1,0 +1,8 @@
+ITEM ID: 904036002
+ICON ID: Icon_Bag_Frankenstein
+NOMBRE: Backpack - Monster Incoming
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904036002.png

@@ -1,0 +1,8 @@
+ITEM ID: 902039015
+ICON ID: Icon_face_Darkspace
+NOMBRE: Crystal Void Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039015.png

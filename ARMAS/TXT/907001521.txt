@@ -1,0 +1,8 @@
+ITEM ID: 907001521
+ICON ID: Icon_SCAR_FutureTech
+NOMBRE: SCAR - Golden Strike
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001521.png

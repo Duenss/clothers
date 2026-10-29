@@ -1,0 +1,8 @@
+ITEM ID: 802000080
+ICON ID: FF_Lottery_UniversalRing_Token
+NOMBRE: Ring Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Used to spin in the Golden Ring event
+IMAGEN: OTROS/imagenes/802000080.png

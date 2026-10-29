@@ -1,0 +1,8 @@
+ITEM ID: 211044015
+ICON ID: Icon_avatar_male_cos_accessory_chosen
+NOMBRE: The Destined One (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044015.png

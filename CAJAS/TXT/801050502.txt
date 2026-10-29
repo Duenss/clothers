@@ -1,0 +1,8 @@
+ITEM ID: 801050502
+ICON ID: Icon_exchange_get_br_50
+NOMBRE: Grand Warrior Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050502.png

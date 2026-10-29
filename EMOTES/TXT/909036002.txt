@@ -1,0 +1,8 @@
+ITEM ID: 909036002
+ICON ID: Icon_Emote_Shiba_Freeze
+NOMBRE: Shiba Surf
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909036002.png

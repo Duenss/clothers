@@ -1,0 +1,8 @@
+ITEM ID: 710046048
+ICON ID: FF_UI_Voiceitem_Windah
+NOMBRE: Windah Voice Pack 1
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: Playing is more fun with Windah's voice!
+IMAGEN: MUSICA/imagenes/710046048.png

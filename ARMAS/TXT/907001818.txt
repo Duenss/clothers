@@ -1,0 +1,8 @@
+ITEM ID: 907001818
+ICON ID: Icon_AN94_Geisha
+NOMBRE: AN94 - Art of War
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001818.png

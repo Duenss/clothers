@@ -1,0 +1,8 @@
+ITEM ID: 801037909
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Royale Token 01
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: What can you possibly exchange?
+IMAGEN: CAJAS/imagenes/801037909.png

@@ -1,0 +1,8 @@
+ITEM ID: 203050037
+ICON ID: Icon_avatar_cos_top_idmovie25
+NOMBRE: Batik Pattern Shirt
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050037.png

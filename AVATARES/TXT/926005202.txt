@@ -1,0 +1,8 @@
+ITEM ID: 926005202
+ICON ID: Icon_PhotoFrameitem_IIV_02
+NOMBRE: Jujutsu Kaisen Frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Jujutsu Kaisen Frame
+IMAGEN: AVATARES/imagenes/926005202.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000789
+ICON ID: Icon_exchange_ob25_magic_crystal
+NOMBRE: Magic Crystal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: Transforming your blueprint!
+IMAGEN: CAJAS/imagenes/801000789.png

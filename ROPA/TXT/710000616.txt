@@ -1,0 +1,8 @@
+ITEM ID: 710000616
+ICON ID: FF_Icon_SoccerStar_deluxe
+NOMBRE: Luqueta's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Luqueta and his special outfit. When this outfit is equipped, Luqueta can display his special move on the starting island
+IMAGEN: ROPA/imagenes/710000616.png

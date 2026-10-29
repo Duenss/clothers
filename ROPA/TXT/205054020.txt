@@ -1,0 +1,8 @@
+ITEM ID: 205054020
+ICON ID: Icon_avatar_male_cos_shoe_party_pajama
+NOMBRE: Pajama Party (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054020.png

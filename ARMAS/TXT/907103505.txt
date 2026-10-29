@@ -1,0 +1,8 @@
+ITEM ID: 907103505
+ICON ID: Icon_PP19_Fcninja
+NOMBRE: Bizon - Soul Stealth
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103505.png

@@ -1,0 +1,8 @@
+ITEM ID: 205039046
+ICON ID: Icon_avatar_male_cos_shoe_scarlet_basic
+NOMBRE: Scorpio Void (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039046.png

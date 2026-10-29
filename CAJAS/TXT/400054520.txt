@@ -1,0 +1,8 @@
+ITEM ID: 400054520
+ICON ID: Icon_box_PartyBox_latam_54
+NOMBRE: Party Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054520.png

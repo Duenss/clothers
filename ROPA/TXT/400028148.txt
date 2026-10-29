@@ -1,0 +1,8 @@
+ITEM ID: 400028148
+ICON ID: Icon_box_3
+NOMBRE: Ducky Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Dr. Beanie and other rewards
+IMAGEN: ROPA/imagenes/400028148.png

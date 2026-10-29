@@ -1,0 +1,8 @@
+ITEM ID: 400037236
+ICON ID: Icon_box_3
+NOMBRE: Boss Posh Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains Boss Posh and all its pieces
+IMAGEN: ROPA/imagenes/400037236.png

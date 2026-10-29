@@ -1,0 +1,8 @@
+ITEM ID: 203033045
+ICON ID: Icon_avatar_cos_top_angelical_hoodie
+NOMBRE: Risen Hoodie
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033045.png

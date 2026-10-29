@@ -1,0 +1,8 @@
+ITEM ID: 907103527
+ICON ID: Icon_Machete_Beach_VN
+NOMBRE: Parang - Beach Balloon Toy
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103527.png

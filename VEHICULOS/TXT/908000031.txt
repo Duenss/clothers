@@ -1,0 +1,8 @@
+ITEM ID: 908000031
+ICON ID: Icon_slot_MonsterTruck_Bounty
+NOMBRE: Monster Truck - Cyber Bounty Hunter
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000031.png

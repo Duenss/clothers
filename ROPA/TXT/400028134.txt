@@ -1,0 +1,8 @@
+ITEM ID: 400028134
+ICON ID: Icon_box_3
+NOMBRE: Dragon Thug Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Dragon Thug and all of its pieces
+IMAGEN: ROPA/imagenes/400028134.png

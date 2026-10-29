@@ -1,0 +1,8 @@
+ITEM ID: 801043540
+ICON ID: Icon_exchange_Facepaint_th_43
+NOMBRE: Facepaint Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801043540.png

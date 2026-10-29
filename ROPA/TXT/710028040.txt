@@ -1,0 +1,8 @@
+ITEM ID: 710028040
+ICON ID: Icon_box_3
+NOMBRE: Wildland Walkers Badge Bundle (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Wildland Walkers Badge x10
+IMAGEN: ROPA/imagenes/710028040.png

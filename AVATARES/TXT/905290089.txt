@@ -1,0 +1,8 @@
+ITEM ID: 905290089
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: King of the Block
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Obtain from playing the Craftland map: King of the Block
+IMAGEN: AVATARES/imagenes/905290089.png

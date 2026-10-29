@@ -1,0 +1,8 @@
+ITEM ID: 902047015
+ICON ID: Icon_face_Auroraboy_Q
+NOMBRE: Koda Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047015.png

@@ -1,0 +1,8 @@
+ITEM ID: 909047013
+ICON ID: Icon_Emote_Allseason25
+NOMBRE: Stormy Ascent
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Obtained by reaching Heroic in BR or CS 2 times in 2025
+IMAGEN: EMOTES/imagenes/909047013.png

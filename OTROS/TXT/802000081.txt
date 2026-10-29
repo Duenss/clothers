@@ -1,0 +1,8 @@
+ITEM ID: 802000081
+ICON ID: FF_Lottery_Diwali_2024_Voucher
+NOMBRE: Diwali 2024 Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Celebrate Diwali 2024 together!
+IMAGEN: OTROS/imagenes/802000081.png

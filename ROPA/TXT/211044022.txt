@@ -1,0 +1,8 @@
+ITEM ID: 211044022
+ICON ID: Icon_avatar_male_cos_hair_intersection
+NOMBRE: Crossroad Icon (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044022.png

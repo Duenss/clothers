@@ -1,0 +1,8 @@
+ITEM ID: 907101824
+ICON ID: Icon_AN94_JunkEngineer
+NOMBRE: AN94 - Engineer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB18
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101824.png

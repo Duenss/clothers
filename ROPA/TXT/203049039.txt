@@ -1,0 +1,8 @@
+ITEM ID: 203049039
+ICON ID: Icon_avatar_cos_top_seafood_green
+NOMBRE: Squid Game Player (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049039.png

@@ -1,0 +1,8 @@
+ITEM ID: 170000103
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Superb Value
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170000103.png

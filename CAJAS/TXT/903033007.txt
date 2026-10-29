@@ -1,0 +1,8 @@
+ITEM ID: 903033007
+ICON ID: Icon_Deadloot_Raincoat
+NOMBRE: Loot Box - Bathing Ducky
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903033007.png

@@ -1,0 +1,8 @@
+ITEM ID: 909048001
+ICON ID: Icon_Emote_Cityhero_Duo
+NOMBRE: To the Rescue
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048001.png

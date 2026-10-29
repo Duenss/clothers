@@ -1,0 +1,8 @@
+ITEM ID: 904000004
+ICON ID: Icon_Bag_ShibaInu_03
+NOMBRE: Backpack - Puppy Lover
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000004.png

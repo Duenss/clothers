@@ -1,0 +1,8 @@
+ITEM ID: 904035009
+ICON ID: Icon_Bag_CATeam
+NOMBRE: Backpack - Golden Eagle
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035009.png

@@ -1,0 +1,8 @@
+ITEM ID: 407102505
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Midnight Mafia Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: Open to receive a random gun skin from the Midnight Mafia weapon set
+IMAGEN: ARMAS/imagenes/407102505.png

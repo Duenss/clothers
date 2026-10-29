@@ -1,0 +1,8 @@
+ITEM ID: 205000007
+ICON ID: Icon_avatar_shoes_3
+NOMBRE: Sneakers (Black)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000007.png

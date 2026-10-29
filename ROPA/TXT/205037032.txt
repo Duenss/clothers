@@ -1,0 +1,8 @@
+ITEM ID: 205037032
+ICON ID: Icon_avatar_cos_shoe_cdband
+NOMBRE: Carla's Dreams (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037032.png

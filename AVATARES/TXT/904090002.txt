@@ -1,0 +1,8 @@
+ITEM ID: 904090002
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Collector
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: OB90
+DESCRIPCION: Received by collecting "Collector" achievements
+IMAGEN: AVATARES/imagenes/904090002.png

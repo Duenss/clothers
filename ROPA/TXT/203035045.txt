@@ -1,0 +1,8 @@
+ITEM ID: 203035045
+ICON ID: Icon_avatar_female_cos_top_light_darkness2
+NOMBRE: Ray of Starlight (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035045.png

@@ -1,0 +1,8 @@
+ITEM ID: 211046026
+ICON ID: Icon_avatar_male_cos_hair_lightfest24_bear
+NOMBRE: Grizzly Born (Mask)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046026.png

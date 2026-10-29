@@ -1,0 +1,8 @@
+ITEM ID: 214000008
+ICON ID: Icon_avatar_male_headadditive_cos_warringstates_purple
+NOMBRE: Cyber Swordsman (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000008.png

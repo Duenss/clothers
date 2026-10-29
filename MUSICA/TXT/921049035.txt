@@ -1,0 +1,8 @@
+ITEM ID: 921049035
+ICON ID: FF_UI_Voiceitem_SAC49
+NOMBRE: Enemies down on the ground, eliminations up to the sky!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: FF Nostalgia
+IMAGEN: MUSICA/imagenes/921049035.png

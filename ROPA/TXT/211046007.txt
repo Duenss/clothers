@@ -1,0 +1,8 @@
+ITEM ID: 211046007
+ICON ID: Icon_avatar_male_cos_accessory_purplelight
+NOMBRE: Violet Vortex (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046007.png

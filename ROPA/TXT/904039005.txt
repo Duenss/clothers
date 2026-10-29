@@ -1,0 +1,8 @@
+ITEM ID: 904039005
+ICON ID: Icon_Bag_Scarlet
+NOMBRE: Backpack - Scorpio
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039005.png

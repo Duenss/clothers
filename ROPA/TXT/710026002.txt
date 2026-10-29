@@ -1,0 +1,8 @@
+ITEM ID: 710026002
+ICON ID: FF_Icon_Delivery_deluxe
+NOMBRE: Shirou's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains Shirou and his special outfit. When this outfit is equipped, Shirou can display his special move on the spawn island
+IMAGEN: ROPA/imagenes/710026002.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000575
+ICON ID: Icon_EAP_Bundle_package
+NOMBRE: Legendary Gun Skin Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Various Legendary Gun Skins to help you win the battles!
+IMAGEN: ROPA/imagenes/700000575.png

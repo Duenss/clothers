@@ -1,0 +1,8 @@
+ITEM ID: 900000005
+ICON ID: Icon_slot_SUV_Default
+NOMBRE: Default Pickup Truck
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 4-seater with moderately fast speed
+IMAGEN: OTROS/imagenes/900000005.png

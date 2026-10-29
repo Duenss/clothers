@@ -1,0 +1,8 @@
+ITEM ID: 410000003
+ICON ID: Icon_box_3
+NOMBRE: Monday to Sunday!
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: With this, you no longer have to think about what to wear everyday! 14.3% for each T-Shirt.
+IMAGEN: ROPA/imagenes/410000003.png

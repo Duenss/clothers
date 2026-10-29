@@ -1,0 +1,8 @@
+ITEM ID: 205049008
+ICON ID: Icon_avatar_male_cos_shoe_prison25
+NOMBRE: Striped Swag (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049008.png

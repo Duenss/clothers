@@ -1,0 +1,8 @@
+ITEM ID: 710037110
+ICON ID: Icon_Female_WafukuPackage
+NOMBRE: Wafuku Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710037110.png

@@ -1,0 +1,8 @@
+ITEM ID: 909040005
+ICON ID: Icon_Emote_Traphiphop22_Red
+NOMBRE: Chromatic Pop Dance
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909040005.png

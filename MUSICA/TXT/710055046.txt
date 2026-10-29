@@ -1,0 +1,8 @@
+ITEM ID: 710055046
+ICON ID: FF_UI_Voiceitem_US55
+NOMBRE: Day of the Dead 2026 Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Day of the Dead 2026 voice pack
+IMAGEN: MUSICA/imagenes/710055046.png

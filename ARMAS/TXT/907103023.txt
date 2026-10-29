@@ -1,0 +1,8 @@
+ITEM ID: 907103023
+ICON ID: Icon_HealingShot_Treatment
+NOMBRE: Heal Shotgun- Infiltrated Red
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103023.png

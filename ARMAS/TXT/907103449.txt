@@ -1,0 +1,8 @@
+ITEM ID: 907103449
+ICON ID: Icon_GlooShield_Superplayer
+NOMBRE: Gloo Wall - Arcade Fun
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103449.png

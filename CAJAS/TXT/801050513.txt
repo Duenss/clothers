@@ -1,0 +1,8 @@
+ITEM ID: 801050513
+ICON ID: Icon_exchange_wat_id_50
+NOMBRE: Warrior Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050513.png

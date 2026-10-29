@@ -1,0 +1,8 @@
+ITEM ID: 211039022
+ICON ID: Icon_avatar_male_cos_hair_monk
+NOMBRE: Bare Resolution (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039022.png

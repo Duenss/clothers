@@ -1,0 +1,8 @@
+ITEM ID: 900000011
+ICON ID: Icon_slot_Roadster_Default
+NOMBRE: Default Sports Car
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 2-seater with very fast speed
+IMAGEN: OTROS/imagenes/900000011.png

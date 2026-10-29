@@ -1,0 +1,8 @@
+ITEM ID: 902000220
+ICON ID: Icon_face_male_head_sc_Djman_B
+NOMBRE: Alok's Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000220.png

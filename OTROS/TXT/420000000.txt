@@ -1,0 +1,8 @@
+ITEM ID: 420000000
+ICON ID: Icon_box_compose_default
+NOMBRE: Unknown
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/420000000.png

@@ -1,0 +1,8 @@
+ITEM ID: 906047001
+ICON ID: Icon_Avatar_Surfboard_Rank43
+NOMBRE: Skyboard - S43 Exclusive: Stitched
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: BR-Ranked S43 Reward
+IMAGEN: VEHICULOS/imagenes/906047001.png

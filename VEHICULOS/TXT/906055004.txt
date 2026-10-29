@@ -1,0 +1,8 @@
+ITEM ID: 906055004
+ICON ID: Icon_Avatar_Surfboard_Carving
+NOMBRE: Skyboard - Carved Claws
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906055004.png

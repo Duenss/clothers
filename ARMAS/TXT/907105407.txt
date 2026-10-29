@@ -1,0 +1,8 @@
+ITEM ID: 907105407
+ICON ID: Icon_M1917_Cottonbear
+NOMBRE: M1917 - Cotton Rawrrr
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105407.png

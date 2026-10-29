@@ -1,0 +1,8 @@
+ITEM ID: 801000894
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: K.O. Night Ultimate Belt
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/801000894.png

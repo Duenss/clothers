@@ -1,0 +1,8 @@
+ITEM ID: 400000838
+ICON ID: Icon_box_3
+NOMBRE: Ottero Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Pet Ottero and many other rewards
+IMAGEN: ROPA/imagenes/400000838.png

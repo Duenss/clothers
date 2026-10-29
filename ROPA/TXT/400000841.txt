@@ -1,0 +1,8 @@
+ITEM ID: 400000841
+ICON ID: Icon_box_3
+NOMBRE: Desert Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains the treasure of the desert
+IMAGEN: ROPA/imagenes/400000841.png

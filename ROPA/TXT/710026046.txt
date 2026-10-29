@@ -1,0 +1,8 @@
+ITEM ID: 710026046
+ICON ID: Icon_bundle_male_Valentine2021_A_26
+NOMBRE: Prince Pink Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710026046.png

@@ -1,0 +1,8 @@
+ITEM ID: 904039011
+ICON ID: Icon_Bag_Comic
+NOMBRE: Backpack - Chaos Universe
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039011.png

@@ -1,0 +1,8 @@
+ITEM ID: 400039159
+ICON ID: Icon_box_3
+NOMBRE: M60 Special Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Contains M60 gun skins
+IMAGEN: ROPA/imagenes/400039159.png

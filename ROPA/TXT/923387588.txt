@@ -1,0 +1,8 @@
+ITEM ID: 923387588
+ICON ID: Icon_box_3
+NOMBRE: Sakura Top
+TIPO: Bundle Create
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: Sakura Top
+IMAGEN: ROPA/imagenes/923387588.png

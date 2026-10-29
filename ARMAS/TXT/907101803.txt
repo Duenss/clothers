@@ -1,0 +1,8 @@
+ITEM ID: 907101803
+ICON ID: Icon_Predator_Grenade
+NOMBRE: Skull Hunter Grenade
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB18
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101803.png

@@ -1,0 +1,8 @@
+ITEM ID: 710043039
+ICON ID: Icon_bundle_Kouki_Voice_43
+NOMBRE: Kouki Voice Pack Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Open to receive all Kouki Voice Packs
+IMAGEN: ROPA/imagenes/710043039.png

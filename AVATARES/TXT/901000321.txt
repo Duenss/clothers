@@ -1,0 +1,8 @@
+ITEM ID: 901000321
+ICON ID: Icon_callsign_storebg_Partygirl
+NOMBRE: Party Animal
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000321.png

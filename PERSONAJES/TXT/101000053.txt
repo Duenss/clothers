@@ -1,0 +1,8 @@
+ITEM ID: 101000053
+ICON ID: Icon_face_female_head_sc_ShadowGirl
+NOMBRE: Rin
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Hayato's younger sister, a skilled and calm ninja. As the second child of the Yagami family, she dwells in the shadow to keep her family's flame alive.
+IMAGEN: PERSONAJES/imagenes/101000053.png

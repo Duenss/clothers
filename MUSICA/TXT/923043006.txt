@@ -1,0 +1,8 @@
+ITEM ID: 923043006
+ICON ID: FF_UI_Voiceitem_RANK43
+NOMBRE: Keep climbing, pal. Almost there!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Rank reward
+IMAGEN: MUSICA/imagenes/923043006.png

@@ -1,0 +1,8 @@
+ITEM ID: 906027003
+ICON ID: Icon_Avatar_Surfboard_Horrorcircus_pre
+NOMBRE: Skyboard - Horror Clown
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906027003.png

@@ -1,0 +1,8 @@
+ITEM ID: 400054038
+ICON ID: Icon_box_Virgo26BP_54
+NOMBRE: BP S45 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054038.png

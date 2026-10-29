@@ -1,0 +1,8 @@
+ITEM ID: 902038006
+ICON ID: Icon_face_Designer_Q
+NOMBRE: Santino Valentine Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038006.png

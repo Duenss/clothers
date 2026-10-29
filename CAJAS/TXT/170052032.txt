@@ -1,0 +1,8 @@
+ITEM ID: 170052032
+ICON ID: Icon_OptionalBundle_nppscc1_LOT_52
+NOMBRE: Newbie Purple Pet Skin Choice Crate 1
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170052032.png

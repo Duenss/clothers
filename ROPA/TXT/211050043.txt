@@ -1,0 +1,8 @@
+ITEM ID: 211050043
+ICON ID: Icon_avatar_cos_hair_brss25
+NOMBRE: Samsung Hat
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050043.png

@@ -1,0 +1,8 @@
+ITEM ID: 903051009
+ICON ID: Icon_Deadloot_Sugarskull25
+NOMBRE: Loot Box - Grim Lantern
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903051009.png

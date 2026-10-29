@@ -1,0 +1,8 @@
+ITEM ID: 205047002
+ICON ID: Icon_avatar_male_cos_shoe_tailor
+NOMBRE: Stitched Tailor (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205047002.png

@@ -1,0 +1,8 @@
+ITEM ID: 720029009
+ICON ID: Icon_bundle_female_Scorpion_29
+NOMBRE: Valiant Skorpina Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/720029009.png

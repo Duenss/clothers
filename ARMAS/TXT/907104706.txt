@@ -1,0 +1,8 @@
+ITEM ID: 907104706
+ICON ID: Icon_BM94_Express
+NOMBRE: M82B - Taped Delivery
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104706.png

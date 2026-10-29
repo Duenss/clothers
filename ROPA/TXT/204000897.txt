@@ -1,0 +1,8 @@
+ITEM ID: 204000897
+ICON ID: Icon_avatar_male_cos_bottom_goldenleo_a
+NOMBRE: Lion Rage (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000897.png

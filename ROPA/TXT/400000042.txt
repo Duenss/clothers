@@ -1,0 +1,8 @@
+ITEM ID: 400000042
+ICON ID: Icon_box_3
+NOMBRE: Fragment Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive fragments for Andrew, Nikita or Olivia. Lucky users can receive up to 6,000 fragments.
+IMAGEN: ROPA/imagenes/400000042.png

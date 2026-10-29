@@ -1,0 +1,8 @@
+ITEM ID: 923042023
+ICON ID: FF_UI_Voiceitem_Primkung
+NOMBRE: So cool!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: MUSICA/imagenes/923042023.png

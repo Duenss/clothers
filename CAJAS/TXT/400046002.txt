@@ -1,0 +1,8 @@
+ITEM ID: 400046002
+ICON ID: Icon_box_Common_GunBox_46
+NOMBRE: BLUE LOCK (Vector) Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400046002.png

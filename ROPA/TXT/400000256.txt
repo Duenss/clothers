@@ -1,0 +1,8 @@
+ITEM ID: 400000256
+ICON ID: Icon_box_3
+NOMBRE: Special box (Black Box)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: For any future collaboration
+IMAGEN: ROPA/imagenes/400000256.png

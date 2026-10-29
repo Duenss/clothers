@@ -1,0 +1,8 @@
+ITEM ID: 904000092
+ICON ID: Icon_Bag_Cnnewyear19
+NOMBRE: Backpack - Dragon Lair
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000092.png

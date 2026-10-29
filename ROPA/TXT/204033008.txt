@@ -1,0 +1,8 @@
+ITEM ID: 204033008
+ICON ID: Icon_avatar_cos_bottom_firephoenix_orange_g
+NOMBRE: Phoenix Zeal (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033008.png

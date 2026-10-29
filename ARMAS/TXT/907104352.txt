@@ -1,0 +1,8 @@
+ITEM ID: 907104352
+ICON ID: Icon_GlooShield_Singergirl
+NOMBRE: Gloo Wall - Superstar Bus
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104352.png

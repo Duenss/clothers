@@ -1,0 +1,8 @@
+ITEM ID: 908000004
+ICON ID: Icon_slot_Amphibian_NorthernSiren
+NOMBRE: The Northern Freak
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908000004.png

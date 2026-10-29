@@ -1,0 +1,8 @@
+ITEM ID: 211047049
+ICON ID: Icon_avatar_cos_accessory_nb_brows
+NOMBRE: Rock Lee Headwear
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047049.png

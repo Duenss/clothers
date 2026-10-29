@@ -1,0 +1,8 @@
+ITEM ID: 904040005
+ICON ID: Icon_Bag_Unicon22
+NOMBRE: Backpack - Miraculous
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904040005.png

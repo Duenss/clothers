@@ -1,0 +1,8 @@
+ITEM ID: 211001029
+ICON ID: Icon_avatar_male_hair_cos_scarecrow
+NOMBRE: Blazing Scarecrow (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001029.png

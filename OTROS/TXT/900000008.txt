@@ -1,0 +1,8 @@
+ITEM ID: 900000008
+ICON ID: Icon_slot_Amphibian_Default
+NOMBRE: Default Amphibian
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 2-seater with fairly slow speed and low durability but also drives in water
+IMAGEN: OTROS/imagenes/900000008.png

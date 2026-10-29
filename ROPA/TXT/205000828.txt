@@ -1,0 +1,8 @@
+ITEM ID: 205000828
+ICON ID: Icon_avatar_cos_shoe_silversword_yellow
+NOMBRE: Sunrise Triolight (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000828.png

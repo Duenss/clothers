@@ -1,0 +1,8 @@
+ITEM ID: 700000138
+ICON ID: Icon_box_3
+NOMBRE: 8 Bit Badge Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains 8 Bit Badge x50
+IMAGEN: ROPA/imagenes/700000138.png

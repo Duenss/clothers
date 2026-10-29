@@ -1,0 +1,8 @@
+ITEM ID: 907002833
+ICON ID: Icon_AWM_Sutorito
+NOMBRE: AWM - Fūrinkazan
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002833.png

@@ -1,0 +1,8 @@
+ITEM ID: 205042024
+ICON ID: Icon_avatar_male_cos_shoe_robber
+NOMBRE: Sleek Bandit (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205042024.png

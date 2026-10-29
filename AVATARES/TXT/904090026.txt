@@ -1,0 +1,8 @@
+ITEM ID: 904090026
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: 6 Years Old
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: OB90
+DESCRIPCION: Received by attaining the second stage of the "In the Blink of an Eye II" achievement
+IMAGEN: AVATARES/imagenes/904090026.png

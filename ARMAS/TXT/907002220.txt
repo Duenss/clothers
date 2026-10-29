@@ -1,0 +1,8 @@
+ITEM ID: 907002220
+ICON ID: Icon_XM8_StreamerGuy
+NOMBRE: XM8 - Game Streamer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002220.png

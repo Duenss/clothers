@@ -1,0 +1,8 @@
+ITEM ID: 906000105
+ICON ID: Icon_Avatar_Surfboard_Sushikiller
+NOMBRE: Skyboard - Salmon Surfer
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000105.png

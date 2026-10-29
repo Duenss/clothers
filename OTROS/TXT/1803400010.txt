@@ -1,0 +1,8 @@
+ITEM ID: 1803400010
+ICON ID: Icon_HyperBook_Eclipse
+NOMBRE: Eclipse
+TIPO: Hyper Book
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: A mystic book with sealed powers in its pages.
+IMAGEN: OTROS/imagenes/1803400010.png

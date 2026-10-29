@@ -1,0 +1,8 @@
+ITEM ID: 907105324
+ICON ID: Icon_Sickle_Y2K_Plush
+NOMBRE: Scythe - Plush Hairpin
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105324.png

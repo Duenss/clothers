@@ -1,0 +1,8 @@
+ITEM ID: 801037868
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Winter Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Exchange for exciting rewards!
+IMAGEN: CAJAS/imagenes/801037868.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000377
+ICON ID: Icon_box_3
+NOMBRE: Navy's day Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Navy's day Loot Crate
+IMAGEN: ROPA/imagenes/400000377.png

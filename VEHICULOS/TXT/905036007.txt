@@ -1,0 +1,8 @@
+ITEM ID: 905036007
+ICON ID: Icon_Avatar_PARACHUTE_Shiba_Model
+NOMBRE: Parachute - Bubble Pup
+TIPO: Parachute
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905036007.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104859
+ICON ID: Icon_GlooShield_Guild25
+NOMBRE: Gloo Wall - Guildian's Wall
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104859.png

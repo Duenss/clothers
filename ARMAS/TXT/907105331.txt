@@ -1,0 +1,8 @@
+ITEM ID: 907105331
+ICON ID: Icon_WSP_Mambas53
+NOMBRE: USP-2 - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105331.png

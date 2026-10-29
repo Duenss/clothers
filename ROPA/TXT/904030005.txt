@@ -1,0 +1,8 @@
+ITEM ID: 904030005
+ICON ID: Icon_Bag_BRninja
+NOMBRE: Backpack - Nocturnal Assassin
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904030005.png

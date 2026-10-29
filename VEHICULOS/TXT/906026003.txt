@@ -1,0 +1,8 @@
+ITEM ID: 906026003
+ICON ID: Icon_Avatar_Surfboard_Eggday2021
+NOMBRE: Skyboard - Cyber Bunnies
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906026003.png

@@ -1,0 +1,8 @@
+ITEM ID: 211035043
+ICON ID: Icon_avatar_female_cos_accessory_riders
+NOMBRE: Fatal Rider (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035043.png

@@ -1,0 +1,8 @@
+ITEM ID: 204048016
+ICON ID: Icon_avatar_male_cos_bottom_fashionsuit
+NOMBRE: Urban Escapade (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048016.png

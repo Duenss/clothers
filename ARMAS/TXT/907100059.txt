@@ -1,0 +1,8 @@
+ITEM ID: 907100059
+ICON ID: Icon_M79_Titanium
+NOMBRE: Divine Explosion
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100059.png

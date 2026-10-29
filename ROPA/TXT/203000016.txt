@@ -1,0 +1,8 @@
+ITEM ID: 203000016
+ICON ID: Icon_avatar_tshirt_camo_001
+NOMBRE: T-shirt (Desert)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000016.png

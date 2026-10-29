@@ -1,0 +1,8 @@
+ITEM ID: 400027026
+ICON ID: Icon_box_3
+NOMBRE: Fighter's Fist Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400027026.png

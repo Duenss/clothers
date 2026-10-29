@@ -1,0 +1,8 @@
+ITEM ID: 205052010
+ICON ID: Icon_avatar_male_cos_shoe_emoji26
+NOMBRE: Chillin' Emoji (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205052010.png

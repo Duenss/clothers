@@ -1,0 +1,8 @@
+ITEM ID: 204047007
+ICON ID: Icon_avatar_cos_bottom_aurora_white
+NOMBRE: Aurora Calling (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047007.png

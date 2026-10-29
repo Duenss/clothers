@@ -1,0 +1,8 @@
+ITEM ID: 919042002
+ICON ID: Icon_Action_CrossOver_Superteen
+NOMBRE: Jumping Over a Window Posture (Frostfire)
+TIPO: Posture
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Equip this to have a special posture when jumping over a window in-match.
+IMAGEN: EMOTES/imagenes/919042002.png

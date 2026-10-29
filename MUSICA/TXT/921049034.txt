@@ -1,0 +1,8 @@
+ITEM ID: 921049034
+ICON ID: FF_UI_Voiceitem_SAC49
+NOMBRE: To infinity and beyond!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: FF Nostalgia
+IMAGEN: MUSICA/imagenes/921049034.png

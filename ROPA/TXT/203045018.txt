@@ -1,0 +1,8 @@
+ITEM ID: 203045018
+ICON ID: Icon_avatar_female_cos_top_pop
+NOMBRE: Pyramid Sand (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045018.png

@@ -1,0 +1,8 @@
+ITEM ID: 214051003
+ICON ID: Icon_avatar_cos_headadditive_ffws25
+NOMBRE: FFWS Will of Fire (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214051003.png

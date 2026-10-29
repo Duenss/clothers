@@ -1,0 +1,8 @@
+ITEM ID: 907101524
+ICON ID: Icon_SCAR_Oni
+NOMBRE: SCAR - Mad Samurai
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB15
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101524.png

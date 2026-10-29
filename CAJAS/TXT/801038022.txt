@@ -1,0 +1,8 @@
+ITEM ID: 801038022
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Chroma Data Chip
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038022.png

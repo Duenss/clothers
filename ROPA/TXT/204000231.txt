@@ -1,0 +1,8 @@
+ITEM ID: 204000231
+ICON ID: Icon_avatar_female_bottom_cos_easter_A
+NOMBRE: Bunny Suit (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000231.png

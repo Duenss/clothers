@@ -1,0 +1,8 @@
+ITEM ID: 407104503
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Anemo Limelight (AC80) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: Open to receive a random gun skin (AC80) from the Anemo Limelight weapon set
+IMAGEN: ARMAS/imagenes/407104503.png

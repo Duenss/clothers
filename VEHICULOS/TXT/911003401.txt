@@ -1,0 +1,8 @@
+ITEM ID: 911003401
+ICON ID: Icon_Mounts_Cloud
+NOMBRE: Floating Cloud
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911003401.png

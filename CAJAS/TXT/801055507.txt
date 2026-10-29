@@ -1,0 +1,8 @@
+ITEM ID: 801055507
+ICON ID: Icon_exchange_mrt_vn_55
+NOMBRE: Marksman Rifle Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055507.png

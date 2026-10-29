@@ -1,0 +1,8 @@
+ITEM ID: 904000051
+ICON ID: Icon_Bag_Easter
+NOMBRE: Backpack - Bunny
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000051.png

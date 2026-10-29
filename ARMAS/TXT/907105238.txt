@@ -1,0 +1,8 @@
+ITEM ID: 907105238
+ICON ID: Icon_Machete_Fastbreaking_Treasure
+NOMBRE: Parang - Treasure Breaker
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105238.png

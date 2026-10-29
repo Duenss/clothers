@@ -1,0 +1,8 @@
+ITEM ID: 801000752
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Blazing Spirit
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: May your sprit blaze with glory
+IMAGEN: CAJAS/imagenes/801000752.png

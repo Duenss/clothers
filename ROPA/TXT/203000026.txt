@@ -1,0 +1,8 @@
+ITEM ID: 203000026
+ICON ID: Icon_avatar_undershirt_diy_001
+NOMBRE: Singlet (Victory)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000026.png

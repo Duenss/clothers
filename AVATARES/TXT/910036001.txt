@@ -1,0 +1,8 @@
+ITEM ID: 910036001
+ICON ID: Pin_Small_Griza
+NOMBRE: Quirk Smirk Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910036001.png

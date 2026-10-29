@@ -1,0 +1,8 @@
+ITEM ID: 902035010
+ICON ID: Icon_face_Crazygirl_Q
+NOMBRE: Iris Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035010.png

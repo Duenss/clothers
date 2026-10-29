@@ -1,0 +1,8 @@
+ITEM ID: 211001287
+ICON ID: Icon_avatar_male_cos_hair_dunhuang
+NOMBRE: Cyber Guardian (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001287.png

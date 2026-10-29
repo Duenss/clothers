@@ -1,0 +1,8 @@
+ITEM ID: 907105560
+ICON ID: Icon_GlooShield_Owlranger
+NOMBRE: Gloo Wall - Owl's Watch
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105560.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102402
+ICON ID: Icon_MP5_Professor
+NOMBRE: MP5 - Master of Minds
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102402.png

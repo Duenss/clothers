@@ -1,0 +1,8 @@
+ITEM ID: 801001380
+ICON ID: Icon_exchange_ob32_thalas_mystery_gift
+NOMBRE: Thala's Mystery Gift
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open the gift on Nov 1st to unlock the character Thala!
+IMAGEN: CAJAS/imagenes/801001380.png

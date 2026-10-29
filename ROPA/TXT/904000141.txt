@@ -1,0 +1,8 @@
+ITEM ID: 904000141
+ICON ID: Icon_Bag_Dinobr_B
+NOMBRE: Backpack - Brazilian Sunshine
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000141.png

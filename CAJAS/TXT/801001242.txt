@@ -1,0 +1,8 @@
+ITEM ID: 801001242
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fashion V
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Vengeance of justice
+IMAGEN: CAJAS/imagenes/801001242.png

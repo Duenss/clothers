@@ -1,0 +1,8 @@
+ITEM ID: 907102232
+ICON ID: Icon_Eagle_Clashgold
+NOMBRE: The Golden Eagle
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102232.png

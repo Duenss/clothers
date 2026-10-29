@@ -1,0 +1,8 @@
+ITEM ID: 400037246
+ICON ID: Icon_box_3
+NOMBRE: Arvon Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Contains pet Arvon and many other rewards
+IMAGEN: ROPA/imagenes/400037246.png

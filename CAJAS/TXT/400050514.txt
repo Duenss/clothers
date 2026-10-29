@@ -1,0 +1,8 @@
+ITEM ID: 400050514
+ICON ID: Icon_box_EB1_BR_50
+NOMBRE: Extraordinary Box 4
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to get extra special rewards!
+IMAGEN: CAJAS/imagenes/400050514.png

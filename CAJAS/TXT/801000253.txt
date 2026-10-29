@@ -1,0 +1,8 @@
+ITEM ID: 801000253
+ICON ID: Icon_exchange_FF_Silver_Medal
+NOMBRE: FF Silver Medal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000253.png

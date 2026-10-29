@@ -1,0 +1,8 @@
+ITEM ID: 819750331
+ICON ID: FF_Lottery_Special_Ring_Voucher
+NOMBRE: Special Ring Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Voucher to spin in Premium Ring events
+IMAGEN: CAJAS/imagenes/819750331.png

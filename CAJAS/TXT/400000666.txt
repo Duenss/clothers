@@ -1,0 +1,8 @@
+ITEM ID: 400000666
+ICON ID: Icon_box_newplayer
+NOMBRE: Luck Royale Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a lot of Luck Royale vouchers!
+IMAGEN: CAJAS/imagenes/400000666.png

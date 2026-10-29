@@ -1,0 +1,8 @@
+ITEM ID: 801000389
+ICON ID: Icon_exchange_ob21_balloon
+NOMBRE: Balloon
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: June Festival
+IMAGEN: CAJAS/imagenes/801000389.png

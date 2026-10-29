@@ -1,0 +1,8 @@
+ITEM ID: 205048031
+ICON ID: Icon_avatar_cos_shoe_firefly_fp
+NOMBRE: Firefly Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048031.png

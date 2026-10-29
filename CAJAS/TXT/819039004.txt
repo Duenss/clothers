@@ -1,0 +1,8 @@
+ITEM ID: 819039004
+ICON ID: FF_UI_VFX_Scarlet_01
+NOMBRE: Using Med Kit Effect (Scorpio)
+TIPO: Vouchers
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: Special effects when using Med Kits while wearing Scorpio themed bottom.
+IMAGEN: CAJAS/imagenes/819039004.png

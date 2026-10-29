@@ -1,0 +1,8 @@
+ITEM ID: 907104042
+ICON ID: Icon_Shuttlecock_Grenade
+NOMBRE: Grenade - Feather Fireworks
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104042.png

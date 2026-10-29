@@ -1,0 +1,8 @@
+ITEM ID: 400000178
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Pharaoh's Wings Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for Pharaoh's Wings
+IMAGEN: CAJAS/imagenes/400000178.png

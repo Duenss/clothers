@@ -1,0 +1,8 @@
+ITEM ID: 204037006
+ICON ID: Icon_avatar_male_cos_bottom_hightech
+NOMBRE: Dart Electric (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037006.png

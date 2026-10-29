@@ -1,0 +1,8 @@
+ITEM ID: 700000227
+ICON ID: Icon_face_male_sc_monkeygod
+NOMBRE: Wukong's Fragment Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the selected character's memory fragment.
+IMAGEN: ROPA/imagenes/700000227.png

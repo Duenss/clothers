@@ -1,0 +1,8 @@
+ITEM ID: 211044004
+ICON ID: Icon_avatar_male_cos_hair_fragment
+NOMBRE: Dawnbreaker (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044004.png

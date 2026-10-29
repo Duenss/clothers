@@ -1,0 +1,8 @@
+ITEM ID: 801000495
+ICON ID: Icon_exchange_ob22_bff_token
+NOMBRE: BFF Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: You are my BFF
+IMAGEN: CAJAS/imagenes/801000495.png

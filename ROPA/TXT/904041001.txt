@@ -1,0 +1,8 @@
+ITEM ID: 904041001
+ICON ID: Icon_Bag_Metropolis
+NOMBRE: Unlawful Backpack
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041001.png

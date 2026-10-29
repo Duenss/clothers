@@ -1,0 +1,8 @@
+ITEM ID: 801000760
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FACT4 Orange
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: FEELING
+IMAGEN: CAJAS/imagenes/801000760.png

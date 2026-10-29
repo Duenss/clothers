@@ -1,0 +1,8 @@
+ITEM ID: 801046534
+ICON ID: Icon_exchange_Shiny_Stone_Token_th_46
+NOMBRE: Shiny Stone Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Exchange for wonderful rewards!
+IMAGEN: CAJAS/imagenes/801046534.png

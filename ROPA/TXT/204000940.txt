@@ -1,0 +1,8 @@
+ITEM ID: 204000940
+ICON ID: Icon_avatar_cos_bottom_yokai_golden_g
+NOMBRE: Goldom Ghost (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000940.png

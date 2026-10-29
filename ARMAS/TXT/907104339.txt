@@ -1,0 +1,8 @@
+ITEM ID: 907104339
+ICON ID: Icon_Frog_Grenade
+NOMBRE: Grenade - Ribbit Rain
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104339.png

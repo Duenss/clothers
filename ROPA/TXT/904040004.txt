@@ -1,0 +1,8 @@
+ITEM ID: 904040004
+ICON ID: Icon_Bag_Aim
+NOMBRE: Backpack - Spot On
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904040004.png

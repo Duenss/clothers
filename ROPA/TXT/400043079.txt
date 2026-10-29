@@ -1,0 +1,8 @@
+ITEM ID: 400043079
+ICON ID: Icon_box_3
+NOMBRE: Chaos Conquer Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400043079.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000117
+ICON ID: Icon_exchange_10_Point
+NOMBRE: Perfect Score
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000117.png

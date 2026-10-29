@@ -1,0 +1,8 @@
+ITEM ID: 400001265
+ICON ID: Icon_box_3
+NOMBRE: Beaston Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: Contains Pet Beaston and many other rewards
+IMAGEN: ROPA/imagenes/400001265.png

@@ -1,0 +1,8 @@
+ITEM ID: 908048005
+ICON ID: Icon_slot_Jeep_Cupnoodle
+NOMBRE: Jeep - Cup Ramen
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048005.png

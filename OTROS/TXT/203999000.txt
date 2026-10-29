@@ -1,0 +1,8 @@
+ITEM ID: 203999000
+ICON ID: Clothes_1
+NOMBRE: Ben Tennyson Top
+TIPO: Unknown
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: OTROS/imagenes/203999000.png

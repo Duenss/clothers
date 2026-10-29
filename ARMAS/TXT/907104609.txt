@@ -1,0 +1,8 @@
+ITEM ID: 907104609
+ICON ID: Icon_G18_Edge
+NOMBRE: G18 - Sharp Aim
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104609.png

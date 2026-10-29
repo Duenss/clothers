@@ -1,0 +1,8 @@
+ITEM ID: 907001520
+ICON ID: Icon_SCAR_FutureBeast
+NOMBRE: SCAR - The Beast
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001520.png

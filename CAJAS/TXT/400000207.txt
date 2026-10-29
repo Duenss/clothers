@@ -1,0 +1,8 @@
+ITEM ID: 400000207
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M4A1 Flaming Wolf Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random M4A1 - Flaming Wolf weapon Skin.
+IMAGEN: CAJAS/imagenes/400000207.png

@@ -1,0 +1,8 @@
+ITEM ID: 205036033
+ICON ID: Icon_avatar_cos_shoe_soccer_ro
+NOMBRE: Amber Triumph (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036033.png

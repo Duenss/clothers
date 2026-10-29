@@ -1,0 +1,8 @@
+ITEM ID: 710043113
+ICON ID: Icon_box_3
+NOMBRE: Chromatic Finish Emote Pack
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710043113.png

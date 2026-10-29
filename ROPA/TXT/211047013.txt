@@ -1,0 +1,8 @@
+ITEM ID: 211047013
+ICON ID: Icon_avatar_female_cos_accessory_equation
+NOMBRE: Quadric Theory (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047013.png

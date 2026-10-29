@@ -1,0 +1,8 @@
+ITEM ID: 211050022
+ICON ID: Icon_avatar_male_cos_accessory_lineart
+NOMBRE: Line Art Pro (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050022.png

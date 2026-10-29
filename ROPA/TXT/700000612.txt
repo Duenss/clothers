@@ -1,0 +1,8 @@
+ITEM ID: 700000612
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Kitty Package
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive pet Kitty, the Night Kitty pet skin, and other rewards!
+IMAGEN: ROPA/imagenes/700000612.png

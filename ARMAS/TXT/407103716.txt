@@ -1,0 +1,8 @@
+ITEM ID: 407103716
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Fiery Fantasy (G36 + P90) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (G36 + P90) from the Fiery Fantasy weapon set
+IMAGEN: ARMAS/imagenes/407103716.png

@@ -1,0 +1,8 @@
+ITEM ID: 904051011
+ICON ID: Icon_Bag_FFWS25_Champ
+NOMBRE: Backpack - Cape of Champion
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904051011.png

@@ -1,0 +1,8 @@
+ITEM ID: 908050007
+ICON ID: Icon_slot_SUV_SL
+NOMBRE: Pickup Truck - Sausage Car
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908050007.png

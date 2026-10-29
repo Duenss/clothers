@@ -1,0 +1,8 @@
+ITEM ID: 921051032
+ICON ID: FF_UI_Voiceitem_TH51H1
+NOMBRE: Wow, so cool!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: HRK Voice Pack 1
+IMAGEN: MUSICA/imagenes/921051032.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105157
+ICON ID: Icon_PP19_DA_Dinosaur
+NOMBRE: Bizon - MetalGreymon Power
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105157.png

@@ -1,0 +1,8 @@
+ITEM ID: 400049009
+ICON ID: Icon_box_SpartaBP_49
+NOMBRE: BP S30 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400049009.png

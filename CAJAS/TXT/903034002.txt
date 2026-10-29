@@ -1,0 +1,8 @@
+ITEM ID: 903034002
+ICON ID: Icon_Deadloot_Cyberwasp
+NOMBRE: Loot Box - Wasp Danger
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903034002.png

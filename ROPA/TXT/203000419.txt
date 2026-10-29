@@ -1,0 +1,8 @@
+ITEM ID: 203000419
+ICON ID: Icon_avatar_top_fb800_N
+NOMBRE: 8 mil T-Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000419.png

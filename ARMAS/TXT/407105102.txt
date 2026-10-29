@@ -1,0 +1,8 @@
+ITEM ID: 407105102
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Will of Fire (M500 + Trogon) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a random gun skin (M500 + Trogon) from the Will of Fire set
+IMAGEN: ARMAS/imagenes/407105102.png

@@ -1,0 +1,8 @@
+ITEM ID: 204034017
+ICON ID: Icon_avatar_cos_bottom_winterdog
+NOMBRE: Husky Fluff (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034017.png

@@ -1,0 +1,8 @@
+ITEM ID: 901055004
+ICON ID: Icon_callsign_storebg_Owlranger
+NOMBRE: Duty Hoots Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901055004.png

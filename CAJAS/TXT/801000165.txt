@@ -1,0 +1,8 @@
+ITEM ID: 801000165
+ICON ID: Icon_exchange_independance_day
+NOMBRE: Badge of War
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000165.png

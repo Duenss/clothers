@@ -1,0 +1,8 @@
+ITEM ID: 801000937
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Avocado Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Harder, faster, stronger!
+IMAGEN: CAJAS/imagenes/801000937.png

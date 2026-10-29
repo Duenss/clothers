@@ -1,0 +1,8 @@
+ITEM ID: 902051015
+ICON ID: Icon_face_CC
+NOMBRE: Choppy Cuts Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051015.png

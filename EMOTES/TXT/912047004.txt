@@ -1,0 +1,8 @@
+ITEM ID: 912047004
+ICON ID: Icon_GroupAnim_NB_Nine
+NOMBRE: Wrath of the Nine Tails
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912047004.png

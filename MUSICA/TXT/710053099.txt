@@ -1,0 +1,8 @@
+ITEM ID: 710053099
+ICON ID: FF_UI_Voiceitem_RonaldoBR53
+NOMBRE: Ronaldinho Gaúcho Voice Pack
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho Gaúcho voice pack
+IMAGEN: MUSICA/imagenes/710053099.png

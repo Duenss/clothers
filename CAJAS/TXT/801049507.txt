@@ -1,0 +1,8 @@
+ITEM ID: 801049507
+ICON ID: Icon_exchange_TIT_id_49
+NOMBRE: T-Shirt Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049507.png

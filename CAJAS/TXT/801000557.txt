@@ -1,0 +1,8 @@
+ITEM ID: 801000557
+ICON ID: Icon_exchange_ob23_blue_balloon
+NOMBRE: Blue Balloon
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Let's celebrate!
+IMAGEN: CAJAS/imagenes/801000557.png

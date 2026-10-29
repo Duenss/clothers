@@ -1,0 +1,8 @@
+ITEM ID: 929005401
+ICON ID: Icon_Photostickeritem_BM26_02
+NOMBRE: Scarlet Moon Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Scarlet Moon Sticker
+IMAGEN: AVATARES/imagenes/929005401.png

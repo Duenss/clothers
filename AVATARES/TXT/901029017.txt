@@ -1,0 +1,8 @@
+ITEM ID: 901029017
+ICON ID: Icon_callsign_storebg_BRRank_New
+NOMBRE: BR-Ranked Heroic
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901029017.png

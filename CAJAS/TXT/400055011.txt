@@ -1,0 +1,8 @@
+ITEM ID: 400055011
+ICON ID: Icon_box_Nbx5_55
+NOMBRE: Ninja Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055011.png

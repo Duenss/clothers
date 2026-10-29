@@ -1,0 +1,8 @@
+ITEM ID: 803000002
+ICON ID: Icon_FF_Championship_Card01
+NOMBRE: FFC Tournament Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Can be used to join the FFC tournament. One ticket per entry.
+IMAGEN: OTROS/imagenes/803000002.png

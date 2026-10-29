@@ -1,0 +1,8 @@
+ITEM ID: 211000095
+ICON ID: Icon_avatar_male_accessory_cos_royal
+NOMBRE: Royal Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000095.png

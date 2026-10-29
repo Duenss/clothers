@@ -1,0 +1,8 @@
+ITEM ID: 907104207
+ICON ID: Icon_GlooShield_Watcher
+NOMBRE: Gloo Wall - Interstellar Guardian
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104207.png

@@ -1,0 +1,8 @@
+ITEM ID: 400042522
+ICON ID: Icon_box_3
+NOMBRE: Xmas Golden Gift
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400042522.png

@@ -1,0 +1,8 @@
+ITEM ID: 246955012
+ICON ID: Pet_Spark3_Face_EmojiGlass_Purple
+NOMBRE: Purple Goggles
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Purple Goggles
+IMAGEN: MASCOTAS/imagenes/246955012.png

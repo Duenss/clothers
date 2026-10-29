@@ -1,0 +1,8 @@
+ITEM ID: 912042002
+ICON ID: Icon_GroupAnim_Bull
+NOMBRE: Lamborghini Drift
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912042002.png

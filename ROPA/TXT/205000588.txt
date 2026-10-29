@@ -1,0 +1,8 @@
+ITEM ID: 205000588
+ICON ID: Icon_avatar_male_shoe_cos_bounty_cyber
+NOMBRE: Cyber Bounty Hunter (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000588.png

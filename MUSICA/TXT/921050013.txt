@@ -1,0 +1,8 @@
+ITEM ID: 921050013
+ICON ID: FF_UI_Voiceitem_IH50
+NOMBRE: How many guys were there?
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Sholay Voice Pack
+IMAGEN: MUSICA/imagenes/921050013.png

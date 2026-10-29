@@ -1,0 +1,8 @@
+ITEM ID: 907103715
+ICON ID: Icon_HealingSniper_Hightech
+NOMBRE: Heal Sniper - Dart Electric
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103715.png

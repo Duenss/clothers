@@ -1,0 +1,8 @@
+ITEM ID: 801000163
+ICON ID: Icon_exchange_anniversary
+NOMBRE: Anniversary Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000163.png

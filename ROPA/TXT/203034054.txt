@@ -1,0 +1,8 @@
+ITEM ID: 203034054
+ICON ID: Icon_avatar_male_cos_top_rampage4_fire_yellow
+NOMBRE: Saturn Evilstriker (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034054.png

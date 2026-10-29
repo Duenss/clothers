@@ -1,0 +1,8 @@
+ITEM ID: 801052003
+ICON ID: Icon_exchange_IIVevent1_52
+NOMBRE: Jujutsu Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801052003.png

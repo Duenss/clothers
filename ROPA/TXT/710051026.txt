@@ -1,0 +1,8 @@
+ITEM ID: 710051026
+ICON ID: Icon_bundle_male_TH_KOL25_Orange_51
+NOMBRE: HEARTROCKER Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710051026.png

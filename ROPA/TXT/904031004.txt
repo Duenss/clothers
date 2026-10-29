@@ -1,0 +1,8 @@
+ITEM ID: 904031004
+ICON ID: Icon_Bag_Baboon
+NOMBRE: Backpack - Beaston
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031004.png

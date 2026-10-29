@@ -1,0 +1,8 @@
+ITEM ID: 902039006
+ICON ID: Icon_face_Comic_EP
+NOMBRE: Chaos Signal Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039006.png

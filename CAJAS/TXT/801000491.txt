@@ -1,0 +1,8 @@
+ITEM ID: 801000491
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Golden Crosshair
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Watch out!
+IMAGEN: CAJAS/imagenes/801000491.png

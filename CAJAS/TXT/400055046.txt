@@ -1,0 +1,8 @@
+ITEM ID: 400055046
+ICON ID: Icon_box_Scorpio26BP_55
+NOMBRE: BP S47 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400055046.png

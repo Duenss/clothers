@@ -1,0 +1,8 @@
+ITEM ID: 407105104
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: HEARTROCKER (FAMAS) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a random gun skin (FAMAS) from the HEARTROCKER set
+IMAGEN: ARMAS/imagenes/407105104.png

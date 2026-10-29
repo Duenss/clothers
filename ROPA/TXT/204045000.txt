@@ -1,0 +1,8 @@
+ITEM ID: 204045000
+ICON ID: Icon_avatar_male_cos_bottom_goose
+NOMBRE: Goosy Stroll (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204045000.png

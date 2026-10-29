@@ -1,0 +1,8 @@
+ITEM ID: 801041007
+ICON ID: Icon_exchange_Inkpainting_1_41
+NOMBRE: Ink Hyperbook Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801041007.png

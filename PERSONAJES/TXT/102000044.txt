@@ -1,0 +1,8 @@
+ITEM ID: 102000044
+ICON ID: Icon_face_male_head_sc_Superteen
+NOMBRE: Ignis
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Ignis is a superpowered teenager who was born with the ability to "ignite". Although sometimes his power causes even bigger problems, he still steps up to fight crime and uphold justice.
+IMAGEN: PERSONAJES/imagenes/102000044.png

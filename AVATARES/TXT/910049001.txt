@@ -1,0 +1,8 @@
+ITEM ID: 910049001
+ICON ID: Pin_Small_Eighth_Free
+NOMBRE: 8th Anniversary Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910049001.png

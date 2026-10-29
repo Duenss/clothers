@@ -1,0 +1,8 @@
+ITEM ID: 904032008
+ICON ID: Icon_Bag_PKwings
+NOMBRE: Backpack - Falcon Runner
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032008.png

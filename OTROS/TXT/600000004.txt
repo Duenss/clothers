@@ -1,0 +1,8 @@
+ITEM ID: 600000004
+ICON ID: Icon_ff_Werewolf_Roomcard
+NOMBRE: Pet Rumble Room Card (1 Match)
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Use in Pet Rumble mode to create room once
+IMAGEN: OTROS/imagenes/600000004.png

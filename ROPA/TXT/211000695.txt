@@ -1,0 +1,8 @@
+ITEM ID: 211000695
+ICON ID: Icon_avatar_accessory_cos_alokshades
+NOMBRE: Alok Shades
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000695.png

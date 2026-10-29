@@ -1,0 +1,8 @@
+ITEM ID: 909048007
+ICON ID: Icon_Emote_Sleepcoat
+NOMBRE: Pillow Fight
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909048007.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000839
+ICON ID: Icon_avatar_male_accessory_cos_koicarp
+NOMBRE: Lucky Koi (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000839.png

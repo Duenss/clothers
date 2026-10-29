@@ -1,0 +1,8 @@
+ITEM ID: 204050008
+ICON ID: Icon_avatar_male_cos_bottom_va_darkstroke
+NOMBRE: Doodle Trouble (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204050008.png

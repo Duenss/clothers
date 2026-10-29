@@ -1,0 +1,8 @@
+ITEM ID: 914051001
+ICON ID: FF_UI_Transform_icon_Dreamland
+NOMBRE: Dreamspace Look Changer
+TIPO: Look Changer
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914051001.png

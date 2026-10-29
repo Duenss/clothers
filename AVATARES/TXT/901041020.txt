@@ -1,0 +1,8 @@
+ITEM ID: 901041020
+ICON ID: Icon_callsign_storebg_Rampage23
+NOMBRE: Rampage Finale Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901041020.png

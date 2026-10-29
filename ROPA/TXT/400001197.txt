@@ -1,0 +1,8 @@
+ITEM ID: 400001197
+ICON ID: Icon_box_3
+NOMBRE: New Year Resolution Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Make a list and work hard for your goals!
+IMAGEN: ROPA/imagenes/400001197.png

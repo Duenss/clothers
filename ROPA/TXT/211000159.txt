@@ -1,0 +1,8 @@
+ITEM ID: 211000159
+ICON ID: Icon_avatar_accessory_cos_snowwarriors
+NOMBRE: Winter Warrior Helmet
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000159.png

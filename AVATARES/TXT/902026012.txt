@@ -1,0 +1,8 @@
+ITEM ID: 902026012
+ICON ID: Icon_face_Rank21
+NOMBRE: Season 21 Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902026012.png

@@ -1,0 +1,8 @@
+ITEM ID: 905000010
+ICON ID: Icon_Avatar_PARACHUTE_CLOUDY
+NOMBRE: Parachute - Overcast
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000010.png

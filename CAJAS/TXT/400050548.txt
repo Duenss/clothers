@@ -1,0 +1,8 @@
+ITEM ID: 400050548
+ICON ID: Icon_box_SWLC1_TH_50
+NOMBRE: Starter Weapon Loot Crate 3
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050548.png

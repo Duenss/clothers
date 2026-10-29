@@ -1,0 +1,8 @@
+ITEM ID: 928005306
+ICON ID: Icon_GroupPhoto_Waterfest26_02_icon
+NOMBRE: Time to Splash
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Time to Splash
+IMAGEN: AVATARES/imagenes/928005306.png

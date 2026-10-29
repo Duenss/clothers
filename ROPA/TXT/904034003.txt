@@ -1,0 +1,8 @@
+ITEM ID: 904034003
+ICON ID: Icon_Bag_Kongfu
+NOMBRE: Backpack - Good Eats
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034003.png

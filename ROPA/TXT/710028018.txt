@@ -1,0 +1,8 @@
+ITEM ID: 710028018
+ICON ID: Icon_bundle_female_Sutorito_F_28
+NOMBRE: Chun-Li Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710028018.png

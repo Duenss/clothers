@@ -1,0 +1,8 @@
+ITEM ID: 923045004
+ICON ID: Icon_Finalshot_FAL_Spirit24
+NOMBRE: Final Shot - Lore Yonder
+TIPO: Final Shot
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: The special effect for Final Shot and Team Wipeout. Effective on any skins.
+IMAGEN: EMOTES/imagenes/923045004.png

@@ -1,0 +1,8 @@
+ITEM ID: 928005116
+ICON ID: Icon_GroupPhoto_Snowballjump_icon
+NOMBRE: Snow Day Out
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Snow Day Out
+IMAGEN: AVATARES/imagenes/928005116.png

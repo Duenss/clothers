@@ -1,0 +1,8 @@
+ITEM ID: 921053027
+ICON ID: FF_UI_Voiceitem_RonaldoLATAM53
+NOMBRE: I like to make my mark on the field
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho voice pack
+IMAGEN: MUSICA/imagenes/921053027.png

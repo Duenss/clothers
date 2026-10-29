@@ -1,0 +1,8 @@
+ITEM ID: 211034074
+ICON ID: Icon_avatar_male_cos_accessory_bloody_gangster
+NOMBRE: Painted Wraith (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034074.png

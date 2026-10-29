@@ -1,0 +1,8 @@
+ITEM ID: 400047518
+ICON ID: Icon_box_EEB_TH_47
+NOMBRE: Eye Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047518.png

@@ -1,0 +1,8 @@
+ITEM ID: 802000043
+ICON ID: FF_Lottery_UniversalRing_Token
+NOMBRE: Mythic Ring Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Used to spin in the Mythic Ring event. Expires after the Mythic Ring event ends.
+IMAGEN: OTROS/imagenes/802000043.png

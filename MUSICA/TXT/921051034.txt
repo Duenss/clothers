@@ -1,0 +1,8 @@
+ITEM ID: 921051034
+ICON ID: FF_UI_Voiceitem_TH51H1
+NOMBRE: Don't even say it
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: HRK Voice Pack 1
+IMAGEN: MUSICA/imagenes/921051034.png

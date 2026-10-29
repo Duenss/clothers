@@ -1,0 +1,8 @@
+ITEM ID: 400001147
+ICON ID: Icon_box_3
+NOMBRE: Clubber Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Contains all your clubbing needs
+IMAGEN: ROPA/imagenes/400001147.png

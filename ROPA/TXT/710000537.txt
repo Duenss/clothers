@@ -1,0 +1,8 @@
+ITEM ID: 710000537
+ICON ID: Icon_box_3
+NOMBRE: T.R.A.P Badge Bundle (50)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive T.R.A.P Badge Bundle.
+IMAGEN: ROPA/imagenes/710000537.png

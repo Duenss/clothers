@@ -1,0 +1,8 @@
+ITEM ID: 203000681
+ICON ID: Icon_avatar_cos_icebonedinosaur
+NOMBRE: Bonefreeze Dino
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000681.png

@@ -1,0 +1,8 @@
+ITEM ID: 214040009
+ICON ID: Icon_avatar_cos_headadditive_fashionist2_fp
+NOMBRE: Earthy Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214040009.png

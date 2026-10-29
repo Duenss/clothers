@@ -1,0 +1,8 @@
+ITEM ID: 214046000
+ICON ID: Icon_avatar_male_cos_headadditive_yinyang24
+NOMBRE: Mystic Aura (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214046000.png

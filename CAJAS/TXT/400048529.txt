@@ -1,0 +1,8 @@
+ITEM ID: 400048529
+ICON ID: Icon_box_sa06
+NOMBRE: Samsung A06 5G Gift Pack 1
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048529.png

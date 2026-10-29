@@ -1,0 +1,8 @@
+ITEM ID: 400000049
+ICON ID: Icon_box_highlevel
+NOMBRE: Newbie Lucky Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all items that a newbie should have in order to progress in the game.
+IMAGEN: CAJAS/imagenes/400000049.png

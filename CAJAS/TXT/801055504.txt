@@ -1,0 +1,8 @@
+ITEM ID: 801055504
+ICON ID: Icon_exchange_osmgt_vn_55
+NOMBRE: SMG Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055504.png

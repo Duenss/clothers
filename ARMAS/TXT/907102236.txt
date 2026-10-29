@@ -1,0 +1,8 @@
+ITEM ID: 907102236
+ICON ID: Icon_GlooShield_College
+NOMBRE: Gloo Wall - Rebel Academy
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102236.png

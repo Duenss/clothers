@@ -1,0 +1,8 @@
+ITEM ID: 203000378
+ICON ID: Icon_avatar_top_bombsquad_N
+NOMBRE: KABOOM
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000378.png

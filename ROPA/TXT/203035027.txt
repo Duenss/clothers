@@ -1,0 +1,8 @@
+ITEM ID: 203035027
+ICON ID: Icon_avatar_female_cos_top_goldchain
+NOMBRE: Armor of Riches (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035027.png

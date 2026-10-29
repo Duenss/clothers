@@ -1,0 +1,8 @@
+ITEM ID: 211001139
+ICON ID: Icon_avatar_male_cos_hair_soulhunter
+NOMBRE: Phantom Predator (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001139.png

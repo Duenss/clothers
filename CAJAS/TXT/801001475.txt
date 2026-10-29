@@ -1,0 +1,8 @@
+ITEM ID: 801001475
+ICON ID: Icon_box_newplayer
+NOMBRE: Silver Piece
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Collect Silver Pieces to unlock the Silver Card
+IMAGEN: CAJAS/imagenes/801001475.png

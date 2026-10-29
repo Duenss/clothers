@@ -1,0 +1,8 @@
+ITEM ID: 204000019
+ICON ID: Icon_avatar_short_camo_002
+NOMBRE: Shorts (Jungle)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000019.png

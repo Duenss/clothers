@@ -1,0 +1,8 @@
+ITEM ID: 902000201
+ICON ID: Icon_face_female_head_sc_MadeManA_B
+NOMBRE: A124
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000201.png

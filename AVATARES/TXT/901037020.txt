@@ -1,0 +1,8 @@
+ITEM ID: 901037020
+ICON ID: Icon_callsign_storebg_FFWS2022_Esports
+NOMBRE: Champion Spirit Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901037020.png

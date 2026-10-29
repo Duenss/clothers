@@ -1,0 +1,8 @@
+ITEM ID: 211049032
+ICON ID: Icon_avatar_female_cos_hair_academy_th
+NOMBRE: After School (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049032.png

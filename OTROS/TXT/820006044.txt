@@ -1,0 +1,8 @@
+ITEM ID: 820006044
+ICON ID: UI_NoDeductCard03_BR
+NOMBRE: BR Rank Protection Card
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Protects you from the rank drop if your next BR-Ranked match results in a rank drop.
+IMAGEN: OTROS/imagenes/820006044.png

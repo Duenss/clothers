@@ -1,0 +1,8 @@
+ITEM ID: 211052046
+ICON ID: Icon_avatar_cos_accessory_treasure26_fp
+NOMBRE: Voyager Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052046.png

@@ -1,0 +1,8 @@
+ITEM ID: 203043008
+ICON ID: Icon_avatar_male_cos_top_tattooed
+NOMBRE: Beast of Legend (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043008.png

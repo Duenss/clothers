@@ -1,0 +1,8 @@
+ITEM ID: 928005503
+ICON ID: Icon_GroupPhoto_NB1RE_CT_Pose_03_icon
+NOMBRE: Fist Bump!
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Fist Bump!
+IMAGEN: AVATARES/imagenes/928005503.png

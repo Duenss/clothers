@@ -1,0 +1,8 @@
+ITEM ID: 400049512
+ICON ID: Icon_box_3
+NOMBRE: Butter Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400049512.png

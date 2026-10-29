@@ -1,0 +1,8 @@
+ITEM ID: 205047025
+ICON ID: Icon_avatar_male_cos_shoe_nb_yellow
+NOMBRE: Naruto Shoes
+TIPO: Shoe
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205047025.png

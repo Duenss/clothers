@@ -1,0 +1,8 @@
+ITEM ID: 400027096
+ICON ID: Icon_box_3
+NOMBRE: Psycho Maniac Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB27
+DESCRIPCION: Contains Psycho Maniac and all its pieces
+IMAGEN: ROPA/imagenes/400027096.png

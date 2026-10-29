@@ -1,0 +1,8 @@
+ITEM ID: 1300000117
+ICON ID: Icon_Pet_Rabbit
+NOMBRE: Agent Hop
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: A scar on the left eye, a past never to be forgotten.
+IMAGEN: MASCOTAS/imagenes/1300000117.png

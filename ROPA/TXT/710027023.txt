@@ -1,0 +1,8 @@
+ITEM ID: 710027023
+ICON ID: Icon_bundle_female_Evilgrin_27
+NOMBRE: Newbie Devil Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB27
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710027023.png

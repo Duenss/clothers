@@ -1,0 +1,8 @@
+ITEM ID: 204035028
+ICON ID: Icon_avatar_male_cos_bottom_riders
+NOMBRE: Grim Rider (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204035028.png

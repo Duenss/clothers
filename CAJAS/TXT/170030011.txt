@@ -1,0 +1,8 @@
+ITEM ID: 170030011
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: CIS Pumpkin Box
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Open up to get amazing rewards
+IMAGEN: CAJAS/imagenes/170030011.png

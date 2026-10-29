@@ -1,0 +1,8 @@
+ITEM ID: 801000288
+ICON ID: Icon_exchange_Lamp
+NOMBRE: Lamp
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Light the darkness.
+IMAGEN: CAJAS/imagenes/801000288.png

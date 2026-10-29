@@ -1,0 +1,8 @@
+ITEM ID: 819039005
+ICON ID: FF_UI_VFX_Fishtank
+NOMBRE: Special Jumping Effects (Wave Watchers)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Special jumping effects when wearing Wave Watchers themed top.
+IMAGEN: CAJAS/imagenes/819039005.png

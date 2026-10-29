@@ -1,0 +1,8 @@
+ITEM ID: 907104739
+ICON ID: Icon_GlooShield_Catdog
+NOMBRE: Gloo Wall - 24K Throne
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104739.png

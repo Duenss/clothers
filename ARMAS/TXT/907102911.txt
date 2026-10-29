@@ -1,0 +1,8 @@
+ITEM ID: 907102911
+ICON ID: Icon_MP5_Lava_Blue
+NOMBRE: MP5 - Frozen Lava
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102911.png

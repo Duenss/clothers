@@ -1,0 +1,8 @@
+ITEM ID: 907104857
+ICON ID: Icon_GlooShield_Rank44
+NOMBRE: Gloo Wall - BR-Ranked Goal: Manga
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104857.png

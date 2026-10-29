@@ -1,0 +1,8 @@
+ITEM ID: 921051021
+ICON ID: FF_UI_Voiceitem_US51
+NOMBRE: Brrr... so cold!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Happy Holidays! 2025 Voice Pack
+IMAGEN: MUSICA/imagenes/921051021.png

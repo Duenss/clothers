@@ -1,0 +1,8 @@
+ITEM ID: 911004301
+ICON ID: Icon_Mounts_MultiPersonSkywing
+NOMBRE: Guild Motor
+TIPO: Skywings
+RAREZA: RED (Artifact)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004301.png

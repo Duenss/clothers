@@ -1,0 +1,8 @@
+ITEM ID: 801037867
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Football Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Exchange for exciting rewards at Football Royale!
+IMAGEN: CAJAS/imagenes/801037867.png

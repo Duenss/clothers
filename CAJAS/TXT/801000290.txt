@@ -1,0 +1,8 @@
+ITEM ID: 801000290
+ICON ID: Icon_exchange_Laila
+NOMBRE: Laila Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Beauty from within.
+IMAGEN: CAJAS/imagenes/801000290.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000259
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exclusive EP supplies
+IMAGEN: ROPA/imagenes/700000259.png

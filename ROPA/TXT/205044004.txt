@@ -1,0 +1,8 @@
+ITEM ID: 205044004
+ICON ID: Icon_avatar_male_cos_shoe_persona_yellow
+NOMBRE: Golden Paradox (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205044004.png

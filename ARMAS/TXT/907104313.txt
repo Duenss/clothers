@@ -1,0 +1,8 @@
+ITEM ID: 907104313
+ICON ID: Icon_M14_Evilbehind
+NOMBRE: M14 - Inner Nightmare
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104313.png

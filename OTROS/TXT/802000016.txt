@@ -1,0 +1,8 @@
+ITEM ID: 802000016
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: Booyah Day Royale Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Booyah Day Royale
+IMAGEN: OTROS/imagenes/802000016.png

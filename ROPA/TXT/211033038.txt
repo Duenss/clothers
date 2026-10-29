@@ -1,0 +1,8 @@
+ITEM ID: 211033038
+ICON ID: Icon_avatar_male_cos_hair_fastbreaking22_02
+NOMBRE: Timbered Charmer - Nebula (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033038.png

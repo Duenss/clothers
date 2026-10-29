@@ -1,0 +1,8 @@
+ITEM ID: 400030237
+ICON ID: Icon_box_3
+NOMBRE: CIS Rising Star Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Open to get amazing rewards
+IMAGEN: ROPA/imagenes/400030237.png

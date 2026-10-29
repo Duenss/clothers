@@ -1,0 +1,8 @@
+ITEM ID: 902055006
+ICON ID: Icon_face_Blackdress26
+NOMBRE: Cosmic Overlord Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902055006.png

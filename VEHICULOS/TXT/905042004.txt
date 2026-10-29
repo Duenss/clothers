@@ -1,0 +1,8 @@
+ITEM ID: 905042004
+ICON ID: Icon_Avatar_PARACHUTE_Allseason
+NOMBRE: Parachute - Dawn Voyage
+TIPO: Parachute
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Obtain by reaching Heroic in BR or CS 4 times in 2024.
+IMAGEN: VEHICULOS/imagenes/905042004.png

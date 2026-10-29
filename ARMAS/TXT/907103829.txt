@@ -1,0 +1,8 @@
+ITEM ID: 907103829
+ICON ID: Icon_FIST_Goal
+NOMBRE: Fist - Ultimate Achiever
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103829.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000589
+ICON ID: Icon_exchange_ob23_silver_kevlar_token
+NOMBRE: Silver Kevlar Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: To protect and to serve
+IMAGEN: CAJAS/imagenes/801000589.png

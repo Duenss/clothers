@@ -1,0 +1,8 @@
+ITEM ID: 801043544
+ICON ID: Icon_exchange_Crystal_id_43
+NOMBRE: Crystal Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: Used in Crystal Royale to get permanent bundles
+IMAGEN: CAJAS/imagenes/801043544.png

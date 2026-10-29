@@ -1,0 +1,8 @@
+ITEM ID: 203040031
+ICON ID: Icon_avatar_male_cos_top_easterrabbit_purple
+NOMBRE: Bunny Captain (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040031.png

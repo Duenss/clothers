@@ -1,0 +1,8 @@
+ITEM ID: 801000230
+ICON ID: Icon_exchange_Boat_Token
+NOMBRE: Boat Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000230.png

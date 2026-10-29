@@ -1,0 +1,8 @@
+ITEM ID: 203053027
+ICON ID: Icon_avatar_male_cos_top_gb_ct_usual
+NOMBRE: Football Enthusiast (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203053027.png

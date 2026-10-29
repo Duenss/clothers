@@ -1,0 +1,8 @@
+ITEM ID: 905290090
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Feel the Beat
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Obtain from playing the Craftland map: Alok's Concert
+IMAGEN: AVATARES/imagenes/905290090.png

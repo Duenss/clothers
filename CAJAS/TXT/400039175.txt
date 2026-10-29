@@ -1,0 +1,8 @@
+ITEM ID: 400039175
+ICON ID: Icon_box_Fishtank_1_39
+NOMBRE: BP S4 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: After receiving the basic outfit version, open this box to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400039175.png

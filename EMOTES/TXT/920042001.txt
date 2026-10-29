@@ -1,0 +1,8 @@
+ITEM ID: 920042001
+ICON ID: Icon_Action_Falling_Default
+NOMBRE: Default - No Special Falling Posture
+TIPO: Posture
+RAREZA: WHITE (Common)
+TAG: OB42
+DESCRIPCION: Equip this to have a special falling posture in-match.
+IMAGEN: EMOTES/imagenes/920042001.png

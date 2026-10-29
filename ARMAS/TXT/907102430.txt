@@ -1,0 +1,8 @@
+ITEM ID: 907102430
+ICON ID: Icon_Baseballbat_Fashiontrends
+NOMBRE: Bat - Ultrasonic Swing
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102430.png

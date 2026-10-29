@@ -1,0 +1,8 @@
+ITEM ID: 913037007
+ICON ID: FF_UI_Vault_Music_LATAM37
+NOMBRE: Blast The Halls With Hard Rock Golly
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Winterlands 2022 event lobby music
+IMAGEN: MUSICA/imagenes/913037007.png

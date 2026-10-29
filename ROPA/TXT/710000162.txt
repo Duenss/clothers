@@ -1,0 +1,8 @@
+ITEM ID: 710000162
+ICON ID: FF_Icon_monkeygod_deluxe
+NOMBRE: Wukong Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Wukong and his special outfit. When equipped, Wukong can display his unique animation on the spawn island.
+IMAGEN: ROPA/imagenes/710000162.png

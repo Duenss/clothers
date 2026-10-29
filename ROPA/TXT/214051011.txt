@@ -1,0 +1,8 @@
+ITEM ID: 214051011
+ICON ID: Icon_avatar_cos_headadditive_urbancyber_fp
+NOMBRE: Cyberspace Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214051011.png

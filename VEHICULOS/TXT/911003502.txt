@@ -1,0 +1,8 @@
+ITEM ID: 911003502
+ICON ID: Icon_Mounts_Digitaluniverse
+NOMBRE: Ultra Spaceship
+TIPO: Skywings
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911003502.png

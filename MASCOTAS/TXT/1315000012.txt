@@ -1,0 +1,8 @@
+ITEM ID: 1315000012
+ICON ID: FF_UI_Pet_Dragon_Skill
+NOMBRE: Dragon Glare
+TIPO: Pet Skill
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Opponents recovering behind a wall will be exposed
+IMAGEN: MASCOTAS/imagenes/1315000012.png

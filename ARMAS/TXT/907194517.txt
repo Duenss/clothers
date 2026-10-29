@@ -1,0 +1,8 @@
+ITEM ID: 907194517
+ICON ID: Icon_FAL_Spirit24_03
+NOMBRE: PARAFAL - Lore Cyclone
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907194517.png

@@ -1,0 +1,8 @@
+ITEM ID: 801055510
+ICON ID: Icon_exchange_pumpkint_id_55
+NOMBRE: Pumpkin Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055510.png

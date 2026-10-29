@@ -1,0 +1,8 @@
+ITEM ID: 203001334
+ICON ID: Icon_avatar_male_cos_top_junkfood
+NOMBRE: Burger Lad (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001334.png

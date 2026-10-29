@@ -1,0 +1,8 @@
+ITEM ID: 203052002
+ICON ID: Icon_avatar_male_cos_top_iiv_ct_black
+NOMBRE: Megumi Fushiguro Top
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203052002.png

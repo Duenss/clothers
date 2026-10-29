@@ -1,0 +1,8 @@
+ITEM ID: 903043009
+ICON ID: Icon_Deadloot_Rank38
+NOMBRE: Loot Box - S38 Exclusive: Ribbit
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903043009.png

@@ -1,0 +1,8 @@
+ITEM ID: 203047022
+ICON ID: Icon_avatar_male_cos_top_trend_man
+NOMBRE: Loveshot (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203047022.png

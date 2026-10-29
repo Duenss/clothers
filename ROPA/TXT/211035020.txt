@@ -1,0 +1,8 @@
+ITEM ID: 211035020
+ICON ID: Icon_avatar_cos_accessory_chameleon_red
+NOMBRE: Infernal Carnizard (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035020.png

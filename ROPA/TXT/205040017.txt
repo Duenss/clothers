@@ -1,0 +1,8 @@
+ITEM ID: 205040017
+ICON ID: Icon_avatar_male_cos_shoe_fashionist2
+NOMBRE: Matrix Boi (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205040017.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103343
+ICON ID: Icon_Fastbreaking22_Grenade
+NOMBRE: Grenade - Emerald Power
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103343.png

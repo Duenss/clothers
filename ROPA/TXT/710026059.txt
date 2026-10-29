@@ -1,0 +1,8 @@
+ITEM ID: 710026059
+ICON ID: Icon_bundle_Goliath_26
+NOMBRE: Black Shield Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Open to receive the Black Shield Bundle
+IMAGEN: ROPA/imagenes/710026059.png

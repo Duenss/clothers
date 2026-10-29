@@ -1,0 +1,8 @@
+ITEM ID: 904990072
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: 10 Years Old
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: The account is 10 years old
+IMAGEN: AVATARES/imagenes/904990072.png

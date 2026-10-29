@@ -1,0 +1,8 @@
+ITEM ID: 1310000096
+ICON ID: Icon_Pet_Hoodedkiller
+NOMBRE: Pet skin: Senu (Falco)
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Undying predator
+IMAGEN: MASCOTAS/imagenes/1310000096.png

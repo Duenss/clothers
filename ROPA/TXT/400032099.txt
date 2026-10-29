@@ -1,0 +1,8 @@
+ITEM ID: 400032099
+ICON ID: Icon_box_3
+NOMBRE: Box 100
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400032099.png

@@ -1,0 +1,8 @@
+ITEM ID: 921049019
+ICON ID: FF_UI_Voiceitem_EIGHTINF49_1
+NOMBRE: Haaaaappy birthday!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: 8th Anniversary Voice Pack
+IMAGEN: MUSICA/imagenes/921049019.png

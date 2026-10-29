@@ -1,0 +1,8 @@
+ITEM ID: 203045025
+ICON ID: Icon_avatar_cos_top_rank40
+NOMBRE: BR-Ranked S40 Heroic
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203045025.png

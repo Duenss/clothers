@@ -1,0 +1,8 @@
+ITEM ID: 801001638
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Mechanical Patch Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Celebrate our latest update!
+IMAGEN: CAJAS/imagenes/801001638.png

@@ -1,0 +1,8 @@
+ITEM ID: 902032003
+ICON ID: Icon_face_Steamwarrior_FP
+NOMBRE: Neon Dolly
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902032003.png

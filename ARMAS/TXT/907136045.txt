@@ -1,0 +1,8 @@
+ITEM ID: 907136045
+ICON ID: Icon_P90_Mambas
+NOMBRE: P90 - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136045.png

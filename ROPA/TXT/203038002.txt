@@ -1,0 +1,8 @@
+ITEM ID: 203038002
+ICON ID: Icon_avatar_cos_top_goal_jacket
+NOMBRE: Achiever Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038002.png

@@ -1,0 +1,8 @@
+ITEM ID: 904000104
+ICON ID: Icon_Bag_Royalguard_EP
+NOMBRE: Backpack - Forsaken Creed
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000104.png

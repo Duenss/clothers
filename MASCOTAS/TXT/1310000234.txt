@@ -1,0 +1,8 @@
+ITEM ID: 1310000234
+ICON ID: Icon_Pet_Wolf_Sugarskull22
+NOMBRE: Pet skin: Spectral Guide
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A hunter's enemy
+IMAGEN: MASCOTAS/imagenes/1310000234.png

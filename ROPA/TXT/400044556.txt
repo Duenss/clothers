@@ -1,0 +1,8 @@
+ITEM ID: 400044556
+ICON ID: Icon_box_3
+NOMBRE: Universal Tailor Token Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400044556.png

@@ -1,0 +1,8 @@
+ITEM ID: 906052005
+ICON ID: Icon_Avatar_Surfboard_Pisces_Blue
+NOMBRE: Skyboard - Rippling Ride
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906052005.png

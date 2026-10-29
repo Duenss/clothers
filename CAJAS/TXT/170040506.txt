@@ -1,0 +1,8 @@
+ITEM ID: 170040506
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Justice Choice Crate
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: Choose Wisely
+IMAGEN: CAJAS/imagenes/170040506.png

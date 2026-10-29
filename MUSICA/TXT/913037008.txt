@@ -1,0 +1,8 @@
+ITEM ID: 913037008
+ICON ID: FF_UI_Vault_Music_ID37
+NOMBRE: JKT48 - Feel The Fire
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Translated based on the Booyah Day Feel the Fire song
+IMAGEN: MUSICA/imagenes/913037008.png

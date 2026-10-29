@@ -1,0 +1,8 @@
+ITEM ID: 907103013
+ICON ID: Icon_Baseballbat_PKbat
+NOMBRE: Bat - Champion
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103013.png

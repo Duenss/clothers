@@ -1,0 +1,8 @@
+ITEM ID: 211034011
+ICON ID: Icon_avatar_female_cos_hair_roseperfume_red
+NOMBRE: Inferno Parfum (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034011.png

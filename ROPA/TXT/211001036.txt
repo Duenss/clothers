@@ -1,0 +1,8 @@
+ITEM ID: 211001036
+ICON ID: Icon_avatar_male_hair_cos_fallwinter
+NOMBRE: Sauce Swagger (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001036.png

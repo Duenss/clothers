@@ -1,0 +1,8 @@
+ITEM ID: 907002621
+ICON ID: Icon_MAG7_Executioner
+NOMBRE: MAG-7 - The Executioner
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002621.png

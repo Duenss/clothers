@@ -1,0 +1,8 @@
+ITEM ID: 400027112
+ICON ID: Icon_box_3
+NOMBRE: Night Ramadan Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains the many gifts of the night
+IMAGEN: ROPA/imagenes/400027112.png

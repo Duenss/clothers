@@ -1,0 +1,8 @@
+ITEM ID: 906000093
+ICON ID: Icon_Avatar_Surfboard_Borderlands_B
+NOMBRE: Skyboard - Wasteland Survivor
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000093.png

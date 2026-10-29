@@ -1,0 +1,8 @@
+ITEM ID: 908034009
+ICON ID: Icon_slot_TUTU_Winterdog
+NOMBRE: Tuk Tuk - Husky Pup
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034009.png

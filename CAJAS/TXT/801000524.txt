@@ -1,0 +1,8 @@
+ITEM ID: 801000524
+ICON ID: Icon_exchange_ob22_heroes_token
+NOMBRE: Heroes Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Free Fire can change the world for the better
+IMAGEN: CAJAS/imagenes/801000524.png

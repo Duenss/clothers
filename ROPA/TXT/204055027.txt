@@ -1,0 +1,8 @@
+ITEM ID: 204055027
+ICON ID: Icon_avatar_cos_bottom_halloween26_phantom
+NOMBRE: Cloaked Terror (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204055027.png

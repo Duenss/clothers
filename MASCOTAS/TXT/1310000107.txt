@@ -1,0 +1,8 @@
+ITEM ID: 1310000107
+ICON ID: Icon_Pet_Winterfest21
+NOMBRE: Pet Skin: Waggor On Ice
+TIPO: Pet Skin
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Look out for this guy! He will try everything to get hold of your presents!
+IMAGEN: MASCOTAS/imagenes/1310000107.png

@@ -1,0 +1,8 @@
+ITEM ID: 921048020
+ICON ID: FF_UI_Voiceitem_RUOK
+NOMBRE: You can heal
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: RUOK Voice Pack
+IMAGEN: MUSICA/imagenes/921048020.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001172
+ICON ID: Icon_box_3
+NOMBRE: New Year Box 2021
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy New Year!
+IMAGEN: ROPA/imagenes/400001172.png

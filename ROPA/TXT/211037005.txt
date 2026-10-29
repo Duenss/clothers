@@ -1,0 +1,8 @@
+ITEM ID: 211037005
+ICON ID: Icon_avatar_male_cos_hair_surveillance_yellow
+NOMBRE: Cloaked Doom (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037005.png

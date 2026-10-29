@@ -1,0 +1,8 @@
+ITEM ID: 400044096
+ICON ID: Icon_box_g18_38
+NOMBRE: Ultimate Achiever Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400044096.png

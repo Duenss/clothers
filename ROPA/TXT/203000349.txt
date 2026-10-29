@@ -1,0 +1,8 @@
+ITEM ID: 203000349
+ICON ID: Icon_avatar_cos_moneyheist_A
+NOMBRE: Top Criminal (Purple)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000349.png

@@ -1,0 +1,8 @@
+ITEM ID: 921055013
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_Pink
+NOMBRE: I think I've finally caught up to those two!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Sakura Voice Pack
+IMAGEN: MUSICA/imagenes/921055013.png

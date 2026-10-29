@@ -1,0 +1,8 @@
+ITEM ID: 211041042
+ICON ID: Icon_avatar_cos_accessory_designertoys_mask
+NOMBRE: Not Your Puppet Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041042.png

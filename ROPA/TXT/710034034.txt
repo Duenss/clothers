@@ -1,0 +1,8 @@
+ITEM ID: 710034034
+ICON ID: Icon_bundle_female_bloody_gangster_34
+NOMBRE: Painted Ghoul Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710034034.png

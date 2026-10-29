@@ -1,0 +1,8 @@
+ITEM ID: 908039008
+ICON ID: Icon_slot_MonsterTruck_Fastbreaking23
+NOMBRE: Monster Truck - Green Giant
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908039008.png

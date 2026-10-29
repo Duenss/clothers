@@ -1,0 +1,8 @@
+ITEM ID: 801046518
+ICON ID: Icon_exchange_Crown_Token_th_46
+NOMBRE: Golden Crown Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046518.png

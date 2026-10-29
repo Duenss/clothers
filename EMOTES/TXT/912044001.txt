@@ -1,0 +1,8 @@
+ITEM ID: 912044001
+ICON ID: Icon_GroupAnim_Persona
+NOMBRE: Paradox Descends
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912044001.png

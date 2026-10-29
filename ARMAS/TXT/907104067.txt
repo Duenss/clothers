@@ -1,0 +1,8 @@
+ITEM ID: 907104067
+ICON ID: Icon_HUD_RGS50
+NOMBRE: Rainbow Spray Rifle (Red)
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104067.png

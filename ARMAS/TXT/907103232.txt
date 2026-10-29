@@ -1,0 +1,8 @@
+ITEM ID: 907103232
+ICON ID: Icon_M1014_VNstreet
+NOMBRE: M1014 - Roaring Gunfighter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103232.png

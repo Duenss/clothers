@@ -1,0 +1,8 @@
+ITEM ID: 400026100
+ICON ID: Icon_box_3
+NOMBRE: CIS Valentine's Day Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: Happy Valentine's Day
+IMAGEN: ROPA/imagenes/400026100.png

@@ -1,0 +1,8 @@
+ITEM ID: 907105511
+ICON ID: Icon_M1873_Scorpio26
+NOMBRE: M1873 - Scorpio Sting
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105511.png

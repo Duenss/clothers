@@ -1,0 +1,8 @@
+ITEM ID: 204000374
+ICON ID: Icon_avatar_male_bottom_cos_Djmale_A
+NOMBRE: Alok's Beach Bod (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000374.png

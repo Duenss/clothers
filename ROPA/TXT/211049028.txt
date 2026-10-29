@@ -1,0 +1,8 @@
+ITEM ID: 211049028
+ICON ID: Icon_avatar_female_cos_accessory_coolguy
+NOMBRE: Iron Rose (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049028.png

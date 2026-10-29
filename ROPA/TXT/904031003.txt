@@ -1,0 +1,8 @@
+ITEM ID: 904031003
+ICON ID: Icon_Bag_Newyear21
+NOMBRE: Backpack - Ironthrasher
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904031003.png

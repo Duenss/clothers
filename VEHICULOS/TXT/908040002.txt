@@ -1,0 +1,8 @@
+ITEM ID: 908040002
+ICON ID: Icon_slot_SUV_Traphiphop22
+NOMBRE: Pickup Truck - City Rider
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908040002.png

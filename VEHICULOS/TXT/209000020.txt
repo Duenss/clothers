@@ -1,0 +1,8 @@
+ITEM ID: 209000020
+ICON ID: Icon_Avatar_PARACHUTE_Taurus
+NOMBRE: Parachute - Taurus
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/209000020.png

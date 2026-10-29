@@ -1,0 +1,8 @@
+ITEM ID: 246955026
+ICON ID: Pet_Spark3_Head_ElephantHat_Red
+NOMBRE: Red Elephant Hat
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Red Elephant Hat
+IMAGEN: MASCOTAS/imagenes/246955026.png

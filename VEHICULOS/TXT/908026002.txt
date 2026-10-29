@@ -1,0 +1,8 @@
+ITEM ID: 908026002
+ICON ID: Icon_slot_SUV_Alicehatter
+NOMBRE: Pickup Truck - Willful Wonders
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908026002.png

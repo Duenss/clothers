@@ -1,0 +1,8 @@
+ITEM ID: 204000822
+ICON ID: Icon_avatar_cos_bottom_brfootball_blue
+NOMBRE: CBF Football Jersey - Blue (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000822.png

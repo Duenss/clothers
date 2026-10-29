@@ -1,0 +1,8 @@
+ITEM ID: 407103717
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Haunt's Outrage (M14 + AWM) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (M14 + AWM) from the Haunt's Outrage weapon set
+IMAGEN: ARMAS/imagenes/407103717.png

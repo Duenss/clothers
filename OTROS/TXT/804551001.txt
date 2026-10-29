@@ -1,0 +1,8 @@
+ITEM ID: 804551001
+ICON ID: UI_CraftGem_UGC_Token
+NOMBRE: CraftGem
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: 1. How to get CraftGems: Purchase them in the store.\n2. How to use CraftGems: Spend them on your maps to exchange for in-game items.
+IMAGEN: OTROS/imagenes/804551001.png

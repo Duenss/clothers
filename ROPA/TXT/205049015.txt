@@ -1,0 +1,8 @@
+ITEM ID: 205049015
+ICON ID: Icon_avatar_female_cos_shoe_collage25
+NOMBRE: Scrapbook Stylist (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049015.png

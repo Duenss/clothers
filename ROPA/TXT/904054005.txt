@@ -1,0 +1,8 @@
+ITEM ID: 904054005
+ICON ID: Icon_Bag_Apple_GR
+NOMBRE: Backpack - Apple Juice
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904054005.png

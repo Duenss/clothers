@@ -1,0 +1,8 @@
+ITEM ID: 913042001
+ICON ID: FF_UI_Vault_Music_Winterland23B
+NOMBRE: Winterlands: Frostfire
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Winterlands 2023 lobby music
+IMAGEN: MUSICA/imagenes/913042001.png

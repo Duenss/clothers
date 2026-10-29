@@ -1,0 +1,8 @@
+ITEM ID: 907104334
+ICON ID: Icon_SKS_Electricity24
+NOMBRE: SKS - High Voltage
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104334.png

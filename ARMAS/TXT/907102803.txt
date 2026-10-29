@@ -1,0 +1,8 @@
+ITEM ID: 907102803
+ICON ID: Icon_Baseballbat_Pursuer
+NOMBRE: Bat - Most Wanted
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102803.png

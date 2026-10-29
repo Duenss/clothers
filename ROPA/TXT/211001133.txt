@@ -1,0 +1,8 @@
+ITEM ID: 211001133
+ICON ID: Icon_avatar_male_cos_hair_booyahday21_purple
+NOMBRE: Beta Flameborn (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001133.png

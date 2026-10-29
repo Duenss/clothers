@@ -1,0 +1,8 @@
+ITEM ID: 904044003
+ICON ID: Icon_Bag_Persona
+NOMBRE: Backpack - Paradox Box
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904044003.png

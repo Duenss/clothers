@@ -1,0 +1,8 @@
+ITEM ID: 205000818
+ICON ID: Icon_avatar_male_cos_shoe_goldenleo
+NOMBRE: Golden Roar (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000818.png

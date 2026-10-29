@@ -1,0 +1,8 @@
+ITEM ID: 211034055
+ICON ID: Icon_avatar_male_cos_hair_rampage4_fire_yellow
+NOMBRE: Saturn Evilstriker (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034055.png

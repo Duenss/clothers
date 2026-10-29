@@ -1,0 +1,8 @@
+ITEM ID: 203033021
+ICON ID: Icon_avatar_male_cos_top_spiderlily_a
+NOMBRE: Shinobi Ablaze - Modern (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203033021.png

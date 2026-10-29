@@ -1,0 +1,8 @@
+ITEM ID: 901027030
+ICON ID: Icon_callsign_storebg_CSRANK_TOP_LV3
+NOMBRE: Clash Squad Grandmaster 3
+TIPO: Banners
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901027030.png

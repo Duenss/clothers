@@ -1,0 +1,8 @@
+ITEM ID: 913052001
+ICON ID: FF_UI_Vault_Music_IIV
+NOMBRE: Awakening Path
+TIPO: Music
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Jujutsu Kaisen collaboration theme song
+IMAGEN: MUSICA/imagenes/913052001.png

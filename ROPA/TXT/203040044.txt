@@ -1,0 +1,8 @@
+ITEM ID: 203040044
+ICON ID: Icon_avatar_cos_top_board
+NOMBRE: State Wars Champ (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040044.png

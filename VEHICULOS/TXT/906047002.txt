@@ -1,0 +1,8 @@
+ITEM ID: 906047002
+ICON ID: Icon_Avatar_Surfboard_Aurora
+NOMBRE: Skyboard - Aurora Kickflip
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906047002.png

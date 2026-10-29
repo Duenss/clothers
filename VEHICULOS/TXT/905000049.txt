@@ -1,0 +1,8 @@
+ITEM ID: 905000049
+ICON ID: Icon_Avatar_PARACHUTE_Jajuar
+NOMBRE: Parachute - Duo Threat
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000049.png

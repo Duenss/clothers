@@ -1,0 +1,8 @@
+ITEM ID: 910035003
+ICON ID: Pin_Small_Fire_MY
+NOMBRE: Heated Up Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910035003.png

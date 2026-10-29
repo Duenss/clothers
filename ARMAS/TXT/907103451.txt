@@ -1,0 +1,8 @@
+ITEM ID: 907103451
+ICON ID: Icon_MP5_Greenghost_Hand
+NOMBRE: MP5 - Cyan Ghost
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103451.png

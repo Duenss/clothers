@@ -1,0 +1,8 @@
+ITEM ID: 205055033
+ICON ID: Icon_avatar_cos_shoe_ninja_watermelon_fp
+NOMBRE: Melon Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055033.png

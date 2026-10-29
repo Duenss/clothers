@@ -1,0 +1,8 @@
+ITEM ID: 205000682
+ICON ID: Icon_avatar_male_sc_falconer_shoe
+NOMBRE: The Falconer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000682.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104824
+ICON ID: Icon_Machete_Fashionsuit
+NOMBRE: Parang - Urban Escapade
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104824.png

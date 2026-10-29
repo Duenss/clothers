@@ -1,0 +1,8 @@
+ITEM ID: 400028137
+ICON ID: Icon_box_3
+NOMBRE: Xtreme Adventure Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Contains Xtreme Adventure Gun Skin Series
+IMAGEN: ROPA/imagenes/400028137.png

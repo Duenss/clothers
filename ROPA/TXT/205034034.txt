@@ -1,0 +1,8 @@
+ITEM ID: 205034034
+ICON ID: Icon_avatar_male_cos_shoe_bloody_gangster
+NOMBRE: Painted Wraith (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205034034.png

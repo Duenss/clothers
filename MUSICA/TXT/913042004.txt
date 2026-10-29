@@ -1,0 +1,8 @@
+ITEM ID: 913042004
+ICON ID: FF_UI_Vault_Music_Diwali23B
+NOMBRE: Kill Chori
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Diwali Festival Theme Song
+IMAGEN: MUSICA/imagenes/913042004.png

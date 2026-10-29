@@ -1,0 +1,8 @@
+ITEM ID: 902030010
+ICON ID: Icon_face_male_head_sc_Sugarskull21_Q
+NOMBRE: Otho Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030010.png

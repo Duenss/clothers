@@ -1,0 +1,8 @@
+ITEM ID: 801000914
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Eid al-Fitr Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Eid al-Fitr
+IMAGEN: CAJAS/imagenes/801000914.png

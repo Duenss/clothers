@@ -1,0 +1,8 @@
+ITEM ID: 203036013
+ICON ID: Icon_avatar_female_cos_top_halloween22
+NOMBRE: Duchess of Terrorland (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036013.png

@@ -1,0 +1,8 @@
+ITEM ID: 909044004
+ICON ID: Icon_Emote_Festivalme_24
+NOMBRE: Happy Lamb Shouldering
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044004.png

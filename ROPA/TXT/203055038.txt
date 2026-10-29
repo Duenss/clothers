@@ -1,0 +1,8 @@
+ITEM ID: 203055038
+ICON ID: Icon_avatar_male_cos_top_th_cupnoodle_ct
+NOMBRE: MAMA (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203055038.png

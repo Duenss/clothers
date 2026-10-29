@@ -1,0 +1,8 @@
+ITEM ID: 801041511
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Ink Crow Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB41
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801041511.png

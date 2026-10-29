@@ -1,0 +1,8 @@
+ITEM ID: 801046513
+ICON ID: Icon_exchange_Ball_Token_us-es_46
+NOMBRE: Ball Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046513.png

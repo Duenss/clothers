@@ -1,0 +1,8 @@
+ITEM ID: 102000014
+ICON ID: Icon_face_male_head_sc_Playboy
+NOMBRE: Joseph
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Joseph is a well-known physicist, but he is also a player.
+IMAGEN: PERSONAJES/imagenes/102000014.png

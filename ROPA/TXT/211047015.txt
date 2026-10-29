@@ -1,0 +1,8 @@
+ITEM ID: 211047015
+ICON ID: Icon_avatar_male_cos_accessory_catdog
+NOMBRE: 24K Woof (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047015.png

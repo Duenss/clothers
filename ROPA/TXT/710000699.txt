@@ -1,0 +1,8 @@
+ITEM ID: 710000699
+ICON ID: Icon_male_summer20
+NOMBRE: Summer Heart-Throb Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000699.png

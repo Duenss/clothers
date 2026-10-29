@@ -1,0 +1,8 @@
+ITEM ID: 205037020
+ICON ID: Icon_avatar_female_cos_shoe_childrensday22
+NOMBRE: Chicky Chic (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037020.png

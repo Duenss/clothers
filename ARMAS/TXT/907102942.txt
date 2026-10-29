@@ -1,0 +1,8 @@
+ITEM ID: 907102942
+ICON ID: Icon_Mocomonth_Grenade
+NOMBRE: Grenade - Glo Rubik
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102942.png

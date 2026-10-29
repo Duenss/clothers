@@ -1,0 +1,8 @@
+ITEM ID: 902038024
+ICON ID: Icon_face_VN_KOL1
+NOMBRE: Thumbs Up Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038024.png

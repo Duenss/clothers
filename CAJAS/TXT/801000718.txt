@@ -1,0 +1,8 @@
+ITEM ID: 801000718
+ICON ID: Icon_exchange_ob25_wishing_shard
+NOMBRE: Wishing Shard
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB25
+DESCRIPCION: May your wish come true
+IMAGEN: CAJAS/imagenes/801000718.png

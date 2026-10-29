@@ -1,0 +1,8 @@
+ITEM ID: 904050010
+ICON ID: Icon_Bag_Batik
+NOMBRE: Backpack - Twilight Emissary
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050010.png

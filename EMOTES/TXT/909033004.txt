@@ -1,0 +1,8 @@
+ITEM ID: 909033004
+ICON ID: Icon_Emote_Luchalibre_Stroke
+NOMBRE: Drop Kick
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909033004.png

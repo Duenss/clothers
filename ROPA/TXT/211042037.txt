@@ -1,0 +1,8 @@
+ITEM ID: 211042037
+ICON ID: Icon_avatar_cos_accessory_winterfest23_mask
+NOMBRE: Icy Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042037.png

@@ -1,0 +1,8 @@
+ITEM ID: 400029107
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Happy 4th Anniversary Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Open up to get amazing rewards
+IMAGEN: CAJAS/imagenes/400029107.png

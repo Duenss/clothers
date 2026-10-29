@@ -1,0 +1,8 @@
+ITEM ID: 400042127
+ICON ID: Icon_box_woodpecker_42
+NOMBRE: Majestic Prowler (Woodpecker) Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042127.png

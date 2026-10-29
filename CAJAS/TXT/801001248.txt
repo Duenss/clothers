@@ -1,0 +1,8 @@
+ITEM ID: 801001248
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FFIM Royal Gold Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Royal color for the champions of the compeitition
+IMAGEN: CAJAS/imagenes/801001248.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000183
+ICON ID: Icon_box_highlevel_red
+NOMBRE: National Defence Day
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: A bundle to commemorate the foundation of People's Army of Viet Nam.
+IMAGEN: ROPA/imagenes/710000183.png

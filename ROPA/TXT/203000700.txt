@@ -1,0 +1,8 @@
+ITEM ID: 203000700
+ICON ID: Icon_avatar_cos_jeandino
+NOMBRE: Denim Dino
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000700.png

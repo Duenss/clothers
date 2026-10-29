@@ -1,0 +1,8 @@
+ITEM ID: 400000055
+ICON ID: Icon_box_highlevel_yellow
+NOMBRE: Lucky Collection Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random collection with a chance for an ultra rare one.
+IMAGEN: CAJAS/imagenes/400000055.png

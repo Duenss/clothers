@@ -1,0 +1,8 @@
+ITEM ID: 205000059
+ICON ID: Icon_avatar_male_shoe_cos_JK_blue
+NOMBRE: For scholars
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000059.png

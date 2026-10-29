@@ -1,0 +1,8 @@
+ITEM ID: 400000139
+ICON ID: Icon_box_3
+NOMBRE: Pink Heaven Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Pink Heaven Weapon Set.
+IMAGEN: ROPA/imagenes/400000139.png

@@ -1,0 +1,8 @@
+ITEM ID: 914039001
+ICON ID: FF_UI_Transform_icon_Scarlet
+NOMBRE: Scorpio Look Changer
+TIPO: Look Changer
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914039001.png

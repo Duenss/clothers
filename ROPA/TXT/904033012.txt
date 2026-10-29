@@ -1,0 +1,8 @@
+ITEM ID: 904033012
+ICON ID: Icon_Bag_Boyband
+NOMBRE: Backpack - Blush Flush
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033012.png

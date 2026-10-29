@@ -1,0 +1,8 @@
+ITEM ID: 214034002
+ICON ID: Icon_avatar_male_cos_headadditive_cyberwasp
+NOMBRE: Cyberoid Stinger (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214034002.png

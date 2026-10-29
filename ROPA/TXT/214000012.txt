@@ -1,0 +1,8 @@
+ITEM ID: 214000012
+ICON ID: Icon_avatar_female_headadditive_cos_richboxer
+NOMBRE: Queen Boxer (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000012.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000966
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gold Star Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Shinning in the darkness
+IMAGEN: CAJAS/imagenes/801000966.png

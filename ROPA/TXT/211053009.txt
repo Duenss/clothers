@@ -1,0 +1,8 @@
+ITEM ID: 211053009
+ICON ID: Icon_avatar_female_cos_accessory_sketch
+NOMBRE: Sculpted Elegance (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053009.png

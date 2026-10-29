@@ -1,0 +1,8 @@
+ITEM ID: 203000211
+ICON ID: Icon_avatar_male_jacket_hiphop_EP
+NOMBRE: Scribblings
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000211.png

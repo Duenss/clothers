@@ -1,0 +1,8 @@
+ITEM ID: 929005402
+ICON ID: Icon_Photostickeritem_Nineth_01
+NOMBRE: 9th Anniversary Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: 9th Anniversary Sticker
+IMAGEN: AVATARES/imagenes/929005402.png

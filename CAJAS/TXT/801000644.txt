@@ -1,0 +1,8 @@
+ITEM ID: 801000644
+ICON ID: Icon_exchange_ob24_Pink_Quartz
+NOMBRE: Pink Quartz
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000644.png

@@ -1,0 +1,8 @@
+ITEM ID: 214047002
+ICON ID: Icon_avatar_cos_headadditive_aurora_white
+NOMBRE: Aurora Calling (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214047002.png

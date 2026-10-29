@@ -1,0 +1,8 @@
+ITEM ID: 907103138
+ICON ID: Icon_FIST_Soulhunter
+NOMBRE: Fist - Phantom
+TIPO: Fist Skins
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103138.png

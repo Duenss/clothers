@@ -1,0 +1,8 @@
+ITEM ID: 907104858
+ICON ID: Icon_GlooShield_CSRank30
+NOMBRE: Gloo Wall - CS-Ranked Goal: Firefly
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104858.png

@@ -1,0 +1,8 @@
+ITEM ID: 400031103
+ICON ID: Icon_box_3
+NOMBRE: Desi Gangster Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Contains Desi Gangster and all it's pieces
+IMAGEN: ROPA/imagenes/400031103.png

@@ -1,0 +1,8 @@
+ITEM ID: 901048024
+ICON ID: Icon_callsign_storebg_LW_ID25_04
+NOMBRE: LW-Ranked Heroic Wolf Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901048024.png

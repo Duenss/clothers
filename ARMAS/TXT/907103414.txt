@@ -1,0 +1,8 @@
+ITEM ID: 907103414
+ICON ID: Icon_UMP45_BIS
+NOMBRE: UMP - Digital Dasher
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103414.png

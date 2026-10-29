@@ -1,0 +1,8 @@
+ITEM ID: 907010049
+ICON ID: Icon_GlooShield_bunker_ao
+NOMBRE: Gloo Wall - Bunker
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907010049.png

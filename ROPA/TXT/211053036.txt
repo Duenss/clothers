@@ -1,0 +1,8 @@
+ITEM ID: 211053036
+ICON ID: Icon_avatar_cos_hair_bluetears_free
+NOMBRE: Dolphin Hat
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053036.png

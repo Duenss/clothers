@@ -1,0 +1,8 @@
+ITEM ID: 907104646
+ICON ID: Icon_GlooShield_Booyahday24_Team
+NOMBRE: Gloo Wall - Booyah Champ
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104646.png

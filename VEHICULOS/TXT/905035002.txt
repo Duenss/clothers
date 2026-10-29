@@ -1,0 +1,8 @@
+ITEM ID: 905035002
+ICON ID: Icon_Avatar_PARACHUTE_Deepseasharks
+NOMBRE: Parachute - Flesh Devourer
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905035002.png

@@ -1,0 +1,8 @@
+ITEM ID: 211051025
+ICON ID: Icon_avatar_female_cos_hair_stylish
+NOMBRE: Trendy Monster (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051025.png

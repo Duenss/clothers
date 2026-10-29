@@ -1,0 +1,8 @@
+ITEM ID: 801000594
+ICON ID: Icon_exchange_ob23_white_mask_token
+NOMBRE: White Mask Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Basic Protection
+IMAGEN: CAJAS/imagenes/801000594.png

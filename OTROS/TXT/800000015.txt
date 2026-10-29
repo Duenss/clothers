@@ -1,0 +1,8 @@
+ITEM ID: 800000015
+ICON ID: Icon_face_male_sc_Samurai
+NOMBRE: Memory Fragment (Hayato)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000015.png

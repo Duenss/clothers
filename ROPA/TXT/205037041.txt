@@ -1,0 +1,8 @@
+ITEM ID: 205037041
+ICON ID: Icon_avatar_male_cos_shoe_ffws2022_basic
+NOMBRE: Navy Starsea (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205037041.png

@@ -1,0 +1,8 @@
+ITEM ID: 211001062
+ICON ID: Icon_avatar_female_cos_hair_goldenwing
+NOMBRE: Amber Megacypher (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001062.png

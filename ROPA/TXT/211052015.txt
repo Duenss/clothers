@@ -1,0 +1,8 @@
+ITEM ID: 211052015
+ICON ID: Icon_avatar_male_cos_accessory_carnival26
+NOMBRE: Beat Beast (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052015.png

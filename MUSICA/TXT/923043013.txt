@@ -1,0 +1,8 @@
+ITEM ID: 923043013
+ICON ID: FF_UI_Voiceitem_CHAOS43
+NOMBRE: Let's blow it up!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: The Chaos event reward
+IMAGEN: MUSICA/imagenes/923043013.png

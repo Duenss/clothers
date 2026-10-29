@@ -1,0 +1,8 @@
+ITEM ID: 770000006
+ICON ID: Icon_box_3
+NOMBRE: Daily Bonus Reward
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: M60 - Ice Blossoms
+IMAGEN: ROPA/imagenes/770000006.png

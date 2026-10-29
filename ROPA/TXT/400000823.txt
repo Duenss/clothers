@@ -1,0 +1,8 @@
+ITEM ID: 400000823
+ICON ID: Icon_box_3
+NOMBRE: Ottero
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Cute pet
+IMAGEN: ROPA/imagenes/400000823.png

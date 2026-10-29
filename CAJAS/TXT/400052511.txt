@@ -1,0 +1,8 @@
+ITEM ID: 400052511
+ICON ID: Icon_box_SANDB_US-ES_52
+NOMBRE: Sand Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400052511.png

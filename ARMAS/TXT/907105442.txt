@@ -1,0 +1,8 @@
+ITEM ID: 907105442
+ICON ID: Icon_FO12_Mambas
+NOMBRE: Unknown
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105442.png

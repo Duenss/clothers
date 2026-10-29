@@ -1,0 +1,8 @@
+ITEM ID: 400000481
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: SCAR Phantom Assassin Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for the SCAR Phantom Assassin.
+IMAGEN: CAJAS/imagenes/400000481.png

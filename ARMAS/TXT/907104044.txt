@@ -1,0 +1,8 @@
+ITEM ID: 907104044
+ICON ID: Icon_GlooShield_Speed
+NOMBRE: Gloo Wall - Sonorous Heart
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104044.png

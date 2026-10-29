@@ -1,0 +1,8 @@
+ITEM ID: 710034002
+ICON ID: FF_Icon_sc_rhythmgirl_sc_deluxe
+NOMBRE: A-Patroa's Sound Crafter Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Contains A-Patroa character, A-Patroa's outfit, and 900 Universal Fragments
+IMAGEN: ROPA/imagenes/710034002.png

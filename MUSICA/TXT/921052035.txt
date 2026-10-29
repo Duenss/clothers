@@ -1,0 +1,8 @@
+ITEM ID: 921052035
+ICON ID: FF_UI_Voiceitem_EsEaster
+NOMBRE: We're so done!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Auron Funny Voice Pack 1
+IMAGEN: MUSICA/imagenes/921052035.png

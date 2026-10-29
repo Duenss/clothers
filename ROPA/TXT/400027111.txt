@@ -1,0 +1,8 @@
+ITEM ID: 400027111
+ICON ID: Icon_box_3
+NOMBRE: Cyber Bunny Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Cyber Bunny and all its pieces
+IMAGEN: ROPA/imagenes/400027111.png

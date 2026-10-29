@@ -1,0 +1,8 @@
+ITEM ID: 400000591
+ICON ID: Icon_face_female_sc_JunkEngineer
+NOMBRE: Shani's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to Receive Memory Fragment (Shani)
+IMAGEN: CAJAS/imagenes/400000591.png

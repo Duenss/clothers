@@ -1,0 +1,8 @@
+ITEM ID: 211039036
+ICON ID: Icon_avatar_male_cos_hair_fastbreaking23
+NOMBRE: Adventuring Hero (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039036.png

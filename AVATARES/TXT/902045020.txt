@@ -1,0 +1,8 @@
+ITEM ID: 902045020
+ICON ID: Icon_face_POPID_7th_Marsha
+NOMBRE: JKT48 - Marsha: Happy 7th! Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902045020.png

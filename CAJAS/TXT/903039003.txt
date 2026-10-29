@@ -1,0 +1,8 @@
+ITEM ID: 903039003
+ICON ID: Icon_Deadloot_Growth
+NOMBRE: Loot Box - Teal Core
+TIPO: Loot Box
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903039003.png

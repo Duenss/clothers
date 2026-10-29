@@ -1,0 +1,8 @@
+ITEM ID: 203035048
+ICON ID: Icon_avatar_cos_top_cateam_02
+NOMBRE: Club America Away (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035048.png

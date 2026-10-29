@@ -1,0 +1,8 @@
+ITEM ID: 205053004
+ICON ID: Icon_avatar_cos_shoe_sh_duck
+NOMBRE: Elizabeth Shoes
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205053004.png

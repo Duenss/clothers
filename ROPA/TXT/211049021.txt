@@ -1,0 +1,8 @@
+ITEM ID: 211049021
+ICON ID: Icon_avatar_female_cos_hair_pureblack
+NOMBRE: Masked Tactician (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049021.png

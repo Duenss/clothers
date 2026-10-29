@@ -1,0 +1,8 @@
+ITEM ID: 211041046
+ICON ID: Icon_avatar_male_cos_hair_fisherman_basic
+NOMBRE: The Reel Style (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041046.png

@@ -1,0 +1,8 @@
+ITEM ID: 205036031
+ICON ID: Icon_avatar_male_cos_shoe_fantasy
+NOMBRE: Dapper Fantasy (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036031.png

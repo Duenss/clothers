@@ -1,0 +1,8 @@
+ITEM ID: 801000819
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Pink Diamond
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000819.png

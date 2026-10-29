@@ -1,0 +1,8 @@
+ITEM ID: 801000240
+ICON ID: Icon_exchange_FF_ball
+NOMBRE: FF Festive Ball
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000240.png

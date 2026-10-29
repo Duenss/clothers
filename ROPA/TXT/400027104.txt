@@ -1,0 +1,8 @@
+ITEM ID: 400027104
+ICON ID: Icon_box_3
+NOMBRE: Midnight Mafia Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Midnight Mafia and all its pieces
+IMAGEN: ROPA/imagenes/400027104.png

@@ -1,0 +1,8 @@
+ITEM ID: 913046007
+ICON ID: FF_UI_Vault_Music_Sugarskull24
+NOMBRE: Death Accompanies Me (Rock)
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Day of the Dead 2024 lobby music
+IMAGEN: MUSICA/imagenes/913046007.png

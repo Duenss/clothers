@@ -1,0 +1,8 @@
+ITEM ID: 400000917
+ICON ID: Icon_box_3
+NOMBRE: Emote Obliteration Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Emote Obliteration and other rewards
+IMAGEN: ROPA/imagenes/400000917.png

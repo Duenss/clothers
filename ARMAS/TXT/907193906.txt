@@ -1,0 +1,8 @@
+ITEM ID: 907193906
+ICON ID: Icon_Thompson_Gargoyle_03
+NOMBRE: Thompson - Cindered Colossus
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907193906.png

@@ -1,0 +1,8 @@
+ITEM ID: 921046021
+ICON ID: FF_UI_Voiceitem_IH46
+NOMBRE: Waat lag gayi
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Bolly Boli Voice Pack
+IMAGEN: MUSICA/imagenes/921046021.png

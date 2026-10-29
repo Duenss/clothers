@@ -1,0 +1,8 @@
+ITEM ID: 400000664
+ICON ID: Icon_box_newplayer
+NOMBRE: Loot Box Skins Crate (Permanent)
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive permanent loot box skin
+IMAGEN: CAJAS/imagenes/400000664.png

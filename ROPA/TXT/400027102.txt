@@ -1,0 +1,8 @@
+ITEM ID: 400027102
+ICON ID: Icon_box_3
+NOMBRE: Rosy Grin Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Rosy Grin and all its pieces
+IMAGEN: ROPA/imagenes/400027102.png

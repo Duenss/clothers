@@ -1,0 +1,8 @@
+ITEM ID: 801001386
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Loving Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Happy Valentine's day!
+IMAGEN: CAJAS/imagenes/801001386.png

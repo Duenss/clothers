@@ -1,0 +1,8 @@
+ITEM ID: 901032002
+ICON ID: Icon_callsign_storebg_Steamwarrior_B
+NOMBRE: Machine Dolly
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901032002.png

@@ -1,0 +1,8 @@
+ITEM ID: 908046006
+ICON ID: Icon_slot_Jeep_Glooworld
+NOMBRE: Jeep - Gloo Vroom
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908046006.png

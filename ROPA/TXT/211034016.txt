@@ -1,0 +1,8 @@
+ITEM ID: 211034016
+ICON ID: Icon_avatar_cos_hair_winterdog
+NOMBRE: Husky Fluff (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034016.png

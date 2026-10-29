@@ -1,0 +1,8 @@
+ITEM ID: 906042005
+ICON ID: Icon_Avatar_Surfboard_Jumpsuit_Ghosts
+NOMBRE: Skyboard - Top Criminal (Ghost)
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906042005.png

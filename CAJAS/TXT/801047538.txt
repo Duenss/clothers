@@ -1,0 +1,8 @@
+ITEM ID: 801047538
+ICON ID: Icon_exchange_GT1_th_47
+NOMBRE: Garnier Token 2
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047538.png

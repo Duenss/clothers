@@ -1,0 +1,8 @@
+ITEM ID: 904041003
+ICON ID: Icon_Bag_Fisherman_FP
+NOMBRE: Backpack - Reel Fish
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904041003.png

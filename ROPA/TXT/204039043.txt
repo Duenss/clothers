@@ -1,0 +1,8 @@
+ITEM ID: 204039043
+ICON ID: Icon_avatar_male_cos_bottom_scarlet_blue
+NOMBRE: Frigid Scorpio (Bottom)
+TIPO: Bottom
+RAREZA: RED (Artifact)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204039043.png

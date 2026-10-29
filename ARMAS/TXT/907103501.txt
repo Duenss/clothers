@@ -1,0 +1,8 @@
+ITEM ID: 907103501
+ICON ID: Icon_UMP45_Ugc
+NOMBRE: UMP - Creative Fighters
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103501.png

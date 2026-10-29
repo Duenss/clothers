@@ -1,0 +1,8 @@
+ITEM ID: 907104133
+ICON ID: Icon_PP19_Potentia_Basic
+NOMBRE: Bizon - Fundamentality
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104133.png

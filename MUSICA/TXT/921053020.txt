@@ -1,0 +1,8 @@
+ITEM ID: 921053020
+ICON ID: FF_UI_Voiceitem_RonaldoBR53
+NOMBRE: They are letting us dream!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: The Ronaldinho Gaúcho voice pack
+IMAGEN: MUSICA/imagenes/921053020.png

@@ -1,0 +1,8 @@
+ITEM ID: 710000859
+ICON ID: Icon_bundle_Megapunch_25
+NOMBRE: One Punch Man Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exclusive One Punch Man gifts
+IMAGEN: ROPA/imagenes/710000859.png

@@ -1,0 +1,8 @@
+ITEM ID: 801047517
+ICON ID: Icon_exchange_J2T_vn_47
+NOMBRE: Jan 2025 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047517.png

@@ -1,0 +1,8 @@
+ITEM ID: 903053007
+ICON ID: Icon_Deadloot_Gemini25
+NOMBRE: Loot Box - Twinstars Wagon
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903053007.png

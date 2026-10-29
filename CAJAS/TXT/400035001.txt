@@ -1,0 +1,8 @@
+ITEM ID: 400035001
+ICON ID: Icon_face_male_sc_Singers
+NOMBRE: J.Biebs' Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains J.Biebs' Memory Fragment
+IMAGEN: CAJAS/imagenes/400035001.png

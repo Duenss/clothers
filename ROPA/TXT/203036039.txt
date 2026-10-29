@@ -1,0 +1,8 @@
+ITEM ID: 203036039
+ICON ID: Icon_avatar_cos_top_soccer_ro
+NOMBRE: Amber Triumph (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203036039.png

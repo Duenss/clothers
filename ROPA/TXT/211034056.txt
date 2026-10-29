@@ -1,0 +1,8 @@
+ITEM ID: 211034056
+ICON ID: Icon_avatar_male_cos_hair_rampage4_fire_blue
+NOMBRE: Neptune Icestomper (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034056.png

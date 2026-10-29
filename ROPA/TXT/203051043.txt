@@ -1,0 +1,8 @@
+ITEM ID: 203051043
+ICON ID: Icon_avatar_cos_top_ffws25_12
+NOMBRE: All Gamers Global Jersey
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203051043.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104222
+ICON ID: Icon_AWM_Theboy
+NOMBRE: AWM - Frostfire Snip
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104222.png

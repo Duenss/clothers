@@ -1,0 +1,8 @@
+ITEM ID: 801049021
+ICON ID: Icon_exchange_Seafood_Sys_3_49
+NOMBRE: Dalgona Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049021.png

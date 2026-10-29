@@ -1,0 +1,8 @@
+ITEM ID: 102000037
+ICON ID: Icon_face_male_head_sc_Tracker
+NOMBRE: Homer
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Homer is a blind assassin whose other senses more than make up for his lost one.
+IMAGEN: PERSONAJES/imagenes/102000037.png

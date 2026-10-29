@@ -1,0 +1,8 @@
+ITEM ID: 170042518
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Choice Box 10
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170042518.png

@@ -1,0 +1,8 @@
+ITEM ID: 909000038
+ICON ID: Icon_Emote_Moco
+NOMBRE: Power of money
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000038.png

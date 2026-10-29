@@ -1,0 +1,8 @@
+ITEM ID: 901036020
+ICON ID: Icon_callsign_storebg_Rank31_05
+NOMBRE: BR-Ranked S31 Heroic Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036020.png

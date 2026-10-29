@@ -1,0 +1,8 @@
+ITEM ID: 801047101
+ICON ID: Icon_exchange_ntk1_47
+NOMBRE: Naruto Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047101.png

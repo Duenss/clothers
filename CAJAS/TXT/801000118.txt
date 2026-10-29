@@ -1,0 +1,8 @@
+ITEM ID: 801000118
+ICON ID: Icon_exchange_Ta_jil
+NOMBRE: Ta'jil Badge
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000118.png

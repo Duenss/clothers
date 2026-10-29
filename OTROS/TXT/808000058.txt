@@ -1,0 +1,8 @@
+ITEM ID: 808000058
+ICON ID: FF_Icon_Blueprint_Base
+NOMBRE: Blueprint: Sunrise Realm
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtained mainly from the Incubator and is a required ingredient to craft the Sunrise Realm set
+IMAGEN: OTROS/imagenes/808000058.png

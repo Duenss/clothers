@@ -1,0 +1,8 @@
+ITEM ID: 211048048
+ICON ID: Icon_avatar_cos_hair_comic24_fp
+NOMBRE: Manga Lover (Head)
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211048048.png

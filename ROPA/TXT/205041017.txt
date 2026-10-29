@@ -1,0 +1,8 @@
+ITEM ID: 205041017
+ICON ID: Icon_avatar_male_cos_shoe_urbanblock
+NOMBRE: Concrete Warrior (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205041017.png

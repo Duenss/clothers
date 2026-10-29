@@ -1,0 +1,8 @@
+ITEM ID: 211047041
+ICON ID: Icon_avatar_female_cos_hair_brrapper_47
+NOMBRE: Groupie Style (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047041.png

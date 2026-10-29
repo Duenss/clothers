@@ -1,0 +1,8 @@
+ITEM ID: 909051011
+ICON ID: Icon_Emote_Sugarskull25
+NOMBRE: Twisted Stare
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909051011.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104745
+ICON ID: Icon_Fist_NB
+NOMBRE: Fist - Ninjutsu Theme
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104745.png

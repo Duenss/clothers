@@ -1,0 +1,8 @@
+ITEM ID: 902039002
+ICON ID: Icon_face_Fishtank_EP
+NOMBRE: Bubble Waters Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039002.png

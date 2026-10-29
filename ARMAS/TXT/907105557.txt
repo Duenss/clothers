@@ -1,0 +1,8 @@
+ITEM ID: 907105557
+ICON ID: Icon_GlooShield_Spiritmask
+NOMBRE: Gloo Wall - Masked Boutique
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105557.png

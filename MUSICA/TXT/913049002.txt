@@ -1,0 +1,8 @@
+ITEM ID: 913049002
+ICON ID: FF_UI_Vault_Music_PONY49
+NOMBRE: Rush
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: The theme song of the new map Solara
+IMAGEN: MUSICA/imagenes/913049002.png

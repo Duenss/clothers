@@ -1,0 +1,8 @@
+ITEM ID: 209000013
+ICON ID: Icon_avatar_parachute_12
+NOMBRE: Parachute - Spade
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/209000013.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000499
+ICON ID: Icon_avatar_tshirt_twzhubot_skimmy
+NOMBRE: Skimmy
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000499.png

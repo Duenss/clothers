@@ -1,0 +1,8 @@
+ITEM ID: 214053002
+ICON ID: Icon_avatar_male_cos_headadditive_bluetears
+NOMBRE: Undersea Ripples (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214053002.png

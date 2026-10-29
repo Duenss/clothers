@@ -1,0 +1,8 @@
+ITEM ID: 904054003
+ICON ID: Icon_Bag_Bloodmoon26
+NOMBRE: Backpack - Scarlet Fan
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904054003.png

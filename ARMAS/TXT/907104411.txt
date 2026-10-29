@@ -1,0 +1,8 @@
+ITEM ID: 907104411
+ICON ID: Icon_AWM_Festivalme_24
+NOMBRE: AWM - Breath of Silence
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104411.png

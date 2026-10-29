@@ -1,0 +1,8 @@
+ITEM ID: 400051111
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AWM Breath of Silence Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a AWM Breath of Silence
+IMAGEN: CAJAS/imagenes/400051111.png

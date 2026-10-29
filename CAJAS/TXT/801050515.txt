@@ -1,0 +1,8 @@
+ITEM ID: 801050515
+ICON ID: Icon_exchange_sht_id_50
+NOMBRE: School Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050515.png

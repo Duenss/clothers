@@ -1,0 +1,8 @@
+ITEM ID: 902030019
+ICON ID: Icon_face_Lbff
+NOMBRE: LBFF Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902030019.png

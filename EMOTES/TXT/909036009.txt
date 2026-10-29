@@ -1,0 +1,8 @@
+ITEM ID: 909036009
+ICON ID: Icon_Emote_Ghostface
+NOMBRE: Phantom Tamer
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909036009.png

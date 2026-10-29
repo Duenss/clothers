@@ -1,0 +1,8 @@
+ITEM ID: 400032051
+ICON ID: Icon_box_3
+NOMBRE: 7 days Login Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to claim your rewards, please keep it up!
+IMAGEN: ROPA/imagenes/400032051.png

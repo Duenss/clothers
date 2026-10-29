@@ -1,0 +1,8 @@
+ITEM ID: 908034008
+ICON ID: Icon_slot_Amphibian_Madbionic
+NOMBRE: Amphibian - Magma Bolter
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908034008.png

@@ -1,0 +1,8 @@
+ITEM ID: 205055027
+ICON ID: Icon_avatar_cos_shoe_halloween26_phantom
+NOMBRE: Cloaked Terror (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205055027.png

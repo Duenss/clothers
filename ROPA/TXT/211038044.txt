@@ -1,0 +1,8 @@
+ITEM ID: 211038044
+ICON ID: Icon_avatar_cos_accessory_mo_mask
+NOMBRE: Gilded Mask
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038044.png

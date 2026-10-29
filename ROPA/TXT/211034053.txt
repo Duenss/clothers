@@ -1,0 +1,8 @@
+ITEM ID: 211034053
+ICON ID: Icon_avatar_male_cos_hair_rampage4_fire
+NOMBRE: Mars Warclasher (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034053.png

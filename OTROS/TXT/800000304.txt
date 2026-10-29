@@ -1,0 +1,8 @@
+ITEM ID: 800000304
+ICON ID: Icon_ff_crystal
+NOMBRE: Magic Cube
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Obtainable from Luck Royale. Can be used in the Magic Cube Store
+IMAGEN: OTROS/imagenes/800000304.png

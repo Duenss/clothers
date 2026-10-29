@@ -1,0 +1,8 @@
+ITEM ID: 400050517
+ICON ID: Icon_box_3
+NOMBRE: Box 238
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400050517.png

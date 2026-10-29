@@ -1,0 +1,8 @@
+ITEM ID: 800000519
+ICON ID: Icon_WSM_MP40_Traphiphop22
+NOMBRE: MP40 - Chromasonic Token
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Material used to evolve the MP40 skin. Obtained from events or bought directly from the store.
+IMAGEN: OTROS/imagenes/800000519.png

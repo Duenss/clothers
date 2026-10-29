@@ -1,0 +1,8 @@
+ITEM ID: 907104034
+ICON ID: Icon_Fist_Unicon22
+NOMBRE: Fist - Miraculous
+TIPO: Fist Skins
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104034.png

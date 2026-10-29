@@ -1,0 +1,8 @@
+ITEM ID: 921047020
+ICON ID: FF_UI_Voiceitem_BD47
+NOMBRE: Na ami bishwash kori na
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Appreciating teammates
+IMAGEN: MUSICA/imagenes/921047020.png

@@ -1,0 +1,8 @@
+ITEM ID: 204048036
+ICON ID: Icon_avatar_cos_bottom_football25_idblue
+NOMBRE: Goalkeeper Away Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048036.png

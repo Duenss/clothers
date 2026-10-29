@@ -1,0 +1,8 @@
+ITEM ID: 907136011
+ICON ID: Icon_AK47_Griza
+NOMBRE: AK47 - Pigment Splash
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136011.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000527
+ICON ID: Icon_exchange_ob22_goat_token
+NOMBRE: Goat Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Not a Sheep
+IMAGEN: CAJAS/imagenes/801000527.png

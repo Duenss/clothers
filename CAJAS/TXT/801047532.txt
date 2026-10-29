@@ -1,0 +1,8 @@
+ITEM ID: 801047532
+ICON ID: Icon_exchange_CDT_th_47
+NOMBRE: Children' Day Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047532.png

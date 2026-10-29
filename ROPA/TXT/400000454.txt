@@ -1,0 +1,8 @@
+ITEM ID: 400000454
+ICON ID: Icon_box_3
+NOMBRE: Earth Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Earth Box
+IMAGEN: ROPA/imagenes/400000454.png

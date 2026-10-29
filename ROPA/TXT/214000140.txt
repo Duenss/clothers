@@ -1,0 +1,8 @@
+ITEM ID: 214000140
+ICON ID: Icon_avatar_cos_headadditive_trcamouflage
+NOMBRE: Camouflage Facepaint
+TIPO: Facepaint
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000140.png

@@ -1,0 +1,8 @@
+ITEM ID: 203048000
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Night Vigilante (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

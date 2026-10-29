@@ -1,0 +1,8 @@
+ITEM ID: 907001516
+ICON ID: Icon_MP5_Jinroh
+NOMBRE: MP5 - Death's Eye
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001516.png

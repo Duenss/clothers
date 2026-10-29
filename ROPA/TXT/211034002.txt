@@ -1,0 +1,8 @@
+ITEM ID: 211034002
+ICON ID: Icon_avatar_cos_hair_rhythmgirl_01
+NOMBRE: Diva Dip Dye
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034002.png

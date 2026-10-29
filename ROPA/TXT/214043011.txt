@@ -1,0 +1,8 @@
+ITEM ID: 214043011
+ICON ID: Icon_avatar_cos_headadditive_evilbehind_fp
+NOMBRE: Inner Evil (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214043011.png

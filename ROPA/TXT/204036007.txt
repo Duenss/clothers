@@ -1,0 +1,8 @@
+ITEM ID: 204036007
+ICON ID: Icon_avatar_female_cos_bottom_icewizard
+NOMBRE: Witch of Glaciers (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036007.png

@@ -1,0 +1,8 @@
+ITEM ID: 921048016
+ICON ID: FF_UI_Voiceitem_ID48PT
+NOMBRE: [Habib Ja'far] Do you want to log in?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Pemuda Tersesat Voice Pack
+IMAGEN: MUSICA/imagenes/921048016.png

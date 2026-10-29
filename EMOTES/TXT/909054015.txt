@@ -1,0 +1,8 @@
+ITEM ID: 909054015
+ICON ID: Icon_Emote_Wolf_Sheep
+NOMBRE: Baa Baa Knit
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054015.png

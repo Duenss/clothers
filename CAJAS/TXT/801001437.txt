@@ -1,0 +1,8 @@
+ITEM ID: 801001437
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Royale Token N
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: What can you exchange this with?
+IMAGEN: CAJAS/imagenes/801001437.png

@@ -1,0 +1,8 @@
+ITEM ID: 400027099
+ICON ID: Icon_box_3
+NOMBRE: Candy Bounty Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: Contains Candy Bounty and all its pieces
+IMAGEN: ROPA/imagenes/400027099.png

@@ -1,0 +1,8 @@
+ITEM ID: 819050731
+ICON ID: FF_Lottery_Lucky_Voucher_1
+NOMBRE: Lucky Voucher (expires on July 31, 2025)
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: CAJAS/imagenes/819050731.png

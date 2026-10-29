@@ -1,0 +1,8 @@
+ITEM ID: 905032004
+ICON ID: Icon_Avatar_PARACHUTE_Hurricane
+NOMBRE: Parachute - Maroon Laser
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905032004.png

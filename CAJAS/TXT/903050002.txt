@@ -1,0 +1,8 @@
+ITEM ID: 903050002
+ICON ID: Icon_Deadloot_Inktiger
+NOMBRE: Loot Box - Splash of the Wild
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903050002.png

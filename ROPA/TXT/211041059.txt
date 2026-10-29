@@ -1,0 +1,8 @@
+ITEM ID: 211041059
+ICON ID: Icon_avatar_cos_hair_inkpainting_004
+NOMBRE: Ink Stain (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041059.png

@@ -1,0 +1,8 @@
+ITEM ID: 905050004
+ICON ID: Icon_Avatar_PARACHUTE_Cloudyday
+NOMBRE: Parachute - Solar Cloud
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905050004.png

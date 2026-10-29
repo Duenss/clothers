@@ -1,0 +1,8 @@
+ITEM ID: 907105310
+ICON ID: Icon_VSS_Magical
+NOMBRE: VSS - Sweet Takedown
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105310.png

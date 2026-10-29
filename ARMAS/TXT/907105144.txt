@@ -1,0 +1,8 @@
+ITEM ID: 907105144
+ICON ID: Icon_GlooShield_Bathtub
+NOMBRE: Gloo Wall - Bubble Quack
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105144.png

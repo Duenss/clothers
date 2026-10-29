@@ -1,0 +1,8 @@
+ITEM ID: 211050021
+ICON ID: Icon_avatar_female_cos_hair_streetracer
+NOMBRE: Cobalt Drifter (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211050021.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102740
+ICON ID: Icon_Nutcracker_Grenade
+NOMBRE: Grenade - Mr. Nutcracker
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102740.png

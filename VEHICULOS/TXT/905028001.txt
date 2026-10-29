@@ -1,0 +1,8 @@
+ITEM ID: 905028001
+ICON ID: Icon_Avatar_PARACHUTE_Scarecrow
+NOMBRE: Parachute - Scarecrow Strikes
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905028001.png

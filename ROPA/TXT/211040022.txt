@@ -1,0 +1,8 @@
+ITEM ID: 211040022
+ICON ID: Icon_avatar_male_cos_hair_darkghost
+NOMBRE: Burning Haunt (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040022.png

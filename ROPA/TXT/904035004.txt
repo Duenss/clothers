@@ -1,0 +1,8 @@
+ITEM ID: 904035004
+ICON ID: Icon_Bag_Fcninja_01
+NOMBRE: Backpack - Ice Ghost
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035004.png

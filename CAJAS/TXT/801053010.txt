@@ -1,0 +1,8 @@
+ITEM ID: 801053010
+ICON ID: Icon_exchange_gcut1_53
+NOMBRE: Sadaharu Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053010.png

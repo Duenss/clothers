@@ -1,0 +1,8 @@
+ITEM ID: 907103823
+ICON ID: Icon_Sickle_ES
+NOMBRE: Scythe - Pop-Pow
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103823.png

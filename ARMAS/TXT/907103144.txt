@@ -1,0 +1,8 @@
+ITEM ID: 907103144
+ICON ID: Icon_Winterfest21_Grenade
+NOMBRE: Grenade - Merry Snowman
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103144.png

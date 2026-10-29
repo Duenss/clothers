@@ -1,0 +1,8 @@
+ITEM ID: 907104102
+ICON ID: Icon_AK47_Zombie23
+NOMBRE: AK47 - Zombie Attack
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104102.png

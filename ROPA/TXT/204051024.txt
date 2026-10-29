@@ -1,0 +1,8 @@
+ITEM ID: 204051024
+ICON ID: Icon_avatar_male_cos_bottom_ffws25_free
+NOMBRE: FFWS Role Star (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051024.png

@@ -1,0 +1,8 @@
+ITEM ID: 211034028
+ICON ID: Icon_avatar_male_cos_hair_crazyscientist_villain
+NOMBRE: Evil Engineer (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034028.png

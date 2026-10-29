@@ -1,0 +1,8 @@
+ITEM ID: 400000687
+ICON ID: Icon_box_3
+NOMBRE: Warrior Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to get exciting rewards!
+IMAGEN: ROPA/imagenes/400000687.png

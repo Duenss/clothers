@@ -1,0 +1,8 @@
+ITEM ID: 812000002
+ICON ID: Icon_LvUpCard_02
+NOMBRE: Character Lvl. 6 Card
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Choose a character you own and level it up to lvl 6 instantly. You will receive the level up rewards.
+IMAGEN: CAJAS/imagenes/812000002.png

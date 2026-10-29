@@ -1,0 +1,8 @@
+ITEM ID: 801047010
+ICON ID: Icon_exchange_Superstar24_47
+NOMBRE: Star Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047010.png

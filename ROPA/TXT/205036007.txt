@@ -1,0 +1,8 @@
+ITEM ID: 205036007
+ICON ID: Icon_avatar_female_cos_shoe_icewizard
+NOMBRE: Witch of Glaciers (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205036007.png

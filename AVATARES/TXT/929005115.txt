@@ -1,0 +1,8 @@
+ITEM ID: 929005115
+ICON ID: Icon_Photostickeritem_DIGIMON_01
+NOMBRE: Agumon Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Agumon Sticker
+IMAGEN: AVATARES/imagenes/929005115.png

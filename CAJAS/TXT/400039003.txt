@@ -1,0 +1,8 @@
+ITEM ID: 400039003
+ICON ID: Icon_box_diamond_39
+NOMBRE: Random Diamonds Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400039003.png

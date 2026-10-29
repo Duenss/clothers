@@ -1,0 +1,8 @@
+ITEM ID: 902053007
+ICON ID: Icon_face_Eclipse
+NOMBRE: Eclipse Rise Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902053007.png

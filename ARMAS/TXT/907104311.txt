@@ -1,0 +1,8 @@
+ITEM ID: 907104311
+ICON ID: Icon_FAMAS_Obsidian
+NOMBRE: FAMAS - Black Lava
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104311.png

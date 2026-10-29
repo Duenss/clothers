@@ -1,0 +1,8 @@
+ITEM ID: 908051002
+ICON ID: Icon_slot_SUV_Hunger25
+NOMBRE: Pickup Truck - Flame Streak
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051002.png

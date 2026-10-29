@@ -1,0 +1,8 @@
+ITEM ID: 400031006
+ICON ID: Icon_box_3
+NOMBRE: Team Heist Red Loot Crate
+TIPO: Bundle Create
+RAREZA: WHITE (Common)
+TAG: OB31
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400031006.png

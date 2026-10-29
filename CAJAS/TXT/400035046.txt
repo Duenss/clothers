@@ -1,0 +1,8 @@
+ITEM ID: 400035046
+ICON ID: Icon_box_Callback_US_ES_35
+NOMBRE: Friend Callback Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400035046.png

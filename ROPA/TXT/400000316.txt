@@ -1,0 +1,8 @@
+ITEM ID: 400000316
+ICON ID: Icon_box_3
+NOMBRE: Cricket World Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Indiaaa, India! Let's cheer for the Indian team together!
+IMAGEN: ROPA/imagenes/400000316.png

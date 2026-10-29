@@ -1,0 +1,8 @@
+ITEM ID: 400041151
+ICON ID: Icon_box_evogun_token_41
+NOMBRE: Subscription Evo Gun Token Box
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041151.png

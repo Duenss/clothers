@@ -1,0 +1,8 @@
+ITEM ID: 909041002
+ICON ID: Icon_Emote_DS_water
+NOMBRE: Water Breathing Sixth Form: Whirlpool
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909041002.png

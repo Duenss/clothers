@@ -1,0 +1,8 @@
+ITEM ID: 907102528
+ICON ID: Icon_Pan_Bounty
+NOMBRE: Pan - Cyber Bounty Hunter
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102528.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104001
+ICON ID: Icon_ChargeShot_Boxing
+NOMBRE: Charge Buster - Good Job!
+TIPO: Weapon Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104001.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000916
+ICON ID: Icon_avatar_male_cos_bottom_winterfest21_coat
+NOMBRE: Flake Blake (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000916.png

@@ -1,0 +1,8 @@
+ITEM ID: 203042018
+ICON ID: Icon_avatar_cos_top_dinosaursuit
+NOMBRE: Almost Dino (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042018.png

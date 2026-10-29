@@ -1,0 +1,8 @@
+ITEM ID: 204000924
+ICON ID: Icon_avatar_cos_bottom_mejersey_18r
+NOMBRE: No. 18 Maroon Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000924.png

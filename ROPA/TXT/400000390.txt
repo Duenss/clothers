@@ -1,0 +1,8 @@
+ITEM ID: 400000390
+ICON ID: Icon_box_3
+NOMBRE: Summer Surprise Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Summer Surprise Loot Crate
+IMAGEN: ROPA/imagenes/400000390.png

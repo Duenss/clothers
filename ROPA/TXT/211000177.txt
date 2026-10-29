@@ -1,0 +1,8 @@
+ITEM ID: 211000177
+ICON ID: Icon_avatar_accessory_cos_carnival_A
+NOMBRE: Vivid Dream
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000177.png

@@ -1,0 +1,8 @@
+ITEM ID: 905036005
+ICON ID: Icon_Avatar_PARACHUTE_Sugarskull22
+NOMBRE: Parachute - Deadly Descent
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905036005.png

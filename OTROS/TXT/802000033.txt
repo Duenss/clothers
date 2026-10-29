@@ -1,0 +1,8 @@
+ITEM ID: 802000033
+ICON ID: Icon_exchange_Universal_41
+NOMBRE: Universal Ring Token
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Used to redeem rewards in Ring events. Can be kept indefinitely.
+IMAGEN: OTROS/imagenes/802000033.png

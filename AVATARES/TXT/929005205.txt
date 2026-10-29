@@ -1,0 +1,8 @@
+ITEM ID: 929005205
+ICON ID: Icon_Photostickeritem_TreasureHunt
+NOMBRE: Treasure Chest Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Treasure Chest Sticker
+IMAGEN: AVATARES/imagenes/929005205.png

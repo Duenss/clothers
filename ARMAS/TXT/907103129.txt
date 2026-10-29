@@ -1,0 +1,8 @@
+ITEM ID: 907103129
+ICON ID: Icon_Sickle_THagent
+NOMBRE: Scythe - Night Scouter
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103129.png

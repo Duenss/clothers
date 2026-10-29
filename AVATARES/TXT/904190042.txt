@@ -1,0 +1,8 @@
+ITEM ID: 904190042
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Wrestler
+TIPO: Titles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the third stage of the "Wrestler" achievement
+IMAGEN: AVATARES/imagenes/904190042.png

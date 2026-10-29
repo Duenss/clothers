@@ -1,0 +1,8 @@
+ITEM ID: 907104747
+ICON ID: Icon_GlooShield_NB_Black
+NOMBRE: Gloo Wall - Sharingan Theme
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104747.png

@@ -1,0 +1,8 @@
+ITEM ID: 907102419
+ICON ID: Icon_M21A5_Partygirl
+NOMBRE: Woodpecker - Party Animal
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102419.png

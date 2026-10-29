@@ -1,0 +1,8 @@
+ITEM ID: 801040102
+ICON ID: FF_UI_SixthB_03_StikcerItem02
+NOMBRE: 2D_Dino
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: This hot 2D Dino outfit once set the fashion trend. Got a set in your closet?
+IMAGEN: CAJAS/imagenes/801040102.png

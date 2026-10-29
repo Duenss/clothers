@@ -1,0 +1,8 @@
+ITEM ID: 400000312
+ICON ID: Icon_box_3
+NOMBRE: Legendary Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to get a random legendary weapon skin (permanent)
+IMAGEN: ROPA/imagenes/400000312.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000499
+ICON ID: Icon_box_3
+NOMBRE: Holiday Silver Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Box for school holiday event
+IMAGEN: ROPA/imagenes/400000499.png

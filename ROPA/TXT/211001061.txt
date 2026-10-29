@@ -1,0 +1,8 @@
+ITEM ID: 211001061
+ICON ID: Icon_avatar_male_cos_hair_goldenwing
+NOMBRE: Flaxen Megacypher (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001061.png

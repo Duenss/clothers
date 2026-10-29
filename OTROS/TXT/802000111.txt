@@ -1,0 +1,8 @@
+ITEM ID: 802000111
+ICON ID: FF_Lottery_Festival_Light_Voucher
+NOMBRE: Festival of Light Voucher
+TIPO: Unknown
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Celebrate the festival of light!
+IMAGEN: OTROS/imagenes/802000111.png

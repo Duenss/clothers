@@ -1,0 +1,8 @@
+ITEM ID: 400030101
+ICON ID: Icon_box_3
+NOMBRE: Spider Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Halloween 2021
+IMAGEN: ROPA/imagenes/400030101.png

@@ -1,0 +1,8 @@
+ITEM ID: 904040002
+ICON ID: Icon_Bag_Traphiphop22
+NOMBRE: Backpack - City Beat
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904040002.png

@@ -1,0 +1,8 @@
+ITEM ID: 923044001
+ICON ID: FF_UI_Voiceitem_RANK43
+NOMBRE: A hero speaks with an aim
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: Rank reward
+IMAGEN: MUSICA/imagenes/923044001.png

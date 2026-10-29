@@ -1,0 +1,8 @@
+ITEM ID: 907105430
+ICON ID: Icon_Sickle_Ninth
+NOMBRE: Scythe - Fracture Vanguard
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105430.png

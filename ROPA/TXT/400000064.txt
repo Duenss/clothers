@@ -1,0 +1,8 @@
+ITEM ID: 400000064
+ICON ID: Icon_box_3
+NOMBRE: Enhanced Groza Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a 1-day, 3-day, or 7-day Groza skin with refined attributes.
+IMAGEN: ROPA/imagenes/400000064.png

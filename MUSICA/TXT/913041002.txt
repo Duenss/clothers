@@ -1,0 +1,8 @@
+ITEM ID: 913041002
+ICON ID: FF_UI_Vault_Music_Dod23
+NOMBRE: Death Walks With Me
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Day of the Dead theme music
+IMAGEN: MUSICA/imagenes/913041002.png

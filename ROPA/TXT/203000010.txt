@@ -1,0 +1,8 @@
+ITEM ID: 203000010
+ICON ID: Icon_avatar_tshirt_2
+NOMBRE: T-shirt (Orange)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000010.png

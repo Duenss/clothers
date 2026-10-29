@@ -1,0 +1,8 @@
+ITEM ID: 203000174
+ICON ID: Icon_avatar_male_sc_foodieboy_top_jacket
+NOMBRE: Foodie Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000174.png

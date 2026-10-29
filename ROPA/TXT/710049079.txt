@@ -1,0 +1,8 @@
+ITEM ID: 710049079
+ICON ID: Icon_bundle_Seafood_Pink_2_49
+NOMBRE: Pink Guard Super Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/710049079.png

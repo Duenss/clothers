@@ -1,0 +1,8 @@
+ITEM ID: 211036007
+ICON ID: Icon_avatar_female_cos_hair_frankenstein
+NOMBRE: Monstrous Shock (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036007.png

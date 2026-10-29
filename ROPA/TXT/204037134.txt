@@ -1,0 +1,8 @@
+ITEM ID: 204037134
+ICON ID: Icon_avatar_male_cos_shoe_westernhuntera
+NOMBRE: Cyber Desert (Shoes)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204037134.png

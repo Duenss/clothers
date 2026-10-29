@@ -1,0 +1,8 @@
+ITEM ID: 914047002
+ICON ID: FF_UI_Transform_icon_Aurora_Transform
+NOMBRE: Aurora Look Changer
+TIPO: Look Changer
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914047002.png

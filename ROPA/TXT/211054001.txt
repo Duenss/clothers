@@ -1,0 +1,8 @@
+ITEM ID: 211054001
+ICON ID: Icon_avatar_male_cos_hair_esports_mvp
+NOMBRE: Thunderborn MVP (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054001.png

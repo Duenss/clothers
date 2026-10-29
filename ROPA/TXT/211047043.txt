@@ -1,0 +1,8 @@
+ITEM ID: 211047043
+ICON ID: Icon_avatar_male_cos_accessory_nb_yellow
+NOMBRE: Naruto Headwear
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047043.png

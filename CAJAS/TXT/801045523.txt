@@ -1,0 +1,8 @@
+ITEM ID: 801045523
+ICON ID: Icon_exchange_Eyes_th_45
+NOMBRE: Eyes Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB45
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801045523.png

@@ -1,0 +1,8 @@
+ITEM ID: 801040017
+ICON ID: Icon_exchange_BP_Piece_40
+NOMBRE: BP Ring Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801040017.png

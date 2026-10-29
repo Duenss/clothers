@@ -1,0 +1,8 @@
+ITEM ID: 903040002
+ICON ID: Icon_Deadloot_Traphiphop22
+NOMBRE: Loot Box - City Scanner
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903040002.png

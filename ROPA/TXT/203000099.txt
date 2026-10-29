@@ -1,0 +1,8 @@
+ITEM ID: 203000099
+ICON ID: Icon_Avatar_Female_GSL_Jacket
+NOMBRE: GW2018 Jacket (Female)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000099.png

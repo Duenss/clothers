@@ -1,0 +1,8 @@
+ITEM ID: 921052015
+ICON ID: FF_UI_Voiceitem_IIV_04
+NOMBRE: I have to get stronger. And I'll do anything to achieve that!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Megumi Fushiguro Voice Pack
+IMAGEN: MUSICA/imagenes/921052015.png

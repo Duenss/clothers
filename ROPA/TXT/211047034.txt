@@ -1,0 +1,8 @@
+ITEM ID: 211047034
+ICON ID: Icon_avatar_male_cos_accessory_trend_man
+NOMBRE: Loveshot (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211047034.png

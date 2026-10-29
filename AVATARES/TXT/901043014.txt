@@ -1,0 +1,8 @@
+ITEM ID: 901043014
+ICON ID: Icon_callsign_storebg_Rank38_01
+NOMBRE: BR-Ranked S38 Heroic Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901043014.png

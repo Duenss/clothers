@@ -1,0 +1,8 @@
+ITEM ID: 211037078
+ICON ID: Icon_avatar_cos_hair_brsoccer_yellow
+NOMBRE: 100% Booyah Bandana
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037078.png

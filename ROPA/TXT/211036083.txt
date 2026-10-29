@@ -1,0 +1,8 @@
+ITEM ID: 211036083
+ICON ID: Icon_avatar_cos_hair_shiba_hw02
+NOMBRE: Evil Husky Mask
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036083.png

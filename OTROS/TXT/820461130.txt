@@ -1,0 +1,8 @@
+ITEM ID: 820461130
+ICON ID: FF_Lottery_chibankuj_limited_54_Voucher
+NOMBRE: Rush Board Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/820461130.png

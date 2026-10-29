@@ -1,0 +1,8 @@
+ITEM ID: 907103951
+ICON ID: Icon_GlooShield_Scarlet_2
+NOMBRE: Gloo Wall - Scorpio Vine
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103951.png

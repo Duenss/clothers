@@ -1,0 +1,8 @@
+ITEM ID: 400028300
+ICON ID: Icon_box_BooyahTV_28
+NOMBRE: Luck Royale Voucher
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: BOOYAH! Reward
+IMAGEN: CAJAS/imagenes/400028300.png

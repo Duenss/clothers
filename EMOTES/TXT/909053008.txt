@@ -1,0 +1,8 @@
+ITEM ID: 909053008
+ICON ID: Icon_Emote_Worldcup25_VAR
+NOMBRE: VAR Review
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909053008.png

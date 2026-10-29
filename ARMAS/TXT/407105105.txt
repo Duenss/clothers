@@ -1,0 +1,8 @@
+ITEM ID: 407105105
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: 24K (VSK94 + P90) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Open to receive a random gun skin (VSK94 + P90) from the 24K set
+IMAGEN: ARMAS/imagenes/407105105.png

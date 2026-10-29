@@ -1,0 +1,8 @@
+ITEM ID: 921046007
+ICON ID: FF_UI_Voiceitem_BRrapper
+NOMBRE: Got a bit too proud, huh?
+TIPO: Voice Packs
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB46
+DESCRIPCION: Matuê
+IMAGEN: MUSICA/imagenes/921046007.png

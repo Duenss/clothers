@@ -1,0 +1,8 @@
+ITEM ID: 801044528
+ICON ID: Icon_exchange_Mid_term_th_44
+NOMBRE: Midterm Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB44
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801044528.png

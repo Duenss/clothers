@@ -1,0 +1,8 @@
+ITEM ID: 902036022
+ICON ID: Icon_face_female_head_sc_GangGirl_B
+NOMBRE: Change Maker Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036022.png

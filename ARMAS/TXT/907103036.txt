@@ -1,0 +1,8 @@
+ITEM ID: 907103036
+ICON ID: Icon_Playingcard_Grenade
+NOMBRE: Grenade - Poker Monarch
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103036.png

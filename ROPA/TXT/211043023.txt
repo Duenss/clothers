@@ -1,0 +1,8 @@
+ITEM ID: 211043023
+ICON ID: Icon_avatar_male_cos_accessory_aprilfool24
+NOMBRE: Emperor's New Clothes (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211043023.png

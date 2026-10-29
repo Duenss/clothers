@@ -1,0 +1,8 @@
+ITEM ID: 204000609
+ICON ID: Icon_avatar_bottom_cos_maxpants
+NOMBRE: MAX Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000609.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000874
+ICON ID: Icon_avatar_cos_bottom_vnsoccer
+NOMBRE: Spirit 19 (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000874.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104226
+ICON ID: Icon_M1216_Jumpsuit_Ghosts
+NOMBRE: Trogon - Top Criminal (Ghost)
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104226.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000993
+ICON ID: Icon_box_3
+NOMBRE: The Captain Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000993.png

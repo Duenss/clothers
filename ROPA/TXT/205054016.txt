@@ -1,0 +1,8 @@
+ITEM ID: 205054016
+ICON ID: Icon_avatar_male_cos_shoe_denim_ud
+NOMBRE: Denim Flipset (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205054016.png

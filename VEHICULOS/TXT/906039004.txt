@@ -1,0 +1,8 @@
+ITEM ID: 906039004
+ICON ID: Icon_Avatar_Surfboard_Thug
+NOMBRE: Skyboard - Drone
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906039004.png

@@ -1,0 +1,8 @@
+ITEM ID: 907202006
+ICON ID: Icon_CG15_Nuclear
+NOMBRE: CG15 - Doomsday
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907202006.png

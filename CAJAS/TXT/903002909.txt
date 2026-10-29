@@ -1,0 +1,8 @@
+ITEM ID: 903002909
+ICON ID: Icon_Deadloot_Supercar_B
+NOMBRE: Loot Box - McLaren Racing
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002909.png

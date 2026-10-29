@@ -1,0 +1,8 @@
+ITEM ID: 904039009
+ICON ID: Icon_Bag_Waterfest23
+NOMBRE: Backpack - Jumbo Buddy
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039009.png

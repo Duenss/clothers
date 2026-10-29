@@ -1,0 +1,8 @@
+ITEM ID: 400035114
+ICON ID: Icon_box_3
+NOMBRE: Brassy Core Gloo Wall Loot Crate
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Contains Brassy Core Gloo Wall and other items
+IMAGEN: ROPA/imagenes/400035114.png

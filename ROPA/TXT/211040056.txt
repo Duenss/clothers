@@ -1,0 +1,8 @@
+ITEM ID: 211040056
+ICON ID: Icon_avatar_cos_accessory_pkglasses_01
+NOMBRE: Green Mirrored Sunglasses
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040056.png

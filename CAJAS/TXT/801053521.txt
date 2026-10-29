@@ -1,0 +1,8 @@
+ITEM ID: 801053521
+ICON ID: Icon_exchange_flcnt_th_53
+NOMBRE: FLCN Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB53
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801053521.png

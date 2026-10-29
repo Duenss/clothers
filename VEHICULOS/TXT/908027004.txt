@@ -1,0 +1,8 @@
+ITEM ID: 908027004
+ICON ID: Icon_slot_MonsterTruck_FFWS2021
+NOMBRE: Monster Truck - FFWS 2021
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908027004.png

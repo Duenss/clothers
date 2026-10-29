@@ -1,0 +1,8 @@
+ITEM ID: 902029004
+ICON ID: Icon_face_Scorpion_A
+NOMBRE: Quantic Unknown
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029004.png

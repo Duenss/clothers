@@ -1,0 +1,8 @@
+ITEM ID: 905000003
+ICON ID: Icon_Avatar_Parachute_Sushi_Salmon
+NOMBRE: Parachute - Salmon
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000003.png

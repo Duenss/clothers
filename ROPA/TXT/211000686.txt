@@ -1,0 +1,8 @@
+ITEM ID: 211000686
+ICON ID: Icon_avatar_male_hair_cos_poker_heart
+NOMBRE: Blazing Heart (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000686.png

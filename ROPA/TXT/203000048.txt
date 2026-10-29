@@ -1,0 +1,8 @@
+ITEM ID: 203000048
+ICON ID: Icon_avatar_shirt_plaid_4
+NOMBRE: Programmers' Favorite (Yellow)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000048.png

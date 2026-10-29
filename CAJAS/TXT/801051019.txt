@@ -1,0 +1,8 @@
+ITEM ID: 801051019
+ICON ID: Icon_exchange_ice25_1_51
+NOMBRE: Dream Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801051019.png

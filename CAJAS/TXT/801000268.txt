@@ -1,0 +1,8 @@
+ITEM ID: 801000268
+ICON ID: Icon_exchange_Snowflake_token
+NOMBRE: Snowflake
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Only shows up during Winterlands season..
+IMAGEN: CAJAS/imagenes/801000268.png

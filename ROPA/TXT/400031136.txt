@@ -1,0 +1,8 @@
+ITEM ID: 400031136
+ICON ID: Icon_box_3
+NOMBRE: Road to Pro League S4 EP3
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to get amazing rewards
+IMAGEN: ROPA/imagenes/400031136.png

@@ -1,0 +1,8 @@
+ITEM ID: 903038012
+ICON ID: Icon_Deadloot_MO
+NOMBRE: Loot Box - Antique Tempo
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903038012.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103237
+ICON ID: Icon_FIST_Hoodedkiller
+NOMBRE: Fist - Dagger Punch
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103237.png

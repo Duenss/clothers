@@ -1,0 +1,8 @@
+ITEM ID: 204051031
+ICON ID: Icon_avatar_male_cos_bottom_th_kol25_orange
+NOMBRE: HEARTROCKER (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051031.png

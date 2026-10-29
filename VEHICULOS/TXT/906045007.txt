@@ -1,0 +1,8 @@
+ITEM ID: 906045007
+ICON ID: Icon_Avatar_Surfboard_Octopus
+NOMBRE: Skyboard - S41 Exclusive: Captain
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906045007.png

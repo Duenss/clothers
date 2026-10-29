@@ -1,0 +1,8 @@
+ITEM ID: 400000446
+ICON ID: Icon_box_br_valentine_day
+NOMBRE: Chocolate Box (July 7th)
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Chocolate Box (July 7th)
+IMAGEN: CAJAS/imagenes/400000446.png

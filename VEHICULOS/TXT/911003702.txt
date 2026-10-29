@@ -1,0 +1,8 @@
+ITEM ID: 911003702
+ICON ID: Icon_Mounts_FFWS2022_01
+NOMBRE: Galactic Drachen
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911003702.png

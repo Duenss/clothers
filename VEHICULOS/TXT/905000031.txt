@@ -1,0 +1,8 @@
+ITEM ID: 905000031
+ICON ID: Icon_Avatar_PARACHUTE_Steam_Punk_EP1
+NOMBRE: Parachute - Victorian Factory
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000031.png

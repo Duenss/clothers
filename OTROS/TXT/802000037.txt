@@ -1,0 +1,8 @@
+ITEM ID: 802000037
+ICON ID: FF_Lottery_UniversalRing_Token
+NOMBRE: Mini Uzi Ring Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Used to spin in the Mini Uzi Ring event. Expires after the Mini Uzi Ring event ends.
+IMAGEN: OTROS/imagenes/802000037.png

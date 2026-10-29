@@ -1,0 +1,8 @@
+ITEM ID: 907002437
+ICON ID: Icon_FAMAS_Clashgold_S3
+NOMBRE: The Golden FAMAS
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002437.png

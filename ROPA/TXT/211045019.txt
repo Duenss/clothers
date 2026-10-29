@@ -1,0 +1,8 @@
+ITEM ID: 211045019
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Thunderous Noir (Mask)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211045019.png

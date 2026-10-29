@@ -1,0 +1,8 @@
+ITEM ID: 400031097
+ICON ID: Icon_box_3
+NOMBRE: Judgement Ironface Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: Contains Judgement Ironface and all it's pieces
+IMAGEN: ROPA/imagenes/400031097.png

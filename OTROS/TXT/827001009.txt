@@ -1,0 +1,8 @@
+ITEM ID: 827001009
+ICON ID: Icon_ff_MonthCard_Big
+NOMBRE: Monthly Membership
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Subscribe to the Monthly Membership for special privileges
+IMAGEN: OTROS/imagenes/827001009.png

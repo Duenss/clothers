@@ -1,0 +1,8 @@
+ITEM ID: 902043016
+ICON ID: Icon_face_Rank38_B
+NOMBRE: BR-Ranked S38 Master Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902043016.png

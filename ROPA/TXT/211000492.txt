@@ -1,0 +1,8 @@
+ITEM ID: 211000492
+ICON ID: Icon_avatar_female_hair_cos_valentine2020
+NOMBRE: Heartthrob (Female) (Head)
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000492.png

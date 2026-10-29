@@ -1,0 +1,8 @@
+ITEM ID: 911004701
+ICON ID: Icon_Mounts_NB_Nine
+NOMBRE: The Nine Tails Theme
+TIPO: Skywings
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/911004701.png

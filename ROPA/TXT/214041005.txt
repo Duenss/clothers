@@ -1,0 +1,8 @@
+ITEM ID: 214041005
+ICON ID: Icon_avatar_female_cos_headadditive_sugarskull23_neon
+NOMBRE: Brilliant Remembrance (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214041005.png

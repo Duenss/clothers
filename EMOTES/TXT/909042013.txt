@@ -1,0 +1,8 @@
+ITEM ID: 909042013
+ICON ID: Icon_Emote_Theboy_Red_Double
+NOMBRE: Hello! Frostfire Style
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909042013.png

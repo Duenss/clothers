@@ -1,0 +1,8 @@
+ITEM ID: 801001508
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Fish Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: April Fools' Day
+IMAGEN: CAJAS/imagenes/801001508.png

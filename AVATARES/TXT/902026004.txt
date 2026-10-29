@@ -1,0 +1,8 @@
+ITEM ID: 902026004
+ICON ID: Icon_face_Alicehatter_EP_A
+NOMBRE: Willful Wonders
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902026004.png

@@ -1,0 +1,8 @@
+ITEM ID: 400045091
+ICON ID: Icon_box_3
+NOMBRE: 7th Anniv. Celebration Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400045091.png

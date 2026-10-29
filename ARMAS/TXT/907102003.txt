@@ -1,0 +1,8 @@
+ITEM ID: 907102003
+ICON ID: Icon_MP40_GoldPoker
+NOMBRE: MP40 - Flashing Spade
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB20
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102003.png

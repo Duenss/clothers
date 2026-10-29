@@ -1,0 +1,8 @@
+ITEM ID: 400029039
+ICON ID: Icon_box_3
+NOMBRE: Bottom Fashion Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Common use
+IMAGEN: ROPA/imagenes/400029039.png

@@ -1,0 +1,8 @@
+ITEM ID: 407103303
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Hypercore Blues (VECTOR + G18) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Open to receive a random gun skin (VECTOR + G18) from the Hypercore Blues weapon set
+IMAGEN: ARMAS/imagenes/407103303.png

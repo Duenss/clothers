@@ -1,0 +1,8 @@
+ITEM ID: 710000378
+ICON ID: Icon_box_3
+NOMBRE: Desert Badge Bundle (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Desert Badge Bundle
+IMAGEN: ROPA/imagenes/710000378.png

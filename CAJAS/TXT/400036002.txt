@@ -1,0 +1,8 @@
+ITEM ID: 400036002
+ICON ID: Icon_face_male_sc_Yakuza
+NOMBRE: Tatsuya's Fragment Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Tatsuya's Memory Fragments
+IMAGEN: CAJAS/imagenes/400036002.png

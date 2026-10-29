@@ -1,0 +1,8 @@
+ITEM ID: 801047108
+ICON ID: Icon_exchange_ntk8_47
+NOMBRE: Earth Scroll
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047108.png

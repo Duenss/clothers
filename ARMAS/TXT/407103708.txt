@@ -1,0 +1,8 @@
+ITEM ID: 407103708
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Sickly Sweet (PARAFAL + PLASMA) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (PARAFAL + PLASMA) from the Sickly Sweet weapon set
+IMAGEN: ARMAS/imagenes/407103708.png

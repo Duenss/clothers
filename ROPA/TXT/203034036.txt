@@ -1,0 +1,8 @@
+ITEM ID: 203034036
+ICON ID: Icon_avatar_female_cos_top_bloody_gangster
+NOMBRE: Painted Ghoul (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034036.png

@@ -1,0 +1,8 @@
+ITEM ID: 904055008
+ICON ID: Icon_Bag_Halloween26
+NOMBRE: Backpack - Lamp Monster
+TIPO: Bag Skins
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904055008.png

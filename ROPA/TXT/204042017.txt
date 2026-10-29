@@ -1,0 +1,8 @@
+ITEM ID: 204042017
+ICON ID: Icon_avatar_male_cos_bottom_winterfest23
+NOMBRE: Iceshard (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042017.png

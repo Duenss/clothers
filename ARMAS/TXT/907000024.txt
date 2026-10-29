@@ -1,0 +1,8 @@
+ITEM ID: 907000024
+ICON ID: Icon_FAMAS_RED
+NOMBRE: Bloody Mary
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000024.png

@@ -1,0 +1,8 @@
+ITEM ID: 902046008
+ICON ID: Icon_face_FFWS_SF
+NOMBRE: FFWS 2024 Fall Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000309
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: MP40 Bloody Gold Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin for MP40 Bloody Gold.
+IMAGEN: CAJAS/imagenes/400000309.png

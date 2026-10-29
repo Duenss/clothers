@@ -1,0 +1,8 @@
+ITEM ID: 902034015
+ICON ID: Icon_face_Rank29_05
+NOMBRE: BR-Ranked S29 Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034015.png

@@ -1,0 +1,8 @@
+ITEM ID: 400031147
+ICON ID: Icon_box_3
+NOMBRE: Bandana Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive a unique bandana and a chance of unlocking rare items
+IMAGEN: ROPA/imagenes/400031147.png

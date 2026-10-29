@@ -1,0 +1,8 @@
+ITEM ID: 214034012
+ICON ID: Icon_avatar_male_cos_headadditive_rampage4_fire
+NOMBRE: Mars Warclasher (Facepaint)
+TIPO: Facepaint
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214034012.png

@@ -1,0 +1,8 @@
+ITEM ID: 211037072
+ICON ID: Icon_avatar_male_cos_accessory_ffws2022_red
+NOMBRE: Rager Konqueror (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037072.png

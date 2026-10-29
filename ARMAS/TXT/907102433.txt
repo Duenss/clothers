@@ -1,0 +1,8 @@
+ITEM ID: 907102433
+ICON ID: Icon_Katana_Booyahday
+NOMBRE: Katana - Booyah Day
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102433.png

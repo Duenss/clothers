@@ -1,0 +1,8 @@
+ITEM ID: 902000310
+ICON ID: Icon_face_Sushikiller_EP_A
+NOMBRE: Sushi Frenzy
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902000310.png

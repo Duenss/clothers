@@ -1,0 +1,8 @@
+ITEM ID: 400000093
+ICON ID: Icon_box_3
+NOMBRE: Digital Camouflage Skin Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a 3D, 7D, or permanent Digital Camouflage Skin.
+IMAGEN: ROPA/imagenes/400000093.png

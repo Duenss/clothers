@@ -1,0 +1,8 @@
+ITEM ID: 214046002
+ICON ID: Icon_avatar_male_cos_headadditive_sugarskull24_01
+NOMBRE: Necro Walker (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214046002.png

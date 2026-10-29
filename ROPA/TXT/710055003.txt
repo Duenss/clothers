@@ -1,0 +1,8 @@
+ITEM ID: 710055003
+ICON ID: Icon_bundle_female_WB_Girl_55
+NOMBRE: Gwen Tennyson Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710055003.png

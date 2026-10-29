@@ -1,0 +1,8 @@
+ITEM ID: 170055003
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Wonderful Choice Box 3
+TIPO: Choice Crates
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170055003.png

@@ -1,0 +1,8 @@
+ITEM ID: 913042005
+ICON ID: FF_UI_Vault_Music_Halloween_TH
+NOMBRE: Thai Halloween
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Free Fire Thai Halloween 2023 Theme Song for new 4v4 map with famous Thai ghosts
+IMAGEN: MUSICA/imagenes/913042005.png

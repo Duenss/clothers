@@ -1,0 +1,8 @@
+ITEM ID: 400039121
+ICON ID: Icon_box_3
+NOMBRE: 4 Leaf Clover Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400039121.png

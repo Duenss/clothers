@@ -1,0 +1,8 @@
+ITEM ID: 908052001
+ICON ID: Icon_slot_MonsterTruck_IIV_CT
+NOMBRE: Monster Truck - Jujutsu Kaisen
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908052001.png

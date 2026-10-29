@@ -1,0 +1,8 @@
+ITEM ID: 400035135
+ICON ID: Icon_box_3
+NOMBRE: Tropical Fruit Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400035135.png

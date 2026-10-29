@@ -1,0 +1,8 @@
+ITEM ID: 400000784
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Titan Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Gain the power of Titans!
+IMAGEN: CAJAS/imagenes/400000784.png

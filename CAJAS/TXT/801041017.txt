@@ -1,0 +1,8 @@
+ITEM ID: 801041017
+ICON ID: FF_UI_Universal_Token
+NOMBRE: Universal Tailor Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: A token that can be used to purchase tailor options for many themes in the Tailor system (not supported for some themes).
+IMAGEN: CAJAS/imagenes/801041017.png

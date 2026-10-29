@@ -1,0 +1,8 @@
+ITEM ID: 907105316
+ICON ID: Icon_Vector_CSRank37
+NOMBRE: Vector - S37 Exclusive: Twinstars
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105316.png

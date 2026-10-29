@@ -1,0 +1,8 @@
+ITEM ID: 801001463
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Sky Sphere
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Be the shining star
+IMAGEN: CAJAS/imagenes/801001463.png

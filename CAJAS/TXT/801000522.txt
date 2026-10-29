@@ -1,0 +1,8 @@
+ITEM ID: 801000522
+ICON ID: Icon_exchange_ob22_fashion_c
+NOMBRE: Fashion C
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Make it happen!
+IMAGEN: CAJAS/imagenes/801000522.png

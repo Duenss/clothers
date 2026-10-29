@@ -1,0 +1,8 @@
+ITEM ID: 1310000042
+ICON ID: Icon_Pet_Earthdragon_Shiba
+NOMBRE: Pet Skin: Golden Tale
+TIPO: Pet Skin
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: No matter what happens, I will be the king at the end!
+IMAGEN: MASCOTAS/imagenes/1310000042.png

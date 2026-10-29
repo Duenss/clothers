@@ -1,0 +1,8 @@
+ITEM ID: 801000945
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: The X Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Now or Never
+IMAGEN: CAJAS/imagenes/801000945.png

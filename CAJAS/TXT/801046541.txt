@@ -1,0 +1,8 @@
+ITEM ID: 801046541
+ICON ID: Icon_exchange_Sliver2_Token_id_46
+NOMBRE: Silver Collection Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB46
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801046541.png

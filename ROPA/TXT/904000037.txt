@@ -1,0 +1,8 @@
+ITEM ID: 904000037
+ICON ID: Icon_Bag_christmas_B_03
+NOMBRE: Backpack - Winterlands
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000037.png

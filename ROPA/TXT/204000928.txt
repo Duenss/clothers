@@ -1,0 +1,8 @@
+ITEM ID: 204000928
+ICON ID: Icon_avatar_cos_bottom_mejersey_10
+NOMBRE: No. 10 Ruby Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000928.png

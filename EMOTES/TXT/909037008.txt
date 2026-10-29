@@ -1,0 +1,8 @@
+ITEM ID: 909037008
+ICON ID: Icon_Emote_Juggling
+NOMBRE: Juggle
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909037008.png

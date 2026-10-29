@@ -1,0 +1,8 @@
+ITEM ID: 904032011
+ICON ID: Icon_Bag_Junkfood
+NOMBRE: Backpack - Strapped Sub
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904032011.png

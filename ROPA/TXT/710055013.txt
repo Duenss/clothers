@@ -1,0 +1,8 @@
+ITEM ID: 710055013
+ICON ID: Icon_bundle_male_Halloween26_Hollow_55
+NOMBRE: Hollow Man Bundle
+TIPO: Bundles
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB55
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710055013.png

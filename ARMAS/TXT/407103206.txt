@@ -1,0 +1,8 @@
+ITEM ID: 407103206
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Vampire Malevolence (M82B + MP5) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: Open to receive a random gun skin (M82B + MP5) from the Vampire Malevolence weapon set
+IMAGEN: ARMAS/imagenes/407103206.png

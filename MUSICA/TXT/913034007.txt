@@ -1,0 +1,8 @@
+ITEM ID: 913034007
+ICON ID: FF_UI_Vault_Music_MUVN
+NOMBRE: Booyah! The Pride of Vietnam!
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Let's put on the proud red outfit and move forward to the place where victory awaits.
+IMAGEN: MUSICA/imagenes/913034007.png

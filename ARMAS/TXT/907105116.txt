@@ -1,0 +1,8 @@
+ITEM ID: 907105116
+ICON ID: Icon_Kord_Rank48
+NOMBRE: Kord - S48 Exclusive: Spookster
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105116.png

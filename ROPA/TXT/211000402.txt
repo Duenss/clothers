@@ -1,0 +1,8 @@
+ITEM ID: 211000402
+ICON ID: Icon_avatar_male_hair_cos_kabuki_red
+NOMBRE: Ruby Samurai (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000402.png

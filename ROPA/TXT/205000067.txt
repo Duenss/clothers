@@ -1,0 +1,8 @@
+ITEM ID: 205000067
+ICON ID: Icon_avatar_female_shoe_cos_japanesestyle_pink
+NOMBRE: Kitsune Footwear
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000067.png

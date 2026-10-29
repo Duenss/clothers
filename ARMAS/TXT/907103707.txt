@@ -1,0 +1,8 @@
+ITEM ID: 907103707
+ICON ID: Icon_AUG_Winterfest22
+NOMBRE: AUG - Cannibal Crush
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103707.png

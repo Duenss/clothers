@@ -1,0 +1,8 @@
+ITEM ID: 204047022
+ICON ID: Icon_avatar_male_cos_bottom_trend_man
+NOMBRE: Loveshot (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204047022.png

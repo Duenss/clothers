@@ -1,0 +1,8 @@
+ITEM ID: 907103230
+ICON ID: Icon_Katana_Undertaker
+NOMBRE: Katana - Buried Purpledust
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103230.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104114
+ICON ID: Icon_Pan_Sayori
+NOMBRE: Pan - Diz Pop Art
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104114.png

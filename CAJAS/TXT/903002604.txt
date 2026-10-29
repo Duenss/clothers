@@ -1,0 +1,8 @@
+ITEM ID: 903002604
+ICON ID: Icon_Deadloot_Cobra_ONE
+NOMBRE: Loot Box - Legendary Cobra
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002604.png

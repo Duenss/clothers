@@ -1,0 +1,8 @@
+ITEM ID: 907104539
+ICON ID: Icon_SVD_Chain
+NOMBRE: SVD - Chainsaw
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104539.png

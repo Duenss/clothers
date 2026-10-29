@@ -1,0 +1,8 @@
+ITEM ID: 710036046
+ICON ID: Icon_bundle_Wolf_Fire_36
+NOMBRE: Lava Fang Pet Skin Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: Open to receive the pet Fang and the Lava Fang skin
+IMAGEN: ROPA/imagenes/710036046.png

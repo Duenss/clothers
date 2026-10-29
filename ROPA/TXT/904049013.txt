@@ -1,0 +1,8 @@
+ITEM ID: 904049013
+ICON ID: Icon_Bag_EWC25
+NOMBRE: Backpack - EWC 2025
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049013.png

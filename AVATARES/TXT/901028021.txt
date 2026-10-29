@@ -1,0 +1,8 @@
+ITEM ID: 901028021
+ICON ID: Icon_callsign_storebg_Rank23_03
+NOMBRE: Season 23 Platinum Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901028021.png

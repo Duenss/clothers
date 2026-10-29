@@ -1,0 +1,8 @@
+ITEM ID: 407202402
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Swordsman Legends Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB24
+DESCRIPCION: Open to receive a random gun skin from the Swordsman Legends weapon set
+IMAGEN: ARMAS/imagenes/407202402.png

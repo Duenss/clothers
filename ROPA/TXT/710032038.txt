@@ -1,0 +1,8 @@
+ITEM ID: 710032038
+ICON ID: Icon_bundle_female_Dunhuang_32_A
+NOMBRE: Burning Rays Bundle
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710032038.png

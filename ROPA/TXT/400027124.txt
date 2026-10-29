@@ -1,0 +1,8 @@
+ITEM ID: 400027124
+ICON ID: Icon_box_3
+NOMBRE: April Celebration Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Let's celebrate April with the items inside
+IMAGEN: ROPA/imagenes/400027124.png

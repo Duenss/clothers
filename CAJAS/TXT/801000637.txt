@@ -1,0 +1,8 @@
+ITEM ID: 801000637
+ICON ID: Icon_exchange_ob24_Candy_Bag
+NOMBRE: Candy Bag
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Hope your favorite candy is in here!
+IMAGEN: CAJAS/imagenes/801000637.png

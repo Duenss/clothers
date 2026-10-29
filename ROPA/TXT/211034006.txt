@@ -1,0 +1,8 @@
+ITEM ID: 211034006
+ICON ID: Icon_avatar_male_cos_hair_kongfu
+NOMBRE: Crimson Knifemaster (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034006.png

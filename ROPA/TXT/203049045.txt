@@ -1,0 +1,8 @@
+ITEM ID: 203049045
+ICON ID: Icon_avatar_cos_top_football25_idyellow
+NOMBRE: Goalkeeper Home Jersey (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049045.png

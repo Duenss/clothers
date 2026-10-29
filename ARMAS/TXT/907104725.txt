@@ -1,0 +1,8 @@
+ITEM ID: 907104725
+ICON ID: Icon_UMP45_CSRank29
+NOMBRE: UMP - S29 Exclusive: Delivery
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: CS-Ranked S29 Reward
+IMAGEN: ARMAS/imagenes/907104725.png

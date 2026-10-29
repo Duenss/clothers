@@ -1,0 +1,8 @@
+ITEM ID: 710045033
+ICON ID: Icon_box_3
+NOMBRE: Welcome Pack
+TIPO: Bundle Create
+RAREZA: ORANGE (Mythic)
+TAG: OB45
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710045033.png

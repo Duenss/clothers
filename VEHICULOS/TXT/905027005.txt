@@ -1,0 +1,8 @@
+ITEM ID: 905027005
+ICON ID: Icon_Avatar_PARACHUTE_VNdrink
+NOMBRE: Parachute - YoMost
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905027005.png

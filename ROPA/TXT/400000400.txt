@@ -1,0 +1,8 @@
+ITEM ID: 400000400
+ICON ID: Icon_box_3
+NOMBRE: Burning Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Burning Box
+IMAGEN: ROPA/imagenes/400000400.png

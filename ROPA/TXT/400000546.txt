@@ -1,0 +1,8 @@
+ITEM ID: 400000546
+ICON ID: Icon_box_3
+NOMBRE: Day of the Dead Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to get exciting rewards!
+IMAGEN: ROPA/imagenes/400000546.png

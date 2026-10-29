@@ -1,0 +1,8 @@
+ITEM ID: 907103021
+ICON ID: Icon_Machete_Playingcard
+NOMBRE: Parang - Poker Monarch Blade
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103021.png

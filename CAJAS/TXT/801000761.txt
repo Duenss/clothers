@@ -1,0 +1,8 @@
+ITEM ID: 801000761
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: FACT4 Red
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: FAITH
+IMAGEN: CAJAS/imagenes/801000761.png

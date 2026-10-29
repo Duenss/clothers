@@ -1,0 +1,8 @@
+ITEM ID: 211037034
+ICON ID: Icon_avatar_cos_hair_opinion
+NOMBRE: Dude in Black (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037034.png

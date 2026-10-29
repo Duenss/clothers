@@ -1,0 +1,8 @@
+ITEM ID: 407105303
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Cyber Invader (MAG-7) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive a random gun skin (MAG-7) from the Cyber Invader set
+IMAGEN: ARMAS/imagenes/407105303.png

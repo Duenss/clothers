@@ -1,0 +1,8 @@
+ITEM ID: 710042002
+ICON ID: FF_UI_Voiceitem_Ironbull
+NOMBRE: Streamer's Voice Pack (Ironbull)
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: Ironbull can take good care of you!
+IMAGEN: MUSICA/imagenes/710042002.png

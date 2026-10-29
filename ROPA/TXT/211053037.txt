@@ -1,0 +1,8 @@
+ITEM ID: 211053037
+ICON ID: Icon_avatar_male_cos_hair_worldcup25_01
+NOMBRE: Silver Crew Cut Hairstyle
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211053037.png

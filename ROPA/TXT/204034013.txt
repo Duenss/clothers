@@ -1,0 +1,8 @@
+ITEM ID: 204034013
+ICON ID: Icon_avatar_male_cos_bottom_roseperfume_purple
+NOMBRE: Sir Toxicatomy (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034013.png

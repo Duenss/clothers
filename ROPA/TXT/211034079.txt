@@ -1,0 +1,8 @@
+ITEM ID: 211034079
+ICON ID: Icon_avatar_male_cos_accessory_rampage4_fire_yellow
+NOMBRE: Saturn Evilstriker (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211034079.png

@@ -1,0 +1,8 @@
+ITEM ID: 400034092
+ICON ID: Icon_box_3
+NOMBRE: Emote: Win and Chill Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Emote: Win and Chill
+IMAGEN: ROPA/imagenes/400034092.png

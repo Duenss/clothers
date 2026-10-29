@@ -1,0 +1,8 @@
+ITEM ID: 801000611
+ICON ID: Icon_exchange_ob24_FFCS_token
+NOMBRE: FFCS Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000611.png

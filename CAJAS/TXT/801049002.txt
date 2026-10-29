@@ -1,0 +1,8 @@
+ITEM ID: 801049002
+ICON ID: Icon_exchange_GoldenTc1_49
+NOMBRE: Golden Criminal Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049002.png

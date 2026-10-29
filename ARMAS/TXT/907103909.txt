@@ -1,0 +1,8 @@
+ITEM ID: 907103909
+ICON ID: Icon_M60_Scarlet
+NOMBRE: M60 - Sublime Scorpio
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103909.png

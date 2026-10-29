@@ -1,0 +1,8 @@
+ITEM ID: 400010904
+ICON ID: Icon_box_3
+NOMBRE: Wolfrahh Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB10
+DESCRIPCION: Guess what's inside!
+IMAGEN: ROPA/imagenes/400010904.png

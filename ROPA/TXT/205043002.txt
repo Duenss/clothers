@@ -1,0 +1,8 @@
+ITEM ID: 205043002
+ICON ID: Icon_avatar_female_cos_shoe_pointed
+NOMBRE: Crystal Twilight (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043002.png

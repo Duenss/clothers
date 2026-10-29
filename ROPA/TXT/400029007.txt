@@ -1,0 +1,8 @@
+ITEM ID: 400029007
+ICON ID: Icon_box_3
+NOMBRE: 4th Anniversary White Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: Exciting rewards for the 4th Anniversary!
+IMAGEN: ROPA/imagenes/400029007.png

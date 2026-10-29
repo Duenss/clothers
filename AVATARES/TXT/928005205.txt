@@ -1,0 +1,8 @@
+ITEM ID: 928005205
+ICON ID: Icon_GroupPhotoIIVPink_icon
+NOMBRE: Itadori Theme
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Itadori Theme
+IMAGEN: AVATARES/imagenes/928005205.png

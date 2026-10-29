@@ -1,0 +1,8 @@
+ITEM ID: 203000060
+ICON ID: Icon_avatar_founder_jacket_1
+NOMBRE: Galaxy Jacket
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000060.png

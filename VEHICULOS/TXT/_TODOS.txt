@@ -1,0 +1,988 @@
+﻿ITEM_ID	ICON_ID	NOMBRE	TIPO	RAREZA	TAG	IMAGEN	DESCRIPCION
+209000001	Icon_avatar_parachute_D	Default Parachute	Parachute	WHITE (Common)		VEHICULOS/imagenes/209000001.png	Use while parachuting
+209000002	Icon_avatar_parachute_1	Parachute - Green	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000002.png	
+209000003	Icon_avatar_parachute_2	Parachute - Camouflage (Red)	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000003.png	
+209000004	Icon_avatar_parachute_3	Camouflage (Green)	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000004.png	
+209000005	Icon_avatar_parachute_4	Parachute - Camouflage (Emoji)	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000005.png	
+209000006	Icon_avatar_parachute_5	Parachute - Skull	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000006.png	
+209000007	Icon_avatar_parachute_6	Parachute - Colored	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000007.png	
+209000008	Icon_avatar_parachute_7	Parachute - Sky	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000008.png	
+209000009	Icon_avatar_parachute_8	Parachute - Smiley	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000009.png	
+209000010	Icon_avatar_parachute_9	Parachute - Heart	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000010.png	
+209000011	Icon_avatar_parachute_10	Parachute - Clubs	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000011.png	
+209000012	Icon_avatar_parachute_11	Parachute - Diamond	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000012.png	
+209000013	Icon_avatar_parachute_12	Parachute - Spade	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000013.png	
+209000014	Icon_Avatar_PARACHUTE_SPRING	Parachute - Spring	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000014.png	
+209000015	Icon_Avatar_PARACHUTE_SUMMER	Parachute - Summer	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000015.png	
+209000016	Icon_Avatar_PARACHUTE_AUTUMN	Parachute - Autumn	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000016.png	
+209000017	Icon_Avatar_PARACHUTE_WINTER	Parachute - Winter	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000017.png	
+209000018	Icon_Avatar_PARACHUTE_AIS	Parachute - AIS	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000018.png	
+209000019	Icon_Avatar_PARACHUTE_Aries	Parachute - Aries	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000019.png	
+209000020	Icon_Avatar_PARACHUTE_Taurus	Parachute - Taurus	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000020.png	
+209000021	Icon_Avatar_PARACHUTE_Gemini	Parachute - Gemini	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000021.png	
+209000022	Icon_Avatar_PARACHUTE_Cancer	Parachute - Cancer	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000022.png	
+209000023	Icon_Avatar_PARACHUTE_Leo	Parachute - Leo	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000023.png	
+209000024	Icon_Avatar_PARACHUTE_Virgo	Parachute - Virgo	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000024.png	
+209000025	Icon_Avatar_PARACHUTE_Libra	Parachute - Libra	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000025.png	
+209000026	Icon_Avatar_PARACHUTE_Scorpio	Parachute - Scorpio	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000026.png	
+209000027	Icon_Avatar_PARACHUTE_Sagittarius	Parachute - Sagittarius	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000027.png	
+209000028	Icon_Avatar_PARACHUTE_Capricorn	Parachute - Capricorn	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000028.png	
+209000029	Icon_Avatar_PARACHUTE_Aquarius	Parachute - Aquarius	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000029.png	
+209000030	Icon_Avatar_PARACHUTE_Pisces	Parachute - Pisces	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000030.png	
+209000031	Icon_Avatar_Parachute_Korea_Esports	토요프파 낙하산	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/209000031.png	
+905000001	Icon_Avatar_Parachute_Sushi_Eel	Parachute - Unagi	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000001.png	
+905000002	Icon_Avatar_Parachute_Sushi_Egg	Parachute - Tamago	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000002.png	
+905000003	Icon_Avatar_Parachute_Sushi_Salmon	Parachute - Salmon	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000003.png	
+905000004	Icon_Avatar_Parachute_Sushi_Shrimp	Parachute - Ebi	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000004.png	
+905000005	Icon_Avatar_Parachute_Sushi_Squid	Parachute - Squid Sushi	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000005.png	
+905000006	Icon_Avatar_Parachute_Sakura_FP	Parachute - Sakura	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000006.png	
+905000007	Icon_Avatar_Parachute_Sakura_EP	Parachute - Plum Blossom	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000007.png	
+905000008	Icon_Avatar_PARACHUTE_SUNNY	Parachute - Clear Skies	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000008.png	
+905000009	Icon_Avatar_PARACHUTE_RAIN	Parachute - Raindrops	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000009.png	
+905000010	Icon_Avatar_PARACHUTE_CLOUDY	Parachute - Overcast	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000010.png	
+905000011	Icon_Avatar_PARACHUTE_THUNDER	Parachute - Bolt	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000011.png	
+905000012	Icon_Avatar_PARACHUTE_SNOWY	Parachute - Snow	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000012.png	
+905000013	Icon_Avatar_PARACHUTE_TYPHOON	Parachute - Typhoon	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000013.png	
+905000014	Icon_Avatar_PARACHUTE_HALFYEAR	Parachute - 6-Month Anniversary	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000014.png	
+905000015	Icon_Avatar_PARACHUTE_HIPHOPFP	Parachute - Blue Vandal	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000015.png	
+905000016	Icon_Avatar_PARACHUTE_HIPHOPEP	Parachute - Pink Vandal	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000016.png	
+905000017	Icon_Avatar_PARACHUTE_SHARK	Parachute - Bloodlust	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000017.png	
+905000018	Icon_Avatar_PARACHUTE_ASUS	Parachute - Rider	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000018.png	
+905000019	Icon_Avatar_PARACHUTE_LOVER_02	Parachute - I Jump	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000019.png	
+905000020	Icon_Avatar_PARACHUTE_LOVER_01	Parachute - You Jump	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000020.png	
+905000021	Icon_Avatar_PARACHUTE_Wasteland_EP1	Parachute - D.A.N.G.E.R	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000021.png	
+905000022	Icon_Avatar_PARACHUTE_Wasteland_EP2	Parachute - Biohazard	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000022.png	
+905000023	Icon_Avatar_PARACHUTE_royalty1	Parachute - Blue Regal	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000023.png	
+905000024	Icon_Avatar_PARACHUTE_royalty2	Parachute - Purple Regal	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000024.png	
+905000025	Icon_Avatar_Pirate_EP1	Parachute - Sailing in the Air	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000025.png	
+905000026	Icon_Avatar_Pirate_EP2	Parachute - Pirates in the Sky	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000026.png	
+905000027	Icon_Avatar_PARACHUTE_circus	Parachute - Welcome to the Circus	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000027.png	
+905000028	Icon_Avatar_PARACHUTE_sponsor	Parachute - Racer	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000028.png	
+905000029	Icon_Avatar_PARACHUTE_rog	Parachute - ROG Exclusive	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000029.png	
+905000030	Icon_Avatar_PARACHUTE_Steam_Punk_EP2	Parachute - Mad Professor	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000030.png	
+905000031	Icon_Avatar_PARACHUTE_Steam_Punk_EP1	Parachute - Victorian Factory	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000031.png	
+905000032	Icon_Avatar_PARACHUTE_8bit_EP1	Parachute - Level 1	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000032.png	
+905000033	Icon_Avatar_PARACHUTE_8bit_EP2	Parachute - Flying Controller	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000033.png	
+905000034	Icon_Avatar_PARACHUTE_angel	Parachute - Holy Wings	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000034.png	
+905000035	Icon_Avatar_PARACHUTE_devil	Parachute - Wings of the Devil	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000035.png	
+905000036	Icon_Avatar_PARACHUTE_halloween_01	Parachute - Witch's House	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000036.png	
+905000037	Icon_Avatar_PARACHUTE_halloween_02	Parachute - Trick or Treat	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000037.png	
+905000038	Icon_Avatar_PARACHUTE_christmas_01	Parachute - Old Man	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000038.png	
+905000039	Icon_Avatar_PARACHUTE_christmas_02	Parachute - Elf, Old Man, and the Elk	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000039.png	
+905000040	Icon_Avatar_PARACHUTE_biobody_01	Parachute - Mercenary	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000040.png	
+905000041	Icon_Avatar_PARACHUTE_general	Parachute - Falling Star	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000041.png	
+905000042	Icon_Avatar_PARACHUTE_Egypt	Parachute - Blessings of the Desert	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000042.png	
+905000043	Icon_Avatar_PARACHUTE_Bombsquad	Parachute - Remote Bomb	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000043.png	
+905000044	Icon_Avatar_PARACHUTE_CNY	Parachute - Lunar New Year 2019	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000044.png	
+905000045	Icon_Avatar_PARACHUTE_Carnival	Parachute - Join the Carnival!	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000045.png	
+905000046	Icon_Avatar_PARACHUTE_Dragons	Parachute - Dragon	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000046.png	
+905000047	Icon_Avatar_PARACHUTE_Easter	Parachute - Cheerful Bunny	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000047.png	
+905000048	Icon_Avatar_PARACHUTE_Bloodmoon	Parachute - Blood Reigning	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000048.png	
+905000049	Icon_Avatar_PARACHUTE_Jajuar	Parachute - Duo Threat	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000049.png	
+905000050	Icon_Avatar_PARACHUTE_GW	Parachute - FFWC	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000050.png	
+905000051	Icon_Avatar_PARACHUTE_Huawei_Y6	Parachute - Huawei_Y6	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000051.png	
+905000052	Icon_Avatar_PARACHUTE_StarSoul	Parachute - Beast In the Sky	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000052.png	
+905000053	Icon_Avatar_PARACHUTE_Apocalypse	Parachute - Sudden Death	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000053.png	
+905000054	Icon_Avatar_PARACHUTE_dtac	Parachute - DTAC	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000054.png	
+905000055	Icon_Avatar_PARACHUTE_Desert_Hunter	Parachute - Hunter's Roar	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000055.png	
+905000056	Icon_Avatar_PARACHUTE_Desert_DJ	Parachute - Melody Blast	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000056.png	
+905000057	Icon_Avatar_PARACHUTE_Desert_Model	Parachute - Skypion	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000057.png	
+905000058	Icon_Avatar_PARACHUTE_cowboymk2	Parachute - Top Cowboy	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000058.png	
+905000059	Icon_Avatar_PARACHUTE_assassin	Parachute - Head Hunting	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000059.png	
+905000061	Icon_Avatar_PARACHUTE_BloodMoonMK2	Parachute - Blood Rain	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000061.png	
+905000062	Icon_Avatar_PARACHUTE_headhunters	Parachute - Hunter in the Sky	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000062.png	
+905000063	Icon_Avatar_PARACHUTE_Hockeygoalie	Parachute - Raining Blood	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000063.png	
+905000064	Icon_Avatar_PARACHUTE_Halloween2019	Parachute - The Death Skull	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000064.png	
+905000065	Icon_Avatar_PARACHUTE_Spirit	Parachute - Spirit of War	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000065.png	
+905000066	Icon_Avatar_PARACHUTE_Piratemk2	Parachute - Voyage of the Death	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000066.png	
+905000067	Icon_Avatar_PARACHUTE_Traphiphop	Parachute - Lyrical Night	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000067.png	
+905000068	Icon_Avatar_PARACHUTE_Ninjas	Parachute - Clandestine Ninja	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000068.png	
+905000069	Icon_Avatar_PARACHUTE_Icefestival	Parachute - Wicked Snowman	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000069.png	
+905000070	Icon_Avatar_PARACHUTE_Cnnewyear19	Parachute - Draconic Invasion	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000070.png	
+905000071	Icon_Avatar_PARACHUTE_Nuclear	Parachute - Radioactive Daredevil	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000071.png	
+905000072	Icon_Avatar_PARACHUTE_Furryspy	Parachute - Windhowler	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000072.png	
+905000073	Icon_Avatar_PARACHUTE_Valentine2020	Parachute - Love Is in the Air	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000073.png	
+905000074	Icon_Avatar_PARACHUTE_Borderlands	Parachute - Wasteland Frontier	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000074.png	
+905000075	Icon_Avatar_PARACHUTE_Fashionfox	Parachute - Mythical Fox	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000075.png	
+905000076	Icon_Avatar_PARACHUTE_Death2020	Parachute - Death Incoming	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000076.png	
+905000077	Icon_Avatar_PARACHUTE_Eggday	Parachute - Bunny Frenzy	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000077.png	
+905000078	Icon_Avatar_PARACHUTE_Spine	Parachute - Street Dominance	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000078.png	
+905000079	Icon_Avatar_PARACHUTE_Dtac2020	Parachute - Arctic Flame	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000079.png	
+905000080	Icon_Avatar_PARACHUTE_Apocalypse2	Parachute - Perish Flourish	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000080.png	
+905000081	Icon_Avatar_PARACHUTE_Faimplague2	Parachute - Divine Punishment	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000081.png	
+905000082	Icon_Avatar_PARACHUTE_Captainbubble	Parachute - Captain Summer	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000082.png	
+905000083	Icon_Avatar_PARACHUTE_College	Parachute - Rebel Academy	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000083.png	
+905000084	Icon_Avatar_PARACHUTE_June	Parachute - June Festivals	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000084.png	
+905000085	Icon_Avatar_PARACHUTE_Angeldevil	Parachute - Demon Fury	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000085.png	
+905000086	Icon_Avatar_PARACHUTE_Gemini2	Parachute - The Maniacs	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000086.png	
+905000087	Icon_Avatar_PARACHUTE_GangsterRAP	Parachute - Rapper Underworld	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000087.png	
+905000088	Icon_Avatar_PARACHUTE_MaxParachute	Parachute - MAX	Parachute	BLUE (Rare)		VEHICULOS/imagenes/905000088.png	
+905000089	Icon_Avatar_PARACHUTE_Jumpsuit	Parachute - Plan Bermuda	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000089.png	
+905000090	Icon_Avatar_PARACHUTE_Impermanence	Parachute - Endless Oblivion	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000090.png	
+905000091	Icon_Avatar_PARACHUTE_Booyahday	Parachute - Booyah Day!	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000091.png	
+905000092	Icon_Avatar_PARACHUTE_Pumpkin2020	Parachute - Pumpkin Land	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000092.png	
+905000093	Icon_Avatar_PARACHUTE_Warringstates	Parachute - Legend of the Swordsmen	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000093.png	
+905000094	Icon_Avatar_PARACHUTE_Futuristiccity	Parachute - FFCS	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000094.png	
+905000095	Icon_Avatar_PARACHUTE_Yakuza	Parachute - Fuji Folklore	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000095.png	
+905000096	Icon_Avatar_PARACHUTE_Winterfest2020	Parachute - Winterlands 2020	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000096.png	
+905000097	Icon_Avatar_PARACHUTE_Coconut	Parachute - Sunshine Coconut	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000097.png	
+905000098	Icon_Avatar_PARACHUTE_Shark2020	Parachute - Shark Attack	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000098.png	
+905000099	Icon_Avatar_PARACHUTE_Bounty	Parachute - Enter Chrono!	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000099.png	
+905000100	Icon_Avatar_PARACHUTE_Megapunch	Parachute - Saitama	Parachute	PURPLE (Epic)		VEHICULOS/imagenes/905000100.png	
+905026001	Icon_Avatar_PARACHUTE_Vampirebat	Parachute - Crimson Skyline	Parachute	PURPLE (Epic)	OB26	VEHICULOS/imagenes/905026001.png	
+905026002	Icon_Avatar_PARACHUTE_Eggday2021	Parachute - Egghunt Paradise	Parachute	PURPLE (Epic)	OB26	VEHICULOS/imagenes/905026002.png	
+905026003	Icon_Avatar_PARACHUTE_Cobra_One	Parachute - Cobra Strike	Parachute	PURPLE (Epic)	OB26	VEHICULOS/imagenes/905026003.png	
+905026004	Icon_Avatar_PARACHUTE_Cobra_Two	Parachute - Cobra Attack	Parachute	PURPLE (Epic)	OB26	VEHICULOS/imagenes/905026004.png	
+905026005	Icon_Avatar_PARACHUTE_Superstar	Parachute - Superstar	Parachute	PURPLE (Epic)	OB26	VEHICULOS/imagenes/905026005.png	
+905026006	Icon_Avatar_PARACHUTE_Matryoshka	Parachute - Matryoshka Army	Parachute	PURPLE (Epic)	OB26	VEHICULOS/imagenes/905026006.png	
+905027001	Icon_Avatar_PARACHUTE_Crystalslipper	Parachute - Evil Enchanted	Parachute	PURPLE (Epic)	OB27	VEHICULOS/imagenes/905027001.png	
+905027002	Icon_Avatar_PARACHUTE_Dragon	Parachute - Flame Draco	Parachute	PURPLE (Epic)	OB27	VEHICULOS/imagenes/905027002.png	
+905027003	Icon_Avatar_PARACHUTE_FFCC2021	Parachute - FFWS 2021	Parachute	PURPLE (Epic)	OB27	VEHICULOS/imagenes/905027003.png	
+905027004	Icon_Avatar_PARACHUTE_Boxer	Parachute - K.O. Night	Parachute	PURPLE (Epic)	OB27	VEHICULOS/imagenes/905027004.png	
+905027005	Icon_Avatar_PARACHUTE_VNdrink	Parachute - YoMost	Parachute	PURPLE (Epic)	OB27	VEHICULOS/imagenes/905027005.png	
+905027006	Icon_Avatar_PARACHUTE_Fastbreaking	Parachute - Jade Sky	Parachute	PURPLE (Epic)	OB27	VEHICULOS/imagenes/905027006.png	
+905028001	Icon_Avatar_PARACHUTE_Scarecrow	Parachute - Scarecrow Strikes	Parachute	PURPLE (Epic)	OB28	VEHICULOS/imagenes/905028001.png	
+905028002	Icon_Avatar_PARACHUTE_Foursymbols	Parachute - The Stormbringer	Parachute	PURPLE (Epic)	OB28	VEHICULOS/imagenes/905028002.png	
+905028003	Icon_Avatar_PARACHUTE_Fallwinter	Parachute - Hip Hop Street	Parachute	PURPLE (Epic)	OB28	VEHICULOS/imagenes/905028003.png	
+905028004	Icon_Avatar_PARACHUTE_Thunder_01	Parachute - Destiny Guardian	Parachute	PURPLE (Epic)	OB28	VEHICULOS/imagenes/905028004.png	
+905028005	Icon_Avatar_PARACHUTE_Sutorito	Parachute - Street Fighter	Parachute	PURPLE (Epic)	OB28	VEHICULOS/imagenes/905028005.png	
+905028006	Icon_Avatar_PARACHUTE_Supercar	Parachute - McLaren Racing	Parachute	PURPLE (Epic)	OB28	VEHICULOS/imagenes/905028006.png	
+905029001	Icon_Avatar_PARACHUTE_Arabictales	Parachute - Lapis Jubilee	Parachute	PURPLE (Epic)	OB29	VEHICULOS/imagenes/905029001.png	
+905029002	Icon_Avatar_PARACHUTE_Musicfest	Parachute - Crimson Neon	Parachute	PURPLE (Epic)	OB29	VEHICULOS/imagenes/905029002.png	
+905029003	Icon_Avatar_PARACHUTE_Mocomonth	Parachute - Moco's Wings	Parachute	PURPLE (Epic)	OB29	VEHICULOS/imagenes/905029003.png	
+905029004	Icon_Avatar_PARACHUTE_BRninja	Parachute - Nocturnal Assassin	Parachute	PURPLE (Epic)	OB29	VEHICULOS/imagenes/905029004.png	
+905029005	Icon_Avatar_PARACHUTE_Asianoni	Parachute - Demonic Grin	Parachute	PURPLE (Epic)	OB29	VEHICULOS/imagenes/905029005.png	
+905030001	Icon_Avatar_PARACHUTE_Booyahday21	Parachute - Bone	Parachute	PURPLE (Epic)	OB30	VEHICULOS/imagenes/905030001.png	
+905030002	Icon_Avatar_PARACHUTE_Sugarskull21	Parachute - Floral Tribute	Parachute	PURPLE (Epic)	OB30	VEHICULOS/imagenes/905030002.png	
+905030003	Icon_Avatar_PARACHUTE_Lightfest	Parachute - The Flying Diya	Parachute	PURPLE (Epic)	OB30	VEHICULOS/imagenes/905030003.png	
+905030004	Icon_Avatar_PARACHUTE_Playingcard	Parachute - Poker Monarch	Parachute	PURPLE (Epic)	OB30	VEHICULOS/imagenes/905030004.png	
+905030005	Icon_Avatar_PARACHUTE_Evilrhythm	Parachute - Skull Bang	Parachute	PURPLE (Epic)	OB30	VEHICULOS/imagenes/905030005.png	
+905031001	Icon_Avatar_PARACHUTE_PKmobile	Parachute - Infinix	Parachute	PURPLE (Epic)	OB31	VEHICULOS/imagenes/905031001.png	
+905031002	Icon_Avatar_PARACHUTE_Falconer	Parachute - Maro's Eagle Wings	Parachute	PURPLE (Epic)	OB31	VEHICULOS/imagenes/905031002.png	
+905031003	Icon_Avatar_PARACHUTE_RUmusician	Parachute - Strapped Trap	Parachute	PURPLE (Epic)	OB31	VEHICULOS/imagenes/905031003.png	
+905031004	Icon_Avatar_PARACHUTE_Winterfest21	Parachute - Snowman in Flight	Parachute	PURPLE (Epic)	OB31	VEHICULOS/imagenes/905031004.png	
+905031006	Icon_Avatar_PARACHUTE_Origami	Parachute - Whirl of Swan	Parachute	PURPLE (Epic)	OB31	VEHICULOS/imagenes/905031006.png	
+905031007	Icon_Avatar_PARACHUTE_Jumpsuit2	Parachute - Team Heist	Parachute	PURPLE (Epic)	OB31	VEHICULOS/imagenes/905031007.png	
+905032001	Icon_Avatar_PARACHUTE_Reddragon	Parachute - Dawnlit Drago	Parachute	PURPLE (Epic)	OB32	VEHICULOS/imagenes/905032001.png	
+905032002	Icon_Avatar_PARACHUTE_PKkite	Parachute - Kite Sky	Parachute	PURPLE (Epic)	OB32	VEHICULOS/imagenes/905032002.png	
+905032003	Icon_Avatar_PARACHUTE_TRbullet	Parachute - Scoped-In	Parachute	PURPLE (Epic)	OB32	VEHICULOS/imagenes/905032003.png	
+905032004	Icon_Avatar_PARACHUTE_Hurricane	Parachute - Maroon Laser	Parachute	PURPLE (Epic)	OB32	VEHICULOS/imagenes/905032004.png	
+905032005	Icon_Avatar_PARACHUTE_Inkbrush	Parachute - Bamboo Moon	Parachute	PURPLE (Epic)	OB32	VEHICULOS/imagenes/905032005.png	
+905032006	Icon_Avatar_PARACHUTE_Hoodedkiller	Parachute - Hooded	Parachute	PURPLE (Epic)	OB32	VEHICULOS/imagenes/905032006.png	
+905033001	Icon_Avatar_PARACHUTE_FFWS03	Parachute - Haven Guardian	Parachute	PURPLE (Epic)	OB33	VEHICULOS/imagenes/905033001.png	
+905033002	Icon_Avatar_PARACHUTE_Cyberopera	Parachute - Robotic Opera	Parachute	PURPLE (Epic)	OB33	VEHICULOS/imagenes/905033002.png	
+905033003	Icon_Avatar_PARACHUTE_Spiderlily	Parachute - Burning Lily	Parachute	PURPLE (Epic)	OB33	VEHICULOS/imagenes/905033003.png	
+905033004	Icon_Avatar_PARACHUTE_Fastbreaking22	Parachute - Emerald Bloom	Parachute	PURPLE (Epic)	OB33	VEHICULOS/imagenes/905033004.png	
+905033005	Icon_Avatar_PARACHUTE_Goldenwings	Parachute - Wings of Divinity	Parachute	PURPLE (Epic)	OB33	VEHICULOS/imagenes/905033005.png	
+905033006	Icon_Avatar_PARACHUTE_Lbff	Parachute - LBFF	Parachute	PURPLE (Epic)	OB33	VEHICULOS/imagenes/905033006.png	
+905034001	Icon_Avatar_PARACHUTE_Cyberwasp	Parachute - Bumble Threat	Parachute	BLUE (Rare)	OB34	VEHICULOS/imagenes/905034001.png	
+905034002	Icon_Avatar_PARACHUTE_BIS	Parachute - Digi Smiley	Parachute	PURPLE (Epic)	OB34	VEHICULOS/imagenes/905034002.png	
+905034003	Icon_Avatar_PARACHUTE_Winterdog	Parachute - Husky Pup	Parachute	PURPLE (Epic)	OB34	VEHICULOS/imagenes/905034003.png	
+905034004	Icon_Avatar_PARACHUTE_Lotus	Parachute - Glow Lotus	Parachute	PURPLE (Epic)	OB34	VEHICULOS/imagenes/905034004.png	
+905034005	Icon_Avatar_PARACHUTE_Wildfire_Skeleton	Parachute - Blazed Night	Parachute	PURPLE (Epic)	OB34	VEHICULOS/imagenes/905034005.png	
+905035001	Icon_Avatar_PARACHUTE_Ugc	Parachute - Creative Fighters	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035001.png	
+905035002	Icon_Avatar_PARACHUTE_Deepseasharks	Parachute - Flesh Devourer	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035002.png	
+905035003	Icon_Avatar_PARACHUTE_Digitaluniverse	Parachute - 5th Anniversary	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035003.png	
+905035004	Icon_Avatar_PARACHUTE_Goldchain	Parachute - Chainz of Lux	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035004.png	
+905035005	Icon_Avatar_PARACHUTE_Light_Darkness	Parachute - Crowned Bones	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035005.png	
+905035006	Icon_Avatar_PARACHUTE_CATeam	Parachute - Celestial Fall	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035006.png	
+905035007	Icon_Avatar_PARACHUTE_School35	Parachute - Blue Beast	Parachute	PURPLE (Epic)	OB35	VEHICULOS/imagenes/905035007.png	
+905036001	Icon_Avatar_PARACHUTE_Frankenstein	Parachute - Monster Incoming	Parachute	PURPLE (Epic)	OB36	VEHICULOS/imagenes/905036001.png	
+905036002	Icon_Avatar_PARACHUTE_Griza	Nutty Quirk Parachute	Parachute	PURPLE (Epic)	OB36	VEHICULOS/imagenes/905036002.png	
+905036003	Icon_Avatar_PARACHUTE_Ghostface	Parachute - Wicked Red	Parachute	PURPLE (Epic)	OB36	VEHICULOS/imagenes/905036003.png	
+905036004	Icon_Avatar_PARACHUTE_Lightfest22	Parachute - Predator in the Sky	Parachute	PURPLE (Epic)	OB36	VEHICULOS/imagenes/905036004.png	
+905036005	Icon_Avatar_PARACHUTE_Sugarskull22	Parachute - Deadly Descent	Parachute	PURPLE (Epic)	OB36	VEHICULOS/imagenes/905036005.png	
+905036006	Icon_Avatar_PARACHUTE_Pattern	Parachute - Carpet Print	Parachute	PURPLE (Epic)	OB36	VEHICULOS/imagenes/905036006.png	
+905036007	Icon_Avatar_PARACHUTE_Shiba_Model	Parachute - Bubble Pup	Parachute	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/905036007.png	
+905036008	Icon_Avatar_PARACHUTE_PKmobile_01	Parachute - Infinix Booyah	Parachute	BLUE (Rare)	OB36	VEHICULOS/imagenes/905036008.png	
+905037001	Icon_Avatar_PARACHUTE_FFWS2022	Parachute - Starsea Beast	Parachute	PURPLE (Epic)	OB37	VEHICULOS/imagenes/905037001.png	
+905037002	Icon_Avatar_PARACHUTE_Culture_VN	Parachute - Auspicious	Parachute	PURPLE (Epic)	OB37	VEHICULOS/imagenes/905037002.png	
+905037003	Icon_Avatar_PARACHUTE_Soccer22	Parachute - Magenta Football	Parachute	PURPLE (Epic)	OB37	VEHICULOS/imagenes/905037003.png	
+905037004	Icon_Avatar_PARACHUTE_Scorpion22	Parachute - Venom Buzz	Parachute	PURPLE (Epic)	OB37	VEHICULOS/imagenes/905037004.png	
+905037006	Icon_Avatar_PARACHUTE_Emoji	Parachute - Evil Emoji	Parachute	PURPLE (Epic)	OB37	VEHICULOS/imagenes/905037006.png	
+905038001	Icon_Avatar_PARACHUTE_Goal	Parachute - Achiever	Parachute	PURPLE (Epic)	OB38	VEHICULOS/imagenes/905038001.png	
+905038002	Icon_Avatar_PARACHUTE_Alligator	Parachute - Crocoslayer	Parachute	PURPLE (Epic)	OB38	VEHICULOS/imagenes/905038002.png	
+905038003	Icon_Avatar_PARACHUTE_Eldergods	Parachute - Pyronoc	Parachute	PURPLE (Epic)	OB38	VEHICULOS/imagenes/905038003.png	
+905038004	Icon_Avatar_PARACHUTE_Kitchen	Parachute - Sandwich	Parachute	PURPLE (Epic)	OB38	VEHICULOS/imagenes/905038004.png	
+905038005	Icon_Avatar_PARACHUTE_Carnaval	Parachute - Carnival	Parachute	PURPLE (Epic)	OB38	VEHICULOS/imagenes/905038005.png	
+905039001	Icon_Avatar_PARACHUTE_Fishtank	Parachute - Fishy Eyes	Parachute	PURPLE (Epic)	OB39	VEHICULOS/imagenes/905039001.png	
+905039004	Icon_Avatar_PARACHUTE_Mshop	Parachute - Melon Glide	Parachute	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/905039004.png	
+905039005	Icon_Avatar_PARACHUTE_Fastbreaking23	Parachute - Wing of Dawn	Parachute	PURPLE (Epic)	OB39	VEHICULOS/imagenes/905039005.png	
+905040001	Icon_Avatar_PARACHUTE_Artificial	Parachute - Wisdom	Parachute	PURPLE (Epic)	OB40	VEHICULOS/imagenes/905040001.png	
+905040002	Icon_Avatar_PARACHUTE_Farmer	Parachute - Sunny Cornfield	Parachute	PURPLE (Epic)	OB40	VEHICULOS/imagenes/905040002.png	
+905040003	Icon_Avatar_PARACHUTE_Sixth	Parachute - 6th Anniversary	Parachute	PURPLE (Epic)	OB40	VEHICULOS/imagenes/905040003.png	
+905040004	Icon_Avatar_PARACHUTE_Tightguy	Parachute - "Spider-Verse"	Parachute	PURPLE (Epic)	OB40	VEHICULOS/imagenes/905040004.png	
+905041001	Icon_Avatar_PARACHUTE_Inkpainting	Parachute - Ink Wings	Parachute	PURPLE (Epic)	OB41	VEHICULOS/imagenes/905041001.png	
+905041002	Icon_Avatar_PARACHUTE_Sugarskull23	Parachute - Neon Bones	Parachute	PURPLE (Epic)	OB41	VEHICULOS/imagenes/905041002.png	
+905042001	Icon_Avatar_PARACHUTE_Watcher	Parachute - Interstellar Victor	Parachute	PURPLE (Epic)	OB42	VEHICULOS/imagenes/905042001.png	
+905042002	Icon_Avatar_PARACHUTE_Voltage_Free	Parachute - S37 Exclusive: Electro	Parachute	PURPLE (Epic)	OB42	VEHICULOS/imagenes/905042002.png	
+905042003	Icon_Avatar_PARACHUTE_Winterfest23	Parachute - Iceflake	Parachute	PURPLE (Epic)	OB42	VEHICULOS/imagenes/905042003.png	
+905042004	Icon_Avatar_PARACHUTE_Allseason	Parachute - Dawn Voyage	Parachute	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/905042004.png	Obtain by reaching Heroic in BR or CS 4 times in 2024.
+905043001	Icon_Avatar_PARACHUTE_Asura	Parachute - Wrathful Rush	Parachute	PURPLE (Epic)	OB43	VEHICULOS/imagenes/905043001.png	
+905043002	Icon_Avatar_PARACHUTE_Fastbreaking24	Parachute - Glistening Shooting Star	Parachute	PURPLE (Epic)	OB43	VEHICULOS/imagenes/905043002.png	
+905043003	Icon_Avatar_PARACHUTE_CSRank23	Parachute - S23 Exclusive: Crystal	Parachute	PURPLE (Epic)	OB43	VEHICULOS/imagenes/905043003.png	
+905043004	Icon_Avatar_PARACHUTE_Newyear24	Parachute - Year of Legend	Parachute	PURPLE (Epic)	OB43	VEHICULOS/imagenes/905043004.png	
+905044001	Icon_Avatar_PARACHUTE_Videogame	Parachute - Byte Ranger	Parachute	PURPLE (Epic)	OB44	VEHICULOS/imagenes/905044001.png	
+905044002	Icon_Avatar_PARACHUTE_Applique	Parachute - Country Fest Plaid	Parachute	PURPLE (Epic)	OB44	VEHICULOS/imagenes/905044002.png	
+905044003	Icon_Avatar_PARACHUTE_Jeans	Parachute - Jean Mechalution	Parachute	PURPLE (Epic)	OB44	VEHICULOS/imagenes/905044003.png	
+905045001	Icon_Avatar_PARACHUTE_UMA	Parachute - Super Pixel	Parachute	PURPLE (Epic)	OB45	VEHICULOS/imagenes/905045001.png	
+905045002	Icon_Avatar_PARACHUTE_Spirit24	Parachute - 7th Anniversary	Parachute	PURPLE (Epic)	OB45	VEHICULOS/imagenes/905045002.png	
+905045003	Icon_Avatar_PARACHUTE_Leo_01	Parachute - S26 Exclusive: Leo	Parachute	PURPLE (Epic)	OB45	VEHICULOS/imagenes/905045003.png	
+905046001	Icon_Avatar_PARACHUTE_Smile_purple	Parachute - Jagged Grin	Parachute	PURPLE (Epic)	OB46	VEHICULOS/imagenes/905046001.png	
+905046002	Icon_Avatar_PARACHUTE_Purplelight	Parachute - Violet Descent	Parachute	PURPLE (Epic)	OB46	VEHICULOS/imagenes/905046002.png	
+905046003	Icon_Avatar_PARACHUTE_Glooworld	Parachute - Gloo Sploosh	Parachute	PURPLE (Epic)	OB46	VEHICULOS/imagenes/905046003.png	
+905046004	Icon_Avatar_PARACHUTE_FFWS_SF	Parachute - FFWS 2024 Fall	Parachute	PURPLE (Epic)	OB46	VEHICULOS/imagenes/905046004.png	
+905046005	Icon_Avatar_PARACHUTE_CSRank28	Parachute - S28 Exclusive: Horsin'	Parachute	PURPLE (Epic)	OB46	VEHICULOS/imagenes/905046005.png	CS-Ranked S28 Reward
+905046006	Icon_Avatar_PARACHUTE_FB	Parachute - BLUE LOCK	Parachute	BLUE (Rare)	OB46	VEHICULOS/imagenes/905046006.png	
+905047001	Icon_Avatar_PARACHUTE_Valentine25	Parachute - Love in the Air	Parachute	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/905047001.png	
+905047002	Icon_Avatar_PARACHUTE_Allseason25	Parachute - Stormy Ascent	Parachute	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/905047002.png	Obtained by reaching Heroic in BR or CS 4 times in 2025
+905048001	Icon_Avatar_PARACHUTE_Comic24	Parachute - Manga Artist	Parachute	PURPLE (Epic)	OB48	VEHICULOS/imagenes/905048001.png	
+905048002	Icon_Avatar_PARACHUTE_Rainforest_Free	Parachute - Tropical Squad	Parachute	PURPLE (Epic)	OB48	VEHICULOS/imagenes/905048002.png	
+905048003	Icon_Avatar_PARACHUTE_Sleepcoat	Parachute - Bedtime	Parachute	PURPLE (Epic)	OB48	VEHICULOS/imagenes/905048003.png	
+905048004	Icon_Avatar_PARACHUTE_Fashionsuit	Parachute - Urban Escapade	Parachute	PURPLE (Epic)	OB48	VEHICULOS/imagenes/905048004.png	
+905048005	Icon_Avatar_PARACHUTE_Rank45	Parachute - S45 Exclusive: Ramen	Parachute	PURPLE (Epic)	OB48	VEHICULOS/imagenes/905048005.png	BR-Ranked S45 Reward
+905048006	Icon_Avatar_PARACHUTE_RMCO	Parachute - realme	Parachute	PURPLE (Epic)	OB48	VEHICULOS/imagenes/905048006.png	
+905049001	Icon_Avatar_PARACHUTE_Pureblack	Parachute - Sharp Tactician	Parachute	PURPLE (Epic)	OB49	VEHICULOS/imagenes/905049001.png	
+905049002	Icon_Avatar_PARACHUTE_Rank46	Parachute - S46 Exclusive: Signal	Parachute	PURPLE (Epic)	OB49	VEHICULOS/imagenes/905049002.png	
+905049003	Icon_Avatar_PARACHUTE_Pony25	Parachute - Solara Dash	Parachute	PURPLE (Epic)	OB49	VEHICULOS/imagenes/905049003.png	
+905050001	Icon_Avatar_PARACHUTE_2NBCT_Bro	Parachute - Akatsuki Theme	Parachute	BLUE (Rare)	OB50	VEHICULOS/imagenes/905050001.png	
+905050002	Icon_Avatar_PARACHUTE_VA	Parachute - Trouble Night	Parachute	PURPLE (Epic)	OB50	VEHICULOS/imagenes/905050002.png	
+905050003	Icon_Avatar_PARACHUTE_Funzombie	Parachute - Scarlet Ash	Parachute	PURPLE (Epic)	OB50	VEHICULOS/imagenes/905050003.png	
+905050004	Icon_Avatar_PARACHUTE_Cloudyday	Parachute - Solar Cloud	Parachute	PURPLE (Epic)	OB50	VEHICULOS/imagenes/905050004.png	
+905050005	Icon_Avatar_PARACHUTE_Potential25	Parachute - Breeze Runner	Parachute	PURPLE (Epic)	OB50	VEHICULOS/imagenes/905050005.png	
+905050006	Icon_Avatar_PARACHUTE_Bull25	Parachute - Red Bull Energy	Parachute	PURPLE (Epic)	OB50	VEHICULOS/imagenes/905050006.png	
+905051001	Icon_Avatar_PARACHUTE_Bathtub	Parachute - Bubble Trouble	Parachute	PURPLE (Epic)	OB51	VEHICULOS/imagenes/905051001.png	
+905051002	Icon_Avatar_PARACHUTE_Stylish	Parachute - Fashion Monster	Parachute	PURPLE (Epic)	OB51	VEHICULOS/imagenes/905051002.png	
+905051003	Icon_Avatar_PARACHUTE_Redhat25	Parachute - Little Red	Parachute	PURPLE (Epic)	OB51	VEHICULOS/imagenes/905051003.png	
+905051004	Icon_Avatar_PARACHUTE_Rank48	Parachute - S48 Exclusive: Spookster	Parachute	PURPLE (Epic)	OB51	VEHICULOS/imagenes/905051004.png	
+905051005	Icon_Avatar_PARACHUTE_Allseason26	Parachute - Crowned Glory	Parachute	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/905051005.png	Obtained by reaching Heroic in BR or CS 4 times in 2026
+905051006	Icon_Avatar_PARACHUTE_Sports_ME	Parachute - Football Champion	Parachute	BLUE (Rare)	OB51	VEHICULOS/imagenes/905051006.png	
+905052001	Icon_Avatar_PARACHUTE_IIV_CT	Parachute - Jujutsu Kaisen	Parachute	PURPLE (Epic)	OB52	VEHICULOS/imagenes/905052001.png	
+905052002	Icon_Avatar_PARACHUTE_Carnival26	Parachute - Beat Beast	Parachute	PURPLE (Epic)	OB52	VEHICULOS/imagenes/905052002.png	
+905052003	Icon_Avatar_PARACHUTE_Pixel	Parachute - 8-Bit Duo	Parachute	PURPLE (Epic)	OB52	VEHICULOS/imagenes/905052003.png	
+905052004	Icon_Avatar_PARACHUTE_Emoji26	Parachute - Chillin' Emoji	Parachute	PURPLE (Epic)	OB52	VEHICULOS/imagenes/905052004.png	
+905052005	Icon_Avatar_PARACHUTE_Rank50	Parachute - S50 Exclusive: Voyager	Parachute	PURPLE (Epic)	OB52	VEHICULOS/imagenes/905052005.png	BR-Ranked Reward
+905053001	Icon_Avatar_PARACHUTE_Eclipse	Parachute - Launched Eclipse	Parachute	PURPLE (Epic)	OB53	VEHICULOS/imagenes/905053001.png	
+905053002	Icon_Avatar_PARACHUTE_Magical	Parachute - Sweetheart Sparkle	Parachute	PURPLE (Epic)	OB53	VEHICULOS/imagenes/905053002.png	
+905053003	Icon_Avatar_PARACHUTE_SH_Dog	Parachute - Sadaharu	Parachute	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/905053003.png	
+905054001	Icon_Avatar_PARACHUTE_EWC26	Parachute - EWC 2026	Parachute	PURPLE (Epic)	OB54	VEHICULOS/imagenes/905054001.png	
+905054002	Icon_Avatar_PARACHUTE_Denim_UD	Parachute - Denim Flipset	Parachute	PURPLE (Epic)	OB54	VEHICULOS/imagenes/905054002.png	
+905054003	Icon_Avatar_PARACHUTE_Ninth	Parachute - 9th Anniversary	Parachute	PURPLE (Epic)	OB54	VEHICULOS/imagenes/905054003.png	
+905054004	Icon_Avatar_PARACHUTE_Cottonbear	Parachute - Cotton Teddy	Parachute	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/905054004.png	
+905054005	Icon_Avatar_PARACHUTE_Party_Pajama	Parachute - Pajama Party	Parachute	PURPLE (Epic)	OB54	VEHICULOS/imagenes/905054005.png	
+905054006	Icon_Avatar_PARACHUTE_Rank53	Parachute - S53 Exclusive: Spica	Parachute	PURPLE (Epic)	OB54	VEHICULOS/imagenes/905054006.png	BR-Ranked Reward
+905055001	Icon_Avatar_PARACHUTE_Halloween26	Parachute - The Unseen	Parachute	PURPLE (Epic)	OB55	VEHICULOS/imagenes/905055001.png	
+905055002	Icon_Avatar_PARACHUTE_Rank54	Parachute - S54 Exclusive: Scorpio	Parachute	PURPLE (Epic)	OB55	VEHICULOS/imagenes/905055002.png	BR-Ranked Reward
+906000001	Icon_Avatar_Surfboard_Sakura	Skyboard - Cherry Blossoms	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000001.png	
+906000002	Icon_Avatar_Surfboard_Geisha	Skyboard - The Artist	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000002.png	
+906000003	Icon_Avatar_Surfboard_Burning	Skyboard - Burning Wreck	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000003.png	
+906000004	Icon_Avatar_Surfboard_Hiphop_FP	Skyboard - Purple Sky	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000004.png	
+906000005	Icon_Avatar_Surfboard_Hiphop_EP	Skyboard - Clinks	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000005.png	
+906000006	Icon_Avatar_Surfboard_Death	Skyboard - Death From Above	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000006.png	
+906000007	Icon_Avatar_Surfboard_BOOYAH	Skyboard - Green Star	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000007.png	
+906000008	Icon_Avatar_Surfboard_Panda	Skyboard - Ragey Panda	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000008.png	
+906000009	Icon_Avatar_Surfboard_Wasteland_EP	Skyboard - ??? Man	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000009.png	
+906000010	Icon_Avatar_Surfboard_Wasteland_FP	Skyboard - Hazmat	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000010.png	
+906000011	Icon_Avatar_Surfboard_royalty1	Skyboard - Excalibur	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000011.png	
+906000012	Icon_Avatar_Surfboard_royalty2	Skyboard - Caliburn	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000012.png	
+906000013	Icon_Avatar_Surfboard_Pirate_EP2	Skyboard - Walk the Plank	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000013.png	
+906000014	Icon_Avatar_Surfboard_Pirate_EP1	Skyboard - Hyper-charged Super Sonic Rocket	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000014.png	
+906000015	Icon_Avatar_Surfboard_clownhair	Skyboard - Starry Night	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000015.png	
+906000016	Icon_Avatar_Surfboard_levelup	Skyboard - Level-up!	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000016.png	
+906000017	Icon_Avatar_GLIDE_DISTANCE	Skyboard - Glider	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000017.png	
+906000018	Icon_Avatar_DOWN_SPEED	Skyboard - Vertigo	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000018.png	
+906000019	Icon_Avatar_Surfboard_steampunk_EP1	Skyboard - Mechanical Core	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000019.png	
+906000020	Icon_Avatar_Surfboard_steampunk_EP2	Skyboard - Victorian	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000020.png	
+906000021	Icon_Avatar_Surfboard_8bit_EP1	Skyboard - 8 Bit	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000021.png	
+906000022	Icon_Avatar_Surfboard_8bit_EP2	Skyboard - Updating Files...	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000022.png	
+906000023	Icon_Avatar_Surfboard_angel	Skyboard - Angel's Blessings	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000023.png	
+906000024	Icon_Avatar_Surfboard_devil	Skyboard - The Devil's Blessings	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000024.png	
+906000025	Icon_Avatar_Surfboard_halloween_yellow	Skyboard - Spooky House	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000025.png	
+906000026	Icon_Avatar_Surfboard_halloween_blue	Skyboard - Haunted Moon	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000026.png	
+906000027	Icon_Avatar_Surfboard_biobody_01	Skyboard - Electric Circuit	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000027.png	
+906000028	Icon_Avatar_Surfboard_biobody_02	Skyboard - Purple Flame	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000028.png	
+906000029	Icon_Avatar_Surfboard_general	Skyboard - Surfing Through the Stars	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000029.png	
+906000030	Icon_Avatar_Surfboard_christmas_01	Skyboard - Winterland	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000030.png	
+906000031	Icon_Avatar_Surfboard_christmas_02	Skyboard - Reindeer's Snowboard	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000031.png	
+906000032	Icon_Avatar_biobody_preorder	Skyboard - Mercenary	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000032.png	
+906000033	Icon_Avatar_Surfboard_Egypt_01	Skyboard - Anubis	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000033.png	
+906000034	Icon_Avatar_Surfboard_Egypt_02	Skyboard - The Eye of Ra	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000034.png	
+906000035	Icon_Avatar_Surfboard_Bombsquad_01	Skyboard - Defuse Kit	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000035.png	
+906000036	Icon_Avatar_Surfboard_Bombsquad_02	Skyboard - EOD	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000036.png	
+906000037	Icon_Avatar_Surfboard_Cny_01	Skyboard - Firecracker	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000037.png	
+906000038	Icon_Avatar_Surfboard_Cny_02	Skyboard - Scream of the Golden Fist	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000038.png	
+906000039	Icon_Avatar_Surfboard_Valentine	Skyboard - Season of Love	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000039.png	
+906000040	Icon_Avatar_Surfboard_Plague_Doctor	Skyboard - Sickness	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000040.png	
+906000041	Icon_Avatar_Surfboard_Dragons_A	Skyboard - Dragon's Tale	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000041.png	
+906000042	Icon_Avatar_Surfboard_Dragons_B	Skyboard - The Final Dragon	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000042.png	
+906000043	Icon_Avatar_Surfboard_Easter	Skyboard - The Bunny Family	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000043.png	
+906000044	Icon_Avatar_Surfboard_Bloodmoon	Skyboard - Blood Surfer	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000044.png	
+906000045	Icon_Avatar_Surfboard_Songkran	Skyboard - Songkran	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000045.png	
+906000046	Icon_Avatar_Surfboard_Jajuar_01	Skyboard - Panther Tattoo	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000046.png	
+906000047	Icon_Avatar_Surfboard_Jajuar_02	Skyboard - Panther in the Jungle	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000047.png	
+906000048	Icon_Avatar_Surfboard_GW	Skyboard - FFWC	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000048.png	
+906000049	Icon_Avatar_Surfboard_fb1000	Skyboard - Surf to 10 Millions	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000049.png	
+906000050	Icon_Avatar_Surfboard_starsoul	Skyboard - Space View	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000050.png	
+906000051	Icon_Avatar_Surfboard_mechgirl	Skyboard - Goddess of War	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000051.png	
+906000052	Icon_Avatar_Surfboard_apocalypse_death	Skyboard - Death	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000052.png	
+906000053	Icon_Avatar_Surfboard_apocalypse_war	Skyboard - War	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000053.png	
+906000054	Icon_Avatar_Surfboard_apocalypse_famine	Skyboard - Hunger	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000054.png	
+906000055	Icon_Avatar_Surfboard_apocalypse_plague	Skyboard - Disease	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000055.png	
+906000056	Icon_Avatar_Surfboard_Widowmaker	Skyboard - Yellow Strike	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000056.png	
+906000057	Icon_Avatar_Surfboard_Element_Fire	Skyboard - Fiery Flames	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000057.png	
+906000058	Icon_Avatar_Surfboard_Element_Air	Skyboard - Lightning Strike	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000058.png	
+906000059	Icon_Avatar_Surfboard_hunter_A	Skyboard - Hunter's Track	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000059.png	
+906000060	Icon_Avatar_Surfboard_hunter_B	Skyboard - Hunter's Mark	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000060.png	
+906000061	Icon_Avatar_Surfboard_Desert_A	Skyboard - Golden Desert	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000061.png	
+906000062	Icon_Avatar_Surfboard_Desert_B	Skyboard - Raging Sands	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000062.png	
+906000063	Icon_Avatar_Surfboard_Desert_C	Skyboard - Battle Scorpion	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000063.png	
+906000064	Icon_Avatar_Surfboard_cowboymk2_A	Skyboard - Cowboy	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000064.png	
+906000065	Icon_Avatar_Surfboard_cowboymk2_B	Skyboard - Draw!	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000065.png	
+906000066	Icon_Avatar_Surfboard_anniversary19	Skyboard - 2nd Anniversary	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000066.png	
+906000067	Icon_Avatar_Surfboard_anniversary19_vfx	Skyboard - 2nd Anniversary Board·G	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000067.png	
+906000068	Icon_Avatar_Surfboard_vampire_A	Skyboard - Blood Bat	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000068.png	
+906000069	Icon_Avatar_Surfboard_vampire_B	Skyboard - Double Skull	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000069.png	
+906000070	Icon_Avatar_Surfboard_mx_independence	Skyboard - Mexico Independence Day	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000070.png	
+906000071	Icon_Avatar_Surfboard_BloodMoonMK201	Skyboard - Moon of Blood	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000071.png	
+906000072	Icon_Avatar_Surfboard_BloodMoonMK202	Skyboard - Trace of Blood	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000072.png	
+906000073	Icon_Avatar_Surfboard_Hockeygoalie01	Skyboard - Goalie's Dream	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000073.png	
+906000074	Icon_Avatar_Surfboard_Hockeygoalie02	Skyboard - Hockey	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000074.png	
+906000075	Icon_Avatar_Surfboard_Halloween201901	Skyboard - Haunted Dawn	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000075.png	
+906000076	Icon_Avatar_Surfboard_Halloween201902	Skyboard - The Magic Stick	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000076.png	
+906000077	Icon_Avatar_Surfboard_Spirit01	Skyboard - Soul Crusher	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000077.png	
+906000078	Icon_Avatar_Surfboard_Spirit02	Skyboard - Soul Reader	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000078.png	
+906000079	Icon_Avatar_Surfboard_Piratemk2_1	Skyboard - Deadly Blue Shark	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000079.png	
+906000080	Icon_Avatar_Surfboard_Piratemk2_2	Skyboard - Bloody Red Shark	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000080.png	
+906000081	Icon_Avatar_Surfboard_Traphiphop_A	Skyboard - Stage of Rhyme	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000081.png	
+906000082	Icon_Avatar_Surfboard_Traphiphop_B	Skyboard - Stage of Tempo	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000082.png	
+906000083	Icon_Avatar_Surfboard_Ninjas_A	Skyboard - Kunai of Darkness	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000083.png	
+906000084	Icon_Avatar_Surfboard_Ninjas_B	Skyboard - Kunai of Light	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000084.png	
+906000085	Icon_Avatar_Surfboard_Icefestival_A	Skyboard - Reindeer Express	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000085.png	
+906000086	Icon_Avatar_Surfboard_Icefestival_B	Skyboard - Snowman's Frenzy	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000086.png	
+906000087	Icon_Avatar_Surfboard_Cnnewyear19	Skyboard - Mythological Ride	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000087.png	
+906000088	Icon_Avatar_Surfboard_Nuclear_A	Skyboard - Doomsday	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000088.png	
+906000089	Icon_Avatar_Surfboard_Nuclear_B	Skyboard - Radioactive	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000089.png	
+906000090	Icon_Avatar_Surfboard_Furryspy_A	Skyboard - Agent Paws	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000090.png	
+906000091	Icon_Avatar_Surfboard_Furryspy_B	Skyboard - Windhowler	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000091.png	
+906000092	Icon_Avatar_Surfboard_Borderlands_A	Skyboard - Wasteland	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000092.png	
+906000093	Icon_Avatar_Surfboard_Borderlands_B	Skyboard - Wasteland Survivor	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000093.png	
+906000094	Icon_Avatar_Surfboard_Taggercrew	Skyboard - An Artist's Escape	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000094.png	
+906000095	Icon_Avatar_Surfboard_Fashionfox_A	Skyboard - The Dashing Fox	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000095.png	
+906000096	Icon_Avatar_Surfboard_Royalguard	Skyboard - Forsaken Blade	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000096.png	
+906000097	Icon_Avatar_Surfboard_Death2020	Skyboard - Death's Ride	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000097.png	
+906000098	Icon_Avatar_Surfboard_Eggday_B	Skyboard - Egg Hunting Craze	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000098.png	
+906000099	Icon_Avatar_Surfboard_Eggday_A	Skyboard - Island Life	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000099.png	
+906000100	Icon_Avatar_Surfboard_Spine_VFX	Skyboard - Punkster	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000100.png	
+906000101	Icon_Avatar_Surfboard_Spine	Skyboard - Spikey Spine	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000101.png	
+906000102	Icon_Avatar_Surfboard_Poker	Skyboard - Malice Joker	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000102.png	
+906000103	Icon_Avatar_Surfboard_Apocalypse2	Skyboard - Havoc Dasher	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000103.png	
+906000104	Icon_Avatar_Surfboard_Faimplague2_Preorder	Skyboard - Catastrophe Sprinter	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000104.png	
+906000105	Icon_Avatar_Surfboard_Sushikiller	Skyboard - Salmon Surfer	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000105.png	
+906000106	Icon_Avatar_Surfboard_Captainbubble_A	Skyboard - Ocean Joy	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000106.png	
+906000107	Icon_Avatar_Surfboard_Captainbubble_B	Skyboard - Ocean Predator	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000107.png	
+906000108	Icon_Avatar_Surfboard_Faimplague2_VFX	Skyboard - Catastrophe Bringer	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000108.png	
+906000109	Icon_Avatar_Surfboard_Faimplague2	Skyboard - Planet Destroyer	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000109.png	
+906000110	Icon_Avatar_Surfboard_College	Skyboard - Riot Academy	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000110.png	
+906000111	Icon_Avatar_Surfboard_June	Skyboard - June Festival	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000111.png	
+906000112	Icon_Avatar_Surfboard_Angeldevil	Skyboard - Celestial Blade	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000112.png	
+906000113	Icon_Avatar_Surfboard_Imperialegypt	Skyboard - Pharaoh's Ride	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000113.png	
+906000114	Icon_Avatar_Surfboard_Gemini	Skyboard - Maniacal Chainsaw	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000114.png	
+906000115	Icon_Avatar_Surfboard_Gemini_A	Skyboard - Hysterical Cackle	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000115.png	
+906000116	Icon_Avatar_Surfboard_Gemini_B	Skyboard - Killer Mind	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000116.png	
+906000117	Icon_Avatar_Surfboard_FoxMiko	Skyboard - Priestess' Fox	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000117.png	
+906000118	Icon_Avatar_Surfboard_GangsterRAP	Skyboard - Rapper Underworld	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000118.png	
+906000119	Icon_Avatar_Surfboard_MaxSurfboard	Skyboard - MAX	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000119.png	
+906000120	Icon_Avatar_Surfboard_Jumpsuit_A	Skyboard - Raining Cash	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000120.png	
+906000121	Icon_Avatar_Surfboard_Jumpsuit_B	Skyboard - Heist	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000121.png	
+906000122	Icon_Avatar_Surfboard_Impermanence	Skyboard - Endless Oblivion	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000122.png	
+906000123	Icon_Avatar_Surfboard_Fashiontrends	Skyboard - Ultrasonic Rave	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000123.png	
+906000124	Icon_Avatar_Surfboard_Booyahday	Skyboard - Booyah Victor	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000124.png	
+906000125	Icon_Avatar_Surfboard_Booyahday_VFX	Skyboard - Booyah Champ	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000125.png	
+906000126	Icon_Avatar_Surfboard_Pumpkin2020	Skyboard - Heart of the Dead	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000126.png	
+906000127	Icon_Avatar_Surfboard_Warringstates	Skyboard - Swordsman Legends	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000127.png	
+906000128	Icon_Avatar_Surfboard_Lolimobs	Skyboard - Prey and Predator	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000128.png	
+906000129	Icon_Avatar_Surfboard_Futuristiccity	Skyboard - Dash Utopia	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000129.png	
+906000130	Icon_Avatar_Surfboard_Futuristiccity_VFX	Skyboard - Lightning Utopia	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000130.png	
+906000131	Icon_Avatar_Surfboard_Futuristiccity_C	Skyboard - FFCS Hover	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000131.png	
+906000132	Icon_Avatar_Surfboard_Sugarskull	Skyboard - Witch's Broomstick	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000132.png	
+906000133	Icon_Avatar_Surfboard_Yakuza	Skyboard - Koi Surfer	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000133.png	
+906000134	Icon_Avatar_Surfboard_Soulbusters	Skyboard - Specter Squad	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000134.png	
+906000135	Icon_Avatar_Surfboard_Yakuza_Pre	Skyboard - Fuji Folklore	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000135.png	
+906000136	Icon_Avatar_Surfboard_Winterfest2020	Skyboard - Winterlands Sledge	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000136.png	
+906000137	Icon_Avatar_Surfboard_Coconut	Skyboard - Sunshine Coconut	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000137.png	
+906000138	Icon_Avatar_Surfboard_Shark	Skyboard - Shark Attack	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000138.png	
+906000139	Icon_Avatar_Surfboard_Bounty	Skyboard - Chrono	Skyboard	ORANGE (Mythic)		VEHICULOS/imagenes/906000139.png	
+906000140	Icon_Avatar_Surfboard_Megapunch	Skyboard - One Punch Man	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000140.png	
+906000141	Icon_Avatar_Surfboard_Matryoshka	Skyboard - Matryoshka	Skyboard	BLUE (Rare)		VEHICULOS/imagenes/906000141.png	
+906000142	Icon_Avatar_Surfboard_Winterfest2020_B	Skyboard - Winterlands Fury Sledge	Skyboard	PURPLE (Epic)		VEHICULOS/imagenes/906000142.png	
+906026001	Icon_Avatar_Surfboard_Vampirebat	Skyboard - Bloodwing	Skyboard	ORANGE (Mythic)	OB26	VEHICULOS/imagenes/906026001.png	
+906026002	Icon_Avatar_Surfboard_Alicehatter	Skyboard - Heart Royals	Skyboard	ORANGE (Mythic)	OB26	VEHICULOS/imagenes/906026002.png	
+906026003	Icon_Avatar_Surfboard_Eggday2021	Skyboard - Cyber Bunnies	Skyboard	PURPLE (Epic)	OB26	VEHICULOS/imagenes/906026003.png	
+906026004	Icon_Avatar_Surfboard_Cobra_ONE	Skyboard - Slither	Skyboard	PURPLE (Epic)	OB26	VEHICULOS/imagenes/906026004.png	
+906026005	Icon_Avatar_Surfboard_Cobra_TWO	Skyboard - Cobra	Skyboard	ORANGE (Mythic)	OB26	VEHICULOS/imagenes/906026005.png	
+906026006	Icon_Avatar_Surfboard_Superstar	Skyboard - Superstar	Skyboard	PURPLE (Epic)	OB26	VEHICULOS/imagenes/906026006.png	
+906026007	Icon_Avatar_Surfboard_Valentine2021	Skyboard - Broomstick of Love	Skyboard	PURPLE (Epic)	OB26	VEHICULOS/imagenes/906026007.png	
+906027001	Icon_Avatar_Surfboard_Crystalslipper	Skyboard - Crystal Heels	Skyboard	ORANGE (Mythic)	OB27	VEHICULOS/imagenes/906027001.png	
+906027002	Icon_Avatar_Surfboard_Horrorcircus	Skyboard - Torment Throttle	Skyboard	ORANGE (Mythic)	OB27	VEHICULOS/imagenes/906027002.png	
+906027003	Icon_Avatar_Surfboard_Horrorcircus_pre	Skyboard - Horror Clown	Skyboard	ORANGE (Mythic)	OB27	VEHICULOS/imagenes/906027003.png	
+906027004	Icon_Avatar_Surfboard_FFWS2021	Skyboard - FFWS 2021	Skyboard	PURPLE (Epic)	OB27	VEHICULOS/imagenes/906027004.png	
+906027005	Icon_Avatar_Surfboard_Boxer	Skyboard - K.O. Night Champion Belt	Skyboard	ORANGE (Mythic)	OB27	VEHICULOS/imagenes/906027005.png	
+906027006	Icon_Avatar_Surfboard_VNdrink	Skyboard - YoMost	Skyboard	BLUE (Rare)	OB27	VEHICULOS/imagenes/906027006.png	
+906027007	Icon_Avatar_Surfboard_Fastbreaking_Render	Skyboard - Leap of Faith	Skyboard	BLUE (Rare)	OB27	VEHICULOS/imagenes/906027007.png	
+906027008	Icon_Avatar_Surfboard_Fastbreaking_A_Render	Skyboard - Jungle Excursion	Skyboard	PURPLE (Epic)	OB27	VEHICULOS/imagenes/906027008.png	
+906028001	Icon_Avatar_Surfboard_Pursuer	Skyboard - Most Wanted	Skyboard	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/906028001.png	
+906028002	Icon_Avatar_Surfboard_Scarecrow	Skyboard - Wicked Broomstick	Skyboard	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/906028002.png	
+906028003	Icon_Avatar_Surfboard_Foursymbols	Skyboard - Volcanic Whirlwind	Skyboard	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/906028003.png	
+906028004	Icon_Avatar_Surfboard_Fallwinter	Skyboard - Sauce Swagger	Skyboard	PURPLE (Epic)	OB28	VEHICULOS/imagenes/906028004.png	
+906028005	Icon_Avatar_Surfboard_Thunder	Skyboard - Destiny Guardian	Skyboard	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/906028005.png	
+906028006	Icon_Avatar_Surfboard_Sutorito	Skyboard - Street Fighter	Skyboard	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/906028006.png	
+906028007	Icon_Avatar_Surfboard_Supercar_A	Skyboard - Turbo Ace	Skyboard	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/906028007.png	
+906028008	Icon_Avatar_Surfboard_Supercar_B	Skyboard - McLaren Racing	Skyboard	PURPLE (Epic)	OB28	VEHICULOS/imagenes/906028008.png	
+906028009	Icon_Avatar_Surfboard_Cybernobility	Skyboard - Cyber MAX	Skyboard	BLUE (Rare)	OB28	VEHICULOS/imagenes/906028009.png	
+906029001	Icon_Avatar_Surfboard_Arabictales	Skyboard - Magic Carpet	Skyboard	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/906029001.png	
+906029002	Icon_Avatar_Surfboard_Scorpion	Skyboard - Razor Fangs	Skyboard	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/906029002.png	
+906029003	Icon_Avatar_Surfboard_Scorpion_Pre	Skyboard - Razor Blades	Skyboard	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/906029003.png	
+906029004	Icon_Avatar_Surfboard_Musicfest	Skyboard - Disc Hover	Skyboard	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/906029004.png	
+906029005	Icon_Avatar_Surfboard_Mocomonth	Skyboard - Glo Technica	Skyboard	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/906029005.png	
+906029006	Icon_Avatar_Surfboard_BRninja	Skyboard - Nocturnal Assassin	Skyboard	PURPLE (Epic)	OB29	VEHICULOS/imagenes/906029006.png	
+906029007	Icon_Avatar_Surfboard_Asianoni	Skyboard - Demonic Grin	Skyboard	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/906029007.png	
+906030001	Icon_Avatar_Surfboard_Lbff_Render	Skyboard - LBFF	Skyboard	BLUE (Rare)	OB30	VEHICULOS/imagenes/906030001.png	
+906030002	Icon_Avatar_Surfboard_Sugarskull21_Render	Skyboard - Goldrim	Skyboard	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/906030002.png	
+906030003	Icon_Avatar_Surfboard_Lightfest	Skyboard - Light Surfer	Skyboard	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/906030003.png	
+906030004	Icon_Avatar_Surfboard_Khokhloma_Renderr	Skyboard - Ornamental	Skyboard	BLUE (Rare)	OB30	VEHICULOS/imagenes/906030004.png	
+906030005	Icon_Avatar_Surfboard_Childrensday	Skyboard - Golden Sledge	Skyboard	PURPLE (Epic)	OB30	VEHICULOS/imagenes/906030005.png	
+906030006	Icon_Avatar_Surfboard_Darkdragon	Skyboard - Beastly Wrath	Skyboard	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/906030006.png	
+906030007	Icon_Avatar_Surfboard_Playingcard	Skyboard - Poker Monarch	Skyboard	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/906030007.png	
+906031001	Icon_Avatar_Surfboard_Newyear21	Skyboard - Frozen Torch	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031001.png	
+906031002	Icon_Avatar_Surfboard_THagent	Skyboard - Night Scouter	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031002.png	
+906031003	Icon_Avatar_Surfboard_RUmusician	Skyboard - Imprinted	Skyboard	PURPLE (Epic)	OB31	VEHICULOS/imagenes/906031003.png	
+906031004	Icon_Avatar_Surfboard_Flamedragon	Skyboard - Dragon Bite	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031004.png	
+906031005	Icon_Avatar_Surfboard_Winterfest21	Skyboard - Frozen Clown	Skyboard	PURPLE (Epic)	OB31	VEHICULOS/imagenes/906031005.png	
+906031006	Icon_Avatar_Surfboard_Alienpilot_Pre	Skyboard - Robotic Ship	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031006.png	
+906031007	Icon_Avatar_Surfboard_Origami	Skyboard - Swan Embrace	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031007.png	
+906031008	Icon_Avatar_Surfboard_Alienpilot	Skyboard - Asteroid	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031008.png	
+906031009	Icon_Avatar_Surfboard_Jumpsuit2	Skyboard - Chill on Bills	Skyboard	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/906031009.png	
+906032001	Icon_Avatar_Surfboard_Valentine2022	Skyboard - Vampire Malevolence	Skyboard	BLUE (Rare)	OB32	VEHICULOS/imagenes/906032001.png	
+906032002	Icon_Avatar_Surfboard_Blackangel	Skyboard - Burning Flap	Skyboard	BLUE (Rare)	OB32	VEHICULOS/imagenes/906032002.png	
+906032003	Icon_Avatar_Surfboard_Falconer	Skyboard - Number 1	Skyboard	PURPLE (Epic)	OB32	VEHICULOS/imagenes/906032003.png	
+906032004	Icon_Avatar_Surfboard_RUred	Skyboard - Milestone	Skyboard	PURPLE (Epic)	OB32	VEHICULOS/imagenes/906032004.png	
+906032006	Icon_Avatar_Surfboard_TRbullet	Skyboard - Scoped-In	Skyboard	PURPLE (Epic)	OB32	VEHICULOS/imagenes/906032006.png	
+906032007	Icon_Avatar_Surfboard_Inkbrush	Skyboard - Bamboo Scroll	Skyboard	ORANGE (Mythic)	OB32	VEHICULOS/imagenes/906032007.png	
+906032008	Icon_Avatar_Surfboard_Steamwarrior	Skyboard - Mech Bunny	Skyboard	ORANGE (Mythic)	OB32	VEHICULOS/imagenes/906032008.png	
+906032009	Icon_Avatar_Surfboard_Hoodedkiller	Skyboard - Hooded	Skyboard	PURPLE (Epic)	OB32	VEHICULOS/imagenes/906032009.png	
+906033001	Icon_Avatar_Surfboard_FFWS03	Skyboard - Haven Guardian	Skyboard	BLUE (Rare)	OB33	VEHICULOS/imagenes/906033001.png	
+906033002	Icon_Avatar_Surfboard_Chess	Skyboard - Knight Gleam	Skyboard	ORANGE (Mythic)	OB33	VEHICULOS/imagenes/906033002.png	
+906033003	Icon_Avatar_Surfboard_Cyberopera	Skyboard - Neon Opera	Skyboard	ORANGE (Mythic)	OB33	VEHICULOS/imagenes/906033003.png	
+906033004	Icon_Avatar_Surfboard_Fastbreaking22	Skyboard - Emerald Bloom	Skyboard	BLUE (Rare)	OB33	VEHICULOS/imagenes/906033004.png	
+906033005	Icon_Avatar_Surfboard_Goldenwings	Skyboard - Divinity	Skyboard	ORANGE (Mythic)	OB33	VEHICULOS/imagenes/906033005.png	
+906033006	Icon_Avatar_Surfboard_Spiderlily	Skyboard - Burning Lily	Skyboard	BLUE (Rare)	OB33	VEHICULOS/imagenes/906033006.png	
+906033007	Icon_Avatar_Surfboard_Boyband	Skyboard - Breezer Surfboard	Skyboard	ORANGE (Mythic)	OB33	VEHICULOS/imagenes/906033007.png	
+906034001	Icon_Avatar_Surfboard_Cyberwasp	Skyboard - Apocalyptic Swarm	Skyboard	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/906034001.png	
+906034002	Icon_Avatar_Surfboard_Kongfu	Skyboard - Lucky Fish	Skyboard	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/906034002.png	
+906034003	Icon_Avatar_Surfboard_Rampage4	Skyboard - Ventus	Skyboard	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/906034003.png	
+906034004	Icon_Avatar_Surfboard_BIS	Skyboard - Pixel Run	Skyboard	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/906034004.png	
+906034005	Icon_Avatar_Surfboard_Lotus	Skyboard - Glow Lotus	Skyboard	PURPLE (Epic)	OB34	VEHICULOS/imagenes/906034005.png	
+906035001	Icon_Avatar_Surfboard_Ugc	Skyboard - Creative Fighters	Skyboard	PURPLE (Epic)	OB35	VEHICULOS/imagenes/906035001.png	
+906035002	Icon_Avatar_Surfboard_Deepseasharks	Skyboard - Ocean Runner	Skyboard	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/906035002.png	
+906035003	Icon_Avatar_Surfboard_Fcninja	Skyboard - Ice Ghost	Skyboard	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/906035003.png	
+906035004	Icon_Avatar_Surfboard_Digitaluniverse	Skyboard - Titanium Harness	Skyboard	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/906035004.png	
+906035005	Icon_Avatar_Surfboard_Digitaluniverse_01	Skyboard - Crystal Digital	Skyboard	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/906035005.png	
+906035006	Icon_Avatar_Surfboard_Kun	Skyboard - Lake Spirits	Skyboard	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/906035006.png	
+906035007	Icon_Avatar_Surfboard_Pantomime	Skyboard - Monochrome Jigsaw	Skyboard	BLUE (Rare)	OB35	VEHICULOS/imagenes/906035007.png	
+906035008	Icon_Avatar_Surfboard_Newyear_ME	Skyboard - Hand-painted	Skyboard	PURPLE (Epic)	OB35	VEHICULOS/imagenes/906035008.png	
+906035009	Icon_Avatar_Surfboard_School35	Skyboard - Blue Beast	Skyboard	PURPLE (Epic)	OB35	VEHICULOS/imagenes/906035009.png	
+906035010	Icon_Avatar_Surfboard_Parkour	Skyboard - Gusto Gut	Skyboard	PURPLE (Epic)	OB35	VEHICULOS/imagenes/906035010.png	
+906035011	Icon_Avatar_Surfboard_Singers	Skyboard - Melodious Hover	Skyboard	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/906035011.png	
+906036001	Icon_Avatar_Surfboard_Frankenstein	Skyboard - Supercurrent	Skyboard	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/906036001.png	
+906036002	Icon_Avatar_Surfboard_Icewizard	Skyboard - Snow Broom	Skyboard	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/906036002.png	
+906036003	Icon_Avatar_Surfboard_Griza	Skyboard - Brave Skater	Skyboard	PURPLE (Epic)	OB36	VEHICULOS/imagenes/906036003.png	
+906036004	Icon_Avatar_Surfboard_BDK	Skyboard - Pepperoni	Skyboard	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/906036004.png	
+906036005	Icon_Avatar_Surfboard_Ghostface	Skyboard - Phantom Blublast	Skyboard	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/906036005.png	
+906036006	Icon_Avatar_Surfboard_Policeman	Skyboard - Fabled Netherworld	Skyboard	PURPLE (Epic)	OB36	VEHICULOS/imagenes/906036006.png	
+906036007	Icon_Avatar_Surfboard_Sugarskull22	Skyboard - Raft to the Underworld	Skyboard	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/906036007.png	
+906036008	Icon_Avatar_Surfboard_FFPL	Skyboard - Planetary Glide	Skyboard	PURPLE (Epic)	OB36	VEHICULOS/imagenes/906036008.png	
+906036009	Icon_Avatar_Surfboard_Cuttingboard	Skyboard - Fruity Cuts	Skyboard	PURPLE (Epic)	OB36	VEHICULOS/imagenes/906036009.png	
+906036010	Icon_Avatar_Surfboard_Ghost_TH	Skyboard - Kitty Ride	Skyboard	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/906036010.png	
+906036011	Icon_Avatar_Surfboard_Selected	Skyboard - Cyber Void	Skyboard	PURPLE (Epic)	OB36	VEHICULOS/imagenes/906036011.png	
+906037001	Icon_Avatar_Surfboard_FFWS2022	Skyboard - Starsea Beast	Skyboard	PURPLE (Epic)	OB37	VEHICULOS/imagenes/906037001.png	
+906037002	Icon_Avatar_Surfboard_Winterfest22	Skyboard - Ice-cold Sleigher	Skyboard	ORANGE (Mythic)	OB37	VEHICULOS/imagenes/906037002.png	
+906037003	Icon_Avatar_Surfboard_Newyear22	Skyboard - Knit Pattern	Skyboard	PURPLE (Epic)	OB37	VEHICULOS/imagenes/906037003.png	
+906037005	Icon_Avatar_Surfboard_Emoji	Skyboard - Evil Emoji	Skyboard	ORANGE (Mythic)	OB37	VEHICULOS/imagenes/906037005.png	
+906038001	Icon_Avatar_Surfboard_Goal	Skyboard - Achiever	Skyboard	PURPLE (Epic)	OB38	VEHICULOS/imagenes/906038001.png	
+906038002	Icon_Avatar_Surfboard_Cybermech_01	Skyboard - Project Qualia	Skyboard	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/906038002.png	
+906038003	Icon_Avatar_Surfboard_Alligator	Skyboard - Crocoslayer	Skyboard	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/906038003.png	
+906038004	Icon_Avatar_Surfboard_Eldergods	Skyboard - Pyronoc	Skyboard	PURPLE (Epic)	OB38	VEHICULOS/imagenes/906038004.png	
+906038005	Icon_Avatar_Surfboard_Skisuit	Skyboard - Blizzard Snowboard	Skyboard	PURPLE (Epic)	OB38	VEHICULOS/imagenes/906038005.png	
+906038006	Icon_Avatar_Surfboard_MO	Skyboard - Antique Tempo	Skyboard	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/906038006.png	
+906038007	Icon_Avatar_Surfboard_Firedragon	Skyboard - Immortal Stoneplate	Skyboard	ORANGE_PLUS (Mythic++)	OB38	VEHICULOS/imagenes/906038007.png	
+906038008	Icon_Avatar_Surfboard_Cybermech	Skyboard - Project Ether	Skyboard	BLUE (Rare)	OB38	VEHICULOS/imagenes/906038008.png	
+906038009	Icon_Avatar_Surfboard_Kitchen	Skyboard - Flying Pan	Skyboard	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/906038009.png	
+906038010	Icon_Avatar_Surfboard_Gargoyle	Skyboard - Colossus	Skyboard	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/906038010.png	
+906038011	Icon_Avatar_Surfboard_Carnaval	Skyboard - Carnival	Skyboard	BLUE (Rare)	OB38	VEHICULOS/imagenes/906038011.png	
+906039001	Icon_Avatar_Surfboard_Fishtank	Skyboard - Paper Boat	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039001.png	
+906039002	Icon_Avatar_Surfboard_Rollerskating	Skyboard - Wheels of the Future	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039002.png	
+906039003	Icon_Avatar_Surfboard_Scarlet	Skyboard - Stingboard	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039003.png	
+906039004	Icon_Avatar_Surfboard_Thug	Skyboard - Drone	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039004.png	
+906039005	Icon_Avatar_Surfboard_Muerte	Skyboard - Golden Doom	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039005.png	
+906039006	Icon_Avatar_Surfboard_Fastbreaking23	Skyboard - Sky Claw	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039006.png	
+906039007	Icon_Avatar_Surfboard_Darkspace	Skyboard - Deep Galaxy	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039007.png	
+906039008	Icon_Avatar_Surfboard_Waterfest23	Skyboard - Surf On Jaws	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039008.png	
+906039009	Icon_Avatar_Surfboard_Comic	Skyboard - Chaos Universe	Skyboard	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/906039009.png	
+906040001	Icon_Avatar_Surfboard_Artificialpng	Skyboard - Riding on Wisdom	Skyboard	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/906040001.png	
+906040002	Icon_Avatar_Surfboard_Traphiphop22	Skyboard - Blast the City	Skyboard	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/906040002.png	
+906040003	Icon_Avatar_Surfboard_Traphiphop22_FP	Skyboard - City	Skyboard	BLUE (Rare)	OB40	VEHICULOS/imagenes/906040003.png	
+906040004	Icon_Avatar_Surfboard_Farmer	Skyboard - Sunset Gears	Skyboard	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/906040004.png	
+906040005	Icon_Avatar_Surfboard_Festivalme_22	Skyboard - Electrify Bunny	Skyboard	PURPLE (Epic)	OB40	VEHICULOS/imagenes/906040005.png	
+906040006	Icon_Avatar_Surfboard_Densho	Skyboard - Scarlet Blade	Skyboard	PURPLE (Epic)	OB40	VEHICULOS/imagenes/906040006.png	
+906040007	Icon_Avatar_Surfboard_Tightguy	Skyboard - Punk Guitar	Skyboard	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/906040007.png	
+906040008	UI_Icon_BlackWhite_01	Skyboard - Glide To Glory	Skyboard	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/906040008.png	
+906041001	Icon_Avatar_Surfboard_Slime	Skyboard - Jelly Platform	Skyboard	ORANGE (Mythic)	OB41	VEHICULOS/imagenes/906041001.png	
+906041002	Icon_Avatar_Surfboard_Fisherman	Skyboard - Reeling Ducky	Skyboard	ORANGE (Mythic)	OB41	VEHICULOS/imagenes/906041002.png	
+906041003	Icon_Avatar_Surfboard_Designertoys	Skyboard - Puppet Kit	Skyboard	ORANGE (Mythic)	OB41	VEHICULOS/imagenes/906041003.png	
+906041004	Icon_Avatar_Surfboard_Designertoys_FP	Skyboard - Cool Puppet	Skyboard	BLUE (Rare)	OB41	VEHICULOS/imagenes/906041004.png	
+906041005	Icon_Avatar_Surfboard_Inkpainting	Skyboard - Ink Sword	Skyboard	ORANGE_PLUS (Mythic++)	OB41	VEHICULOS/imagenes/906041005.png	
+906041006	Icon_Avatar_Surfboard_Ninja	Skyboard - Blazing Flash	Skyboard	ORANGE (Mythic)	OB41	VEHICULOS/imagenes/906041006.png	
+906041007	Icon_Avatar_Surfboard_Bananaleaf	Skyboard - Banana Leaf	Skyboard	PURPLE (Epic)	OB41	VEHICULOS/imagenes/906041007.png	
+906041008	Icon_Avatar_Surfboard_Gs_Upgrade	Skyboard - Joyful Beat	Skyboard	PURPLE (Epic)	OB41	VEHICULOS/imagenes/906041008.png	
+906042001	Icon_Avatar_Surfboard_Watcher	Skyboard - Interstellar	Skyboard	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/906042001.png	
+906042002	Icon_Avatar_Surfboard_Voltage	Skyboard - Electric	Skyboard	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/906042002.png	
+906042003	Icon_Avatar_Surfboard_Urban_BW	Skyboard - Urban Skyboarder	Skyboard	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/906042003.png	
+906042004	Icon_Avatar_Surfboard_Vocational	Skyboard - Mass Transit	Skyboard	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/906042004.png	
+906042005	Icon_Avatar_Surfboard_Jumpsuit_Ghosts	Skyboard - Top Criminal (Ghost)	Skyboard	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/906042005.png	
+906043001	Icon_Avatar_Surfboard_Pointed	Skyboard - Crystal Flight	Skyboard	ORANGE (Mythic)	OB43	VEHICULOS/imagenes/906043001.png	
+906043002	Icon_Avatar_Surfboard_Frog	Skyboard - Ribbit Rip	Skyboard	ORANGE (Mythic)	OB43	VEHICULOS/imagenes/906043002.png	
+906043003	Icon_Avatar_Surfboard_Frog_FP	Skyboard - Ribbit Rip	Skyboard	BLUE (Rare)	OB43	VEHICULOS/imagenes/906043003.png	
+906043004	Icon_Avatar_Surfboard_Asura	Skyboard - Wrathful Punch	Skyboard	ORANGE (Mythic)	OB43	VEHICULOS/imagenes/906043004.png	
+906043005	Icon_Avatar_Surfboard_VAcademy	Skyboard - Dusk Tail	Skyboard	ORANGE (Mythic)	OB43	VEHICULOS/imagenes/906043005.png	
+906043006	Icon_Avatar_Surfboard_VNnewyear24	Skyboard - Dragon Envelope	Skyboard	PURPLE (Epic)	OB43	VEHICULOS/imagenes/906043006.png	
+906043007	Icon_Avatar_Surfboard_CSRank24	Skyboard - S24 Exclusive: Wrathful	Skyboard	PURPLE (Epic)	OB43	VEHICULOS/imagenes/906043007.png	
+906043008	Icon_Avatar_Surfboard_TWnewyear24	Skyboard - Kouki	Skyboard	PURPLE (Epic)	OB43	VEHICULOS/imagenes/906043008.png	
+906044001	Icon_Avatar_Surfboard_Videogame	Skyboard - Byte Ranger	Skyboard	ORANGE (Mythic)	OB44	VEHICULOS/imagenes/906044001.png	
+906044002	Icon_Avatar_Surfboard_Fragment	Skyboard - Airbreaker	Skyboard	ORANGE (Mythic)	OB44	VEHICULOS/imagenes/906044002.png	
+906044003	Icon_Avatar_Surfboard_Persona	Skyboard - Incisive Paradox	Skyboard	ORANGE_PLUS (Mythic++)	OB44	VEHICULOS/imagenes/906044003.png	
+906044004	Icon_Avatar_Surfboard_School_TH	Skyboard - Ace Academy	Skyboard	ORANGE (Mythic)	OB44	VEHICULOS/imagenes/906044004.png	
+906044005	Icon_Avatar_Surfboard_Festivalme_24	Skyboard - Wing of Silence	Skyboard	PURPLE (Epic)	OB44	VEHICULOS/imagenes/906044005.png	
+906044006	Icon_Avatar_Surfboard_Fragment_B	Skyboard - S25 Exclusive: Breaker	Skyboard	PURPLE (Epic)	OB44	VEHICULOS/imagenes/906044006.png	
+906044007	Icon_Avatar_Surfboard_Jeans	Skyboard - Jean Mechalution	Skyboard	ORANGE (Mythic)	OB44	VEHICULOS/imagenes/906044007.png	
+906045001	Icon_Avatar_Surfboard_Goose	Skyboard - Speedy Goosy	Skyboard	ORANGE (Mythic)	OB45	VEHICULOS/imagenes/906045001.png	
+906045002	Icon_Avatar_Surfboard_Leo_Orange	Skyboard - Leo Stardust	Skyboard	ORANGE (Mythic)	OB45	VEHICULOS/imagenes/906045002.png	
+906045003	Icon_Avatar_Surfboard_Leo	Skyboard - Leo Trek	Skyboard	BLUE (Rare)	OB45	VEHICULOS/imagenes/906045003.png	
+906045004	Icon_Avatar_Surfboard_Octopus_Orange	Skyboard - Captain Ghost Fish	Skyboard	ORANGE (Mythic)	OB45	VEHICULOS/imagenes/906045004.png	
+906045005	Icon_Avatar_Surfboard_UMA	Skyboard - Super Pixel	Skyboard	ORANGE (Mythic)	OB45	VEHICULOS/imagenes/906045005.png	
+906045006	Icon_Avatar_Surfboard_Spirit24	Skyboard - Anemo Flyer	Skyboard	PURPLE (Epic)	OB45	VEHICULOS/imagenes/906045006.png	
+906045007	Icon_Avatar_Surfboard_Octopus	Skyboard - S41 Exclusive: Captain	Skyboard	PURPLE (Epic)	OB45	VEHICULOS/imagenes/906045007.png	
+906046001	Icon_Avatar_Surfboard_Smile	Skyboard - Jagged Grin	Skyboard	ORANGE (Mythic)	OB46	VEHICULOS/imagenes/906046001.png	
+906046002	Icon_Avatar_Surfboard_Microwaves	Skyboard - Superheat Combustion	Skyboard	ORANGE (Mythic)	OB46	VEHICULOS/imagenes/906046002.png	
+906046003	Icon_Avatar_Surfboard_Pinata	Skyboard - Horsin' Heist	Skyboard	ORANGE (Mythic)	OB46	VEHICULOS/imagenes/906046003.png	
+906046004	Icon_Avatar_Surfboard_Microwaves_Blue	Skyboard - Complete Combustion	Skyboard	BLUE (Rare)	OB46	VEHICULOS/imagenes/906046004.png	
+906046005	Icon_Avatar_Surfboard_Purplelight	Skyboard - Violet Discharge	Skyboard	PURPLE (Epic)	OB46	VEHICULOS/imagenes/906046005.png	
+906046006	Icon_Avatar_Surfboard_Booyahday24	Skyboard - Booyah Bling	Skyboard	ORANGE (Mythic)	OB46	VEHICULOS/imagenes/906046006.png	
+906046007	Icon_Avatar_Surfboard_Loyfest	Skyboard - Loy Float	Skyboard	ORANGE (Mythic)	OB46	VEHICULOS/imagenes/906046007.png	
+906046008	Icon_Avatar_Surfboard_FFWS_SF	Skyboard - FFWS 2024 Fall	Skyboard	PURPLE (Epic)	OB46	VEHICULOS/imagenes/906046008.png	
+906046009	Icon_Avatar_Surfboard_CSRank27	Skyboard - S27 Exclusive: Jagged	Skyboard	PURPLE (Epic)	OB46	VEHICULOS/imagenes/906046009.png	CS-Ranked S27 Reward
+906047001	Icon_Avatar_Surfboard_Rank43	Skyboard - S43 Exclusive: Stitched	Skyboard	PURPLE (Epic)	OB47	VEHICULOS/imagenes/906047001.png	BR-Ranked S43 Reward
+906047002	Icon_Avatar_Surfboard_Aurora	Skyboard - Aurora Kickflip	Skyboard	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/906047002.png	
+906047003	Icon_Avatar_Surfboard_Tailor	Skyboard - Sharp Stitches	Skyboard	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/906047003.png	
+906047004	Icon_Avatar_Surfboard_Tailor01	Skyboard - Stitched Tailor	Skyboard	BLUE (Rare)	OB47	VEHICULOS/imagenes/906047004.png	
+906047005	Icon_Avatar_Surfboard_Express	Skyboard - Spilled Delivery	Skyboard	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/906047005.png	
+906047006	Icon_Avatar_Surfboard_BRrapper_47	Skyboard - Mush Machine	Skyboard	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/906047006.png	
+906048001	Icon_Avatar_Surfboard_Comic24	Skyboard - Inkoming!	Skyboard	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/906048001.png	
+906048002	Icon_Avatar_Surfboard_Firefly	Skyboard - Luminous Wing	Skyboard	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/906048002.png	
+906048003	Icon_Avatar_Surfboard_Firefly_blue	Skyboard - Firefly Chaser	Skyboard	BLUE (Rare)	OB48	VEHICULOS/imagenes/906048003.png	
+906048004	Icon_Avatar_Surfboard_Cupnoodle	Skyboard - Ramen Cart	Skyboard	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/906048004.png	
+906048005	Icon_Avatar_Surfboard_Cityhero_Free	Skyboard - Midnight Scout	Skyboard	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/906048005.png	
+906048006	Icon_Avatar_Surfboard_Waterfest25	Skyboard - Sea Surfer	Skyboard	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/906048006.png	
+906048007	Icon_Avatar_Surfboard_Rank44	Skyboard - S44 Exclusive: Manga	Skyboard	PURPLE (Epic)	OB48	VEHICULOS/imagenes/906048007.png	BR-Ranked S44 Reward
+906049001	Icon_Avatar_Surfboard_BabyDragon	Skyboard - Nailoong's Rhythm	Skyboard	ORANGE (Mythic)	OB49	VEHICULOS/imagenes/906049001.png	
+906049002	Icon_Avatar_Surfboard_Sparta_Orange	Skyboard - Victory Chariot	Skyboard	ORANGE (Mythic)	OB49	VEHICULOS/imagenes/906049002.png	
+906049003	Icon_Avatar_Surfboard_Sparta	Skyboard - Fearless Resolve	Skyboard	BLUE (Rare)	OB49	VEHICULOS/imagenes/906049003.png	
+906049004	Icon_Avatar_Surfboard_TVman	Skyboard - Remote Control	Skyboard	ORANGE (Mythic)	OB49	VEHICULOS/imagenes/906049004.png	
+906049005	Icon_Avatar_Surfboard_Eighth	Skyboard - Astro Infinity	Skyboard	ORANGE (Mythic)	OB49	VEHICULOS/imagenes/906049005.png	
+906049006	Icon_Avatar_Surfboard_Academy_ID	Skyboard - Pencil Case	Skyboard	ORANGE (Mythic)	OB49	VEHICULOS/imagenes/906049006.png	
+906049007	Icon_Avatar_Surfboard_Pony25	Skyboard - Solara Pop-up	Skyboard	ORANGE (Mythic)	OB49	VEHICULOS/imagenes/906049007.png	
+906050001	Icon_Avatar_Surfboard_Inktiger	Skyboard - Paint Brush	Skyboard	PURPLE (Epic)	OB50	VEHICULOS/imagenes/906050001.png	
+906050002	Icon_Avatar_Surfboard_VA	Skyboard - Haunted Locker	Skyboard	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/906050002.png	
+906050003	Icon_Avatar_Surfboard_Citypanda	Skyboard - Bamboo Feast	Skyboard	PURPLE (Epic)	OB50	VEHICULOS/imagenes/906050003.png	
+906050004	Icon_Avatar_Surfboard_Funzombie	Skyboard - Fuel Up	Skyboard	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/906050004.png	
+906050005	Icon_Avatar_Surfboard_Dunelord	Skyboard - Desert Scarab	Skyboard	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/906050005.png	
+906050006	Icon_Avatar_Surfboard_Cloudyday	Skyboard - Pink Thunder	Skyboard	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/906050006.png	
+906050007	Icon_Avatar_Surfboard_Rank47	Skyboard - S47 Exclusive: Desert	Skyboard	PURPLE (Epic)	OB50	VEHICULOS/imagenes/906050007.png	BR-Ranked S47 Reward
+906051001	Icon_Avatar_Surfboard_FFWS25	Skyboard - Will of Fire	Skyboard	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/906051001.png	
+906051002	Icon_Avatar_Surfboard_Dreamland	Skyboard - Ticking Nightmare	Skyboard	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/906051002.png	
+906051004	Icon_Avatar_Surfboard_Ghost25	Skyboard - Spookster's Flight	Skyboard	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/906051004.png	
+906051005	Icon_Avatar_Surfboard_Sagittarius25	Skyboard - Celestial Arrow	Skyboard	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/906051005.png	
+906051006	Icon_Avatar_Surfboard_Redhat25	Skyboard - Chasing Woof	Skyboard	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/906051006.png	
+906051007	Icon_Avatar_Surfboard_Rank49	Skyboard - S49 Exclusive: Woof	Skyboard	PURPLE (Epic)	OB51	VEHICULOS/imagenes/906051007.png	
+906052001	Icon_Avatar_Surfboard_Carnival26_Free	Skyboard - Beat Board	Skyboard	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/906052001.png	
+906052002	Icon_Avatar_Surfboard_Valentine26	Skyboard - Romance Stars	Skyboard	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/906052002.png	
+906052003	Icon_Avatar_Surfboard_Streetwear_BW	Skyboard - Mono Necktie	Skyboard	PURPLE (Epic)	OB52	VEHICULOS/imagenes/906052003.png	
+906052004	Icon_Avatar_Surfboard_Pisces	Skyboard - Starlit Fin	Skyboard	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/906052004.png	
+906052005	Icon_Avatar_Surfboard_Pisces_Blue	Skyboard - Rippling Ride	Skyboard	BLUE (Rare)	OB52	VEHICULOS/imagenes/906052005.png	
+906052006	Icon_Avatar_Surfboard_Treasure26	Skyboard - Voyager's Shovel	Skyboard	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/906052006.png	
+906052007	Icon_Avatar_Surfboard_Emoji26	Skyboard - Streeeetched	Skyboard	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/906052007.png	
+906052008	Icon_Avatar_Surfboard_Eggday26	Skyboard - Sea Kelp	Skyboard	PURPLE (Epic)	OB52	VEHICULOS/imagenes/906052008.png	
+906052009	Icon_Avatar_Surfboard_Summer26	Skyboard - Summer	Skyboard	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/906052009.png	
+906053001	Icon_Avatar_Surfboard_Eclipse	Skyboard - Surged Eclipse	Skyboard	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/906053001.png	
+906053002	Icon_Avatar_Surfboard_Bluetears	Skyboard - Undersea Shells	Skyboard	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/906053002.png	
+906053003	Icon_Avatar_Surfboard_Bat25	Skyboard - Darkwing Glide	Skyboard	PURPLE (Epic)	OB53	VEHICULOS/imagenes/906053003.png	
+906053004	Icon_Avatar_Surfboard_Sketch	Skyboard - Sculpted Radiance	Skyboard	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/906053004.png	
+906053005	Icon_Avatar_Surfboard_Gemini25_O	Skyboard - Twinstars Surf	Skyboard	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/906053005.png	
+906053006	Icon_Avatar_Surfboard_Gemini25	Skyboard - Sparkling Twinstars	Skyboard	BLUE (Rare)	OB53	VEHICULOS/imagenes/906053006.png	
+906053007	Icon_Avatar_Surfboard_Rank51	Skyboard - S51 Exclusive: Sculpted	Skyboard	BLUE (Rare)	OB53	VEHICULOS/imagenes/906053007.png	BR-Ranked Reward
+906054001	Icon_Avatar_Surfboard_Bloodmoon26	Skyboard - Scarlet Charm	Skyboard	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/906054001.png	
+906054002	Icon_Avatar_Surfboard_Wolf_Sheep	Skyboard - Baa Baa Boost	Skyboard	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/906054002.png	
+906054003	Icon_Avatar_Surfboard_Apple_GR	Skyboard - Apple Spoon	Skyboard	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/906054003.png	
+906054004	Icon_Avatar_Surfboard_Virgo26_O	Skyboard - Spica Umbrella	Skyboard	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/906054004.png	
+906054005	Icon_Avatar_Surfboard_Virgo26	Skyboard - Pristine Spica	Skyboard	BLUE (Rare)	OB54	VEHICULOS/imagenes/906054005.png	
+906055001	Icon_Avatar_Surfboard_WB_Boy	Skyboard - Hoverboard	Skyboard	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/906055001.png	
+906055002	Icon_Avatar_Surfboard_MAF26	Skyboard - Chubby Rabbit	Skyboard	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/906055002.png	
+906055003	Icon_Avatar_Surfboard_Gen_Z	Skyboard - Academy Notecase	Skyboard	PURPLE (Epic)	OB55	VEHICULOS/imagenes/906055003.png	
+906055004	Icon_Avatar_Surfboard_Carving	Skyboard - Carved Claws	Skyboard	PURPLE (Epic)	OB55	VEHICULOS/imagenes/906055004.png	
+906055005	Icon_Avatar_Surfboard_Owlranger	Skyboard - Owl Wings	Skyboard	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/906055005.png	
+906055006	Icon_Avatar_Surfboard_Scorpio26	Skyboard - Scorpio Star	Skyboard	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/906055006.png	
+906055007	Icon_Avatar_Surfboard_Ninja_Watermelon	Skyboard - Melon Kunai	Skyboard	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/906055007.png	
+908000001	Icon_slot_Jeep_MadMax	Road Rager	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000001.png	
+908000002	Icon_slot_Jeep_GoldenMecernary	Golden Merc	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000002.png	
+908000003	Icon_slot_Amphibian_RainbowDash	Rainbow Dash	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000003.png	
+908000004	Icon_slot_Amphibian_NorthernSiren	The Northern Freak	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000004.png	
+908000006	Icon_slot_TUTU_SoloClown	Clown Car	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000006.png	
+908000007	Icon_slot_Motobike_Tron	Lightning Bike	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000007.png	
+908000008	Icon_slot_TUTU_8Bit	8-Bit Rider	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000008.png	
+908000009	Icon_slot_Jeep_Halloween	Pumpkin Monster	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000009.png	
+908000010	Icon_slot_TUTU_Christmas	Winterlands Light	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000010.png	
+908000011	Icon_slot_Roadster_StarLord	Star Light	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000011.png	
+908000012	Icon_slot_Motobike_BioBody	Elite Fighter	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000012.png	
+908000013	Icon_slot_Motobike_Dinosaur	Flaming Hydra	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000013.png	
+908000014	Icon_slot_Jeep_Easter	Speedster Bunny	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000014.png	
+908000015	Icon_slot_Motobike_Cowboymk2	Modern Cowboy	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000015.png	
+908000016	Icon_slot_TUTU_Indyear	Auto Rickshaw	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000016.png	
+908000017	Icon_slot_Roadster_Traphiphop	Smooth Ride	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000017.png	
+908000018	Icon_slot_Motobike_Fashionfox	Motorbike - Fabled Foxes	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000018.png	
+908000019	Icon_slot_Jeep_Royalguard	Jeep - Forsaken Creed	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000019.png	
+908000020	Icon_slot_MonsterTruck_Apocalypse2	Monster Truck - Apocalyptic Chaos	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000020.png	
+908000021	Icon_slot_Roadster_Sushikiller	Sports Car - Oni Devil	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000021.png	
+908000022	Icon_slot_SUV_Imperialegypt	Pickup Truck - Royal's Ride	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000022.png	
+908000023	Icon_slot_Amphibian_Angeldevil	Amphibian - Demon Charge	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000023.png	
+908000024	Icon_slot_Motobike_Gemini	Motorbike - Rapper Throttle	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000024.png	
+908000025	Icon_slot_SUV_Jumpsuit	Pickup Truck - Plan Bermuda	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000025.png	
+908000026	Icon_slot_MonsterTruck_Fashiontrends	Monster Truck - Ultrasonic Rave	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000026.png	
+908000027	Icon_slot_Jeep_Impermanence	Jeep - Endless Oblivion	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000027.png	
+908000028	Icon_slot_Roadster_Futuristiccity	Sports Car - FFCS	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000028.png	
+908000029	Icon_slot_Roadster_Yakuza	Sports Car - Fuji Folklore	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000029.png	
+908000030	Icon_slot_Motobike_Soulbusters	Motorbike - Specter Squad	Vehicle Skins	BLUE (Rare)		VEHICULOS/imagenes/908000030.png	
+908000031	Icon_slot_MonsterTruck_Bounty	Monster Truck - Cyber Bounty Hunter	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000031.png	
+908000032	Icon_slot_Motobike_FS_Bounty	Motorbike - Cyber Bounty Hunter	Vehicle Skins	PURPLE (Epic)		VEHICULOS/imagenes/908000032.png	
+908026001	Icon_slot_Jeep_Vampirebat	Jeep - Bloodwing City	Vehicle Skins	BLUE (Rare)	OB26	VEHICULOS/imagenes/908026001.png	
+908026002	Icon_slot_SUV_Alicehatter	Pickup Truck - Willful Wonders	Vehicle Skins	BLUE (Rare)	OB26	VEHICULOS/imagenes/908026002.png	
+908026003	Icon_slot_SUV_Eggday2021	Pickup Truck - Egg Day 2021	Vehicle Skins	PURPLE (Epic)	OB26	VEHICULOS/imagenes/908026003.png	
+908026004	Icon_slot_Roadster_Cobra	Sports Car - Cobra	Vehicle Skins	PURPLE (Epic)	OB26	VEHICULOS/imagenes/908026004.png	
+908026005	Icon_slot_Motobike_Cobra	Motorbike - Cobra	Vehicle Skins	ORANGE (Mythic)	OB26	VEHICULOS/imagenes/908026005.png	
+908027001	Icon_slot_MonsterTruck_Crystalslipper	Monster Truck - Evil Enchanted	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027001.png	
+908027002	Icon_slot_Motobike_Horrorcircus	Motorbike - Theatre of Torment	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027002.png	
+908027003	Icon_slot_SUV_Dragon	Pickup Truck - Flame Draco	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027003.png	
+908027004	Icon_slot_MonsterTruck_FFWS2021	Monster Truck - FFWS 2021	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027004.png	
+908027005	Icon_slot_Motobike_Boxer	Motorbike - K.O. Night	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027005.png	
+908027006	Icon_slot_SUV_Clawmark	Pickup Truck - The Beast	Vehicle Skins	PURPLE (Epic)	OB27	VEHICULOS/imagenes/908027006.png	
+908027007	Icon_slot_SUV_Truckart	Pickup Truck - Fancy Ride	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027007.png	
+908027008	Icon_slot_SUV_Waterfest21	Pickup Truck - Summer Heat	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027008.png	
+908027009	Icon_slot_Roadster_Fastbreaking	Sports Car - Emerald Flash	Vehicle Skins	BLUE (Rare)	OB27	VEHICULOS/imagenes/908027009.png	
+908028001	Icon_slot_Roadster_Supercar_Gold	McLaren P1™ - Gold Spark	Vehicle Skins	RED (Artifact)	OB28	VEHICULOS/imagenes/908028001.png	
+908028002	Icon_slot_Roadster_Supercar_Purple	McLaren P1™ - Kyanos	Vehicle Skins	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/908028002.png	
+908028003	Icon_slot_Roadster_Supercar_Orange	McLaren P1™ - Helios	Vehicle Skins	ORANGE (Mythic)	OB28	VEHICULOS/imagenes/908028003.png	
+908028004	Icon_slot_Roadster_Supercar_Green	McLaren P1™ - Mantis	Vehicle Skins	PURPLE (Epic)	OB28	VEHICULOS/imagenes/908028004.png	
+908028005	Icon_slot_Roadster_Pursuer	Sports Car - Guns for Hire	Vehicle Skins	BLUE (Rare)	OB28	VEHICULOS/imagenes/908028005.png	
+908028006	Icon_slot_SUV_Scarecrow	Pickup Truck - Wildland Walkers	Vehicle Skins	BLUE (Rare)	OB28	VEHICULOS/imagenes/908028006.png	
+908028007	Icon_slot_MonsterTruck_Foursymbols	Monster Truck - Sabertooth	Vehicle Skins	PURPLE (Epic)	OB28	VEHICULOS/imagenes/908028007.png	
+908028008	Icon_slot_Jeep_Foursymbols	Jeep - Stormbringer	Vehicle Skins	PURPLE (Epic)	OB28	VEHICULOS/imagenes/908028008.png	
+908028009	Icon_slot_Roadster_Sutorito	Sports Car - Street Fighter	Vehicle Skins	PURPLE (Epic)	OB28	VEHICULOS/imagenes/908028009.png	
+908028010	Icon_slot_MonsterTruck_Supercar	Monster Truck - McLaren Racing	Vehicle Skins	BLUE (Rare)	OB28	VEHICULOS/imagenes/908028010.png	
+908028011	Icon_slot_Roadster_Supercar	Sports Car - McLaren Racing	Vehicle Skins	BLUE (Rare)	OB28	VEHICULOS/imagenes/908028011.png	
+908029001	Icon_slot_MonsterTruck_Skeletontruck	Monster Truck - Gnawing Rager	Vehicle Skins	PURPLE (Epic)	OB29	VEHICULOS/imagenes/908029001.png	
+908029002	Icon_slot_Motobike_Arabictales	Motorbike - Mesmerizing Nights	Vehicle Skins	BLUE (Rare)	OB29	VEHICULOS/imagenes/908029002.png	
+908029003	Icon_slot_Jeep_Scorpion	Jeep - Quantic Unknown	Vehicle Skins	BLUE (Rare)	OB29	VEHICULOS/imagenes/908029003.png	
+908029004	Icon_slot_MonsterTruck_Musicfest	Monster Truck - Thrash Metallic	Vehicle Skins	PURPLE (Epic)	OB29	VEHICULOS/imagenes/908029004.png	
+908029005	Icon_slot_Jeep_Musicfest	Jeep - Thrash Goth	Vehicle Skins	PURPLE (Epic)	OB29	VEHICULOS/imagenes/908029005.png	
+908029006	Icon_slot_Roadster_Mocomonth	Sports Car - Moco Month	Vehicle Skins	PURPLE (Epic)	OB29	VEHICULOS/imagenes/908029006.png	
+908029007	Icon_slot_Motobike_Mocomonth	Motorbike - Moco Month	Vehicle Skins	PURPLE (Epic)	OB29	VEHICULOS/imagenes/908029007.png	
+908029008	Icon_slot_Roadster_Supercar_4	MCL-FF Final Lap	Vehicle Skins	RED (Artifact)	OB29	VEHICULOS/imagenes/908029008.png	
+908029009	Icon_slot_Roadster_Supercar_2	MCL-FF Cyber Neon	Vehicle Skins	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/908029009.png	
+908029010	Icon_slot_Roadster_Supercar_3	MCL-FF Deep Dive	Vehicle Skins	ORANGE (Mythic)	OB29	VEHICULOS/imagenes/908029010.png	
+908029011	Icon_slot_Roadster_Supercar_1	MCL-FF Winning Spirit	Vehicle Skins	PURPLE (Epic)	OB29	VEHICULOS/imagenes/908029011.png	
+908030001	Icon_slot_Motobike_Poison	Motorbike - Venom	Vehicle Skins	BLUE (Rare)	OB30	VEHICULOS/imagenes/908030001.png	
+908030002	Icon_slot_MonsterTruck_Booyahday21	Monster Truck - BOOYAH DAY 2021	Vehicle Skins	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/908030002.png	
+908030003	Icon_slot_MonsterTruck_Playingcard	Monster Truck - Poker Monarch	Vehicle Skins	BLUE (Rare)	OB30	VEHICULOS/imagenes/908030003.png	
+908030004	Icon_slot_Roadster_Darkdragon	Sports Car - Beastly Wrath	Vehicle Skins	BLUE (Rare)	OB30	VEHICULOS/imagenes/908030004.png	
+908030005	Icon_slot_Roadster_Booyahday21	Sports Car - BOOYAH DAY 2021	Vehicle Skins	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/908030005.png	
+908030006	Icon_slot_Roadster_Evilrhythm	Sports Car - Skull Punker	Vehicle Skins	BLUE (Rare)	OB30	VEHICULOS/imagenes/908030006.png	
+908030007	Icon_slot_Roadster_Lightfest	Sports Car - Bolly Party	Vehicle Skins	PURPLE (Epic)	OB30	VEHICULOS/imagenes/908030007.png	
+908031001	Icon_slot_Motobike_Newyear21	Motorbike - Ice Blossoms	Vehicle Skins	PURPLE (Epic)	OB31	VEHICULOS/imagenes/908031001.png	
+908031002	Icon_slot_MonsterTruck_Winterfest21	Monster Truck - Snow Cruiser	Vehicle Skins	PURPLE (Epic)	OB31	VEHICULOS/imagenes/908031002.png	
+908031003	Icon_slot_MonsterTruck_RUmusician	Monster Truck - Imprinted Trap	Vehicle Skins	BLUE (Rare)	OB31	VEHICULOS/imagenes/908031003.png	
+908031004	Icon_slot_SUV_Origami	Pickup Truck - Whirl of Swan	Vehicle Skins	BLUE (Rare)	OB31	VEHICULOS/imagenes/908031004.png	
+908031005	Icon_slot_Amphibian_Alienpilot	Amphibian - Solar Zoomer	Vehicle Skins	BLUE (Rare)	OB31	VEHICULOS/imagenes/908031005.png	
+908031006	Icon_slot_Roadster_Jumpsuit2	Sports Car - Team Heist	Vehicle Skins	PURPLE (Epic)	OB31	VEHICULOS/imagenes/908031006.png	
+908032001	Icon_slot_Roadster_MENAocean	Sports Car - Anchor Waves	Vehicle Skins	PURPLE (Epic)	OB32	VEHICULOS/imagenes/908032001.png	
+908032002	Icon_slot_Jeep_Colorfest	Jeep - Holi Swagger	Vehicle Skins	PURPLE (Epic)	OB32	VEHICULOS/imagenes/908032002.png	
+908032004	Icon_slot_MonsterTruck_Hurricane	Monster Truck - Deep Rev	Vehicle Skins	BLUE (Rare)	OB32	VEHICULOS/imagenes/908032004.png	
+908032005	Icon_slot_Motobike_Hurricane	Motorbike - Purple Rev	Vehicle Skins	ORANGE (Mythic)	OB32	VEHICULOS/imagenes/908032005.png	
+908032006	Icon_slot_Jeep_Inkbrush	Jeep - Sky Legend	Vehicle Skins	BLUE (Rare)	OB32	VEHICULOS/imagenes/908032006.png	
+908032007	Icon_slot_Motobike_Steamwarrior	Motorbike - Copper Light	Vehicle Skins	BLUE (Rare)	OB32	VEHICULOS/imagenes/908032007.png	
+908032008	Icon_slot_Roadster_Undertaker	Sports Car - Buried Purpledust	Vehicle Skins	PURPLE (Epic)	OB32	VEHICULOS/imagenes/908032008.png	
+908033001	Icon_slot_SUV_FFWS03	Pickup Truck - Haven Guardian	Vehicle Skins	PURPLE (Epic)	OB33	VEHICULOS/imagenes/908033001.png	
+908033002	Icon_slot_TUTU_Chess	Tuk Tuk - Checkered King	Vehicle Skins	BLUE (Rare)	OB33	VEHICULOS/imagenes/908033002.png	
+908033003	Icon_slot_MonsterTruck_Cyberopera	Monster Truck - Skull Opera	Vehicle Skins	BLUE (Rare)	OB33	VEHICULOS/imagenes/908033003.png	
+908033004	Icon_slot_Motobike_Cyberopera_Pre	Motorbike - Skull Song	Vehicle Skins	BLUE (Rare)	OB33	VEHICULOS/imagenes/908033004.png	
+908033005	Icon_slot_Jeep_Fastbreaking22	Jeep - Emerald Shimmer	Vehicle Skins	BLUE (Rare)	OB33	VEHICULOS/imagenes/908033005.png	
+908033006	Icon_slot_Motobike_Fastbreaking22	Motorbike - Emerald Shimmer	Vehicle Skins	PURPLE (Epic)	OB33	VEHICULOS/imagenes/908033006.png	
+908033007	Icon_slot_Roadster_Goldenwings	Sports Car - Aurumdeus	Vehicle Skins	ORANGE (Mythic)	OB33	VEHICULOS/imagenes/908033007.png	
+908033008	Icon_slot_MonsterTruck_Lion_Red	Monster Truck - Bonebruiser Scorch	Vehicle Skins	PURPLE (Epic)	OB33	VEHICULOS/imagenes/908033008.png	
+908033009	Icon_slot_Motobike_Boyband	Motorbike - Soldier Nightmare	Vehicle Skins	PURPLE (Epic)	OB33	VEHICULOS/imagenes/908033009.png	
+908033010	Icon_slot_Roadster_Boyband	Sports Car - Golden Undaunted	Vehicle Skins	PURPLE (Epic)	OB33	VEHICULOS/imagenes/908033010.png	
+908034001	Icon_slot_Jeep_Rhythmgirl	Jeep - Feral Fantasy	Vehicle Skins	PURPLE (Epic)	OB34	VEHICULOS/imagenes/908034001.png	
+908034002	Icon_slot_SUV_Cyberwasp	Pickup Truck - Apocalyptic Swarm	Vehicle Skins	BLUE (Rare)	OB34	VEHICULOS/imagenes/908034002.png	
+908034003	Icon_slot_Amphibian_Kongfu	Amphibian - Chef's Ride	Vehicle Skins	BLUE (Rare)	OB34	VEHICULOS/imagenes/908034003.png	
+908034004	Icon_slot_Roadster_Rampage4	Sports Car - Ventus	Vehicle Skins	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/908034004.png	
+908034005	Icon_slot_Motobike_Rampage4	Motorbike - Rapidus	Vehicle Skins	PURPLE (Epic)	OB34	VEHICULOS/imagenes/908034005.png	
+908034006	Icon_slot_MonsterTruck_BIS	Monster Truck - Digi Smiley	Vehicle Skins	BLUE (Rare)	OB34	VEHICULOS/imagenes/908034006.png	
+908034007	Icon_slot_SUV_Crazyscientist	Pickup Truck - Evil Engineer	Vehicle Skins	PURPLE (Epic)	OB34	VEHICULOS/imagenes/908034007.png	
+908034008	Icon_slot_Amphibian_Madbionic	Amphibian - Magma Bolter	Vehicle Skins	PURPLE (Epic)	OB34	VEHICULOS/imagenes/908034008.png	
+908034009	Icon_slot_TUTU_Winterdog	Tuk Tuk - Husky Pup	Vehicle Skins	PURPLE (Epic)	OB34	VEHICULOS/imagenes/908034009.png	
+908034010	Icon_slot_Motobike_Wildfire_Skeleton	Motorbike - Skeleton Wildfire	Vehicle Skins	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/908034010.png	
+908035001	Icon_slot_Roadster_Singers	Sports Car - Marquis	Vehicle Skins	PURPLE (Epic)	OB35	VEHICULOS/imagenes/908035001.png	
+908035002	Icon_slot_Roadster_Deepseasharks	Sports Car - Metal Jaws	Vehicle Skins	BLUE (Rare)	OB35	VEHICULOS/imagenes/908035002.png	
+908035003	Icon_slot_Motobike_Fcninja	Motorbike - Ice Ghost	Vehicle Skins	BLUE (Rare)	OB35	VEHICULOS/imagenes/908035003.png	
+908035004	Icon_slot_MonsterTruck_Digitaluniverse	Monster Truck - 5th Anniversary	Vehicle Skins	PURPLE (Epic)	OB35	VEHICULOS/imagenes/908035004.png	
+908035005	Icon_slot_Motobike_Digitaluniverse_Tc	Motorbike - Crime Ride	Vehicle Skins	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/908035005.png	
+908035006	Icon_slot_Roadster_Digitaluniverse	Sports Car - Crystal Symmetry	Vehicle Skins	PURPLE (Epic)	OB35	VEHICULOS/imagenes/908035006.png	
+908035007	Icon_slot_Motobike_Digitaluniverse	Motorbike - Crystal Symmetry	Vehicle Skins	PURPLE (Epic)	OB35	VEHICULOS/imagenes/908035007.png	
+908035008	Icon_slot_MonsterTruck_Digitaluniverse_01	Monster Truck - Lumino Wheels	Vehicle Skins	PURPLE (Epic)	OB35	VEHICULOS/imagenes/908035008.png	
+908035009	Icon_slot_Motobike_Riders	Motorbike - Limelite	Vehicle Skins	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/908035009.png	
+908035010	Icon_slot_Jeep_Pantomime	Jeep - Monochrome Jigsaw	Vehicle Skins	BLUE (Rare)	OB35	VEHICULOS/imagenes/908035010.png	
+908035011	Icon_slot_SUV_Pirates	Pickup Truck - Rowdy Searuler	Vehicle Skins	BLUE (Rare)	OB35	VEHICULOS/imagenes/908035011.png	
+908036001	Icon_slot_Jeep_Frankenstein	Jeep - Supercurrent Mobile	Vehicle Skins	BLUE (Rare)	OB36	VEHICULOS/imagenes/908036001.png	
+908036002	Icon_slot_TUTU_Icewizard	Tuk Tuk - Cyan Iceworld	Vehicle Skins	BLUE (Rare)	OB36	VEHICULOS/imagenes/908036002.png	
+908036003	Icon_slot_Amphibian_Frankenstein	Amphibian - Supercurrent	Vehicle Skins	BLUE (Rare)	OB36	VEHICULOS/imagenes/908036003.png	
+908036004	Icon_slot_Roadster_Griza	Sports Car - Neonlights	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036004.png	
+908036005	Icon_slot_Motobike_Griza	Motorbike - Green Phantom	Vehicle Skins	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/908036005.png	
+908036006	Icon_slot_Motobike_VB	Motorbike - Pacific Breeze	Vehicle Skins	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/908036006.png	
+908036007	Icon_slot_MonsterTruck_BDK	Monster Truck - Blinding Gold	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036007.png	
+908036008	Icon_slot_Roadster_BDK	Sports Car - Speed Acer	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036008.png	
+908036009	Icon_slot_TUTU_Policeman	Tuk Tuk - Netherworld Ride	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036009.png	
+908036010	Icon_slot_MonsterTruck_Lightfest22	Monster Truck - Roaring Wheels	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036010.png	
+908036011	Icon_slot_Motobike_Sugarskull22	Motorbike - Spectral Ride	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036011.png	
+908036012	Icon_slot_Roadster_Undground	Sports Car - Underground Viper	Vehicle Skins	PURPLE (Epic)	OB36	VEHICULOS/imagenes/908036012.png	
+908037001	Icon_slot_Roadster_FFWS2022	Sports Car - Galaxis	Vehicle Skins	ORANGE_PLUS (Mythic++)	OB37	VEHICULOS/imagenes/908037001.png	
+908037002	Icon_slot_SUV_FFWS2022	Pickup Truck - Starsea Beast	Vehicle Skins	PURPLE (Epic)	OB37	VEHICULOS/imagenes/908037002.png	
+908037003	Icon_slot_Motobike_Winterfest22	Motorbike - Rock 'n' Rider	Vehicle Skins	ORANGE (Mythic)	OB37	VEHICULOS/imagenes/908037003.png	
+908037004	Icon_slot_MonsterTruck_Winterfest22	Monster Truck - Beastly Rover	Vehicle Skins	ORANGE (Mythic)	OB37	VEHICULOS/imagenes/908037004.png	
+908037005	Icon_slot_Jeep_Winterfest22	Jeep - Rockin' Festival Ride	Vehicle Skins	PURPLE (Epic)	OB37	VEHICULOS/imagenes/908037005.png	
+908037010	Icon_slot_Motobike_Emoji	Motorbike - Color Boom	Vehicle Skins	BLUE (Rare)	OB37	VEHICULOS/imagenes/908037010.png	
+908038001	Icon_slot_Roadster_Goal	Sports Car - Achiever	Vehicle Skins	BLUE (Rare)	OB38	VEHICULOS/imagenes/908038001.png	
+908038002	Icon_slot_Motobike_Goal	Motorbike - Achiever	Vehicle Skins	BLUE (Rare)	OB38	VEHICULOS/imagenes/908038002.png	
+908038003	Icon_slot_TuTu_Goal	Tuk Tuk - Achiever	Vehicle Skins	BLUE (Rare)	OB38	VEHICULOS/imagenes/908038003.png	
+908038004	Icon_slot_Amphibian_Goal	Amphibian - Aquachiever	Vehicle Skins	BLUE (Rare)	OB38	VEHICULOS/imagenes/908038004.png	
+908038005	Icon_slot_Roadster_Eldergods	Sports Car - Kitsune Kami	Vehicle Skins	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/908038005.png	
+908038006	Icon_slot_Motobike_Colorfest23	Motorbike - Techno Joy	Vehicle Skins	PURPLE (Epic)	OB38	VEHICULOS/imagenes/908038006.png	
+908038007	Icon_slot_Roadster_Alligator	Sports Car - Crocoslayer	Vehicle Skins	BLUE (Rare)	OB38	VEHICULOS/imagenes/908038007.png	
+908038008	Icon_slot_MonsterTruck_Cybermech	Monster Truck - Project Q	Vehicle Skins	BLUE (Rare)	OB38	VEHICULOS/imagenes/908038008.png	
+908038009	Icon_slot_SUV_Kitchen	Pickup Truck - Mochi Food Truck	Vehicle Skins	PURPLE (Epic)	OB38	VEHICULOS/imagenes/908038009.png	
+908038010	Icon_slot_Motobike_DMX	Cavaliere R	Vehicle Skins	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/908038010.png	
+908039001	Icon_slot_Amphibian_Fishtank	Amphibian - Fish Tank Zoomer	Vehicle Skins	BLUE (Rare)	OB39	VEHICULOS/imagenes/908039001.png	
+908039002	Icon_slot_TUTU_Rollerskating	Tuk Tuk - Bright Stripes	Vehicle Skins	BLUE (Rare)	OB39	VEHICULOS/imagenes/908039002.png	
+908039004	Icon_slot_Motobike_Scarlet	Motorbike - Scorpio	Vehicle Skins	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/908039004.png	
+908039005	Icon_slot_Motobike_Growth	Motorbike - Teal Rush	Vehicle Skins	ORANGE_PLUS (Mythic++)	OB39	VEHICULOS/imagenes/908039005.png	
+908039006	Icon_slot_Roadster_Burning	Sports Car - Fiery Race	Vehicle Skins	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/908039006.png	
+908039007	Icon_slot_TUTU_BDFest	Tuk Tuk - Floral Chariot	Vehicle Skins	PURPLE (Epic)	OB39	VEHICULOS/imagenes/908039007.png	
+908039008	Icon_slot_MonsterTruck_Fastbreaking23	Monster Truck - Green Giant	Vehicle Skins	BLUE (Rare)	OB39	VEHICULOS/imagenes/908039008.png	
+908039009	Icon_slot_Motobike_Darkspace	Motorbike - Deep Galaxy	Vehicle Skins	PURPLE (Epic)	OB39	VEHICULOS/imagenes/908039009.png	
+908039010	Icon_slot_Jeep_Comic	Jeep - Chaos Universe	Vehicle Skins	BLUE (Rare)	OB39	VEHICULOS/imagenes/908039010.png	
+908039011	Icon_slot_Motobike_Correction	Motorbike - Correction Tape	Vehicle Skins	ORANGE (Mythic)	OB39	VEHICULOS/imagenes/908039011.png	
+908040001	Icon_slot_Motobike_Artificial	Motorbike - Wisdom Cruiser	Vehicle Skins	BLUE (Rare)	OB40	VEHICULOS/imagenes/908040001.png	
+908040002	Icon_slot_SUV_Traphiphop22	Pickup Truck - City Rider	Vehicle Skins	BLUE (Rare)	OB40	VEHICULOS/imagenes/908040002.png	
+908040003	Icon_slot_Roadster_Surf	Sports Car - Shoreline Joyride	Vehicle Skins	PURPLE (Epic)	OB40	VEHICULOS/imagenes/908040003.png	
+908040004	Icon_slot_Jeep_Farmer	Jeep - Sunny Cornfield	Vehicle Skins	BLUE (Rare)	OB40	VEHICULOS/imagenes/908040004.png	
+908040005	Icon_slot_Motobike_Festivalme_22	Motorbike - Electrify Bunny	Vehicle Skins	PURPLE (Epic)	OB40	VEHICULOS/imagenes/908040005.png	
+908040006	Icon_slot_Motobike_Gangdom	Motorbike - Speed of Destruction	Vehicle Skins	PURPLE (Epic)	OB40	VEHICULOS/imagenes/908040006.png	
+908040007	Icon_slot_Motobike_Sixth	Motorbike - 6th Anniversary	Vehicle Skins	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/908040007.png	
+908040008	UI_Icon_BlackWhite_01	Motorbike - Skipper's Chopper	Vehicle Skins	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/908040008.png	
+908041001	Icon_slot_MonsterTruck_Slime	Monster Truck - Jiggle Jelly	Vehicle Skins	BLUE (Rare)	OB41	VEHICULOS/imagenes/908041001.png	
+908041002	Icon_slot_Amphibian_Fisherman	Amphibian - Reeling Rover	Vehicle Skins	BLUE (Rare)	OB41	VEHICULOS/imagenes/908041002.png	
+908041003	Icon_slot_SUV_Designertoys	Pickup Truck - Puppet Driver	Vehicle Skins	BLUE (Rare)	OB41	VEHICULOS/imagenes/908041003.png	
+908041004	Icon_slot_Roadster_Monsterjacket	Sports Car - Monster Transformer	Vehicle Skins	ORANGE (Mythic)	OB41	VEHICULOS/imagenes/908041004.png	
+908041005	Icon_slot_Motobike_Sugarskull23	Motorbike - Speed of Memory	Vehicle Skins	PURPLE (Epic)	OB41	VEHICULOS/imagenes/908041005.png	
+908041006	Icon_slot_Jeep_DS_yellow	Jeep - Zenitsu Style	Vehicle Skins	BLUE (Rare)	OB41	VEHICULOS/imagenes/908041006.png	
+908042001	Icon_slot_Motobike_Watcher	Motorbike - Interstellar Rider	Vehicle Skins	BLUE (Rare)	OB42	VEHICULOS/imagenes/908042001.png	
+908042002	Icon_slot_Jeep_Voltage	Jeep - Electro Bumper	Vehicle Skins	BLUE (Rare)	OB42	VEHICULOS/imagenes/908042002.png	
+908042003	Icon_slot_Motobike_Urban_BW	Motorbike - Urban Scooter	Vehicle Skins	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/908042003.png	
+908042004	Icon_slot_Motobike_Jumpsuit_Ghosts	Motorbike - Top Criminal (Ghost)	Vehicle Skins	PURPLE (Epic)	OB42	VEHICULOS/imagenes/908042004.png	
+908042005	Icon_slot_Jeep_Guild	Jeep - Guildian's Rover	Vehicle Skins	PURPLE (Epic)	OB42	VEHICULOS/imagenes/908042005.png	
+908042006	Icon_slot_Motobike_Guild_01	Motorbike - Guildian's Move	Vehicle Skins	PURPLE (Epic)	OB42	VEHICULOS/imagenes/908042006.png	
+908042007	Icon_slot_Motobike_Guild	Motorbike - Guildian's Speed	Vehicle Skins	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/908042007.png	
+908042008	Icon_slot_Roadster_Bull_ASilver	Aventador Ultimae Grigio Nimbus	Vehicle Skins	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/908042008.png	
+908042009	Icon_slot_Roadster_Bull_AFF	Aventador Ultimae Booyah	Vehicle Skins	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/908042009.png	
+908042010	Icon_slot_Roadster_Bull_VBlack	Veneno Nero Nemesis	Vehicle Skins	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/908042010.png	
+908042011	Icon_slot_Roadster_Bull_VRed	Veneno Rosso Efesto	Vehicle Skins	ORANGE (Mythic)	OB42	VEHICULOS/imagenes/908042011.png	
+908043001	Icon_slot_Amphibian_Pointed	Amphibian - Crystal Way	Vehicle Skins	BLUE (Rare)	OB43	VEHICULOS/imagenes/908043001.png	
+908043002	Icon_slot_TUTU_Frog	Tuk Tuk - Ribbit Vacation	Vehicle Skins	BLUE (Rare)	OB43	VEHICULOS/imagenes/908043002.png	
+908043003	Icon_slot_Motobike_Asura	Motorbike - Wrathful Rush	Vehicle Skins	BLUE (Rare)	OB43	VEHICULOS/imagenes/908043003.png	
+908043004	Icon_slot_Motobike_Fighter	Motorbike - Incarnational Speed	Vehicle Skins	PURPLE (Epic)	OB43	VEHICULOS/imagenes/908043004.png	
+908043005	Icon_slot_Roadster_Aprilfool24	Sports Car - Emperor's Carriage	Vehicle Skins	ORANGE (Mythic)	OB43	VEHICULOS/imagenes/908043005.png	
+908043006	Icon_slot_Roadster_VAcademy	Sports Car - Buttercup Dusk	Vehicle Skins	PURPLE (Epic)	OB43	VEHICULOS/imagenes/908043006.png	
+908043007	Icon_slot_SUV_Waterfest24	Pickup Truck - What Chu Meowing At	Vehicle Skins	PURPLE (Epic)	OB43	VEHICULOS/imagenes/908043007.png	
+908043008	Icon_slot_Jeep_Evilbehind	Jeep - Inner Evil	Vehicle Skins	PURPLE (Epic)	OB43	VEHICULOS/imagenes/908043008.png	
+908044001	Icon_slot_Jeep_Videogame	Jeep - Byte Ranger	Vehicle Skins	BLUE (Rare)	OB44	VEHICULOS/imagenes/908044001.png	
+908044002	Icon_slot_SUV_Fragment	Pickup Truck - Airbreaker	Vehicle Skins	BLUE (Rare)	OB44	VEHICULOS/imagenes/908044002.png	
+908044003	Icon_slot_Motobike_Crystal	Motorbike - Icicle Velocity	Vehicle Skins	PURPLE (Epic)	OB44	VEHICULOS/imagenes/908044003.png	
+908044004	Icon_slot_Roadster_Jeans	Sports Car - Jean Mechalution	Vehicle Skins	PURPLE (Epic)	OB44	VEHICULOS/imagenes/908044004.png	
+908044005	Icon_slot_Motobike_Collage	Motorbike - Thunderstrokes	Vehicle Skins	PURPLE (Epic)	OB44	VEHICULOS/imagenes/908044005.png	
+908045001	Icon_slot_Amphibian_Goose	Amphibian - Groovy Goosy	Vehicle Skins	BLUE (Rare)	OB45	VEHICULOS/imagenes/908045001.png	
+908045002	Icon_slot_Jeep_Leo	Jeep - Leo Trek	Vehicle Skins	BLUE (Rare)	OB45	VEHICULOS/imagenes/908045002.png	
+908045003	Icon_slot_Motobike_Octopus	Motorbike - Captain Adventure	Vehicle Skins	BLUE (Rare)	OB45	VEHICULOS/imagenes/908045003.png	
+908045004	Icon_slot_Motobike_Gangster_White	Motorbike - Thunderous Blanc	Vehicle Skins	PURPLE (Epic)	OB45	VEHICULOS/imagenes/908045004.png	
+908045005	Icon_slot_SUV_UMA	Pickup Truck - Super Pixel	Vehicle Skins	PURPLE (Epic)	OB45	VEHICULOS/imagenes/908045005.png	
+908045006	Icon_slot_Roadster_Pop	Sports Car - Pyramid Edge	Vehicle Skins	PURPLE (Epic)	OB45	VEHICULOS/imagenes/908045006.png	
+908045007	Icon_slot_Roadster_Spirit24	Sports Car - Anemospeeder	Vehicle Skins	PURPLE (Epic)	OB45	VEHICULOS/imagenes/908045007.png	
+908045008	Icon_slot_Roadster_Spirit24_01	Sports Car - Anemo Turbo	Vehicle Skins	ORANGE (Mythic)	OB45	VEHICULOS/imagenes/908045008.png	
+908046001	Icon_slot_SUV_Smile	Pickup Truck - Jagged Grin	Vehicle Skins	BLUE (Rare)	OB46	VEHICULOS/imagenes/908046001.png	
+908046002	Icon_slot_Roadster_Microwaves	Sports Car - Combust Engine	Vehicle Skins	BLUE (Rare)	OB46	VEHICULOS/imagenes/908046002.png	
+908046003	Icon_slot_TUTU_Pinata	Tuk Tuk - Horse Power	Vehicle Skins	BLUE (Rare)	OB46	VEHICULOS/imagenes/908046003.png	
+908046004	Icon_slot_Roadster_TH_JP	Sports Car - Road Savvy	Vehicle Skins	ORANGE (Mythic)	OB46	VEHICULOS/imagenes/908046004.png	
+908046005	Icon_slot_SUV_Sugarskull24	Pickup Truck - Revvy Bones	Vehicle Skins	PURPLE (Epic)	OB46	VEHICULOS/imagenes/908046005.png	
+908046006	Icon_slot_Jeep_Glooworld	Jeep - Gloo Vroom	Vehicle Skins	PURPLE (Epic)	OB46	VEHICULOS/imagenes/908046006.png	
+908046007	Icon_slot_Motobike_Yinyang24	Motorbike - Aura of Chaos	Vehicle Skins	PURPLE (Epic)	OB46	VEHICULOS/imagenes/908046007.png	
+908046008	Icon_slot_Roadster_FFWS2024	Sports Car - Vacation Vibes	Vehicle Skins	PURPLE (Epic)	OB46	VEHICULOS/imagenes/908046008.png	
+908046009	Icon_slot_Motobike_FB	Motorbike - BLUE LOCK	Vehicle Skins	PURPLE (Epic)	OB46	VEHICULOS/imagenes/908046009.png	
+908047001	Icon_slot_MonsterTruck_Woodcrafter	Monster Truck - Red Sandalwood	Vehicle Skins	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/908047001.png	
+908047002	Icon_slot_Jeep_Tailor	Jeep - Stitched Wheels	Vehicle Skins	BLUE (Rare)	OB47	VEHICULOS/imagenes/908047002.png	
+908047003	Icon_slot_SUV_Express	Pickup Truck - Delivery Truck	Vehicle Skins	BLUE (Rare)	OB47	VEHICULOS/imagenes/908047003.png	
+908047004	Icon_slot_MonsterTruck_NB_White	Monster Truck - Kakashi Theme	Vehicle Skins	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/908047004.png	
+908047005	Icon_slot_MonsterTruck_Aurora	Monster Truck - Aurora's Bigfoot	Vehicle Skins	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/908047005.png	
+908047006	Icon_slot_Motobike_Aurora	Motorbike - Aurora Ride	Vehicle Skins	ORANGE (Mythic)	OB47	VEHICULOS/imagenes/908047006.png	
+908047007	Icon_slot_Roadster_Superstar24	Sports Car - Road to Stardom	Vehicle Skins	PURPLE (Epic)	OB47	VEHICULOS/imagenes/908047007.png	
+908047008	Icon_slot_TUTU_Superstar24	Tuk Tuk - Sporty Star	Vehicle Skins	PURPLE (Epic)	OB47	VEHICULOS/imagenes/908047008.png	
+908048001	Icon_slot_Roadster_Redball	Sports Car - Ruby Mischief	Vehicle Skins	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/908048001.png	
+908048002	Icon_slot_TUTU_Redball	Tuk Tuk - Scarlet Mischief	Vehicle Skins	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/908048002.png	
+908048003	Icon_slot_Motobike_Comic24	Motorbike - Swoosh!	Vehicle Skins	BLUE (Rare)	OB48	VEHICULOS/imagenes/908048003.png	
+908048004	Icon_slot_TUTU_Firefly	Tuk Tuk - Firefly Chaser	Vehicle Skins	BLUE (Rare)	OB48	VEHICULOS/imagenes/908048004.png	
+908048005	Icon_slot_Jeep_Cupnoodle	Jeep - Cup Ramen	Vehicle Skins	BLUE (Rare)	OB48	VEHICULOS/imagenes/908048005.png	
+908048006	Icon_slot_Jeep_Biker	Jeep - Asphalt Racer	Vehicle Skins	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/908048006.png	
+908048007	Icon_slot_MonsterTruck_Rainforest	Monster Truck - Tropical Monster	Vehicle Skins	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/908048007.png	
+908048008	Icon_slot_Motobike_Cityhero	Motorbike - Midnight Scrambler	Vehicle Skins	ORANGE_PLUS (Mythic++)	OB48	VEHICULOS/imagenes/908048008.png	
+908048009	Icon_slot_Motobike_Rainforest_Free	Motorbike - Tropical Dasher	Vehicle Skins	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/908048009.png	
+908048010	Icon_slot_Roadster_Fastbreaking_dune	Sports Car - Preem Shimmer	Vehicle Skins	PURPLE (Epic)	OB48	VEHICULOS/imagenes/908048010.png	
+908048011	Icon_slot_Motobike_Waterfest25	Motorbike - Sea Foam	Vehicle Skins	PURPLE (Epic)	OB48	VEHICULOS/imagenes/908048011.png	
+908049001	Icon_slot_MonsterTruck_Sparta	Monster Truck - Fearless Resolve	Vehicle Skins	BLUE (Rare)	OB49	VEHICULOS/imagenes/908049001.png	
+908049002	Icon_slot_Amphibian_TVman	Amphibian - Signal Error	Vehicle Skins	BLUE (Rare)	OB49	VEHICULOS/imagenes/908049002.png	
+908049003	Icon_slot_Jeep_Eighth_Free	Jeep - Beyond Infinity	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049003.png	
+908049004	Icon_slot_Motobike_Coolguy	Motorbike - Lead Rose	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049004.png	
+908049005	Icon_slot_Roadster_Jumpsuit25	Sports Car - Top Criminal Golden	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049005.png	
+908049006	Icon_slot_SUV_Academy_ID	Pickup Truck - School Bus	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049006.png	
+908049007	Icon_slot_Roadster_Samurai_ME	Sports Car - Steel Warrior	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049007.png	
+908049008	Icon_slot_SUV_Pony25	Pickup Truck - Solara Dash	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049008.png	
+908049009	Icon_slot_Motobike_FFWS_Spring25	Motorbike - FFWS 2025 Spring	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049009.png	
+908049010	Icon_slot_Roadster_Club	Sports Car - Neon Club	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049010.png	
+908049011	Icon_slot_Motobike_Football25_ID	Motorbike - Timnas	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049011.png	
+908049012	Icon_slot_Motobike_Delivery_VN	Motorbike - Speed Delivery	Vehicle Skins	PURPLE (Epic)	OB49	VEHICULOS/imagenes/908049012.png	
+908050001	Icon_slot_Motobike_2NBCT_Bro	Motorbike - Akatsuki Theme	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050001.png	
+908050002	Icon_slot_Jeep_Batik	Jeep - Golden Twilight	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050002.png	
+908050003	Icon_slot_SUV_Funzombie	Pickup Truck - Coal Ash	Vehicle Skins	BLUE (Rare)	OB50	VEHICULOS/imagenes/908050003.png	
+908050004	Icon_slot_MonsterTruck_Dunelord	Monster Truck - King of Desert	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050004.png	
+908050005	Icon_slot_Amphibian_Cloudyday	Amphibian - Thunder Cloud	Vehicle Skins	BLUE (Rare)	OB50	VEHICULOS/imagenes/908050005.png	
+908050006	Icon_slot_Jeep_Festival_IH25	Jeep - Blue Camouflage	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050006.png	
+908050007	Icon_slot_SUV_SL	Pickup Truck - Sausage Car	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050007.png	
+908050009	Icon_slot_TUTU_Rickshaw_BD	Tuk Tuk - Cycle Rickshaw	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050009.png	
+908050010	Icon_slot_MonsterTruck_VA	Monster Truck - Trouble Gang	Vehicle Skins	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/908050010.png	
+908050011	Icon_slot_Motobike_Citypanda	Motorbike - Bamboo Bandit	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050011.png	
+908050012	Icon_slot_Roadster_Streetracer	Sports Car - Mad Drift	Vehicle Skins	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/908050012.png	
+908050013	Icon_slot_Roadster_Easterrabbit_2025	Sports Car - Galactic Ride	Vehicle Skins	PURPLE (Epic)	OB50	VEHICULOS/imagenes/908050013.png	
+908051001	Icon_slot_Motobike_Bathtub	Motorbike - Bubble Ride	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051001.png	
+908051002	Icon_slot_SUV_Hunger25	Pickup Truck - Flame Streak	Vehicle Skins	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/908051002.png	
+908051003	Icon_slot_Roadster_FFWS25	Sports Car - Will of Fire	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051003.png	
+908051004	Icon_slot_Roadster_Stylish	Sports Car - Stylish Monster	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051004.png	
+908051005	Icon_slot_Roadster_Gangster_Gold	Sports Car - Goldhand Wrecker	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051005.png	
+908051006	Icon_slot_TUTU_Dreamland	Tuk Tuk - Nightmarish	Vehicle Skins	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/908051006.png	
+908051007	Icon_slot_Jeep_Ghost25	Jeep - Spooks Car	Vehicle Skins	BLUE (Rare)	OB51	VEHICULOS/imagenes/908051007.png	
+908051008	Icon_slot_SUV_Sagittarius25	Pickup Truck - Starbound Archer	Vehicle Skins	BLUE (Rare)	OB51	VEHICULOS/imagenes/908051008.png	
+908051009	Icon_slot_Motobike_Redhat25	Motorbike - Little Red Ride	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051009.png	
+908051010	Icon_slot_Roadster_TH_KOL25	Sports Car - HEARTROCKER	Vehicle Skins	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/908051010.png	
+908051011	Icon_slot_TUTU_CNG_BD	Tuk Tuk - Wired Green	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051011.png	
+908051012	Icon_slot_Motobike_DA_Iron	Motorbike - MetalGarurumon	Vehicle Skins	PURPLE (Epic)	OB51	VEHICULOS/imagenes/908051012.png	
+908052001	Icon_slot_MonsterTruck_IIV_CT	Monster Truck - Jujutsu Kaisen	Vehicle Skins	BLUE (Rare)	OB52	VEHICULOS/imagenes/908052001.png	
+908052002	Icon_slot_Amphibian_Pisces	Amphibian - Rippling Stars	Vehicle Skins	BLUE (Rare)	OB52	VEHICULOS/imagenes/908052002.png	
+908052003	Icon_slot_Jeep_Treasure26	Jeep - Voyager's Journey	Vehicle Skins	BLUE (Rare)	OB52	VEHICULOS/imagenes/908052003.png	
+908052004	Icon_slot_MonsterTruck_Emoji26	Monster Truck - Chillin' Emoji	Vehicle Skins	BLUE (Rare)	OB52	VEHICULOS/imagenes/908052004.png	
+908052005	Icon_slot_Motobike_Eggday26	Motorbike - Sea Monster	Vehicle Skins	PURPLE (Epic)	OB52	VEHICULOS/imagenes/908052005.png	
+908052006	Icon_slot_MonsterTruck_Colorfest26	Monster Truck - Color Dash	Vehicle Skins	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/908052006.png	
+908052007	Icon_slot_Motobike_Fastbreaking_Treasure	Motorbike - Treasure Chaser	Vehicle Skins	PURPLE (Epic)	OB52	VEHICULOS/imagenes/908052007.png	
+908052008	Icon_slot_Motobike_VNnewyear26	Motorbike - Fiery Scoot	Vehicle Skins	PURPLE (Epic)	OB52	VEHICULOS/imagenes/908052008.png	
+908052009	Icon_slot_Motobike_Graffiti26	Motorbike - Shadow Walker	Vehicle Skins	PURPLE (Epic)	OB52	VEHICULOS/imagenes/908052009.png	
+908052010	Icon_slot_SUV_Carnival26	Pickup Truck - Beat Panther	Vehicle Skins	PURPLE (Epic)	OB52	VEHICULOS/imagenes/908052010.png	
+908052011	Icon_slot_Roadster_Aprilfool26	Sports Car - Quackman	Vehicle Skins	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/908052011.png	
+908053001	Icon_slot_Roadster_Eclipse	Sports Car - Burning Eclipse	Vehicle Skins	ORANGE_PLUS (Mythic++)	OB53	VEHICULOS/imagenes/908053001.png	
+908053002	Icon_slot_Amphibian_Bluetears	Amphibian - Undersea Ride	Vehicle Skins	PURPLE (Epic)	OB53	VEHICULOS/imagenes/908053002.png	
+908053003	Icon_slot_MonsterTruck_Bat25	Monster Truck - Dashing Darkwing	Vehicle Skins	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/908053003.png	
+908053004	Icon_slot_TUTU_Sketch	Tuk Tuk - Sculpted Elegance	Vehicle Skins	BLUE (Rare)	OB53	VEHICULOS/imagenes/908053004.png	
+908053005	Icon_slot_Motobike_Gemini25	Motorbike - Shining Twinstars	Vehicle Skins	BLUE (Rare)	OB53	VEHICULOS/imagenes/908053005.png	
+908053006	Icon_slot_Motobike_Festivalid_25	Motorbike - Cyber Wheels	Vehicle Skins	PURPLE (Epic)	OB53	VEHICULOS/imagenes/908053006.png	
+908053007	Icon_slot_Roadster_GB_CT	Sports Car - Pitch Dasher	Vehicle Skins	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/908053007.png	
+908053008	Icon_slot_Horse_Eclipse	Horse - Eclipse Charge	Vehicle Skins	BLUE (Rare)	OB53	VEHICULOS/imagenes/908053008.png	
+908053009	Icon_slot_Horse_Magical	Horse - Racing Sweetheart	Vehicle Skins	PURPLE (Epic)	OB53	VEHICULOS/imagenes/908053009.png	
+908053010	Icon_slot_Motobike_SH_White	Motorbike - Gintoki's Scooter	Vehicle Skins	ORANGE (Mythic)	OB53	VEHICULOS/imagenes/908053010.png	
+908054001	Icon_slot_Amphibian_Denim_UD	Amphibian - Denim Flipset	Vehicle Skins	PURPLE (Epic)	OB54	VEHICULOS/imagenes/908054001.png	
+908054002	Icon_slot_Horse_Bloodmoon26	Horse - Moonshine	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054002.png	
+908054003	Icon_slot_Jeep_Psychology	Jeep - Dimensional Drift	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054003.png	
+908054004	Icon_slot_MonsterTruck_Cottonbear	Monster Truck - Cotton Wraps	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054004.png	
+908054005	Icon_slot_Motobike_Ninth	Motorbike - Fractured Feathers	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054005.png	
+908054006	Icon_slot_Jeep_Bloodmoon26	Jeep - Scarlet Samurai	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054006.png	
+908054007	Icon_slot_Roadster_Ninth	Sports Car - Supersonic Fracture	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054007.png	
+908054008	Icon_slot_Motobike_Wolf_Sheep	Motorbike - Baa Baa Woof	Vehicle Skins	BLUE (Rare)	OB54	VEHICULOS/imagenes/908054008.png	
+908054009	Icon_slot_Jeep_Apple_GR	Jeep - Crisp Green	Vehicle Skins	BLUE (Rare)	OB54	VEHICULOS/imagenes/908054009.png	
+908054010	Icon_slot_SUV_Virgo26	Pickup Truck - Pristine Spica	Vehicle Skins	BLUE (Rare)	OB54	VEHICULOS/imagenes/908054010.png	
+908054011	Icon_slot_SUV_Festival_Music	Pickup Truck - Groove Truck	Vehicle Skins	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/908054011.png	
+908054012	Icon_slot_MonsterTruck_Rank52	Monster Truck - S52 Exclusive: Baa Baa	Vehicle Skins	BLUE (Rare)	OB54	VEHICULOS/imagenes/908054012.png	BR-Ranked Reward
+908054013	Icon_slot_SUV_FFWS_Fall26	Pickup Truck - FFWS 2026 Fall	Vehicle Skins	PURPLE (Epic)	OB54	VEHICULOS/imagenes/908054013.png	
+908054014	Icon_slot_Roadster_Luchalibre2026	Sports Car - Rey's Low Rider	Vehicle Skins	PURPLE (Epic)	OB54	VEHICULOS/imagenes/908054014.png	
+908054015	Icon_slot_Jeep_SEA26	Jeep - SEA Fall 2026	Vehicle Skins	PURPLE (Epic)	OB54	VEHICULOS/imagenes/908054015.png	
+908055001	Icon_slot_Jeep_WB_Old	Rustbucket RV	Vehicle Skins	PURPLE (Epic)	OB55	VEHICULOS/imagenes/908055001.png	
+908055002	Icon_slot_Motobike_Thanksgiving26	Motorbike - Turkey Turbo	Vehicle Skins	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/908055002.png	
+908055003	Icon_slot_Horse_Blackdress26	Horse - Cosmic Guardian	Vehicle Skins	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/908055003.png	
+908055004	Icon_slot_Jeep_Halloween26	Jeep - Axed Escape	Vehicle Skins	PURPLE (Epic)	OB55	VEHICULOS/imagenes/908055004.png	
+908055005	Icon_slot_MonsterTruck_Storm26	Monster Truck - Storm Voltage	Vehicle Skins	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/908055005.png	
+908055006	Icon_slot_MonsterTruck_Spiritmask	Monster Truck - Masked Getaway	Vehicle Skins	PURPLE (Epic)	OB55	VEHICULOS/imagenes/908055006.png	
+908055007	Icon_slot_Horse_Owlranger	Horse - Owl Hoofs	Vehicle Skins	BLUE (Rare)	OB55	VEHICULOS/imagenes/908055007.png	
+908055008	Icon_slot_Jeep_Scorpio26	Jeep - Scorpio Wheels	Vehicle Skins	BLUE (Rare)	OB55	VEHICULOS/imagenes/908055008.png	
+908055009	Icon_slot_SUV_Ninja_Watermelon	Pickup Truck - Melon Engine	Vehicle Skins	BLUE (Rare)	OB55	VEHICULOS/imagenes/908055009.png	
+908055010	Icon_slot_AMPHIBIAN_CSRank39	Amphibian - S39 Exclusive: Owl	Vehicle Skins	BLUE (Rare)	OB55	VEHICULOS/imagenes/908055010.png	CS-Ranked Reward
+908055011	Icon_slot_TUTU_CSRank40	Tuk Tuk - S40 Exclusive: Ninja	Vehicle Skins	BLUE (Rare)	OB55	VEHICULOS/imagenes/908055011.png	CS-Ranked Reward
+908055012	Icon_slot_Jeep_GOKU55	Jeep - King of Mirzapur	Vehicle Skins	PURPLE (Epic)	OB55	VEHICULOS/imagenes/908055012.png	
+911000001	Icon_Mounts_Basic	Skywing Mk1	Skywings	BLUE (Rare)		VEHICULOS/imagenes/911000001.png	
+911000002	Icon_Mounts_Flame	Flame Wings	Skywings	PURPLE (Epic)		VEHICULOS/imagenes/911000002.png	
+911000003	Icon_Mounts_Pegasus	Pegasus Skywing	Skywings	ORANGE (Mythic)		VEHICULOS/imagenes/911000003.png	
+911000004	Icon_Mounts_Mechdragon	Feral Electrasaur	Skywings	ORANGE (Mythic)		VEHICULOS/imagenes/911000004.png	
+911000005	Icon_Mounts_Mocomonth	Moco Skywing	Skywings	PURPLE (Epic)		VEHICULOS/imagenes/911000005.png	
+911003001	Icon_Mounts_Pirateship	Pirate Ship Skywing	Skywings	ORANGE (Mythic)	OB30	VEHICULOS/imagenes/911003001.png	
+911003101	Icon_Mounts_Sledge	Winterland Sledge	Skywings	ORANGE (Mythic)	OB31	VEHICULOS/imagenes/911003101.png	
+911003401	Icon_Mounts_Cloud	Floating Cloud	Skywings	ORANGE (Mythic)	OB34	VEHICULOS/imagenes/911003401.png	
+911003502	Icon_Mounts_Digitaluniverse	Ultra Spaceship	Skywings	ORANGE (Mythic)	OB35	VEHICULOS/imagenes/911003502.png	
+911003601	Icon_Mounts_CATeam	Celestial	Skywings	ORANGE (Mythic)	OB36	VEHICULOS/imagenes/911003601.png	
+911003701	Icon_Mounts_FFWS2022	Cosmic Drachen	Skywings	ORANGE_PLUS (Mythic++)	OB37	VEHICULOS/imagenes/911003701.png	
+911003702	Icon_Mounts_FFWS2022_01	Galactic Drachen	Skywings	ORANGE_PLUS (Mythic++)	OB37	VEHICULOS/imagenes/911003702.png	
+911003801	Icon_Mounts_Koi	Koi Skyfin	Skywings	ORANGE (Mythic)	OB38	VEHICULOS/imagenes/911003801.png	
+911004001	Icon_Mounts_Traphiphop22	T.R.A.P. Chrominvader Skywing	Skywings	ORANGE (Mythic)	OB40	VEHICULOS/imagenes/911004001.png	
+911004201	Icon_Mounts_Theboy	Sparkling Frostfire Skywing	Skywings	ORANGE_PLUS (Mythic++)	OB42	VEHICULOS/imagenes/911004201.png	
+911004301	Icon_Mounts_MultiPersonSkywing	Guild Motor	Skywings	RED (Artifact)	OB43	VEHICULOS/imagenes/911004301.png	
+911004302	Icon_Mounts_Axolotl_Airship	Joyful Tubing	Skywings	ORANGE (Mythic)	OB43	VEHICULOS/imagenes/911004302.png	
+911004401	Icon_Mounts_Persona	Paradox Throne	Skywings	ORANGE_PLUS (Mythic++)	OB44	VEHICULOS/imagenes/911004401.png	
+911004501	Icon_Mounts_Spirit24	Multiplayer Skywing - Lore Train	Skywings	RED (Artifact)	OB45	VEHICULOS/imagenes/911004501.png	
+911004601	Icon_Mounts_flymove_Yinyang24	Skydive - Winged Aura	Skywings	ORANGE_PLUS (Mythic++)	OB46	VEHICULOS/imagenes/911004601.png	
+911004701	Icon_Mounts_NB_Nine	The Nine Tails Theme	Skywings	ORANGE_PLUS (Mythic++)	OB47	VEHICULOS/imagenes/911004701.png	
+911004801	Icon_Mounts_flymove_Cityhero	Skydive - Midnight Action	Skywings	ORANGE (Mythic)	OB48	VEHICULOS/imagenes/911004801.png	
+911004901	Icon_Mounts_Jumpsuit25	Multiplayer Skywing - Loaded Ride	Skywings	RED (Artifact)	OB49	VEHICULOS/imagenes/911004901.png	
+911005001	Icon_Mounts_flymove_2NBCT_Bro	Skydive - Itachi's Susano'o	Skywings	ORANGE (Mythic)	OB50	VEHICULOS/imagenes/911005001.png	
+911005101	Icon_Mounts_flymove_Dreamland	Skydive - Dream Dive	Skywings	ORANGE (Mythic)	OB51	VEHICULOS/imagenes/911005101.png	
+911005201	Icon_Mounts_Treasure26	Crimson Voyage	Skywings	ORANGE (Mythic)	OB52	VEHICULOS/imagenes/911005201.png	
+911005202	Icon_Mounts_Fastbreaking_Treasure_02_A	Ruby Legend	Skywings	ORANGE_PLUS (Mythic++)	OB52	VEHICULOS/imagenes/911005202.png	
+911005301	Icon_Mounts_flymove_Bluetears	Skydive - Undersea Spectacle	Skywings	ORANGE_PLUS (Mythic++)	OB53	VEHICULOS/imagenes/911005301.png	
+911005401	Icon_Mounts_Darkdesires	Boat of Luxury	Skywings	ORANGE (Mythic)	OB54	VEHICULOS/imagenes/911005401.png	
+911005402	Icon_Mounts_flymove_Ninth	Fractured Descent	Skywings	RED (Artifact)	OB54	VEHICULOS/imagenes/911005402.png	
+911005501	Icon_Mounts_flymove_Halloween26	Unseen Claws	Skywings	ORANGE (Mythic)	OB55	VEHICULOS/imagenes/911005501.png	

@@ -1,0 +1,8 @@
+ITEM ID: 203038025
+ICON ID: Icon_avatar_male_cos_top_designer
+NOMBRE: Fine 'n' Fresh (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038025.png

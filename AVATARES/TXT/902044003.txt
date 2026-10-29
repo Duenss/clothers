@@ -1,0 +1,8 @@
+ITEM ID: 902044003
+ICON ID: Icon_face_male_head_sc_Dualman_B
+NOMBRE: Dual Guardian Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902044003.png

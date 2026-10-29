@@ -1,0 +1,8 @@
+ITEM ID: 801000525
+ICON ID: Icon_exchange_ob22_cow_token
+NOMBRE: Cow Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB22
+DESCRIPCION: Moooooooo
+IMAGEN: CAJAS/imagenes/801000525.png

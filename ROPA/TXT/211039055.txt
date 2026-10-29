@@ -1,0 +1,8 @@
+ITEM ID: 211039055
+ICON ID: Icon_avatar_cos_accessory_fishtank_fp
+NOMBRE: Goldfish Glasses
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211039055.png

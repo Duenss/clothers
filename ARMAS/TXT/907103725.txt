@@ -1,0 +1,8 @@
+ITEM ID: 907103725
+ICON ID: Icon_Sickle_Winterfest22
+NOMBRE: Scythe - Bassline's End
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103725.png

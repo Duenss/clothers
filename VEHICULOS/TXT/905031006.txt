@@ -1,0 +1,8 @@
+ITEM ID: 905031006
+ICON ID: Icon_Avatar_PARACHUTE_Origami
+NOMBRE: Parachute - Whirl of Swan
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905031006.png

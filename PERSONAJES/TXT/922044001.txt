@@ -1,0 +1,8 @@
+ITEM ID: 922044001
+ICON ID: UI_Icon_SkillSkin_Villain_Persona
+NOMBRE: Skill Skin: Crimson Paradox
+TIPO: Skill Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922044001.png

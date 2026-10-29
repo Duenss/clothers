@@ -1,0 +1,8 @@
+ITEM ID: 214054003
+ICON ID: Icon_avatar_cos_headadditive_bloodmoon26_mask
+NOMBRE: Scarlet Cinder (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214054003.png

@@ -1,0 +1,8 @@
+ITEM ID: 801000630
+ICON ID: Icon_exchange_ob24_Flag
+NOMBRE: Flag
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: With pride and honor
+IMAGEN: CAJAS/imagenes/801000630.png

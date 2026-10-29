@@ -1,0 +1,8 @@
+ITEM ID: 400036150
+ICON ID: Icon_box_3
+NOMBRE: Midnight Oni Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Midnight Oni and all its pieces
+IMAGEN: ROPA/imagenes/400036150.png

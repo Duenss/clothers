@@ -1,0 +1,8 @@
+ITEM ID: 204033036
+ICON ID: Icon_avatar_male_cos_bottom_fastbreaking22_02
+NOMBRE: Timbered Charmer - Nebula (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033036.png

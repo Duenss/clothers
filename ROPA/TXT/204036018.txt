@@ -1,0 +1,8 @@
+ITEM ID: 204036018
+ICON ID: Icon_avatar_male_cos_bottom_lightfest22_m
+NOMBRE: Dark Destroyer (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036018.png

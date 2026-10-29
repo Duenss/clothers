@@ -1,0 +1,8 @@
+ITEM ID: 913046001
+ICON ID: FF_UI_Vault_Music_Glooworld
+NOMBRE: Gloo Nova
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: Theme song of "Gloo Nova" event
+IMAGEN: MUSICA/imagenes/913046001.png

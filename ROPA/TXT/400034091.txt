@@ -1,0 +1,8 @@
+ITEM ID: 400034091
+ICON ID: Icon_box_3
+NOMBRE: Emote: Sit Down! Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: Contains Emote: Sit Down!
+IMAGEN: ROPA/imagenes/400034091.png

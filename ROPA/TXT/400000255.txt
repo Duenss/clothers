@@ -1,0 +1,8 @@
+ITEM ID: 400000255
+ICON ID: Icon_box_3
+NOMBRE: Valentine's box (Rose Theme)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: For Valentine's Event
+IMAGEN: ROPA/imagenes/400000255.png

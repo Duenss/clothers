@@ -1,0 +1,8 @@
+ITEM ID: 929005118
+ICON ID: Icon_Photostickeritem_Winterland_02
+NOMBRE: Nightmare Yeti Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Nightmare Yeti Sticker
+IMAGEN: AVATARES/imagenes/929005118.png

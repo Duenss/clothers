@@ -1,0 +1,8 @@
+ITEM ID: 819039001
+ICON ID: UI_Icon_Privilege_Effect
+NOMBRE: Triggered by sprinting
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Wear the corresponding outfit to trigger this special effect when sprinting.
+IMAGEN: CAJAS/imagenes/819039001.png

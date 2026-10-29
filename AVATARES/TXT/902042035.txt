@@ -1,0 +1,8 @@
+ITEM ID: 902042035
+ICON ID: Icon_face_WS23
+NOMBRE: Glory of 2023
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902042035.png

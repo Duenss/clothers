@@ -1,0 +1,8 @@
+ITEM ID: 211051006
+ICON ID: Icon_avatar_cos_accessory_dreamland_sweetdream
+NOMBRE: Sweet Dream (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051006.png

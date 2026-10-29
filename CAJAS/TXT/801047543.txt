@@ -1,0 +1,8 @@
+ITEM ID: 801047543
+ICON ID: Icon_exchange_WTN_id_47
+NOMBRE: Winter Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047543.png

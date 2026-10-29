@@ -1,0 +1,8 @@
+ITEM ID: 400000821
+ICON ID: Icon_box_3
+NOMBRE: SongKran Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Ready to get wet?
+IMAGEN: ROPA/imagenes/400000821.png

@@ -1,0 +1,8 @@
+ITEM ID: 819850228
+ICON ID: FF_Lottery_Lunar_New_Year_2025_Voucher
+NOMBRE: Lunar New Year 2025 Voucher
+TIPO: Vouchers
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Voucher for LNY
+IMAGEN: CAJAS/imagenes/819850228.png

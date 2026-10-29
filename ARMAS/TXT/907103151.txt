@@ -1,0 +1,8 @@
+ITEM ID: 907103151
+ICON ID: Icon_GlooShield_THagent
+NOMBRE: Gloo Wall - Night Scouter
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103151.png

@@ -1,0 +1,8 @@
+ITEM ID: 400047532
+ICON ID: Icon_box_2EAB_ME_47
+NOMBRE: 2025 Eid Adha Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Celebrate 2025 Eid Adha with Free Fire
+IMAGEN: CAJAS/imagenes/400047532.png

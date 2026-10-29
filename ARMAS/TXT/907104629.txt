@@ -1,0 +1,8 @@
+ITEM ID: 907104629
+ICON ID: Icon_Pan_CSRank28
+NOMBRE: Pan - S28 Exclusive: Horsin'
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: CS-Ranked S28 Reward
+IMAGEN: ARMAS/imagenes/907104629.png

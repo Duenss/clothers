@@ -1,0 +1,8 @@
+ITEM ID: 2000000044
+ICON ID: Icon_FF_CupMatch_cscup
+NOMBRE: Clash Squad Cup Upgrade Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use this voucher to upgrade to the Advanced rewards.
+IMAGEN: OTROS/imagenes/2000000044.png

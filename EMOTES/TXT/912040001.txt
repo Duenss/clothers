@@ -1,0 +1,8 @@
+ITEM ID: 912040001
+ICON ID: Icon_GroupAnim_Traphiphop22
+NOMBRE: Chromatic T.R.A.P.vasion
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912040001.png

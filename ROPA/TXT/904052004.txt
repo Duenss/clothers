@@ -1,0 +1,8 @@
+ITEM ID: 904052004
+ICON ID: Icon_Bag_Fastbreaking_Treasure
+NOMBRE: Backpack - Treasure Compass
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052004.png

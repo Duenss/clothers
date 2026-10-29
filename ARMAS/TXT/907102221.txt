@@ -1,0 +1,8 @@
+ITEM ID: 907102221
+ICON ID: Icon_AN94_StreamerGuy
+NOMBRE: AN94 - Game Streamer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB22
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102221.png

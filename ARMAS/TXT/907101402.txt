@@ -1,0 +1,8 @@
+ITEM ID: 907101402
+ICON ID: Icon_VSS_Dragons
+NOMBRE: VSS - Dragon's Eye
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB14
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101402.png

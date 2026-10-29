@@ -1,0 +1,8 @@
+ITEM ID: 203000100
+ICON ID: Icon_Avatar_Female_GSL_Undershirt
+NOMBRE: GW2018 Singlet (Female)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000100.png

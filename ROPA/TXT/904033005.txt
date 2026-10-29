@@ -1,0 +1,8 @@
+ITEM ID: 904033005
+ICON ID: Icon_Bag_Luchalibre2_1
+NOMBRE: Backpack - Draconic Haven
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033005.png

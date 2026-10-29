@@ -1,0 +1,8 @@
+ITEM ID: 1309000261
+ICON ID: Pet_Pug_Cheer
+NOMBRE: Celebrate
+TIPO: Pet Emote
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+IMAGEN: MASCOTAS/imagenes/1309000261.png

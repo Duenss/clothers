@@ -1,0 +1,8 @@
+ITEM ID: 901036001
+ICON ID: Icon_callsign_storebg_Frankenstein_EP_A
+NOMBRE: Comic Monster Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901036001.png

@@ -1,0 +1,8 @@
+ITEM ID: 400027093
+ICON ID: Icon_box_3
+NOMBRE: Heartthrob (Female) Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Heartthrob (Female) and all its pieces
+IMAGEN: ROPA/imagenes/400027093.png

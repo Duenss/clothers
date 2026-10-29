@@ -1,0 +1,8 @@
+ITEM ID: 904045007
+ICON ID: Icon_Bag_Easterrabbit_Red
+NOMBRE: Backpack - Bunny Mastermind
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB45
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904045007.png

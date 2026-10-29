@@ -1,0 +1,8 @@
+ITEM ID: 907105536
+ICON ID: Icon_TecGun_New55_01
+NOMBRE: TEC-9 - Dasha
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105536.png

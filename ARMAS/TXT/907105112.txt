@@ -1,0 +1,8 @@
+ITEM ID: 907105112
+ICON ID: Icon_Winchester_New51_Pro
+NOMBRE: Winchester - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105112.png

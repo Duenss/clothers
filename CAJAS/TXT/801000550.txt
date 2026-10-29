@@ -1,0 +1,8 @@
+ITEM ID: 801000550
+ICON ID: Icon_exchange_ob23_green_flag
+NOMBRE: Green Flag
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000550.png

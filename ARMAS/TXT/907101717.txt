@@ -1,0 +1,8 @@
+ITEM ID: 907101717
+ICON ID: Icon_AWM_Playboy
+NOMBRE: AWM - Old Fashioned
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB17
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101717.png

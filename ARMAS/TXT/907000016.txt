@@ -1,0 +1,8 @@
+ITEM ID: 907000016
+ICON ID: Icon_M1873_Camo
+NOMBRE: Deep Blue Sea
+TIPO: Weapon Skins
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000016.png

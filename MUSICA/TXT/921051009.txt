@@ -1,0 +1,8 @@
+ITEM ID: 921051009
+ICON ID: FF_UI_Voiceitem_NY26
+NOMBRE: Happy new year!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Happy New Year Voice Pack
+IMAGEN: MUSICA/imagenes/921051009.png

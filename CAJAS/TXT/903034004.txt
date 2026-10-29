@@ -1,0 +1,8 @@
+ITEM ID: 903034004
+ICON ID: Icon_Deadloot_Cyberwasp_EP
+NOMBRE: Loot Box - Apocalyptic Swarm
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903034004.png

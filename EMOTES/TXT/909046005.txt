@@ -1,0 +1,8 @@
+ITEM ID: 909046005
+ICON ID: Icon_Emote_Football_Duo
+NOMBRE: Shoe Shining
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909046005.png

@@ -1,0 +1,8 @@
+ITEM ID: 400050508
+ICON ID: Icon_box_MB1_BR_50
+NOMBRE: Treasure Box 8
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to get special rewards!
+IMAGEN: CAJAS/imagenes/400050508.png

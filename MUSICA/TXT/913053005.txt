@@ -1,0 +1,8 @@
+ITEM ID: 913053005
+ICON ID: FF_UI_Vault_Music_Eclipse
+NOMBRE: Eclipse
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Eclipse Rise theme song
+IMAGEN: MUSICA/imagenes/913053005.png

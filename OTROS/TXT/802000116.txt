@@ -1,0 +1,8 @@
+ITEM ID: 802000116
+ICON ID: FF_Lottery_HEARTROCKER_Voucher
+NOMBRE: HEARTROCKER Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000116.png

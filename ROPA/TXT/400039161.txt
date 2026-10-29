@@ -1,0 +1,8 @@
+ITEM ID: 400039161
+ICON ID: Icon_box_3
+NOMBRE: M4A1 Special Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Contains M4A1 gun skins
+IMAGEN: ROPA/imagenes/400039161.png

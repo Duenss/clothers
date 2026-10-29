@@ -1,0 +1,8 @@
+ITEM ID: 211037020
+ICON ID: Icon_avatar_male_cos_hair_winterfest22
+NOMBRE: Jovial Symphony King (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037020.png

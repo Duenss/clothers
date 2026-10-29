@@ -1,0 +1,8 @@
+ITEM ID: 801048501
+ICON ID: Icon_exchange_RPT_br_48
+NOMBRE: Revelry Palette Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048501.png

@@ -1,0 +1,8 @@
+ITEM ID: 211051029
+ICON ID: Icon_avatar_male_cos_accessory_gangster_gold
+NOMBRE: Goldhand Wrecker (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051029.png

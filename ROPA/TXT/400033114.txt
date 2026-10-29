@@ -1,0 +1,8 @@
+ITEM ID: 400033114
+ICON ID: Icon_box_3
+NOMBRE: Vampire Malevolence Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Contains Vampire Malevolence weapon & token
+IMAGEN: ROPA/imagenes/400033114.png

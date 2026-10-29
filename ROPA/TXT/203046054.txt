@@ -1,0 +1,8 @@
+ITEM ID: 203046054
+ICON ID: Icon_avatar_cos_top_ffws_sf17
+NOMBRE: FFWS 2024 GF - WAG (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203046054.png

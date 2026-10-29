@@ -1,0 +1,8 @@
+ITEM ID: 907104224
+ICON ID: Icon_ChargeShot_Smudge
+NOMBRE: Charge Buster - Feline's Burst
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104224.png

@@ -1,0 +1,8 @@
+ITEM ID: 204033019
+ICON ID: Icon_avatar_male_cos_bottom_waterfest22
+NOMBRE: Rave Skater (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204033019.png

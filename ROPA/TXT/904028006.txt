@@ -1,0 +1,8 @@
+ITEM ID: 904028006
+ICON ID: Icon_Bag_Thunder
+NOMBRE: Backpack - Destiny Guardian
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904028006.png

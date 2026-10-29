@@ -1,0 +1,8 @@
+ITEM ID: 102000056
+ICON ID: Icon_face_male_head_sc_EclipseMan
+NOMBRE: Ray
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Tired of endless fighting, Ray chose to leave the gang behind with help from Shirou's father. Since then, he has wandered through the hidden corners of different cities, protecting the weak with his own power.
+IMAGEN: PERSONAJES/imagenes/102000056.png

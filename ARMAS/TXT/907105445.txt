@@ -1,0 +1,8 @@
+ITEM ID: 907105445
+ICON ID: Icon_Ninth_Grenade
+NOMBRE: Grenade - 9th Anniversary
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105445.png

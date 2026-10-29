@@ -1,0 +1,8 @@
+ITEM ID: 905043004
+ICON ID: Icon_Avatar_PARACHUTE_Newyear24
+NOMBRE: Parachute - Year of Legend
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905043004.png

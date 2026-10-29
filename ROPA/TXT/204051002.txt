@@ -1,0 +1,8 @@
+ITEM ID: 204051002
+ICON ID: Icon_avatar_male_cos_bottom_sagittarius25
+NOMBRE: Celestial Archer (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051002.png

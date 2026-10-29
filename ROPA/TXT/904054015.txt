@@ -1,0 +1,8 @@
+ITEM ID: 904054015
+ICON ID: Icon_Bag_TH_Tele
+NOMBRE: Backpack - lnwTrue
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904054015.png

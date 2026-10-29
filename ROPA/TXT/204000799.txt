@@ -1,0 +1,8 @@
+ITEM ID: 204000799
+ICON ID: Icon_avatar_male_cos_bottom_falconer_c
+NOMBRE: Moody Lavisher (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000799.png

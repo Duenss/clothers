@@ -1,0 +1,8 @@
+ITEM ID: 905026004
+ICON ID: Icon_Avatar_PARACHUTE_Cobra_Two
+NOMBRE: Parachute - Cobra Attack
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905026004.png

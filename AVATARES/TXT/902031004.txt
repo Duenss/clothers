@@ -1,0 +1,8 @@
+ITEM ID: 902031004
+ICON ID: Icon_face_Origami_A
+NOMBRE: Paper Wings
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902031004.png

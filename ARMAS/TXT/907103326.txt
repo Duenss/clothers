@@ -1,0 +1,8 @@
+ITEM ID: 907103326
+ICON ID: Icon_G36_Monster
+NOMBRE: G36 - Violet Fear
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103326.png

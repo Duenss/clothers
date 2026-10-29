@@ -1,0 +1,8 @@
+ITEM ID: 214038000
+ICON ID: Icon_avatar_male_cos_headadditive_alligator
+NOMBRE: Pixel Crocoslayer (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214038000.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104655
+ICON ID: Icon_AirBurst_Mambas
+NOMBRE: M590 - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104655.png

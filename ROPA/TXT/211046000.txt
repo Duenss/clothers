@@ -1,0 +1,8 @@
+ITEM ID: 211046000
+ICON ID: Icon_avatar_male_cos_hair_smile
+NOMBRE: Jagged Grin (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211046000.png

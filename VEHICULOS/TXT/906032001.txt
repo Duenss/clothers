@@ -1,0 +1,8 @@
+ITEM ID: 906032001
+ICON ID: Icon_Avatar_Surfboard_Valentine2022
+NOMBRE: Skyboard - Vampire Malevolence
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906032001.png

@@ -1,0 +1,8 @@
+ITEM ID: 205000019
+ICON ID: Icon_avatar_male_suit_shoes_001_5
+NOMBRE: Purple Shoes
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000019.png

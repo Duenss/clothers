@@ -1,0 +1,8 @@
+ITEM ID: 400042551
+ICON ID: Icon_box_3
+NOMBRE: Cool Avatar Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB42
+DESCRIPCION: Update your avatar with the new one
+IMAGEN: ROPA/imagenes/400042551.png

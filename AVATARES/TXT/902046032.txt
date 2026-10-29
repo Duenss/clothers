@@ -1,0 +1,8 @@
+ITEM ID: 902046032
+ICON ID: Icon_face_FFWS_SF16
+NOMBRE: FFWS 2024 GF - RRQ Kazu Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902046032.png

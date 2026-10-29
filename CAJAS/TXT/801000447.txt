@@ -1,0 +1,8 @@
+ITEM ID: 801000447
+ICON ID: Icon_exchange_ob21_skull_blue
+NOMBRE: Blue Skull
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000447.png

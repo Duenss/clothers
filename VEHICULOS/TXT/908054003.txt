@@ -1,0 +1,8 @@
+ITEM ID: 908054003
+ICON ID: Icon_slot_Jeep_Psychology
+NOMBRE: Jeep - Dimensional Drift
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908054003.png

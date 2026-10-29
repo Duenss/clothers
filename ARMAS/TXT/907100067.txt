@@ -1,0 +1,8 @@
+ITEM ID: 907100067
+ICON ID: Icon_topgamer_Grenade
+NOMBRE: High-end Controller
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907100067.png

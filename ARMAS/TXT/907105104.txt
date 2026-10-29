@@ -1,0 +1,8 @@
+ITEM ID: 907105104
+ICON ID: Icon_XM8_Dreamland_Event
+NOMBRE: XM8 - Dreamspace
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105104.png

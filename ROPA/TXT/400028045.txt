@@ -1,0 +1,8 @@
+ITEM ID: 400028045
+ICON ID: Icon_box_3
+NOMBRE: Cat's Ear Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400028045.png

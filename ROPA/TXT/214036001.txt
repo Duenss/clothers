@@ -1,0 +1,8 @@
+ITEM ID: 214036001
+ICON ID: Icon_avatar_female_cos_headadditive_frankenstein
+NOMBRE: Monstrous Shock (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214036001.png

@@ -1,0 +1,8 @@
+ITEM ID: 205038013
+ICON ID: Icon_avatar_male_cos_shoe_skisuit
+NOMBRE: Blizzard Brawler (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205038013.png

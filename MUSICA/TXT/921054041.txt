@@ -1,0 +1,8 @@
+ITEM ID: 921054041
+ICON ID: FF_UI_Voiceitem_GOKU54TUNG
+NOMBRE: Yeah, yeah, I'm going, I'm going. But I'll definitely be back! Ay, ay, ay!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: Hello everyone, I'm back again. Wow wow wow!
+IMAGEN: MUSICA/imagenes/921054041.png

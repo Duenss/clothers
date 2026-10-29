@@ -1,0 +1,8 @@
+ITEM ID: 902036010
+ICON ID: Icon_face_Ghost_TH
+NOMBRE: Naïve Whiskers Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902036010.png

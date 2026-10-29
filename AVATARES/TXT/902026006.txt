@@ -1,0 +1,8 @@
+ITEM ID: 902026006
+ICON ID: Icon_face_Alicehatter_FP
+NOMBRE: Pokers
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902026006.png

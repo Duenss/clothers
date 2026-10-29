@@ -1,0 +1,8 @@
+ITEM ID: 801000989
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Eid Fitr Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Eid Fitr Token 2021
+IMAGEN: CAJAS/imagenes/801000989.png

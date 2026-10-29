@@ -1,0 +1,8 @@
+ITEM ID: 814000002
+ICON ID: Icon_FF_Guild_Card_2
+NOMBRE: Guild Wars Token
+TIPO: Vouchers
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A token rewarded for participating in Guild Wars. Use to exchange exciting items
+IMAGEN: CAJAS/imagenes/814000002.png

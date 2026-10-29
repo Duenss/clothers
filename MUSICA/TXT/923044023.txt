@@ -1,0 +1,8 @@
+ITEM ID: 923044023
+ICON ID: FF_UI_Voiceitem_POPID_Christy
+NOMBRE: The enemies are weak! (Christy)
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: Playing will be even more fun with the special voices of the JKT48 members!
+IMAGEN: MUSICA/imagenes/923044023.png

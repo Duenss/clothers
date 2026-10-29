@@ -1,0 +1,8 @@
+ITEM ID: 904035008
+ICON ID: Icon_Bag_Riders
+NOMBRE: Backpack - Grim Rider
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904035008.png

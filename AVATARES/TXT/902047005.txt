@@ -1,0 +1,8 @@
+ITEM ID: 902047005
+ICON ID: Icon_face_male_head_sc_Auroraboy_B
+NOMBRE: Snow Fox Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902047005.png

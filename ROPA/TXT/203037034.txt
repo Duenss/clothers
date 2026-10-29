@@ -1,0 +1,8 @@
+ITEM ID: 203037034
+ICON ID: Icon_avatar_cos_top_cdband
+NOMBRE: Carla's Dreams (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203037034.png

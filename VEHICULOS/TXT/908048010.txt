@@ -1,0 +1,8 @@
+ITEM ID: 908048010
+ICON ID: Icon_slot_Roadster_Fastbreaking_dune
+NOMBRE: Sports Car - Preem Shimmer
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908048010.png

@@ -1,0 +1,8 @@
+ITEM ID: 801047106
+ICON ID: Icon_exchange_ntk6_47
+NOMBRE: Shuriken Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047106.png

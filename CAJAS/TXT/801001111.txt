@@ -1,0 +1,8 @@
+ITEM ID: 801001111
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Magazine Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Never forget the basics of warfare
+IMAGEN: CAJAS/imagenes/801001111.png

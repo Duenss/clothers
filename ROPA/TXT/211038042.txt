@@ -1,0 +1,8 @@
+ITEM ID: 211038042
+ICON ID: Icon_avatar_cos_hair_hautecouture
+NOMBRE: Haute Minimalist (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038042.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000058
+ICON ID: Icon_avatar_hair_strawhat
+NOMBRE: Pirate's Straw Hat
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000058.png

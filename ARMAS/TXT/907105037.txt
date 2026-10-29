@@ -1,0 +1,8 @@
+ITEM ID: 907105037
+ICON ID: Icon_Baseballbat_Rank47
+NOMBRE: Bat - S47 Exclusive: Desert
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: BR-Ranked S47 Reward
+IMAGEN: ARMAS/imagenes/907105037.png

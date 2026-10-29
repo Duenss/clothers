@@ -1,0 +1,8 @@
+ITEM ID: 204034039
+ICON ID: Icon_avatar_female_cos_bottom_lotus_a
+NOMBRE: Evening Petal (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204034039.png

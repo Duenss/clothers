@@ -1,0 +1,8 @@
+ITEM ID: 214033007
+ICON ID: Icon_avatar_cos_headadditive_firephoenix_green
+NOMBRE: Phoenix Zap (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214033007.png

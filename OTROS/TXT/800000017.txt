@@ -1,0 +1,8 @@
+ITEM ID: 800000017
+ICON ID: Icon_face_male_sc_hitman
+NOMBRE: Memory Fragment (Rafael)
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Fragment containing some memories
+IMAGEN: OTROS/imagenes/800000017.png

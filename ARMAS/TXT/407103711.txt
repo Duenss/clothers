@@ -1,0 +1,8 @@
+ITEM ID: 407103711
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Fiery Rush (M82B + Heal Pistol) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Open to receive a random gun skin (M82B + Heal Pistol) from the Fiery Rush weapon series
+IMAGEN: ARMAS/imagenes/407103711.png

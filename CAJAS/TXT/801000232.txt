@@ -1,0 +1,8 @@
+ITEM ID: 801000232
+ICON ID: Icon_exchange_FF_Box
+NOMBRE: FF Loot Box
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000232.png

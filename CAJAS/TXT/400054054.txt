@@ -1,0 +1,8 @@
+ITEM ID: 400054054
+ICON ID: Icon_box_NinthEvent1_54
+NOMBRE: Fracture Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400054054.png

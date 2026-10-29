@@ -1,0 +1,8 @@
+ITEM ID: 710000140
+ICON ID: Icon_box_3
+NOMBRE: Steampunk Badge Bundle
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Steampunk Badge x20
+IMAGEN: ROPA/imagenes/710000140.png

@@ -1,0 +1,8 @@
+ITEM ID: 921049041
+ICON ID: FF_UI_Voiceitem_SAC49
+NOMBRE: Let's rush Peak!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: FF Nostalgia
+IMAGEN: MUSICA/imagenes/921049041.png

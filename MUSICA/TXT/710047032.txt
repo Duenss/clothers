@@ -1,0 +1,8 @@
+ITEM ID: 710047032
+ICON ID: FF_UI_Voiceitem_ME47
+NOMBRE: Legends x Dominators
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Legends x Dominators
+IMAGEN: MUSICA/imagenes/710047032.png

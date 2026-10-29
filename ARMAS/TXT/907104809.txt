@@ -1,0 +1,8 @@
+ITEM ID: 907104809
+ICON ID: Icon_MAG7_Fastbreaking_dune
+NOMBRE: MAG-7 - Sandust Shimmer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104809.png

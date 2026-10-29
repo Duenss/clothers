@@ -1,0 +1,8 @@
+ITEM ID: 902051035
+ICON ID: Icon_face_DA_Avatar
+NOMBRE: Agumon Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902051035.png

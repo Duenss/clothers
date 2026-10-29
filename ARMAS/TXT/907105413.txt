@@ -1,0 +1,8 @@
+ITEM ID: 907105413
+ICON ID: Icon_Winchester_Apple_GR
+NOMBRE: Winchester - Crisp Green
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105413.png

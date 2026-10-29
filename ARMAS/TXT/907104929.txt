@@ -1,0 +1,8 @@
+ITEM ID: 907104929
+ICON ID: Icon_PP19_CSRank31
+NOMBRE: Bizon - S31 Exclusive: Fearless
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: CS-Ranked S31 Reward
+IMAGEN: ARMAS/imagenes/907104929.png

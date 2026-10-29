@@ -1,0 +1,8 @@
+ITEM ID: 906000046
+ICON ID: Icon_Avatar_Surfboard_Jajuar_01
+NOMBRE: Skyboard - Panther Tattoo
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000046.png

@@ -1,0 +1,8 @@
+ITEM ID: 907104125
+ICON ID: Icon_GlooShield_Goldwall_New
+NOMBRE: Gloo Wall - Golden Hero
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104125.png

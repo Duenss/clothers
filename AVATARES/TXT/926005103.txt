@@ -1,0 +1,8 @@
+ITEM ID: 926005103
+ICON ID: Icon_PhotoFrameitem_WINTERLAND_01
+NOMBRE: Winterlands frame
+TIPO: Photo Frame
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Winterlands frame
+IMAGEN: AVATARES/imagenes/926005103.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103822
+ICON ID: Icon_Sickle_Goal
+NOMBRE: Scythe - Achiever
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103822.png

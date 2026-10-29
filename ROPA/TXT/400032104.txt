@@ -1,0 +1,8 @@
+ITEM ID: 400032104
+ICON ID: Icon_box_3
+NOMBRE: Winter Icerunner Bundle Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: Contains Winter Icerunner Bundle
+IMAGEN: ROPA/imagenes/400032104.png

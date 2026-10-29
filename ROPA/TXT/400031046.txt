@@ -1,0 +1,8 @@
+ITEM ID: 400031046
+ICON ID: Icon_box_3
+NOMBRE: Leaf Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400031046.png

@@ -1,0 +1,8 @@
+ITEM ID: 400053014
+ICON ID: Icon_box_BlueTEvent2_53
+NOMBRE: Mystery Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB53
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400053014.png

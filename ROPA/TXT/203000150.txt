@@ -1,0 +1,8 @@
+ITEM ID: 203000150
+ICON ID: Icon_avatar_undershirt_gold_S3
+NOMBRE: Golden Proof
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000150.png

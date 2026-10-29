@@ -1,0 +1,8 @@
+ITEM ID: 907104025
+ICON ID: Icon_Katana_Traphiphop22
+NOMBRE: Katana - T.R.A.P. Chromalight
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104025.png

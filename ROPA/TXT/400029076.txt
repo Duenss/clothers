@@ -1,0 +1,8 @@
+ITEM ID: 400029076
+ICON ID: Icon_box_3
+NOMBRE: Dimitri Box
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Contains Character Dimitri and many other rewards
+IMAGEN: ROPA/imagenes/400029076.png

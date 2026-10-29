@@ -1,0 +1,8 @@
+ITEM ID: 801050533
+ICON ID: Icon_exchange_slt1_th_50
+NOMBRE: Soul Land Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB50
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801050533.png

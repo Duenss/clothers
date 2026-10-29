@@ -1,0 +1,8 @@
+ITEM ID: 203048039
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Shadow Force (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: (no disponible)

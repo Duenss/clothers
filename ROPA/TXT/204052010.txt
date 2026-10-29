@@ -1,0 +1,8 @@
+ITEM ID: 204052010
+ICON ID: Icon_avatar_male_cos_bottom_emoji26
+NOMBRE: Chillin' Emoji (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204052010.png

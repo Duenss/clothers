@@ -1,0 +1,8 @@
+ITEM ID: 211040004
+ICON ID: Icon_avatar_female_cos_hair_artificial
+NOMBRE: Streams of Wisdom (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040004.png

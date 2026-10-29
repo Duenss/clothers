@@ -1,0 +1,8 @@
+ITEM ID: 400030131
+ICON ID: Icon_box_3
+NOMBRE: Lion Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: SSA server's 1st anniversary
+IMAGEN: ROPA/imagenes/400030131.png

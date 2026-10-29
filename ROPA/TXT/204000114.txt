@@ -1,0 +1,8 @@
+ITEM ID: 204000114
+ICON ID: Icon_female_bottom_cos_police_blue
+NOMBRE: Enforcer Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000114.png

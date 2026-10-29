@@ -1,0 +1,8 @@
+ITEM ID: 710036036
+ICON ID: Icon_bundle_female_potentia_36
+NOMBRE: Freedom Sprintstar Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710036036.png

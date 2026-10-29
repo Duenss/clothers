@@ -1,0 +1,8 @@
+ITEM ID: 205000675
+ICON ID: Icon_avatar_shoe_cos_cardboard_mid1
+NOMBRE: Zebra Papercut (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000675.png

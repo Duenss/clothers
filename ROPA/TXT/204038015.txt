@@ -1,0 +1,8 @@
+ITEM ID: 204038015
+ICON ID: Icon_avatar_male_cos_bottom_mullet
+NOMBRE: Defier's Anthem (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204038015.png

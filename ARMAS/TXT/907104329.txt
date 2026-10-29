@@ -1,0 +1,8 @@
+ITEM ID: 907104329
+ICON ID: Icon_Pan_Fastbreaking24
+NOMBRE: Pan - Glistening Nightstar
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104329.png

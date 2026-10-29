@@ -1,0 +1,8 @@
+ITEM ID: 905052003
+ICON ID: Icon_Avatar_PARACHUTE_Pixel
+NOMBRE: Parachute - 8-Bit Duo
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905052003.png

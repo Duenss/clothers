@@ -1,0 +1,8 @@
+ITEM ID: 211001114
+ICON ID: Icon_avatar_cos_hair_darkdragon_pre
+NOMBRE: Dark Wings (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001114.png

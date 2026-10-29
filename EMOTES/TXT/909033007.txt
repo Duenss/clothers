@@ -1,0 +1,8 @@
+ITEM ID: 909033007
+ICON ID: Icon_Emote_FFWS2022
+NOMBRE: The FFWS Dance
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909033007.png

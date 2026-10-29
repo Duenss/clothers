@@ -1,0 +1,8 @@
+ITEM ID: 907101704
+ICON ID: Icon_SKS_Assassin
+NOMBRE: SKS - Phantom Assassin
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB17
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907101704.png

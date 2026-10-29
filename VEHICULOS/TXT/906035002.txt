@@ -1,0 +1,8 @@
+ITEM ID: 906035002
+ICON ID: Icon_Avatar_Surfboard_Deepseasharks
+NOMBRE: Skyboard - Ocean Runner
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906035002.png

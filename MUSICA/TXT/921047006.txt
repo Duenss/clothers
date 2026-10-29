@@ -1,0 +1,8 @@
+ITEM ID: 921047006
+ICON ID: FF_UI_Voiceitem_ME47
+NOMBRE: Dominators, are you ready?
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Legends x Dominators
+IMAGEN: MUSICA/imagenes/921047006.png

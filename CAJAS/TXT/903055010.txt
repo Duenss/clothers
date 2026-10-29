@@ -1,0 +1,8 @@
+ITEM ID: 903055010
+ICON ID: Icon_Deadloot_Ninja_Watermelon
+NOMBRE: Loot Box - Banana Jutsu
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903055010.png

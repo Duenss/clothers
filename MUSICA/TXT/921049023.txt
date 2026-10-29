@@ -1,0 +1,8 @@
+ITEM ID: 921049023
+ICON ID: FF_UI_Voiceitem_Seafood_Voice
+NOMBRE: Red Light, Green Light
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB49
+DESCRIPCION: Free Fire x Squid Game Collab Voice Pack
+IMAGEN: MUSICA/imagenes/921049023.png

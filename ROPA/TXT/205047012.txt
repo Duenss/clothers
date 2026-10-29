@@ -1,0 +1,8 @@
+ITEM ID: 205047012
+ICON ID: Icon_avatar_male_cos_shoe_superstar24_white
+NOMBRE: Sporty Star (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205047012.png

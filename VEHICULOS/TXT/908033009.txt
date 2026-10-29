@@ -1,0 +1,8 @@
+ITEM ID: 908033009
+ICON ID: Icon_slot_Motobike_Boyband
+NOMBRE: Motorbike - Soldier Nightmare
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908033009.png

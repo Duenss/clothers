@@ -1,0 +1,8 @@
+ITEM ID: 801039057
+ICON ID: FF_UI_Comic_Token
+NOMBRE: BP S6 Token
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: Use to purchase tailor options for the Comic Chaos theme in the Tailor system.
+IMAGEN: CAJAS/imagenes/801039057.png

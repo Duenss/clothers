@@ -1,0 +1,8 @@
+ITEM ID: 710030053
+ICON ID: Icon_bundle_Rabbit_Clown_A_30
+NOMBRE: Carnival Agent Hop Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: Open to receive Agent Hop and the Carnival Agent Hop skin
+IMAGEN: ROPA/imagenes/710030053.png

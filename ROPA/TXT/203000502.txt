@@ -1,0 +1,8 @@
+ITEM ID: 203000502
+ICON ID: Icon_avatar_male_top_cos_desert_A
+NOMBRE: Scorpion's Revenge
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000502.png

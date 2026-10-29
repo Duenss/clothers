@@ -1,0 +1,8 @@
+ITEM ID: 400001219
+ICON ID: Icon_box_3
+NOMBRE: Diamond Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: How is your luck?
+IMAGEN: ROPA/imagenes/400001219.png

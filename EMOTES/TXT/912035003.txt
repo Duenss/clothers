@@ -1,0 +1,8 @@
+ITEM ID: 912035003
+ICON ID: Icon_GroupAnim_DigitalUniverse
+NOMBRE: Spaceship Dominator
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912035003.png

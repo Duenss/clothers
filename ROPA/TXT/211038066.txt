@@ -1,0 +1,8 @@
+ITEM ID: 211038066
+ICON ID: Icon_avatar_male_cos_shoe_dmx_02
+NOMBRE: Hunter Nero (Shoes)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038066.png

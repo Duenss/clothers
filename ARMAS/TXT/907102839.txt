@@ -1,0 +1,8 @@
+ITEM ID: 907102839
+ICON ID: Icon_GlooShield_Foursymbols
+NOMBRE: Gloo Wall - Stormbringer
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102839.png

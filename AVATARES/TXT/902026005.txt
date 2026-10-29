@@ -1,0 +1,8 @@
+ITEM ID: 902026005
+ICON ID: Icon_face_Alicehatter_EP_B
+NOMBRE: Rabbit Trick
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902026005.png

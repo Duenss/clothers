@@ -1,0 +1,8 @@
+ITEM ID: 203038030
+ICON ID: Icon_avatar_cos_top_tshirt_alligator
+NOMBRE: Croco T-Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038030.png

@@ -1,0 +1,8 @@
+ITEM ID: 905000090
+ICON ID: Icon_Avatar_PARACHUTE_Impermanence
+NOMBRE: Parachute - Endless Oblivion
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000090.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000021
+ICON ID: Icon_avatar_short_camo_004
+NOMBRE: Shorts (Ruins)
+TIPO: Bottom
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000021.png

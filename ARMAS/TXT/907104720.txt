@@ -1,0 +1,8 @@
+ITEM ID: 907104720
+ICON ID: Icon_Machete_Aurora
+NOMBRE: Parang - Aurora's Shade
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104720.png

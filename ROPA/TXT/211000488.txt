@@ -1,0 +1,8 @@
+ITEM ID: 211000488
+ICON ID: Icon_avatar_female_hair_cos_evilbone
+NOMBRE: Madame Punisher (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000488.png

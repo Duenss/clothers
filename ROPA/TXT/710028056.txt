@@ -1,0 +1,8 @@
+ITEM ID: 710028056
+ICON ID: FF_Icon_sc_Agent
+NOMBRE: Laura
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Laura is an outstanding special agent.
+IMAGEN: ROPA/imagenes/710028056.png

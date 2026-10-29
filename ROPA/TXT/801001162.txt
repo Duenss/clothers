@@ -1,0 +1,8 @@
+ITEM ID: 801001162
+ICON ID: Icon_box_3
+NOMBRE: Anniversary Dynamic Token
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: ROPA/imagenes/801001162.png

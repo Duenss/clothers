@@ -1,0 +1,8 @@
+ITEM ID: 400048069
+ICON ID: Icon_box_Ramadan25B_BOX3_48
+NOMBRE: Happy Ramadan Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048069.png

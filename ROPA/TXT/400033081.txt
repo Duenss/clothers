@@ -1,0 +1,8 @@
+ITEM ID: 400033081
+ICON ID: Icon_box_3
+NOMBRE: Back To School Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: Back to school… again.
+IMAGEN: ROPA/imagenes/400033081.png

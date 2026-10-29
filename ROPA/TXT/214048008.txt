@@ -1,0 +1,8 @@
+ITEM ID: 214048008
+ICON ID: Icon_avatar_cos_headadditive_football25_fp
+NOMBRE: Garuda Spirit Facepaint
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214048008.png

@@ -1,0 +1,8 @@
+ITEM ID: 905000013
+ICON ID: Icon_Avatar_PARACHUTE_TYPHOON
+NOMBRE: Parachute - Typhoon
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905000013.png

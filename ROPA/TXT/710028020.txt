@@ -1,0 +1,8 @@
+ITEM ID: 710028020
+ICON ID: Icon_bundle_Supercar_A_28
+NOMBRE: McLaren Racing Overalls Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710028020.png

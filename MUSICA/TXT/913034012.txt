@@ -1,0 +1,8 @@
+ITEM ID: 913034012
+ICON ID: FF_UI_Vault_Music_BIS
+NOMBRE: Battle In Style 2022
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: Battle In Style 2022 lobby music
+IMAGEN: MUSICA/imagenes/913034012.png

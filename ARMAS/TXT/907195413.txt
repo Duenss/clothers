@@ -1,0 +1,8 @@
+ITEM ID: 907195413
+ICON ID: Icon_AUG_Ninth_02
+NOMBRE: AUG - Blazing Fracture
+TIPO: Weapon Skins
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907195413.png

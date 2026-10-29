@@ -1,0 +1,8 @@
+ITEM ID: 904052006
+ICON ID: Icon_Bag_Valentine26
+NOMBRE: Backpack - Rose Romance
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904052006.png

@@ -1,0 +1,8 @@
+ITEM ID: 819040002
+ICON ID: FF_UI_VFX_Traphiphop22_01
+NOMBRE: Using Med Kit Effect (T.R.A.P. City)
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: Special effects when using a Med Kit while wearing the T.R.A.P. City themed bottom.
+IMAGEN: CAJAS/imagenes/819040002.png

@@ -1,0 +1,8 @@
+ITEM ID: 400036161
+ICON ID: Icon_box_3
+NOMBRE: Luna Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains the character Luna and many other rewards
+IMAGEN: ROPA/imagenes/400036161.png

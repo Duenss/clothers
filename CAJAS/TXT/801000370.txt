@@ -1,0 +1,8 @@
+ITEM ID: 801000370
+ICON ID: Icon_exchange_ob21_blue_soul
+NOMBRE: Blue Soul Orb
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000370.png

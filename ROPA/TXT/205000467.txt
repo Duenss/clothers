@@ -1,0 +1,8 @@
+ITEM ID: 205000467
+ICON ID: Icon_avatar_male_shoe_cos_swallowtail
+NOMBRE: Duke Swallowtail (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000467.png

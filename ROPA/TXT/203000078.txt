@@ -1,0 +1,8 @@
+ITEM ID: 203000078
+ICON ID: Icon_avatar_tshirt_week_005
+NOMBRE: FUNK FRI
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000078.png

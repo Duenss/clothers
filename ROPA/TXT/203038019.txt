@@ -1,0 +1,8 @@
+ITEM ID: 203038019
+ICON ID: Icon_avatar_male_cos_top_elder_red
+NOMBRE: Nightfire Kami (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203038019.png

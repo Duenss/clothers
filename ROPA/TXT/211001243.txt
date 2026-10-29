@@ -1,0 +1,8 @@
+ITEM ID: 211001243
+ICON ID: Icon_avatar_male_cos_accessory_vnspace_black
+NOMBRE: Silent Scrutiny (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001243.png

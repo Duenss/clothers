@@ -1,0 +1,8 @@
+ITEM ID: 203000031
+ICON ID: Icon_avatar_undershirt_diy_010
+NOMBRE: Singlet (Hands Up!)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000031.png

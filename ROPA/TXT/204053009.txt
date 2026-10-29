@@ -1,0 +1,8 @@
+ITEM ID: 204053009
+ICON ID: Icon_avatar_female_cos_bottom_gemini25
+NOMBRE: Shining Twinstars (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204053009.png

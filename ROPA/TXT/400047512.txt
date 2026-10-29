@@ -1,0 +1,8 @@
+ITEM ID: 400047512
+ICON ID: Icon_box_3
+NOMBRE: Box 218
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400047512.png

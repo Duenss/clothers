@@ -1,0 +1,8 @@
+ITEM ID: 801055001
+ICON ID: Icon_exchange_ben10_55
+NOMBRE: Ben 10 Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055001.png

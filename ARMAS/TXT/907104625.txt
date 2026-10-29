@@ -1,0 +1,8 @@
+ITEM ID: 907104625
+ICON ID: Icon_M1014_Rank42
+NOMBRE: M1014 - S42 Exclusive: Combustion
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB46
+DESCRIPCION: BR-Ranked S42 Reward
+IMAGEN: ARMAS/imagenes/907104625.png

@@ -1,0 +1,8 @@
+ITEM ID: 925052002
+ICON ID: Icon_BattleCard_IIV_CT_Trio
+NOMBRE: Jujutsu Kaisen Battle Card
+TIPO: Battle Card
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/925052002.png

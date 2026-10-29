@@ -1,0 +1,8 @@
+ITEM ID: 908036002
+ICON ID: Icon_slot_TUTU_Icewizard
+NOMBRE: Tuk Tuk - Cyan Iceworld
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908036002.png

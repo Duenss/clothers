@@ -1,0 +1,8 @@
+ITEM ID: 912035002
+ICON ID: Icon_GroupAnim_TopCriminal
+NOMBRE: Spotlight Groover
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912035002.png

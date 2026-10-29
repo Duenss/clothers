@@ -1,0 +1,8 @@
+ITEM ID: 907105344
+ICON ID: Icon_FFWS_Spring26_Grenade
+NOMBRE: Grenade - FFWS 2026 Spring
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105344.png

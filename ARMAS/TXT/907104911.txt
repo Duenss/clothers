@@ -1,0 +1,8 @@
+ITEM ID: 907104911
+ICON ID: Icon_M249_Crystalline
+NOMBRE: M249 - Cosmic Chaos
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104911.png

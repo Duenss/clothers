@@ -1,0 +1,8 @@
+ITEM ID: 902039009
+ICON ID: Icon_face_Scarlet_1
+NOMBRE: Scorpio Avatar
+TIPO: Avatars
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902039009.png

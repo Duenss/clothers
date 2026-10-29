@@ -1,0 +1,8 @@
+ITEM ID: 211041020
+ICON ID: Icon_avatar_male_cos_hair_monsterjacket
+NOMBRE: Cobalt Monster Club (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211041020.png

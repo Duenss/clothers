@@ -1,0 +1,8 @@
+ITEM ID: 710050092
+ICON ID: FF_UI_Voiceitem_TH50A
+NOMBRE: Anime Voice Pack
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Anime Voice Pack
+IMAGEN: MUSICA/imagenes/710050092.png

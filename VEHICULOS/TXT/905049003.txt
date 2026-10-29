@@ -1,0 +1,8 @@
+ITEM ID: 905049003
+ICON ID: Icon_Avatar_PARACHUTE_Pony25
+NOMBRE: Parachute - Solara Dash
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905049003.png

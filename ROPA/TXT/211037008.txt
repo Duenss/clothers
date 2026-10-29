@@ -1,0 +1,8 @@
+ITEM ID: 211037008
+ICON ID: Icon_avatar_male_cos_hair_hightech
+NOMBRE: Dart Electric (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211037008.png

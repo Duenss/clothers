@@ -1,0 +1,8 @@
+ITEM ID: 801000116
+ICON ID: Icon_exchange_Sunny_Summer
+NOMBRE: Pleasant Summer
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000116.png

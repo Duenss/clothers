@@ -1,0 +1,8 @@
+ITEM ID: 909000075
+ICON ID: Icon_Emote_Cobra_MP40
+NOMBRE: Cobra Rising
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909000075.png

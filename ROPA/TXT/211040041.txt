@@ -1,0 +1,8 @@
+ITEM ID: 211040041
+ICON ID: Icon_avatar_male_cos_accessory_traphiphop22_black
+NOMBRE: T.R.A.P. Chromablack (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040041.png

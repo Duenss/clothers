@@ -1,0 +1,8 @@
+ITEM ID: 907102123
+ICON ID: Icon_M1887_Dtac2020
+NOMBRE: M1887 - Tropical Parrot
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB21
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102123.png

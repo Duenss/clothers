@@ -1,0 +1,8 @@
+ITEM ID: 211036026
+ICON ID: Icon_avatar_cos_accessory_lightfest22
+NOMBRE: Roaring Knight (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036026.png

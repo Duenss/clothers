@@ -1,0 +1,8 @@
+ITEM ID: 801001234
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Token 9
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801001234.png

@@ -1,0 +1,8 @@
+ITEM ID: 908051008
+ICON ID: Icon_slot_SUV_Sagittarius25
+NOMBRE: Pickup Truck - Starbound Archer
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051008.png

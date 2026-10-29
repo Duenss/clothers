@@ -1,0 +1,8 @@
+ITEM ID: 400051098
+ICON ID: Icon_box_Fire25Event3_51
+NOMBRE: Arena Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB51
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400051098.png

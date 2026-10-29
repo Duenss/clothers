@@ -1,0 +1,8 @@
+ITEM ID: 203049044
+ICON ID: Icon_avatar_cos_top_tung
+NOMBRE: Tung Tung Tung
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203049044.png

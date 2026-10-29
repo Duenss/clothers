@@ -1,0 +1,8 @@
+ITEM ID: 907105335
+ICON ID: Icon_Bluetears_Grenade
+NOMBRE: Grenade - Undersea Mystery
+TIPO: Grenade Skin
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105335.png

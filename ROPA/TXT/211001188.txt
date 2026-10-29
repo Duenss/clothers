@@ -1,0 +1,8 @@
+ITEM ID: 211001188
+ICON ID: Icon_avatar_cos_accessory_thfact_green
+NOMBRE: Dangerous Curse - Moss (Mask)
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001188.png

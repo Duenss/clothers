@@ -1,0 +1,8 @@
+ITEM ID: 400048038
+ICON ID: Icon_box_COMIC24BPS29_48
+NOMBRE: BP S29 Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400048038.png

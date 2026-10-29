@@ -1,0 +1,8 @@
+ITEM ID: 907103732
+ICON ID: Icon_Pan_Emoji
+NOMBRE: Pan - Color Dust
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103732.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001069
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: RU Day Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Token Made in CIS
+IMAGEN: CAJAS/imagenes/801001069.png

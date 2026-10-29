@@ -1,0 +1,8 @@
+ITEM ID: 801000078
+ICON ID: Icon_StoreSender_rabbit
+NOMBRE: Happy Bunny
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Symbol for friendship or truelove
+IMAGEN: CAJAS/imagenes/801000078.png

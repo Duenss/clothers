@@ -1,0 +1,8 @@
+ITEM ID: 801000219
+ICON ID: Icon_exchange_Pro_League_7
+NOMBRE: Pro League Badge 7
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000219.png

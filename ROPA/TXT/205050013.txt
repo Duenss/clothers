@@ -1,0 +1,8 @@
+ITEM ID: 205050013
+ICON ID: Icon_avatar_female_cos_shoe_citypanda
+NOMBRE: Bamboo Popstar (Shoes)
+TIPO: Shoe
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205050013.png

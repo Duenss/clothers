@@ -1,0 +1,8 @@
+ITEM ID: 211054012
+ICON ID: Icon_avatar_female_cos_accessory_ninth
+NOMBRE: Scorching Fracture (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211054012.png

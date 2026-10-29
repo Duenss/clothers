@@ -1,0 +1,8 @@
+ITEM ID: 907103307
+ICON ID: Icon_VSS_Chess
+NOMBRE: VSS - Checkered Knight
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103307.png

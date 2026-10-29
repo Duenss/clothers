@@ -1,0 +1,8 @@
+ITEM ID: 400041532
+ICON ID: Icon_box_Fishtank_1_39
+NOMBRE: BP S4 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041532.png

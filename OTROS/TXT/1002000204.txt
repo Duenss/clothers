@@ -1,0 +1,8 @@
+ITEM ID: 1002000204
+ICON ID: FF_UI_Glooworld_Sys_Module_Alchemy
+NOMBRE: Lavish Gadget
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: After placing a Gloo Wall (with cooldown), obtains in-match currencies or consumables.
+IMAGEN: OTROS/imagenes/1002000204.png

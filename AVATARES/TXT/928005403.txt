@@ -1,0 +1,8 @@
+ITEM ID: 928005403
+ICON ID: Icon_GroupPhoto_Ninth02_icon
+NOMBRE: Anniversary Party
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Anniversary Party
+IMAGEN: AVATARES/imagenes/928005403.png

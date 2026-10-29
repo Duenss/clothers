@@ -1,0 +1,8 @@
+ITEM ID: 904034008
+ICON ID: Icon_Bag_Angel_Br
+NOMBRE: Backpack - Vampire Wings
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904034008.png

@@ -1,0 +1,8 @@
+ITEM ID: 400036149
+ICON ID: Icon_box_3
+NOMBRE: Sterling Futurnetic Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB36
+DESCRIPCION: Contains Sterling Futurnetic and all its pieces
+IMAGEN: ROPA/imagenes/400036149.png

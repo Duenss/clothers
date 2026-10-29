@@ -1,0 +1,8 @@
+ITEM ID: 211001220
+ICON ID: Icon_avatar_cos_hair_silversword_red_g
+NOMBRE: Magma Hexalight (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001220.png

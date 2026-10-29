@@ -1,0 +1,8 @@
+ITEM ID: 246754010
+ICON ID: Icon_SparkPet_Hand_Fireball_Gold
+NOMBRE: Silver Fireball
+TIPO: Pyro Pet
+RAREZA: BLUE (Rare)
+TAG: OB54
+DESCRIPCION: Silver Fireball
+IMAGEN: MASCOTAS/imagenes/246754010.png

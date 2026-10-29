@@ -1,0 +1,8 @@
+ITEM ID: 904039008
+ICON ID: Icon_Bag_Fastbreaking23
+NOMBRE: Backpack - Joyful Travel
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904039008.png

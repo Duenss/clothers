@@ -1,0 +1,8 @@
+ITEM ID: 400028078
+ICON ID: Icon_box_3
+NOMBRE: dtac 5
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: TH Partner
+IMAGEN: ROPA/imagenes/400028078.png

@@ -1,0 +1,8 @@
+ITEM ID: 400028019
+ICON ID: Icon_box_3
+NOMBRE: Gold Trophy Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: Soccer fever 2021
+IMAGEN: ROPA/imagenes/400028019.png

@@ -1,0 +1,8 @@
+ITEM ID: 710035056
+ICON ID: Icon_bundle_Fcninja20_35
+NOMBRE: Jutsu Elemental Badge Bundle (20)
+TIPO: Bundles
+RAREZA: BLUE (Rare)
+TAG: OB35
+DESCRIPCION: Contains Jutsu Elemental Badge x20
+IMAGEN: ROPA/imagenes/710035056.png

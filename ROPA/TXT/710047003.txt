@@ -1,0 +1,8 @@
+ITEM ID: 710047003
+ICON ID: Icon_bundle_male_Express_47
+NOMBRE: Taped Delivery Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710047003.png

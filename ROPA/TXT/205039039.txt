@@ -1,0 +1,8 @@
+ITEM ID: 205039039
+ICON ID: Icon_avatar_cos_shoe_mo_shoes
+NOMBRE: Buckle Oxfords
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205039039.png

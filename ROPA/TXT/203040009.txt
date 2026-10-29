@@ -1,0 +1,8 @@
+ITEM ID: 203040009
+ICON ID: Icon_avatar_male_cos_top_traphiphop22_basic
+NOMBRE: T.R.A.P. Street (Top)
+TIPO: Top
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203040009.png

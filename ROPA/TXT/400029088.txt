@@ -1,0 +1,8 @@
+ITEM ID: 400029088
+ICON ID: Icon_box_3
+NOMBRE: Rainbow Summer Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: Contains Rainbow Summer Bundle and all of its pieces
+IMAGEN: ROPA/imagenes/400029088.png

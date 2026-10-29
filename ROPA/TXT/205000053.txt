@@ -1,0 +1,8 @@
+ITEM ID: 205000053
+ICON ID: Icon_Avatar_female_GSL_Boot
+NOMBRE: GW2018 Shoes (Female)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000053.png

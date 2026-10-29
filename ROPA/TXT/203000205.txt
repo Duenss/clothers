@@ -1,0 +1,8 @@
+ITEM ID: 203000205
+ICON ID: Icon_avatar_tshirt_fatherday_black
+NOMBRE: Dearest Daddy
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000205.png

@@ -1,0 +1,8 @@
+ITEM ID: 211040011
+ICON ID: Icon_avatar_male_cos_accessory_traphiphop22_silver
+NOMBRE: T.R.A.P. Hall (Mask)
+TIPO: Mask
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040011.png

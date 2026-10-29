@@ -1,0 +1,8 @@
+ITEM ID: 204048013
+ICON ID: Icon_avatar_cos_bottom_sleepcoat
+NOMBRE: Sleepyhead (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048013.png

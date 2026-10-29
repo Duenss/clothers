@@ -1,0 +1,8 @@
+ITEM ID: 170041005
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Time-limited Luck Royale Voucher Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170041005.png

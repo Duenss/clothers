@@ -1,0 +1,8 @@
+ITEM ID: 907201713
+ICON ID: Icon_AN94_Bloodmoonmk2
+NOMBRE: AN94 - Blood Devil
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201713.png

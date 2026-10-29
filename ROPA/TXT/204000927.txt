@@ -1,0 +1,8 @@
+ITEM ID: 204000927
+ICON ID: Icon_avatar_cos_bottom_mejersey_13
+NOMBRE: No. 13 White Jersey (Bottom)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000927.png

@@ -1,0 +1,8 @@
+ITEM ID: 211033059
+ICON ID: Icon_avatar_male_cos_accessory_cyberthief
+NOMBRE: Hypercore Blues (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211033059.png

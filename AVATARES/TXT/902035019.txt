@@ -1,0 +1,8 @@
+ITEM ID: 902035019
+ICON ID: Icon_face_FFL_Latam
+NOMBRE: FFL Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902035019.png

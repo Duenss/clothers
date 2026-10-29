@@ -1,0 +1,8 @@
+ITEM ID: 400000261
+ICON ID: Icon_box_3
+NOMBRE: Dynastic Warriors Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random piece from the Red Hot set, Dynastic Warlord set, or a 3D trial card. You will not receive the same permanent item twice.
+IMAGEN: ROPA/imagenes/400000261.png

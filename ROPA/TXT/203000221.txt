@@ -1,0 +1,8 @@
+ITEM ID: 203000221
+ICON ID: Icon_avatar_male_sweater_turtleneck_black
+NOMBRE: Black Turtleneck
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000221.png

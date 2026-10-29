@@ -1,0 +1,8 @@
+ITEM ID: 400041510
+ICON ID: Icon_box_evogun_scar_25
+NOMBRE: Megalodon Alpha (SCAR) Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041510.png

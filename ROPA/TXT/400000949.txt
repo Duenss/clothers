@@ -1,0 +1,8 @@
+ITEM ID: 400000949
+ICON ID: Icon_box_3
+NOMBRE: Rampage Token Box (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive 10 Rampage Tokens
+IMAGEN: ROPA/imagenes/400000949.png

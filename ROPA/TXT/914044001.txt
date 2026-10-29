@@ -1,0 +1,8 @@
+ITEM ID: 914044001
+ICON ID: FF_UI_Transform_icon_Persona_Transform
+NOMBRE: Last Paradox Look Changer
+TIPO: Look Changer
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914044001.png

@@ -1,0 +1,8 @@
+ITEM ID: 902029005
+ICON ID: Icon_face_Scorpion_B
+NOMBRE: Silent Slither
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902029005.png

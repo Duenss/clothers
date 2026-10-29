@@ -1,0 +1,8 @@
+ITEM ID: 801040112
+ICON ID: FF_UI_SixthB_03_StikcerItem12
+NOMBRE: Elimination Leader
+TIPO: Exchange Tokens
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: Chase this glorious goal when you gain enough skills and courage. Ready to face the challenge and become the Elimination Leader?
+IMAGEN: CAJAS/imagenes/801040112.png

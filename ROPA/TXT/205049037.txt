@@ -1,0 +1,8 @@
+ITEM ID: 205049037
+ICON ID: Icon_avatar_cos_shoe_delivery_vngreen
+NOMBRE: Green Delivery (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049037.png

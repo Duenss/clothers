@@ -1,0 +1,8 @@
+ITEM ID: 204036025
+ICON ID: Icon_avatar_male_cos_bottom_festival_tr
+NOMBRE: Floral Fortune (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204036025.png

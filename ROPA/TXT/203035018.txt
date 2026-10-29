@@ -1,0 +1,8 @@
+ITEM ID: 203035018
+ICON ID: Icon_avatar_male_cos_top_gangster_red
+NOMBRE: Sinister Rage (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203035018.png

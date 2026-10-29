@@ -1,0 +1,8 @@
+ITEM ID: 407002707
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Xtreme Adventure Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Xtreme Adventure weapon set
+IMAGEN: OTROS/imagenes/407002707.png

@@ -1,0 +1,8 @@
+ITEM ID: 710041028
+ICON ID: Icon_bundle_female_Potentia_Basic_41
+NOMBRE: Essential Explorer Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: OB41
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710041028.png

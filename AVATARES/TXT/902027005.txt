@@ -1,0 +1,8 @@
+ITEM ID: 902027005
+ICON ID: Icon_face_Crystalslipper_EP_B
+NOMBRE: Princess Afterdark
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902027005.png

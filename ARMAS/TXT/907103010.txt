@@ -1,0 +1,8 @@
+ITEM ID: 907103010
+ICON ID: Icon_M4A1_Clashgold_S9
+NOMBRE: The Golden M4A1
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103010.png

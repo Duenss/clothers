@@ -1,0 +1,8 @@
+ITEM ID: 710037077
+ICON ID: Icon_box_3
+NOMBRE: Popular Pick Gun Skins
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Grab this great deal!
+IMAGEN: ROPA/imagenes/710037077.png

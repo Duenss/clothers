@@ -1,0 +1,8 @@
+ITEM ID: 906000038
+ICON ID: Icon_Avatar_Surfboard_Cny_02
+NOMBRE: Skyboard - Scream of the Golden Fist
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000038.png

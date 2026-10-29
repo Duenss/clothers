@@ -1,0 +1,8 @@
+ITEM ID: 407103504
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Riverdust Splasher (M24 + P90) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive a random gun skin (M24 + P90) from the Riverdust Splasher weapon set
+IMAGEN: ARMAS/imagenes/407103504.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000030
+ICON ID: Icon_avatar_undershirt_diy_009
+NOMBRE: Singlet (Lonely)
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000030.png

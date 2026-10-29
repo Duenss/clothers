@@ -1,0 +1,8 @@
+ITEM ID: 211000223
+ICON ID: Icon_avatar_male_accessory_cos_dragons
+NOMBRE: Dragon Slayer (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000223.png

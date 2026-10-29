@@ -1,0 +1,8 @@
+ITEM ID: 907103212
+ICON ID: Icon_MAC10_Dunhuang
+NOMBRE: MAC10 - Frozen Platinum
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103212.png

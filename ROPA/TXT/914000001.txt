@@ -1,0 +1,8 @@
+ITEM ID: 914000001
+ICON ID: FF_UI_Transform_icon_Default
+NOMBRE: Default - No Look Changer
+TIPO: Look Changer
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/914000001.png

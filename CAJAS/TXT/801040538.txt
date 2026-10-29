@@ -1,0 +1,8 @@
+ITEM ID: 801040538
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Patch Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB40
+DESCRIPCION: Patch! For all the newest additions.
+IMAGEN: CAJAS/imagenes/801040538.png

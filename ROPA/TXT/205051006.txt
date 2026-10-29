@@ -1,0 +1,8 @@
+ITEM ID: 205051006
+ICON ID: Icon_avatar_cos_shoe_dreamland_sweetdream
+NOMBRE: Sweet Dream (Shoes)
+TIPO: Shoe
+RAREZA: RED (Artifact)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205051006.png

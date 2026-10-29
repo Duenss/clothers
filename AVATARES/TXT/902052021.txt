@@ -1,0 +1,8 @@
+ITEM ID: 902052021
+ICON ID: Icon_face_LW26_A
+NOMBRE: LW-Ranked Gold Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902052021.png

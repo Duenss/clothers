@@ -1,0 +1,8 @@
+ITEM ID: 203050033
+ICON ID: Icon_avatar_cos_top_ffws_tshirt
+NOMBRE: FFWS 2025 Fall Champion T-Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203050033.png

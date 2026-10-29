@@ -1,0 +1,8 @@
+ITEM ID: 921052027
+ICON ID: FF_UI_Voiceitem_Trea25
+NOMBRE: Treasure favors the daring
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Lost Treasure Voice Pack
+IMAGEN: MUSICA/imagenes/921052027.png

@@ -1,0 +1,8 @@
+ITEM ID: 710035001
+ICON ID: FF_Icon_sc_SingersPackage
+NOMBRE: J.Biebs' Indigo Special Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB35
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710035001.png

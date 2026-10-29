@@ -1,0 +1,8 @@
+ITEM ID: 801048539
+ICON ID: Icon_exchange_FlashGem_35
+NOMBRE: Limited-time Free Diamond Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048539.png

@@ -1,0 +1,8 @@
+ITEM ID: 801001088
+ICON ID: Icon_exchange_ob29_bluetribe
+NOMBRE: Tribe Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: I fight for my people
+IMAGEN: CAJAS/imagenes/801001088.png

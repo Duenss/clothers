@@ -1,0 +1,8 @@
+ITEM ID: 204000517
+ICON ID: Icon_avatar_male_bottom_cos_pinkfur
+NOMBRE: Sakura Clubber (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000517.png

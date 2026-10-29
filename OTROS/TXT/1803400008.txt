@@ -1,0 +1,8 @@
+ITEM ID: 1803400008
+ICON ID: Icon_HyperBook_Persona
+NOMBRE: Paradox
+TIPO: Hyper Book
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: (sin tag)
+DESCRIPCION: A mystic book with sealed powers in its pages.
+IMAGEN: OTROS/imagenes/1803400008.png

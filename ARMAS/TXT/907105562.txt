@@ -1,0 +1,8 @@
+ITEM ID: 907105562
+ICON ID: Icon_GlooShield_Newbie26
+NOMBRE: Gloo Wall - The Creation
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105562.png

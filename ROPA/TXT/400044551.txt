@@ -1,0 +1,8 @@
+ITEM ID: 400044551
+ICON ID: Icon_box_3
+NOMBRE: Eid Adha 2024 Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: Celebrate Eid with Free Fire!
+IMAGEN: ROPA/imagenes/400044551.png

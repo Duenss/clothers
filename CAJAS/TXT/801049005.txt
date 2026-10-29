@@ -1,0 +1,8 @@
+ITEM ID: 801049005
+ICON ID: Icon_exchange_GoldenTc4_49
+NOMBRE: Loaded Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB49
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801049005.png

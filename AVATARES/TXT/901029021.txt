@@ -1,0 +1,8 @@
+ITEM ID: 901029021
+ICON ID: Icon_callsign_storebg_Rank24_03
+NOMBRE: Season 24 Platinum Banner
+TIPO: Banners
+RAREZA: BLUE (Rare)
+TAG: OB29
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901029021.png

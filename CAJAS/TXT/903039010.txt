@@ -1,0 +1,8 @@
+ITEM ID: 903039010
+ICON ID: Icon_Deadloot_Comic
+NOMBRE: Loot Box - Arcade Machine
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903039010.png

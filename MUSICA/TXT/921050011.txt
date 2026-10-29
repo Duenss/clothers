@@ -1,0 +1,8 @@
+ITEM ID: 921050011
+ICON ID: FF_UI_Voiceitem_Easterrabbit50
+NOMBRE: Just a Bunny Warrior passing by, you know it!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Bunnyverse Voice Pack
+IMAGEN: MUSICA/imagenes/921050011.png

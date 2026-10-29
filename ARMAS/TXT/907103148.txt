@@ -1,0 +1,8 @@
+ITEM ID: 907103148
+ICON ID: Icon_GlooShield_Winterfest21
+NOMBRE: Gloo Wall - Angel with Horns
+TIPO: Gloo Walls
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103148.png

@@ -1,0 +1,8 @@
+ITEM ID: 909054016
+ICON ID: Icon_Emote_Virgo26
+NOMBRE: Spotless
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909054016.png

@@ -1,0 +1,8 @@
+ITEM ID: 912050002
+ICON ID: Icon_GroupAnim_SL
+NOMBRE: Ring Master
+TIPO: Arrival Animation
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Equip to display special effects during team matchmaking, on profile page, and in MVP announcements.
+IMAGEN: EMOTES/imagenes/912050002.png

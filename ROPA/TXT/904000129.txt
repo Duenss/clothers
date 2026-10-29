@@ -1,0 +1,8 @@
+ITEM ID: 904000129
+ICON ID: Icon_Bag_Booyahday
+NOMBRE: Backpack - Booyah Hunter
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904000129.png

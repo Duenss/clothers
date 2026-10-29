@@ -1,0 +1,8 @@
+ITEM ID: 211001075
+ICON ID: Icon_avatar_female_cos_hair_trroyal
+NOMBRE: Imperial Malikah (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001075.png

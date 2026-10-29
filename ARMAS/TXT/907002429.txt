@@ -1,0 +1,8 @@
+ITEM ID: 907002429
+ICON ID: Icon_M249_Impermanence
+NOMBRE: M249 - Endless Oblivion
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002429.png

@@ -1,0 +1,8 @@
+ITEM ID: 906000010
+ICON ID: Icon_Avatar_Surfboard_Wasteland_FP
+NOMBRE: Skyboard - Hazmat
+TIPO: Skyboard
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906000010.png

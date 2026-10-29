@@ -1,0 +1,8 @@
+ITEM ID: 904036007
+ICON ID: Icon_Bag_BDK
+NOMBRE: Backpack - Puppy Buddy
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904036007.png

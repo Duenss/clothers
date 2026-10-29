@@ -1,0 +1,8 @@
+ITEM ID: 770000001
+ICON ID: Icon_box_3
+NOMBRE: Daily Bonus Reward
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: AWM - Tagger's Revolt
+IMAGEN: ROPA/imagenes/770000001.png

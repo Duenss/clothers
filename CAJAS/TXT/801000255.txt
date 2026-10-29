@@ -1,0 +1,8 @@
+ITEM ID: 801000255
+ICON ID: Icon_exchange_FF_Gold_Medal
+NOMBRE: FF Gold Medal
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000255.png

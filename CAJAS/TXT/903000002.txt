@@ -1,0 +1,8 @@
+ITEM ID: 903000002
+ICON ID: Icon_Deadloot_treasure
+NOMBRE: Loot Crate
+TIPO: Loot Box
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903000002.png

@@ -1,0 +1,8 @@
+ITEM ID: 801055503
+ICON ID: Icon_exchange_snipert_vn_55
+NOMBRE: Sniper Rifle Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055503.png

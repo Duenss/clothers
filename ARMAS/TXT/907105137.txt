@@ -1,0 +1,8 @@
+ITEM ID: 907105137
+ICON ID: Icon_Fist_SL
+NOMBRE: Fist - Red Ring
+TIPO: Fist Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105137.png

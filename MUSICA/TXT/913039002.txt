@@ -1,0 +1,8 @@
+ITEM ID: 913039002
+ICON ID: FF_UI_Vault_Music_Scarlet
+NOMBRE: Project Crimson
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Theme song of "Project Crimson" event
+IMAGEN: MUSICA/imagenes/913039002.png

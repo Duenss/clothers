@@ -1,0 +1,8 @@
+ITEM ID: 1300000118
+ICON ID: Icon_Pet_Yeti
+NOMBRE: Yeti
+TIPO: Pets
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Admire my silky fur
+IMAGEN: MASCOTAS/imagenes/1300000118.png

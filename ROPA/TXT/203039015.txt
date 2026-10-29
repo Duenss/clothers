@@ -1,0 +1,8 @@
+ITEM ID: 203039015
+ICON ID: Icon_avatar_cos_top_kwave
+NOMBRE: Pop Host (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203039015.png

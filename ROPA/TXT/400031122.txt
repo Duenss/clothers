@@ -1,0 +1,8 @@
+ITEM ID: 400031122
+ICON ID: Icon_box_3
+NOMBRE: Booyah Box 37
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB31
+DESCRIPCION: Especially for you
+IMAGEN: ROPA/imagenes/400031122.png

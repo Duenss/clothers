@@ -1,0 +1,8 @@
+ITEM ID: 214043002
+ICON ID: Icon_avatar_male_cos_headadditive_fighter_green
+NOMBRE: Bull Incarnate (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214043002.png

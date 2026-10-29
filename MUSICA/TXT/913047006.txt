@@ -1,0 +1,8 @@
+ITEM ID: 913047006
+ICON ID: FF_UI_Vault_Music_ID_GYC
+NOMBRE: GYC 2024 Theme Song
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: Make your school proud!
+IMAGEN: MUSICA/imagenes/913047006.png

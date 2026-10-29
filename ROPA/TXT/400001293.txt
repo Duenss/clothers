@@ -1,0 +1,8 @@
+ITEM ID: 400001293
+ICON ID: Icon_box_3
+NOMBRE: Lv. 3 Chest
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Open to receive the Fire Punch event exclusive rewards!
+IMAGEN: ROPA/imagenes/400001293.png

@@ -1,0 +1,8 @@
+ITEM ID: 913054005
+ICON ID: FF_UI_Vault_Music_TH54
+NOMBRE: ก้าว (9)
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: 9th Anniversary theme song
+IMAGEN: MUSICA/imagenes/913054005.png

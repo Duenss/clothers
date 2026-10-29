@@ -1,0 +1,8 @@
+ITEM ID: 901048013
+ICON ID: Icon_callsign_storebg_Rank44_02
+NOMBRE: BR-Ranked S44 Master Banner
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901048013.png

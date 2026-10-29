@@ -1,0 +1,8 @@
+ITEM ID: 801001335
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Futuristic Patch Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Let's play the latest version
+IMAGEN: CAJAS/imagenes/801001335.png

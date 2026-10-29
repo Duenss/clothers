@@ -1,0 +1,8 @@
+ITEM ID: 407002401
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Evil Pumpkin Weapon Loot Crate
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random gun skin from the Evil Pumpkin weapon set
+IMAGEN: OTROS/imagenes/407002401.png

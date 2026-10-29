@@ -1,0 +1,8 @@
+ITEM ID: 204048010
+ICON ID: Icon_avatar_cos_bottom_rainforest_snake
+NOMBRE: Tropical Fangs (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204048010.png

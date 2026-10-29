@@ -1,0 +1,8 @@
+ITEM ID: 907103022
+ICON ID: Icon_HeatGun_Playingcard
+NOMBRE: PLASMA - Joker
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103022.png

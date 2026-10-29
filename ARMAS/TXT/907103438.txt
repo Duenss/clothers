@@ -1,0 +1,8 @@
+ITEM ID: 907103438
+ICON ID: Icon_Rampage4_Orangeplus_Grenade
+NOMBRE: Grenade - Hybrid Explosion
+TIPO: Grenade Skin
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103438.png

@@ -1,0 +1,8 @@
+ITEM ID: 400001043
+ICON ID: Icon_box_3
+NOMBRE: Plan Bermuda Ultimate Box
+TIPO: Bundle Create
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB01
+DESCRIPCION: Contains all your needs for Plan Bermuda
+IMAGEN: ROPA/imagenes/400001043.png

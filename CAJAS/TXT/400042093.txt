@@ -1,0 +1,8 @@
+ITEM ID: 400042093
+ICON ID: Icon_box_Voltage_ord_42
+NOMBRE: BP S12 Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400042093.png

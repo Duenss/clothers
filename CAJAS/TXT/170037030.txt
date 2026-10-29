@@ -1,0 +1,8 @@
+ITEM ID: 170037030
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Fighter Choice Crate
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: Choose Wisely
+IMAGEN: CAJAS/imagenes/170037030.png

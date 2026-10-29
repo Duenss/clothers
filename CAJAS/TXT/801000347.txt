@@ -1,0 +1,8 @@
+ITEM ID: 801000347
+ICON ID: Icon_exchange_mask_of_f
+NOMBRE: Mask of F
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: The meaning of F are the secret
+IMAGEN: CAJAS/imagenes/801000347.png

@@ -1,0 +1,8 @@
+ITEM ID: 907001409
+ICON ID: Icon_MP5_Samurai
+NOMBRE: MP5 - Red Samurai
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001409.png

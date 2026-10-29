@@ -1,0 +1,8 @@
+ITEM ID: 205000802
+ICON ID: Icon_avatar_male_cos_shoe_jumpsuit2
+NOMBRE: Crimson Criminal (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000802.png

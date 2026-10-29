@@ -1,0 +1,8 @@
+ITEM ID: 921052005
+ICON ID: FF_UI_Voiceitem_IIV_01
+NOMBRE: My new best friend!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Yuji Itadori Voice Pack
+IMAGEN: MUSICA/imagenes/921052005.png

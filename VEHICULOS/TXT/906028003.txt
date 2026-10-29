@@ -1,0 +1,8 @@
+ITEM ID: 906028003
+ICON ID: Icon_Avatar_Surfboard_Foursymbols
+NOMBRE: Skyboard - Volcanic Whirlwind
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906028003.png

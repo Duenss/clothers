@@ -1,0 +1,8 @@
+ITEM ID: 921052016
+ICON ID: FF_UI_Voiceitem_IIV_04
+NOMBRE: You're acting so proud. But I've been holding back.
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB52
+DESCRIPCION: Megumi Fushiguro Voice Pack
+IMAGEN: MUSICA/imagenes/921052016.png

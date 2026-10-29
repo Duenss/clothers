@@ -1,0 +1,8 @@
+ITEM ID: 904049007
+ICON ID: Icon_Bag_Academy_ID
+NOMBRE: Backpack - School Bag
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904049007.png

@@ -1,0 +1,8 @@
+ITEM ID: 211000829
+ICON ID: Icon_avatar_male_hair_cos_megapunch_fight
+NOMBRE: Genos Suit (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000829.png

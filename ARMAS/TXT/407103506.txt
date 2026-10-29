@@ -1,0 +1,8 @@
+ITEM ID: 407103506
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Lava Lustre (Charge Buster + G18) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: Open to receive a random gun skin (Charge Buster + G18) from the Lava Lustre weapon set
+IMAGEN: ARMAS/imagenes/407103506.png

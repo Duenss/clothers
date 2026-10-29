@@ -1,0 +1,8 @@
+ITEM ID: 211000455
+ICON ID: Icon_avatar_male_accessory_cos_park_purple
+NOMBRE: Phantom Bunny (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000455.png

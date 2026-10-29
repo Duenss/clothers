@@ -1,0 +1,8 @@
+ITEM ID: 922043004
+ICON ID: UI_Icon_SkillSkin_Nanoscientist
+NOMBRE: Skill Skin: Nano Lifeshield
+TIPO: Skill Skins
+RAREZA: WHITE (Common)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: PERSONAJES/imagenes/922043004.png

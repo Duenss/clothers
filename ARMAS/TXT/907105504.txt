@@ -1,0 +1,8 @@
+ITEM ID: 907105504
+ICON ID: Icon_M60_Diwali26
+NOMBRE: M60 - Magma Fusion
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105504.png

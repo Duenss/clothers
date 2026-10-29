@@ -1,0 +1,8 @@
+ITEM ID: 400001201
+ICON ID: Icon_box_3
+NOMBRE: 2020 Memories Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: The best of 2020 can be found inside!
+IMAGEN: ROPA/imagenes/400001201.png

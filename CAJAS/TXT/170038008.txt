@@ -1,0 +1,8 @@
+ITEM ID: 170038008
+ICON ID: Icon_OptionalBundle_default
+NOMBRE: Lux Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: You can get what you want
+IMAGEN: CAJAS/imagenes/170038008.png

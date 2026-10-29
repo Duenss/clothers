@@ -1,0 +1,8 @@
+ITEM ID: 921053001
+ICON ID: FF_UI_Voiceitem_Bluetears
+NOMBRE: Move like current, hit like a storm.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: Undersea Mystery Voice Pack
+IMAGEN: MUSICA/imagenes/921053001.png

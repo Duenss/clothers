@@ -1,0 +1,8 @@
+ITEM ID: 904054001
+ICON ID: Icon_Bag_Darkdesires
+NOMBRE: Backpack - Bottomless Appetite
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904054001.png

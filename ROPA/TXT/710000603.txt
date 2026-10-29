@@ -1,0 +1,8 @@
+ITEM ID: 710000603
+ICON ID: Icon_female_thaigirl
+NOMBRE: Phoenix Accession Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710000603.png

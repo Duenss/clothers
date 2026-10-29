@@ -1,0 +1,8 @@
+ITEM ID: 801000838
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: White Flower
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000838.png

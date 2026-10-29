@@ -1,0 +1,8 @@
+ITEM ID: 204051038
+ICON ID: Icon_avatar_cos_bottom_bd_jersey_white
+NOMBRE: BFF Jersey White (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051038.png

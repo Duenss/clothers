@@ -1,0 +1,8 @@
+ITEM ID: 400050545
+ICON ID: Icon_box_GCTC_LOT_50
+NOMBRE: Gilded Corrosion (P90) Token Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050545.png

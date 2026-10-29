@@ -1,0 +1,8 @@
+ITEM ID: 211042021
+ICON ID: Icon_avatar_cos_hair_dinosaursuit
+NOMBRE: Almost Dino (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211042021.png

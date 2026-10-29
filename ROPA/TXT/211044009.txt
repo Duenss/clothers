@@ -1,0 +1,8 @@
+ITEM ID: 211044009
+ICON ID: Icon_avatar_male_cos_hair_persona_purple
+NOMBRE: Dark Paradox (Head)
+TIPO: Head
+RAREZA: RED (Artifact)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044009.png

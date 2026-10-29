@@ -1,0 +1,8 @@
+ITEM ID: 921050022
+ICON ID: FF_UI_Voiceitem_TH50A
+NOMBRE: You wanna fight? Come on, then!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Anime Voice Pack
+IMAGEN: MUSICA/imagenes/921050022.png

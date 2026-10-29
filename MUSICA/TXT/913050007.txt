@@ -1,0 +1,8 @@
+ITEM ID: 913050007
+ICON ID: FF_UI_Vault_Music_IH50
+NOMBRE: Original Lobby: 50 Years of Sholay Ver.
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Sholay theme song
+IMAGEN: MUSICA/imagenes/913050007.png

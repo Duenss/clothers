@@ -1,0 +1,8 @@
+ITEM ID: 908053009
+ICON ID: Icon_slot_Horse_Magical
+NOMBRE: Horse - Racing Sweetheart
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908053009.png

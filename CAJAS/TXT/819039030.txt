@@ -1,0 +1,8 @@
+ITEM ID: 819039030
+ICON ID: UI_Icon_Privilege_Effect
+NOMBRE: Triggered by switching guns
+TIPO: Vouchers
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB39
+DESCRIPCION: Wear the corresponding outfit to trigger this special effect when switching guns.
+IMAGEN: CAJAS/imagenes/819039030.png

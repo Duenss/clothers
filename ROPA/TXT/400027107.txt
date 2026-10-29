@@ -1,0 +1,8 @@
+ITEM ID: 400027107
+ICON ID: Icon_box_3
+NOMBRE: Cobra Sidekick Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Contains Cobra Sidekick and all its pieces
+IMAGEN: ROPA/imagenes/400027107.png

@@ -1,0 +1,8 @@
+ITEM ID: 400048528
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: AUG Beast of Legend Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: Open to receive an AUG Beast of Legend
+IMAGEN: CAJAS/imagenes/400048528.png

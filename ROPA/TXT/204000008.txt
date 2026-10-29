@@ -1,0 +1,8 @@
+ITEM ID: 204000008
+ICON ID: Icon_avatar_pants_4
+NOMBRE: Long Pants (Purple)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000008.png

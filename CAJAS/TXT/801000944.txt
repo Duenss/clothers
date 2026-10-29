@@ -1,0 +1,8 @@
+ITEM ID: 801000944
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: The Falcon Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB27
+DESCRIPCION: Like the eye of a falcon
+IMAGEN: CAJAS/imagenes/801000944.png

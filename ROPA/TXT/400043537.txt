@@ -1,0 +1,8 @@
+ITEM ID: 400043537
+ICON ID: Icon_box_3
+NOMBRE: 2024 Ramadan Kareem Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB43
+DESCRIPCION: Ramadan Kareem everyone!
+IMAGEN: ROPA/imagenes/400043537.png

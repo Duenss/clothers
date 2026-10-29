@@ -1,0 +1,8 @@
+ITEM ID: 905590100
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Ultimate AWM
+TIPO: Titles
+RAREZA: RED (Artifact)
+TAG: (sin tag)
+DESCRIPCION: Received by upgrading the Evo AWM to the max. Lv. 7
+IMAGEN: AVATARES/imagenes/905590100.png

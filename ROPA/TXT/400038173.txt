@@ -1,0 +1,8 @@
+ITEM ID: 400038173
+ICON ID: Icon_box_3
+NOMBRE: Buoy Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400038173.png

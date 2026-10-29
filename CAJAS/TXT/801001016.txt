@@ -1,0 +1,8 @@
+ITEM ID: 801001016
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: Gold Trophy Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB01
+DESCRIPCION: Copa America Finals 2021
+IMAGEN: CAJAS/imagenes/801001016.png

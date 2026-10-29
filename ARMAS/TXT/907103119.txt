@@ -1,0 +1,8 @@
+ITEM ID: 907103119
+ICON ID: Icon_AR15_Bard
+NOMBRE: Kingfisher - Moonlight Ballad
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103119.png

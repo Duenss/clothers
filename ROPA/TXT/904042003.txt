@@ -1,0 +1,8 @@
+ITEM ID: 904042003
+ICON ID: Icon_Bag_Voltage
+NOMBRE: Backpack - Electro Owner
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904042003.png

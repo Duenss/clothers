@@ -1,0 +1,8 @@
+ITEM ID: 902038004
+ICON ID: Icon_face_Cybermech_EP
+NOMBRE: Project Qualia Avatar
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902038004.png

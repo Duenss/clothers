@@ -1,0 +1,8 @@
+ITEM ID: 907102802
+ICON ID: Icon_UMP45_Pursuer
+NOMBRE: UMP - Guns for Hire
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102802.png

@@ -1,0 +1,8 @@
+ITEM ID: 908035007
+ICON ID: Icon_slot_Motobike_Digitaluniverse
+NOMBRE: Motorbike - Crystal Symmetry
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908035007.png

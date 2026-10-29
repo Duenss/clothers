@@ -1,0 +1,8 @@
+ITEM ID: 904055013
+ICON ID: Icon_Bag_Scorpio26_Blue
+NOMBRE: Backpack - Scorpio Sting
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904055013.png

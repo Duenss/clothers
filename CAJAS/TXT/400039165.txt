@@ -1,0 +1,8 @@
+ITEM ID: 400039165
+ICON ID: Icon_box_CHARACTER_39
+NOMBRE: Character Selection Box
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB39
+DESCRIPCION: Choose your favourite character
+IMAGEN: CAJAS/imagenes/400039165.png

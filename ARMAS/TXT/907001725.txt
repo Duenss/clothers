@@ -1,0 +1,8 @@
+ITEM ID: 907001725
+ICON ID: Icon_SVD_MadeManA
+NOMBRE: SVD - Artificial Intelligence
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907001725.png

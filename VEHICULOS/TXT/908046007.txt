@@ -1,0 +1,8 @@
+ITEM ID: 908046007
+ICON ID: Icon_slot_Motobike_Yinyang24
+NOMBRE: Motorbike - Aura of Chaos
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB46
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908046007.png

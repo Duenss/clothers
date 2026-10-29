@@ -1,0 +1,8 @@
+ITEM ID: 925047002
+ICON ID: Icon_BattleCard_Aurora
+NOMBRE: Battle Card - Aurora Lights
+TIPO: Battle Card
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/925047002.png

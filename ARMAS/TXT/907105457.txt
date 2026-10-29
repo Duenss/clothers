@@ -1,0 +1,8 @@
+ITEM ID: 907105457
+ICON ID: Icon_GlooShield_Festival_Music
+NOMBRE: Gloo Wall - Disco Groove
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB54
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105457.png

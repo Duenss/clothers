@@ -1,0 +1,8 @@
+ITEM ID: 801055513
+ICON ID: Icon_exchange_dpt1_us_sac_55
+NOMBRE: Dark Party Token 1
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB55
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801055513.png

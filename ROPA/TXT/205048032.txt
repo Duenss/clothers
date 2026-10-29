@@ -1,0 +1,8 @@
+ITEM ID: 205048032
+ICON ID: Icon_avatar_cos_shoe_slippers_crocodile
+NOMBRE: Alligator Slippers
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048032.png

@@ -1,0 +1,8 @@
+ITEM ID: 907103742
+ICON ID: Icon_GlooShield_Angelik
+NOMBRE: Gloo Wall - Golden Angel
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103742.png

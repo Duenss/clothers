@@ -1,0 +1,8 @@
+ITEM ID: 710027040
+ICON ID: Icon_bundle_Crystal_27
+NOMBRE: Crystal Moony Deluxe Bundle
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: OB27
+DESCRIPCION: Open to receive Moony and the Crystal Moony skin
+IMAGEN: ROPA/imagenes/710027040.png

@@ -1,0 +1,8 @@
+ITEM ID: 205049018
+ICON ID: Icon_avatar_male_cos_shoe_eighth_free
+NOMBRE: Beyond Infinity (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205049018.png

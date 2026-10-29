@@ -1,0 +1,8 @@
+ITEM ID: 902034025
+ICON ID: Icon_face_RhythmGirl_Q
+NOMBRE: A-Patroa Bobblehead
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034025.png

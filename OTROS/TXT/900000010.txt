@@ -1,0 +1,8 @@
+ITEM ID: 900000010
+ICON ID: Icon_slot_Motobike_Default
+NOMBRE: Default Motorbike
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: A 2-seater with very fast speed but low durability
+IMAGEN: OTROS/imagenes/900000010.png

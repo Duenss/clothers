@@ -1,0 +1,8 @@
+ITEM ID: 921052025
+ICON ID: FF_UI_Voiceitem_Carni25
+NOMBRE: Headshot? Mic drop!
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Beat Carnival Voice Pack
+IMAGEN: MUSICA/imagenes/921052025.png

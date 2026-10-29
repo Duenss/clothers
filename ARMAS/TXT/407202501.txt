@@ -1,0 +1,8 @@
+ITEM ID: 407202501
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M1887 One Punch Man Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: BLUE (Rare)
+TAG: OB25
+DESCRIPCION: Open to receive One Punch Man exclusive gun skin!
+IMAGEN: ARMAS/imagenes/407202501.png

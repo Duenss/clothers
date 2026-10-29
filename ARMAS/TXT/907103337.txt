@@ -1,0 +1,8 @@
+ITEM ID: 907103337
+ICON ID: Icon_Sickle_Fastbreaking22
+NOMBRE: Scythe - Emerald Power
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103337.png

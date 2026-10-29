@@ -1,0 +1,8 @@
+ITEM ID: 214043001
+ICON ID: Icon_avatar_female_cos_headadditive_asura
+NOMBRE: Wrathful Dream (Facepaint)
+TIPO: Facepaint
+RAREZA: ORANGE (Mythic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214043001.png

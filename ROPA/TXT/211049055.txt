@@ -1,0 +1,8 @@
+ITEM ID: 211049055
+ICON ID: Icon_avatar_cos_hair_football25_or
+NOMBRE: Timnas Striker Hairstyle
+TIPO: Head
+RAREZA: BLUE (Rare)
+TAG: OB49
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211049055.png

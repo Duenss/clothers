@@ -1,0 +1,8 @@
+ITEM ID: 211044018
+ICON ID: Icon_avatar_male_cos_accessory_crystal
+NOMBRE: Icicle Edge (Mask)
+TIPO: Mask
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211044018.png

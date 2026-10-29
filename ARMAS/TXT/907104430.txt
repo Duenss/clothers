@@ -1,0 +1,8 @@
+ITEM ID: 907104430
+ICON ID: Icon_VSS_Collage
+NOMBRE: VSS - Wound Strokes
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104430.png

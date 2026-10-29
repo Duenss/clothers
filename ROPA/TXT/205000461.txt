@@ -1,0 +1,8 @@
+ITEM ID: 205000461
+ICON ID: Icon_avatar_male_shoe_cos_redpants
+NOMBRE: Trendy Clubber (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000461.png

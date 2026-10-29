@@ -1,0 +1,8 @@
+ITEM ID: 909035001
+ICON ID: Icon_Emote_Digitaluniverse_Move
+NOMBRE: Free Money!
+TIPO: Emote
+RAREZA: ORANGE (Mythic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909035001.png

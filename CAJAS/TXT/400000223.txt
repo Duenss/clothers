@@ -1,0 +1,8 @@
+ITEM ID: 400000223
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: SCAR Cupid Weapon Loot Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a random SCAR skin from the Cupid set.
+IMAGEN: CAJAS/imagenes/400000223.png

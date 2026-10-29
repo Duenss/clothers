@@ -1,0 +1,8 @@
+ITEM ID: 211036060
+ICON ID: Icon_avatar_male_cos_accessory_pkbeard
+NOMBRE: Big Fat Beard
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036060.png

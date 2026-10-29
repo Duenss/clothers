@@ -1,0 +1,8 @@
+ITEM ID: 707002409
+ICON ID: Icon_box_3
+NOMBRE: UMP - Booyah Day (permanent)
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Sound of the world collapsing as you pull the trigger
+IMAGEN: ROPA/imagenes/707002409.png

@@ -1,0 +1,8 @@
+ITEM ID: 906048006
+ICON ID: Icon_Avatar_Surfboard_Waterfest25
+NOMBRE: Skyboard - Sea Surfer
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906048006.png

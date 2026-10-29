@@ -1,0 +1,8 @@
+ITEM ID: 400050099
+ICON ID: Icon_box_WkEvent2_50
+NOMBRE: Night Crate
+TIPO: Loot Crates
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050099.png

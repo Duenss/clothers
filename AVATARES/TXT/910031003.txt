@@ -1,0 +1,8 @@
+ITEM ID: 910031003
+ICON ID: FF_UI_Pin_Veteran
+NOMBRE: Veteran's Pin
+TIPO: Profile Pin
+RAREZA: PURPLE (Epic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/910031003.png

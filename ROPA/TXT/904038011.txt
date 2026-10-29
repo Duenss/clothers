@@ -1,0 +1,8 @@
+ITEM ID: 904038011
+ICON ID: Icon_Bag_Kitchen
+NOMBRE: Backpack - Sandwich
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904038011.png

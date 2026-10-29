@@ -1,0 +1,8 @@
+ITEM ID: 211051024
+ICON ID: Icon_avatar_male_cos_hair_stylish
+NOMBRE: Fashion Monster (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051024.png

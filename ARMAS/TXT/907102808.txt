@@ -1,0 +1,8 @@
+ITEM ID: 907102808
+ICON ID: Icon_M60_Foursymbols_C
+NOMBRE: M60 - Volcanic Whirlwind
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102808.png

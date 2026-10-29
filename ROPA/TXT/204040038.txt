@@ -1,0 +1,8 @@
+ITEM ID: 204040038
+ICON ID: Icon_avatar_cos_bottom_shuttlecock_yellow
+NOMBRE: Sunny Sky Shorts
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204040038.png

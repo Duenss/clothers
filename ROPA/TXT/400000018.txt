@@ -1,0 +1,8 @@
+ITEM ID: 400000018
+ICON ID: Icon_box_3
+NOMBRE: Easy Life Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to claim rewards
+IMAGEN: ROPA/imagenes/400000018.png

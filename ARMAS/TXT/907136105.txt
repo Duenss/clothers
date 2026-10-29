@@ -1,0 +1,8 @@
+ITEM ID: 907136105
+ICON ID: Icon_GlooShield_Shiba_G
+NOMBRE: Gloo Wall - Winter Shiba
+TIPO: Gloo Walls
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136105.png

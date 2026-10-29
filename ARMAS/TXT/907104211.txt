@@ -1,0 +1,8 @@
+ITEM ID: 907104211
+ICON ID: Icon_GlooShield_Cybergrenade
+NOMBRE: Gloo Wall - Cyber Tank
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104211.png

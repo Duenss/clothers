@@ -1,0 +1,8 @@
+ITEM ID: 905053003
+ICON ID: Icon_Avatar_PARACHUTE_SH_Dog
+NOMBRE: Parachute - Sadaharu
+TIPO: Parachute
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905053003.png

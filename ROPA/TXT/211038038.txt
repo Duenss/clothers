@@ -1,0 +1,8 @@
+ITEM ID: 211038038
+ICON ID: Icon_avatar_male_cos_accessory_colorfest23_beard
+NOMBRE: Joyous Trim
+TIPO: Mask
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038038.png

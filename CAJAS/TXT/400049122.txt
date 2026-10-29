@@ -1,0 +1,8 @@
+ITEM ID: 400049122
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: M60 Attack-o'-the-Wisp Loot Crate
+TIPO: Loot Crates
+RAREZA: PURPLE (Epic)
+TAG: OB49
+DESCRIPCION: Open to receive a M60 Attack-o'-the-Wisp
+IMAGEN: CAJAS/imagenes/400049122.png

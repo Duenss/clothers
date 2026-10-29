@@ -1,0 +1,8 @@
+ITEM ID: 203048038
+ICON ID: Icon_avatar_cos_top_hippocrisis
+NOMBRE: Shadow Ops Shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048038.png

@@ -1,0 +1,8 @@
+ITEM ID: 400000987
+ICON ID: Icon_box_3
+NOMBRE: Mother's Day Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: ROPA/imagenes/400000987.png

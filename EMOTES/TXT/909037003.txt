@@ -1,0 +1,8 @@
+ITEM ID: 909037003
+ICON ID: Icon_Emote_FFWS_Meteorites
+NOMBRE: Dance of Constellation
+TIPO: Emote
+RAREZA: RED (Artifact)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909037003.png

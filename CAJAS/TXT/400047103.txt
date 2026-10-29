@@ -1,0 +1,8 @@
+ITEM ID: 400047103
+ICON ID: Icon_box_Nbx3_47
+NOMBRE: Shuriken Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB47
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400047103.png

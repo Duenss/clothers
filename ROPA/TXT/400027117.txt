@@ -1,0 +1,8 @@
+ITEM ID: 400027117
+ICON ID: Icon_box_3
+NOMBRE: Carnation Flower Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: Carnations represent admiration
+IMAGEN: ROPA/imagenes/400027117.png

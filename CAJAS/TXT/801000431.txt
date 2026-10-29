@@ -1,0 +1,8 @@
+ITEM ID: 801000431
+ICON ID: Icon_exchange_ob21_drum
+NOMBRE: Drum Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB21
+DESCRIPCION: The most perfect of drums
+IMAGEN: CAJAS/imagenes/801000431.png

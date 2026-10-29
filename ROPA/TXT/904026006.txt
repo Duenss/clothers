@@ -1,0 +1,8 @@
+ITEM ID: 904026006
+ICON ID: Icon_Bag_Volcano
+NOMBRE: Backpack - The Dark Knight
+TIPO: Bag Skins
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904026006.png

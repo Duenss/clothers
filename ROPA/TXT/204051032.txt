@@ -1,0 +1,8 @@
+ITEM ID: 204051032
+ICON ID: Icon_avatar_male_cos_bottom_th_kol25_purple
+NOMBRE: HEARTROCKER Uniform (Bottom)
+TIPO: Bottom
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204051032.png

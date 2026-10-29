@@ -1,0 +1,8 @@
+ITEM ID: 802000022
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: Ryu Ticket
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Street Fighter themed Royale
+IMAGEN: OTROS/imagenes/802000022.png

@@ -1,0 +1,8 @@
+ITEM ID: 700000326
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Special Airdrop
+TIPO: Bundles
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive the Spirit Fox and Pet Skin: Red Fox.
+IMAGEN: ROPA/imagenes/700000326.png

@@ -1,0 +1,390 @@
+﻿ITEM_ID	ICON_ID	NOMBRE	TIPO	RAREZA	TAG	IMAGEN	DESCRIPCION
+246753001	Icon_SparkPet_Head_SharkHat	Shark Hat	Pyro Pet	PURPLE (Epic)	OB53	MASCOTAS/imagenes/246753001.png	Shark Hat
+246753002	Icon_SparkPet_Head_Crown	Crown	Pyro Pet	BLUE (Rare)	OB53	MASCOTAS/imagenes/246753002.png	Crown
+246753003	Icon_SparkPet_Hand_Balloon	Balloon	Pyro Pet	BLUE (Rare)	OB53	MASCOTAS/imagenes/246753003.png	Balloon
+246753004	Icon_SparkPet_Hand_Fireball	Fireball	Pyro Pet	BLUE (Rare)	OB53	MASCOTAS/imagenes/246753004.png	Fireball
+246753005	Icon_SparkPet_Face_Goggles	Diving Goggles	Pyro Pet	BLUE (Rare)	OB53	MASCOTAS/imagenes/246753005.png	Diving Goggles
+246753006	Icon_SparkPet_Face_LoveGlasses	Heart Glasses	Pyro Pet	BLUE (Rare)	OB53	MASCOTAS/imagenes/246753006.png	Heart Glasses
+246753007	Icon_SparkPet_Back_SkateBoard	Skateboard	Pyro Pet	BLUE (Rare)	OB53	MASCOTAS/imagenes/246753007.png	Skateboard
+246753008	Icon_SparkPet_Back_Wings	Wings	Pyro Pet	ORANGE (Mythic)	OB53	MASCOTAS/imagenes/246753008.png	Wings
+246754001	Icon_SparkPet_Head_SharkHat_Pink	Pink Shark Hat	Pyro Pet	PURPLE (Epic)	OB54	MASCOTAS/imagenes/246754001.png	Pink Shark Hat
+246754002	Icon_SparkPet_Head_Crown_Gold	Golden Crown	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754002.png	Golden Crown
+246754003	Icon_SparkPet_Hand_Balloon_Yellow	Yellow & Green Balloons	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754003.png	Yellow & Green Balloons
+246754004	Icon_SparkPet_Hand_Balloon_Red	Red & Purple Balloons	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754004.png	Red & Purple Balloons
+246754005	Icon_SparkPet_Hand_Balloon_Pink	Pink & Blue Balloon	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754005.png	Pink & Blue Balloon
+246754006	Icon_SparkPet_Hand_Balloon_Silver_matcap	Golden & Silver Balloons	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754006.png	Golden & Silver Balloons
+246754007	Icon_SparkPet_Hand_Fireball_Blue	Blue Fireball	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754007.png	Blue Fireball
+246754008	Icon_SparkPet_Hand_Fireball_Red	Red Fireball	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754008.png	Red Fireball
+246754009	Icon_SparkPet_Hand_Fireball_Purple	Purple Fireball	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754009.png	Purple Fireball
+246754010	Icon_SparkPet_Hand_Fireball_Gold	Silver Fireball	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754010.png	Silver Fireball
+246754011	Icon_SparkPet_Face_Goggles_matcap_Yellow	Yellow Goggle	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754011.png	Yellow Goggle
+246754012	Icon_SparkPet_Face_Goggles_matcap_Pink	Pink Goggle	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754012.png	Pink Goggle
+246754013	Icon_SparkPet_Face_Goggles_matcap_White	White Diving Goggles	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754013.png	White Diving Goggles
+246754014	Icon_SparkPet_Face_Goggles_matcap_Black	Black Goggle	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754014.png	Black Goggle
+246754015	Icon_SparkPet_Face_LoveGlasses_Blue	Blue Heart Glasses	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754015.png	Blue Heart Glasses
+246754016	Icon_SparkPet_Face_LoveGlasses_Red	Red Heart Glasses	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754016.png	Red Heart Glasses
+246754017	Icon_SparkPet_Face_LoveGlasses_Black	Black Heart Glasses	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754017.png	Black Heart Glasses
+246754018	Icon_SparkPet_Face_LoveGlasses_Yellow	Golden Heart Glasses	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754018.png	Golden Heart Glasses
+246754019	Icon_SparkPet_Back_Wings_Yellow	Golden Wings	Pyro Pet	ORANGE (Mythic)	OB54	MASCOTAS/imagenes/246754019.png	Golden Wings
+246754020	Icon_SparkPet_Back_SkateBoard_Pink	Pink Skateboard	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754020.png	Pink Skateboard
+246754021	Icon_SparkPet_Back_SkateBoard_Black	Black Skateboard	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754021.png	Black Skateboard
+246754022	Icon_SparkPet_Back_SkateBoard_Orange	Orange Skateboard	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754022.png	Orange Skateboard
+246754023	Icon_SparkPet_Back_SkateBoard_Blue	Blue Skateboard	Pyro Pet	BLUE (Rare)	OB54	MASCOTAS/imagenes/246754023.png	Blue Skateboard
+246954004	Icon_SparkPet_Color_pink	Pink	Pyro Pet	PURPLE (Epic)	OB54	MASCOTAS/imagenes/246954004.png	Pink
+246954007	Icon_SparkPet_Color_LakeBlue	Cyan	Pyro Pet	PURPLE (Epic)	OB54	MASCOTAS/imagenes/246954007.png	Cyan
+246955008	Icon_SparkPet_Color_PistachioGreen	Pistachio Green	Pyro Pet	PURPLE (Epic)	OB55	MASCOTAS/imagenes/246955008.png	Pistachio Green
+246955011	Pet_Spark3_Face_PixelGlass_Rainbow	Colorful Pixel Glasses	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955011.png	Colorful Pixel Glasses
+246955012	Pet_Spark3_Face_EmojiGlass_Purple	Purple Goggles	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955012.png	Purple Goggles
+246955013	Pet_Spark3_Face_EmojiGlass_Yellow	Yellow Cute Goggles	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955013.png	Yellow Cute Goggles
+246955014	Pet_Spark3_Face_EmojiGlass_Pink	Pink Heart Goggles	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955014.png	Pink Heart Goggles
+246955015	Pet_Spark3_Head_ElephantHat_Green	Green Elephant Hat	Pyro Pet	PURPLE (Epic)	OB55	MASCOTAS/imagenes/246955015.png	Green Elephant Hat
+246955016	Pet_Spark3_Head_ElephantHat_Blue	Blue Elephant Hat	Pyro Pet	PURPLE (Epic)	OB55	MASCOTAS/imagenes/246955016.png	Blue Elephant Hat
+246955017	Pet_Spark3_Head_CatHat_Red	Red Cat Hat	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955017.png	Red Cat Hat
+246955018	Pet_Spark3_Head_CatHat_Blue	Blue Cat Hat	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955018.png	Blue Cat Hat
+246955019	Pet_Spark3_Head_CatHat_Beige	Beige Cat Hat	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955019.png	Beige Cat Hat
+246955020	Pet_Spark3_Back_ScaryBunny	Spooky Rabbit Backpack	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955020.png	Spooky Rabbit Backpack
+246955021	Pet_Spark3_Back_Pumpkin	Pumpkin	Pyro Pet	PURPLE (Epic)	OB55	MASCOTAS/imagenes/246955021.png	Pumpkin
+246955022	Pet_Spark3_Hand_Corn	Corn	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955022.png	Corn
+246955023	Pet_Spark3_Hand_Baguette	Baguette	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955023.png	Baguette
+246955024	Pet_Spark3_Face_PixelGlass	Monochrome Pixel Glasses	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955024.png	Monochrome Pixel Glasses
+246955025	Pet_Spark3_Face_EmojiGlass_Blue	Blue Smiley Goggles	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955025.png	Blue Smiley Goggles
+246955026	Pet_Spark3_Head_ElephantHat_Red	Red Elephant Hat	Pyro Pet	PURPLE (Epic)	OB55	MASCOTAS/imagenes/246955026.png	Red Elephant Hat
+246955027	Pet_Spark3_Head_CatHat_Black	Black Cat Hat	Pyro Pet	BLUE (Rare)	OB55	MASCOTAS/imagenes/246955027.png	Black Cat Hat
+1300000001	Icon_Pet_Cat	Kitty	Pets	PURPLE (Epic)		MASCOTAS/imagenes/1300000001.png	I am Kitty, a cute kitty.
+1300000011	Icon_Pet_Dog	Mechanical Pup	Pets	PURPLE (Epic)		MASCOTAS/imagenes/1300000011.png	Man's best friend mixed with modern technology.
+1300000021	Icon_Pet_Panther	Night Panther	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000021.png	The end is near... (Pet Skill: Increase inventory space)
+1300000031	Icon_Pet_Panda	Detective Panda	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000031.png	I will protect the world! (Skill: Panda's Blessings)
+1300000041	Icon_Pet_Shiba	Shiba	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000041.png	BAM! Shiba is here! Prepare yourselves!
+1300000051	Icon_Pet_Fox	Spirit Fox	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000051.png	A fox that traveled from somewhere far away. Also known as man's second best friend.
+1300000061	Icon_Pet_Robot	Robo	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000061.png	Once a helpful house robot, Robo ended up on this island after wandering astray.
+1300000071	Icon_Pet_Poring	Poring	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000071.png	A big fan of apples, and follows anyone with the fruit. Careful not to lose your pet this way.
+1300000081	Icon_Pet_Otter	Ottero	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000081.png	Sleeps with its headphones on, a musically talented otter
+1300000091	Icon_Pet_Hawk	Falco	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000091.png	When it spreads its wings and soars, sky and land merges at the horizon.
+1300000101	Icon_Pet_Penguin	Mr. Waggor	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000101.png	Once a guinea pig in the lab, Mr. Waggor was brought home as a pet due to his cuteness. That led to his great escape and subsequent wandering life.
+1300000111	Icon_Pet_Raccoon	Rockie	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000111.png	After dying its hair green, Rockie learnt that the color has already gone out of fashion.
+1300000112	Icon_Pet_Baboon	Beaston	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000112.png	Don't judge by his looks. He has a soft heart.
+1300000113	Icon_Pet_Dragon	Dreki	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000113.png	Nothing is known of his past, or of why he's here. Perhaps he has come to answer to a calling
+1300000114	Icon_Pet_Alien	Moony	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000114.png	Although not from this world, he loves everything about us!
+1300000115	Icon_Pet_Duck	Dr. Beanie	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000115.png	He insists on everyone calling him Dr. He is not one though.
+1300000116	Icon_Pet_Tiger_Ninja	Sensei Tig	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000116.png	Tig is my name, and slick is my game.
+1300000117	Icon_Pet_Rabbit	Agent Hop	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000117.png	A scar on the left eye, a past never to be forgotten.
+1300000118	Icon_Pet_Yeti	Yeti	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000118.png	Admire my silky fur
+1300000119	Icon_Pet_Tortoise	Flash	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000119.png	I got my name from a famous race
+1300000120	Icon_Pet_Axolotl	Zasil	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000120.png	I heard that you think I'm adorable
+1300000121	Icon_Pet_Surfshark	Finn	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000121.png	Dare to challenge me for a swim?
+1300000122	Icon_Pet_Owl	Hoot	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000122.png	I'm not just an owl, I am a hoot!
+1300000123	Icon_Pet_Wolf	Fang	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000123.png	Loyalty is virtue
+1300000124	Icon_Pet_Flyingcreature	Arvon	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000124.png	To me, every win is an easy win
+1300000125	Icon_Pet_Cactus	Kactus	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000125.png	Mostly we grow.
+1300000126	Icon_Pet_Pug	Pug	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000126.png	Looking slick in a suit, Pug is aiming straight for your heart!
+1300000127	Icon_Pet_DA	Agumon	Pets	ORANGE (Mythic)		MASCOTAS/imagenes/1300000127.png	Agumon is Taichi's partner and a Reptile Digimon.
+1309000001	FF_UI_Pet_ActionIcon_Casual	Casual	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000001.png	Default move. Can be used in the command wheel.
+1309000002	FF_UI_Pet_ActionIcon_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000002.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000003	FF_UI_Pet_ActionIcon_Scare	Scared	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000003.png	Action that trigger when the pet is scared. For example, when entering a red zone.
+1309000004	FF_UI_Pet_ActionIcon_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000004.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000005	FF_UI_Pet_ActionIcon_Showoff	Butterfly	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000005.png	Advanced action. Can be used in the command wheel.
+1309000006	FF_UI_Pet_ActionIcon_Dance	Dance	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000006.png	Follow my hands, left, right, left, right, slow down, repeat!
+1309000011	FF_UI_Pet_Dog_Casual	Casual	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000011.png	Default move. Can be used in the command wheel.
+1309000012	FF_UI_Pet_Dog_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000012.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000013	FF_UI_Pet_Dog_Scare	Scared	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000013.png	Action that trigger when the pet is scared. For example, when entering a red zone.
+1309000014	FF_UI_Pet_Dog_Show	Play	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000014.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000015	FF_UI_Pet_Dog_Show2	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000015.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000016	FF_UI_Pet_Dog_Showoff	Fly	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000016.png	Advanced action. Can be used in the command wheel.
+1309000021	FF_UI_Pet_Panther_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000021.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000022	FF_UI_Pet_Panther_Show2	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000022.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000023	FF_UI_Pet_Panther_Show1	Transform	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000023.png	Advanced action. Can be used in the command wheel.
+1309000024	FF_UI_Pet_Panther_Showoff	Roar	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000024.png	Advanced action. Can be used in the command wheel.
+1309000031	FF_UI_Pet_Panda_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000031.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000032	FF_UI_Pet_Panda_Show1	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000032.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000033	FF_UI_Pet_Panda_Show2	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000033.png	Advanced action. Can be used in the command wheel.
+1309000034	FF_UI_Pet_Panda_Showoff	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000034.png	Advanced action. Can be used in the command wheel.
+1309000041	FF_UI_Pet_Shiba_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000041.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000042	FF_UI_Pet_Shiba_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000042.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000043	FF_UI_Pet_Shiba_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000043.png	Advanced action. Can be used in the command wheel.
+1309000044	FF_UI_Pet_Shiba_Showoff	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000044.png	Advanced action. Can be used in the command wheel.
+1309000051	FF_UI_Pet_Fox_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000051.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000052	FF_UI_Pet_Fox_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000052.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000053	FF_UI_Pet_Fox_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000053.png	Advanced action. Can be used in the command wheel.
+1309000054	FF_UI_Pet_Fox_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000054.png	Advanced action. Can be used in the command wheel.
+1309000061	FF_UI_Pet_Robot_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000061.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000062	FF_UI_Pet_Robot_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000062.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000063	FF_UI_Pet_Robot_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000063.png	Advanced action. Can be used in the command wheel.
+1309000064	FF_UI_Pet_Robot_Showoff	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000064.png	Advanced action. Can be used in the command wheel.
+1309000065	FF_UI_Pet_Robot_Showoff02	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000065.png	Advanced action. Can be used in the command wheel.
+1309000071	FF_UI_Pet_Boring_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000071.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000072	FF_UI_Pet_Boring_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000072.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000073	FF_UI_Pet_Boring_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000073.png	Advanced action. Can be used in the command wheel.
+1309000074	FF_UI_Pet_Boring_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000074.png	Advanced action. Can be used in the command wheel.
+1309000081	Pet_Otter_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000081.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000082	Pet_Otter_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000082.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000083	Pet_Otter_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000083.png	Advanced action. Can be used in the command wheel.
+1309000084	Pet_Otter_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000084.png	Advanced action. Can be used in the command wheel.
+1309000085	Pet_Otter_Showoff02	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000085.png	Advanced action. Can be used in the command wheel.
+1309000091	Pet_Hawk_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000091.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000092	Pet_Hawk_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000092.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000093	Pet_Hawk_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000093.png	Advanced action. Can be used in the command wheel.
+1309000094	Pet_Hawk_Showoff	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000094.png	Advanced action. Can be used in the command wheel.
+1309000101	Pet_Penguin_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000101.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000102	Pet_Penguin_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000102.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000103	Pet_Penguin_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000103.png	Advanced action. Can be used in the command wheel.
+1309000104	Pet_Penguin_Showoff	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000104.png	Advanced action. Can be used in the command wheel.
+1309000105	Pet_Penguin_Showoff02	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000105.png	Advanced action. Can be used in the command wheel.
+1309000111	Pet_Raccoon_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000111.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000112	Pet_Raccoon_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000112.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000113	Pet_Raccoon_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000113.png	Advanced action. Can be used in the command wheel.
+1309000114	Pet_Raccoon_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000114.png	Advanced action. Can be used in the command wheel.
+1309000115	Pet_Raccoon_Showoff02	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000115.png	Advanced action. Can be used in the command wheel.
+1309000121	Pet_Baboon_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000121.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000122	Pet_Baboon_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000122.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000123	Pet_Baboon_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000123.png	Advanced action. Can be used in the command wheel.
+1309000124	Pet_Baboon_Showoff	Show off	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000124.png	Advanced action. Can be used in the command wheel.
+1309000125	Pet_Baboon_Showoff02	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000125.png	Advanced action. Can be used in the command wheel.
+1309000131	Pet_Dragon_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000131.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000132	Pet_Dragon_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000132.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000133	Pet_Dragon_Show02	Show	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000133.png	Advanced action. Can be used in the command wheel.
+1309000134	Pet_Dragon_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000134.png	Advanced action. Can be used in the command wheel.
+1309000135	Pet_Dragon_Showoff02	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000135.png	Advanced action. Can be used in the command wheel.
+1309000141	FF_UI_Pet_Alien_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000141.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000142	FF_UI_Pet_Alien_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000142.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000143	FF_UI_Pet_Alien_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000143.png	Advanced action. Can be used in the command wheel.
+1309000151	FF_UI_Pet_Duck_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000151.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000152	FF_UI_Pet_Duck_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000152.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000153	FF_UI_Pet_Duck_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000153.png	Advanced action. Can be used in the command wheel.
+1309000161	Pet_Tiger_Ninja_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000161.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000162	Pet_Tiger_Ninja_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000162.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000163	Pet_Tiger_Ninja_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000163.png	Advanced action. Can be used in the command wheel.
+1309000171	FF_UI_Pet_Rabbit_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000171.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000172	FF_UI_Pet_Rabbit_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000172.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000173	FF_UI_Pet_Rabbit_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000173.png	Advanced action. Can be used in the command wheel.
+1309000181	FF_UI_Pet_Yeti_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000181.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000182	FF_UI_Pet_Yeti_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000182.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000183	FF_UI_Pet_Yeti_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000183.png	Advanced action. Can be used in the command wheel.
+1309000191	FF_UI_Pet_Tortoise_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000191.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000192	FF_UI_Pet_Tortoise_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000192.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000193	FF_UI_Pet_Tortoise_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000193.png	Advanced action. Can be used in the command wheel.
+1309000201	FF_UI_Pet_Axolotl_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000201.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000202	FF_UI_Pet_Axolotl_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000202.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000203	FF_UI_Pet_Axolotl_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000203.png	Advanced action. Can be used in the command wheel.
+1309000211	FF_UI_Pet_Surfshark_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000211.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000212	FF_UI_Pet_Surfshark_Show	Play	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000212.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000213	FF_UI_Pet_Surfshark_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000213.png	Advanced action. Can be used in the command wheel.
+1309000221	FF_UI_Pet_Owl_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000221.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000222	FF_UI_Pet_Owl_Show	Play	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000222.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000223	FF_UI_Pet_Owl_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000223.png	Advanced action. Can be used in the command wheel.
+1309000231	Pet_Wolf_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000231.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000232	Pet_Wolf_Show	Play	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000232.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000233	Pet_Wolf_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000233.png	Advanced action. Can be used in the command wheel.
+1309000241	Pet_Flyingcreature_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000241.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000242	Pet_Flyingcreature_Show	Play	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000242.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000243	Pet_Flyingcreature_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000243.png	Advanced action. Can be used in the command wheel.
+1309000251	Pet_Cactus_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000251.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000252	Pet_Cactus_Show	Play	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000252.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000253	Pet_Cactus_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000253.png	Advanced action. Can be used in the command wheel.
+1309000261	Pet_Pug_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000261.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000262	Pet_Pug_Show	Play	Pet Emote	PURPLE (Epic)		MASCOTAS/imagenes/1309000262.png	Action that can be unlocked when pet levels up. Can be used in the command wheel.
+1309000263	Pet_Pug_Showoff	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000263.png	Advanced action. Can be used in the command wheel.
+1309000271	Pet_DA_Agumon_Cheer	Celebrate	Pet Emote	BLUE (Rare)		MASCOTAS/imagenes/1309000271.png	Action that triggers when the pet is happy, such as when defeating an enemy or using a Med Kit.
+1309000272	Pet_DA_Agumon_Celebrate	Show off	Pet Emote	ORANGE (Mythic)		MASCOTAS/imagenes/1309000272.png	Advanced action. Can be used in the command wheel.
+1310000001	Icon_Pet_Cat	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000001.png	Pet's default skin
+1310000002	Icon_Pet_Ocelot_Cat	Pet Skin: Detective Kitty	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000002.png	Detective Meow can find all the treasures hidden on the map.
+1310000003	Icon_Pet_Tiger_Cat	Pet Skin: Detective Cheetah	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000003.png	Where is my food! Give me my food!
+1310000004	Icon_Pet_Night_Cat	Pet Skin: Night Kitty	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000004.png	Shining starts in the endless nights.
+1310000005	Icon_Pet_Anniversary_Cat	Pet Skin: Meow Princess	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000005.png	I came from the other side of the world. It took me a while to get here!
+1310000006	Icon_Pet_Jumpsuit_Cat	Pet Skin: Kitty Heist	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000006.png	In 2020, 3 robbers broke into a bank. Eye witnesses described one outlaw as having a moustache
+1310000011	Icon_Pet_Dog	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000011.png	Pet's default skin
+1310000012	Icon_Pet_Lightning_Dog	Pet Skin: Lightning Pup	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000012.png	Fast as lightning.
+1310000013	Icon_Pet_Irondog_Dog	Pet Skin: Full Steel Pup	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000013.png	Body made out of iron, blood made out of flames.
+1310000014	Icon_Pet_Magnetic_Dog	Pet Skin: Magnetic Pup	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000014.png	Confidence is key.
+1310000015	Icon_Pet_FFWS2021_Dog	Pet Skin: FFWS 2021 Pup	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000015.png	A shiny body armor, ready for the next challenge
+1310000016	Icon_Pet_Jumpsuit25_Shiba	Pet Skin: Golden Shiba	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000016.png	
+1310000021	Icon_Pet_Panther	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000021.png	Pet's default skin
+1310000022	Icon_Pet_Captain_Panther	Pet Skin: Captain	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000022.png	Be the leader. Show them your power!
+1310000023	Icon_Pet_Purple_Panther	Pet Skin: Domination	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000023.png	You can do anything you want under my control.
+1310000024	Icon_Pet_Golden_Panther	Pet Skin: Golden Leopard	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000024.png	We're all heroes.
+1310000025	Icon_Pet_Spirit_Panther	Pet Skin: Spirit	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000025.png	Look into my eyes and stare into my soul.
+1310000026	Icon_Pet_Spine_Panther	Pet Skin: Lightning Bolt	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000026.png	A product of continuous evolution
+1310000027	Icon_Pet_Panther_Winterfest2020	Pet Skin: Snow Panther	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000027.png	A rare panther that only comes out during the winter
+1310000031	Icon_Pet_Panda	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000031.png	Pet's default skin
+1310000032	Icon_Pet_brown_Panda	Pet Skin: Wild Panda	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000032.png	I will complete the mission!
+1310000033	Icon_Pet_Skeleton_Panda	Pet Skin: Skull Panda	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000033.png	Remember me. I am coming for you!
+1310000034	Icon_Pet_thor_Panda	Pet Skin: Lightning Panda	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000034.png	Feel the lightning strike!
+1310000035	Icon_Pet_Winterfestival_Panda	Pet Skin: Polar Panda	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000035.png	It brings with it the chill of winter, but warmth to your heart.
+1310000036	Icon_Pet_Traprap_Panda	Pet Skin: Hiphop Panda	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000036.png	Rapping Panda is the best Panda, you feel me?
+1310000037	Icon_Pet_Jumpsuit_Panda	Pet Skin: Panda Heist	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000037.png	Panda is looking for a big payday!
+1310000038	Icon_Pet_Booyahday_Panda	Pet Skin: Booyah Panda	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000038.png	Booyah! Nobody can stand in our path!
+1310000039	Icon_Pet_FFWS2021_Panda	Pet Skin: FFWS 2021 Panda	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000039.png	On the edge of fashion, ready for the next challenge
+1310000041	Icon_Pet_Shiba	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000041.png	Pet's default skin
+1310000042	Icon_Pet_Earthdragon_Shiba	Pet Skin: Golden Tale	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000042.png	No matter what happens, I will be the king at the end!
+1310000043	Icon_Pet_Greendragon_Shiba	Pet Skin: Lucky Green	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000043.png	The green is the best camouflage.
+1310000044	Icon_Pet_Electricdragon_Shiba	Pet Skin: Deep Blue	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000044.png	I can fly through the ocean and the stars.
+1310000045	Icon_Pet_Shiba_Halloween	Pet Skin: Lava Pumpkin	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000045.png	A Shiba that ate too many pumpkins. Time to exercise.
+1310000046	Icon_Pet_Traprap_Shiba	Pet Skin: Hiphop Shiba	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000046.png	Look at my splits
+1310000047	Icon_Pet_Summer_Shiba	Pet Skin: Sunshine Shiba	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000047.png	Everyone is getting ready for the summer, even Shiba!
+1310000048	Icon_Pet_Sutorito	Pet Skin: Street Fighter Shiba	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000048.png	Shiba looks ready for a fight!
+1310000051	Icon_Pet_Fox	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000051.png	Pet's default skin
+1310000052	Icon_Pet_Pinkfox	Pet Skin: Red Fox	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000052.png	Is it dye? Or blood?
+1310000053	Icon_Pet_Bluefox	Pet Skin: Blue Fox	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000053.png	People tried to gather his fur, but nobody succeeded so far.
+1310000054	Icon_Pet_Blackfox	Pet Skin: Battle Fox	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000054.png	A combination between beauty and technology.
+1310000055	Icon_Pet_Valentinefox	Pet Skin: Valentine's Fox	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000055.png	You'll never miss someone if you are alone to begin with
+1310000056	Icon_Pet_PlagueFox	Pet Skin: Apocalypse Fox	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000056.png	Some say this fox is bad omen, but all those who take care of it are rewarded
+1310000057	Icon_Pet_Aurorafox	Pet Skin: Aurora Fox	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000057.png	
+1310000061	Icon_Pet_Robot	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000061.png	Pet's default skin
+1310000062	Icon_Pet_Robot_Pharaoh	Pet Skin: Pharaoh's Robo	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000062.png	The favourite pet of the ancient ruler, robots never die.
+1310000063	Icon_Pet_Robot_Winterfestival	Pet Skin: Snowy Robo	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000063.png	A missed step, a fall, and Robo was at the bottom of the snow hill looking like this.
+1310000064	Icon_Pet_Robot_Spring	Pet Skin: Spring Festival Robo	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000064.png	Festivity is in the air, and Robo feels it despite being far from home.
+1310000065	Icon_Pet_Deathrobot	Pet Skin: Master of Death	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000065.png	Watch its peaceful eyes as you go into eternal slumber
+1310000066	Icon_Pet_Deathrobot	Pet Skin: Master of Death	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000066.png	Watch its peaceful eyes as you go into eternal slumber
+1310000067	Icon_Pet_Robot_TRnazar	Pet Skin: Nazar Robo	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000067.png	Protection by your side!
+1310000068	Icon_Pet_Robot_VNdrink	Pet Skin: Green Freeze Robo	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000068.png	One more bottle please!
+1310000071	Icon_Pet_Poring	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000071.png	Pet's default skin
+1310000072	Icon_Pet_Poring_Pop	Pet Skin: Poporing	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000072.png	From the jungle, this is the evolution form of the common Poring
+1310000073	Icon_Pet_Poring_Chieftain	Skullring	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000073.png	A powerful ally and a faithful friend
+1310000074	Icon_Pet_Poring_Angle	Angeling	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000074.png	A rare breed, extremely popular amongst girls.
+1310000081	Icon_Pet_Otter	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000081.png	Pet's default skin
+1310000082	Icon_Pet_Greyotter	Pet Skin: Radioactive Ottero	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000082.png	Roams in the most dangerous areas on Earth
+1310000083	Icon_Pet_Pinkotter	Pet Skin: Sakura Ottero	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000083.png	Gentle and adorable, the hallmarks of an otter
+1310000084	Icon_Pet_Purpleotter	Pet Skin: Neon Ottero	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000084.png	Check out its flashy dance moves
+1310000085	Icon_Pet_Jumpsuit	Pet Skin: Ottero Heist	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000085.png	Ottero's ready for the greatest heist!
+1310000086	Icon_Pet_Otter_Winterfest21	Pet Skin: Snow Ottero	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000086.png	His tummy is always full of fish during this time of year
+1310000091	Icon_Pet_Hawk	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000091.png	Pet's default skin
+1310000092	Icon_Pet_Naturehawk	Pet Skin: Evergreen Falco	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000092.png	A symbol of vitality and life
+1310000093	Icon_Pet_Firehawk	Pet Skin: Hellfire Falco	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000093.png	Reborn, and come back stronger!
+1310000094	Icon_Pet_Frosthawk	Pet Skin: Snowfall Falco	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000094.png	This bird is said to change seasons with a flap of its wings
+1310000095	Icon_Pet_Mocomonth_Hawk	Pet Skin: Cyber Falco	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000095.png	You'll be glad to have him guarding your back.
+1310000096	Icon_Pet_Hoodedkiller	Pet skin: Senu (Falco)	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000096.png	Undying predator
+1310000097	Icon_Pet_Fastbreaking22	Pet skin: Blooming Falco	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000097.png	Let us soar in the night sky
+1310000098	Icon_Pet_CATeam_Hawk	Pet Skin: Agui Blue	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000098.png	You are destined for victory
+1310000099	Icon_Pet_Hawk_BDK	Pet skin: Lightning Falco	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000099.png	A legend from the sky. (Booyah Day 2022 co-created content with Mark AP)
+1310000100	Icon_Pet_Inkpaintinghawk	Pet Skin: Inked Falco	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000100.png	
+1310000101	Icon_Pet_Penguin	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000101.png	Pet's default skin
+1310000102	Icon_Pet_Anniversary	Pet Skin: Party Waggor	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000102.png	Always having a party outfit by his side, this penguin is ready to hit the floor!
+1310000103	Icon_Pet_Golden	Pet Skin: Gold Waggor	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000103.png	Lush, wealthy, noble. Words aren't enough to describe him
+1310000104	Icon_Pet_Cyber	Pet Skin: Cyber Waggor	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000104.png	A look full of personality, but half a decade into the future, this will be quite ordinary
+1310000105	Icon_Pet_Valentine2021	Pet Skin: Waggor in Love	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000105.png	Look who's left single now
+1310000106	Icon_Pet_Evilrhythm	Pet Skin: Punk Waggor	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000106.png	I used to be a law-abiding penguin.
+1310000107	Icon_Pet_Winterfest21	Pet Skin: Waggor On Ice	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000107.png	Look out for this guy! He will try everything to get hold of your presents!
+1310000108	Icon_Pet_Boyband	Pet Skin: Tricky Jolly	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000108.png	Have you ever met a penguin in army green?
+1310000111	Icon_Pet_Raccoon	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000111.png	Pet's default skin
+1310000112	Icon_Pet_Raccoon_Bright	Pet Skin: Skeleton Rockie	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000112.png	You can see its bones yet it's a little chubby
+1310000113	Icon_Pet_Raccoon_Undead	Pet Skin: Undead Rockie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000113.png	The one who overdresses for costume parties
+1310000114	Icon_Pet_Raccoon_Mech	Pet Skin: Party Rockie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000114.png	Rockie is rocking the party!
+1310000115	Icon_Pet_Raccoon_MO	Pet Skin: Trendy Rockie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000115.png	A rock star in the making
+1310000116	Icon_Pet_Raccoon_Slime	Pet Skin: Jelly Rockie	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000116.png	
+1310000121	Icon_Pet_Baboon	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000121.png	Pet's default skin
+1310000122	Icon_Pet_Pure	Pet Skin: Great White Beaston	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000122.png	Look at him shine under the sun!
+1310000123	Icon_Pet_Hell	Pet Skin: Blazing Beaston	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000123.png	His hair seems to be on fire yet not burning
+1310000124	Icon_Pet_Frozen	Pet Skin: Glacier Beaston	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000124.png	Within that stone cold exterior is a soft warm heart
+1310000125	Icon_Pet_Sugarskull21	Pet Skin: Skull Beaston	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000125.png	That is one intimidating baboon!
+1310000131	Icon_Pet_Dragon	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000131.png	Pet's default skin
+1310000132	Icon_Pet_Dragon_Evil	Pet Skin: Splashy Dreki	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000132.png	He may be less intimidating, but he is definitely the cutest
+1310000133	Icon_Pet_Dragon_Purple	Pet Skin: Galaxy Dreki	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000133.png	Elegant yet mysterious, get him while you still can!
+1310000134	Icon_Pet_Dragon_Golden	Pet Skin: Zapping Dreki	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000134.png	Immensely powerful lightning surrounds him, leaving a void behind
+1310000135	Icon_Pet_Dragon_Foursymbols	Pet Skin: Mythos Dreki	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000135.png	Hope I can be strong like Stormbringer some day.
+1310000136	Icon_Pet_Dragon_Supercar	Pet Skin: Racer Dreki	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000136.png	Speed is my name.
+1310000141	Icon_Pet_Alien	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000141.png	Pet's default skin
+1310000142	Icon_Pet_Alien_Hipster	Pet Skin: Hipster Moony	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000142.png	Sometimes you wonder if he misses home.
+1310000143	Icon_Pet_Alien_Crystal	Pet Skin: Crystal Moony	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000143.png	Shiny like a star, one from which he was born.
+1310000144	Icon_Pet_Alien_Gamer	Pet Skin: Gamer Moony	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000144.png	A game lover, perhaps that's the reason he visits our planet.
+1310000145	Icon_Pet_Alien_Digitaluniverse	Pet Skin: Spaceship Moony	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000145.png	Exclusive pet skin for FF 5th Anniversary
+1310000146	Icon_Pet_Alien_Tightguy	Pet Skin: "Spider-Verse" Moony	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000146.png	
+1310000151	Icon_Pet_Duck	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000151.png	Pet's default skin
+1310000152	Icon_Pet_Duck_Army	Pet Skin: Sgt. Beanie	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000152.png	Watch me I'm matching!
+1310000153	Icon_Pet_Duck_Shiny	Pet Skin: DJ Beanie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000153.png	Watch my moves!
+1310000154	Icon_Pet_Duck_Black	Pet Skin: Gangster Beanie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000154.png	I's from the street!
+1310000155	Icon_Pet_Duck_Reggaeton	Pet Skin: Prismatic Force Beanie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000155.png	Let me quack a song for you
+1310000156	Icon_Pet_Duck_Red	Pet skin: Red Beanie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000156.png	I live in the pool!
+1310000157	Icon_Pet_Duck_FFWS03	Pet skin: FFWS Beanie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000157.png	I'm a legend in e-sports, despite my size
+1310000158	Icon_Pet_Duck_Winterfest22	Pet Skin: Glamstar Beanie	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000158.png	Brrr...!
+1310000159	Icon_Pet_Duck_Sleepcoat	Pet Skin: Pajama Dr. Beanie	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000159.png	
+1310000160	Icon_Pet_Duck_Aprilfool26	Pet Skin: Quackman Dr. Beanie	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000160.png	
+1310000161	Icon_Pet_Tiger_Ninja	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000161.png	Pet's default skin
+1310000162	Icon_Pet_Brown_Tiger	Pet Skin: Earth Sensei Tig	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000162.png	Roaming the world alone, an essential part of his training.
+1310000163	Icon_Pet_White_Tiger	Pet Skin: Ice Sensei Tig	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000163.png	The coldest of climates, an essential part of his training.
+1310000164	Icon_Pet_Fire_Tiger	Pet Skin: Fire Sensei Tig	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000164.png	The hottest of climates, an essential part of his training.
+1310000165	Icon_Pet_Tiger_BIS	Pet Skin: Digital Tig	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000165.png	Battle in style
+1310000166	Icon_Pet_Tiger_Bdfest	Pet Skin: Royal Tig	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000166.png	
+1310000167	Icon_Pet_Wrestling_Tiger	Pet Skin: Boxer Tig	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000167.png	
+1310000171	Icon_Pet_Rabbit	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000171.png	Pet's default skin
+1310000172	Icon_Pet_Rabbit_Bullseye	Pet Skin: Bullseye Agent Hop	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000172.png	Once she sets her sight on you, there is no escape.
+1310000173	Icon_Pet_Rabbit_Clown	Pet Skin: Carnival Agent Hop	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000173.png	You need to chill and have fun!
+1310000174	Icon_Pet_Rabbit_Urban	Pet Skin: Cyber Agent Hop	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000174.png	High tech gears - checked.
+1310000175	Icon_Pet_Rabbit_Winterfest23	Pet Skin: Icy Hop	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000175.png	
+1310000181	Icon_Pet_Yeti	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000181.png	Pet's default skin
+1310000182	Icon_Pet_Yeti_Red	Pet Skin: Fiery Yeti	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000182.png	A traditional costume of these snow monsters, they prefer fire, apparently.
+1310000183	Icon_Pet_Yeti_Green	Pet Skin: Tribal Yeti	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000183.png	When you see glowing green dots in the snow, you know you've found their tribe.
+1310000184	Icon_Pet_Yeti_Reggaeton	Pet Skin: Prismatic Flow Yeti	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000184.png	He can move to any beats despite his body shape.
+1310000185	Icon_Pet_Yeti_Newyear22	Pet Skin: Winterlands Yeti	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000185.png	Brrr...!
+1310000186	Icon_Pet_Yeti_Dreamland	Pet Skin: Yeti of the Void	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000186.png	
+1310000191	Icon_Pet_Tortoise	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000191.png	Pet's default skin
+1310000192	Icon_Pet_Tortoise_Green	Pet Skin: Gamer Flash	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000192.png	Not a frog, not a frog, not a frog.
+1310000193	Icon_Pet_Tortoise_Red	Pet Skin: Festive Flash	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000193.png	Time to look flashy!
+1310000194	Icon_Pet_Tortoise_Blue	Pet Skin: Cyber Flash	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000194.png	All ready for my inter-galatic supersonic speed travel
+1310000195	Icon_Pet_Tortoise_Soccer22	Pet Skin: Footie Flash	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000195.png	Watch me dash across the pitch!
+1310000201	Icon_Pet_Axolotl	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000201.png	Pet's default skin
+1310000202	Icon_Pet_Axolotl_Grey	Pet Skin: Fruity Zasil	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000202.png	Juicy watermelon means summer is around the corner!
+1310000203	Icon_Pet_Axolotl_Pink	Pet Skin: Rose Masked Zasil	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000203.png	I can wrestle in a pet battle!
+1310000204	Icon_Pet_Axolotl_Yellow	Pet Skin: Amber Masked Zasil	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000204.png	I can wrestle in a pet battle!
+1310000205	Icon_Pet_CATeam_Axolotl	Pet Skin: Azulcrema Trace Zasil	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000205.png	A popular star on the football pitch
+1310000206	Icon_Pet_Axolotl_Griza	Pet skin: Purple Zasil	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000206.png	I am dreamyyyy
+1310000207	Icon_Pet_Axolotl_Waterfest24	Pet Skin: Meow Meow Zasil	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000207.png	
+1310000208	Icon_Pet_Axolotl_Festival_Music	Pet Skin: Groovy Zasil	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000208.png	
+1310000211	Icon_Pet_Surfshark	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000211.png	Pet's default skin
+1310000212	Icon_Pet_Surfshark_Sea	Pet Skin: Deep Ocean Finn	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000212.png	Ruler of the deep dark sea
+1310000213	Icon_Pet_Surfshark_Energy	Pet Skin: Angry Surfer Finn	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000213.png	Catch fire in the waters!
+1310000214	Icon_Pet_Surfshark_Storm	Pet Skin: Thunderstorm Finn	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000214.png	When the clouds turn dark... be careful
+1310000221	Icon_Pet_Owl	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000221.png	Pet's default skin
+1310000222	Icon_Pet_Owl_Storm	Pet Skin: Frosty Hoot	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000222.png	I am born from the storms
+1310000223	Icon_Pet_Owl_Fire	Pet Skin: Hoot On Fire	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000223.png	I rise from the flames
+1310000224	Icon_Pet_Owl_Night	Pet Skin: Nocturnal Hoot	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000224.png	The stars are my eyes
+1310000231	Icon_Pet_Wolf	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000231.png	Pet's default skin
+1310000232	Icon_Pet_Wolf_Winter	Pet Skin: Arctic Fang	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000232.png	Blends into the blizzard
+1310000233	Icon_Pet_Wolf_Fire	Pet skin: Lava Fang	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000233.png	A wildfire survivor
+1310000234	Icon_Pet_Wolf_Sugarskull22	Pet skin: Spectral Guide	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000234.png	A hunter's enemy
+1310000235	Icon_Pet_Wolf_Scarlet	Pet Skin: Scorpio Fang	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000235.png	Ferocious!
+1310000236	Icon_Pet_Wolf_Bloodmoon26	Pet Skin: Scarlet Fang	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000236.png	
+1310000237	Icon_Pet_Wolf_Overrun	Pet Skin: Beasty Fang	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000237.png	
+1310000241	Icon_Pet_Flyingcreature	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000241.png	Pet's default skin
+1310000242	Icon_Pet_Flyingcreature_Blue	Pet Skin: Ash Arvon	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000242.png	I look pale but I'm full of energy!
+1310000243	Icon_Pet_Flyingcreature_Purple	Pet skin: Firemyth Arvon	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000243.png	I am who they feared in the ancient times
+1310000244	Icon_Pet_Flyingcreature_Orange	Pet skin: Galaxy Arvon	Pet Skin	ORANGE_PLUS (Mythic++)		MASCOTAS/imagenes/1310000244.png	Let me bring you luck
+1310000245	Icon_Pet_Flyingcreature_ES	Pet Skin: Party Arvon	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000245.png	To me, gaming is partying!
+1310000246	Icon_Pet_Flyingcreature_Fb23	Pet skin: Green Imp Arvon	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000246.png	
+1310000247	Icon_Pet_Flyingcreature_ME	Pet Skin: Electric Arvon	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000247.png	
+1310000251	Icon_Pet_Cactus	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000251.png	Pet's default skin
+1310000252	Icon_Pet_Cactus_Black	Pet Skin: Ghost Kactus	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000252.png	Ghastly and prickly
+1310000253	Icon_Pet_Cactus_Yellow	Pet Skin: Palm Dream Kactus	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000253.png	Sunshine and mango juice!
+1310000254	Icon_Pet_Cactus_Pink	Pet Skin: Neon Kactus	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000254.png	A glowing, vibrant cactus
+1310000255	Icon_Pet_Cactus_Fishtank	Pet Skin: Aqua Kactus	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000255.png	
+1310000256	Icon_Pet_Cactus_Sugarskull23	Pet Skin: Recollective Kactus	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000256.png	
+1310000257	Icon_Pet_Cactus_Fastbreaking_Treasure	Pet Skin: Pirate Kactus	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000257.png	
+1310000261	Icon_Pet_Pug	Pet Skin: Default	Pet Skin	GREEN (Uncommon)		MASCOTAS/imagenes/1310000261.png	Pet's default skin
+1310000262	Icon_Pet_Pug_Orange	Pet Skin: Tigerstripe Pug	Pet Skin	BLUE (Rare)		MASCOTAS/imagenes/1310000262.png	
+1310000263	Icon_Pet_Pug_Green	Pet Skin: Aloha Pug	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000263.png	
+1310000264	Icon_Pet_Pug_Black	Pet Skin: Laser Eyes Pug	Pet Skin	PURPLE (Epic)		MASCOTAS/imagenes/1310000264.png	
+1310000265	Icon_Pet_Pug_Traphiphop22	Pet Skin: City Pug	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000265.png	
+1310000271	Icon_Pet_DA	Agumon	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000271.png	Agumon is Taichi's partner and a Reptile Digimon.
+1310000310	Icon_Pet_Musicfest_Panda	Pet Skin: Party Panda	Pet Skin	ORANGE (Mythic)		MASCOTAS/imagenes/1310000310.png	A frequent party goer, this Panda is the envy amongst his mates.
+1315000001	FF_UI_Pet_Skill_01	Weight Training	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000001.png	Every time the panther does a weight training, the owner can get more inventory space in-game
+1315000002	FF_UI_Pet_KillPlusHP_Skill	Panda's Blessings	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000002.png	The Panda has all kinds of surprises!
+1315000003	FF_UI_Pet_Mushroom_Skill	Mushroom Sense	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000003.png	Shiba will find the surrounding mushrooms and mark them on the minimap.
+1315000004	FF_UI_Pet_Healing_Skill	Well Fed	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000004.png	Restore extra HP when using a Med Kit
+1315000005	FF_UI_Pet_Shield_Skill	Wall Enforcement	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000005.png	Adds a shield to the gloo wall.
+1315000006	FF_UI_Pet_Poring_Skill	Stitch and Patch	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000006.png	Poring can protect armors from damage while constantly restores their durabilities
+1315000007	FF_UI_Pet_Otter_Skill	Double Blubber	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000007.png	When using Heal Pistol or Med Kit, the receiver will recover some EP as well
+1315000008	FF_UI_Pet_Eagle_Skill	Skyline Spree	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000008.png	Disables enemy auto-aim while the owner is parachuting.
+1315000009	FF_UI_Pet_Penguin_Skill	Smooth Gloo	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000009.png	Produces a Gloo Wall when the owner seems to be needing one
+1315000010	FF_UI_Pet_Raccoon_Skill	Stay Chill	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000010.png	Reduce cooldown time of active skills for its owner
+1315000011	FF_UI_Pet_Baboon_Skill	Helping Hand	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000011.png	With Beaston by your side, you gained greater strength in your throws!
+1315000012	FF_UI_Pet_Dragon_Skill	Dragon Glare	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000012.png	Opponents recovering behind a wall will be exposed
+1315000013	FF_UI_Pet_Alien_Skill	Paranormal Protection	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000013.png	Protection during interaction countdown
+1315000014	FF_UI_Pet_Duck_Skill	Dashy Duckwalk	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000014.png	Move quicker when you walk like Dr. Beanie.
+1315000015	FF_UI_Pet_Tiger_Skill	Nimble Ninja	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000015.png	Reduces the duration of enemies' man-marking skills
+1315000016	FF_UI_Pet_Rabbit_Skill	Bouncing Bonus	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000016.png	Gains EP every time the Safe Zone shrinks
+1315000017	FF_UI_Pet_Yeti_Skill	Frost Fortress	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000017.png	Reduces damage taken from explosives
+1315000018	FF_UI_Pet_Turtle_Skill	Steel Shell	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000018.png	Reduces damage (from FF Knife and bullets) taken from behind
+1315000019	FF_UI_Pet_Axolotl_Skill	Extra Luck	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000019.png	Every time owner consumes an Inhaler/Med Kit/Repair Kit, there's a possibility of getting an additional one
+1315000020	FF_UI_Pet_Surfshark_Skill	Dash Splash	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000020.png	When a nearby player is knocked down or eliminated, owner and teammates will receive a movement speed boost
+1315000021	FF_UI_Pet_Owl_Skill	Far-sighted	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000021.png	Increases the range and duration of scanning items and skills. No skill cooldown.
+1315000022	FF_UI_Pet_Wolf_Skill	Wolf Pact	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000022.png	Receive EP/HP whenever a teammate is knocked down by an enemy
+1315000023	FF_UI_Pet_Flyingcreature_Skill	Dinoculars	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000023.png	Detect the number of enemies in an area, no matter what position they are in.
+1315000024	FF_UI_Pet_Cactus_Skill	Self-Sufficient	Pet Skill	PURPLE (Epic)		MASCOTAS/imagenes/1315000024.png	Restore EP after staying still for some time.

@@ -1,0 +1,8 @@
+ITEM ID: 204044006
+ICON ID: Icon_avatar_cos_bottom_festivalme_24
+NOMBRE: Blade of the Silence (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204044006.png

@@ -1,0 +1,8 @@
+ITEM ID: 203048012
+ICON ID: Icon_avatar_cos_top_rainforest_free
+NOMBRE: Tropical Misfits (Top)
+TIPO: Top
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203048012.png

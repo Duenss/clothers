@@ -1,0 +1,8 @@
+ITEM ID: 921054005
+ICON ID: FF_UI_Voiceitem_Bloodmoon26Female
+NOMBRE: Focus! My voice will guide you.
+TIPO: Voice Packs
+RAREZA: PURPLE (Epic)
+TAG: OB54
+DESCRIPCION: The Scarlet Whisperer voice pack
+IMAGEN: MUSICA/imagenes/921054005.png

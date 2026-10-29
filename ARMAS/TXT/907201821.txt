@@ -1,0 +1,8 @@
+ITEM ID: 907201821
+ICON ID: Icon_M60_BJD
+NOMBRE: M60 - Crimson Red
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907201821.png

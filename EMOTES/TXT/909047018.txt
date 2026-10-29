@@ -1,0 +1,8 @@
+ITEM ID: 909047018
+ICON ID: Icon_Emote_NB_Run
+NOMBRE: Ninja Run
+TIPO: Emote
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909047018.png

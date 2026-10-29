@@ -1,0 +1,8 @@
+ITEM ID: 907103850
+ICON ID: Icon_GlooShield_Firedragon
+NOMBRE: Gloo Wall - Immortal Ignition
+TIPO: Gloo Walls
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103850.png

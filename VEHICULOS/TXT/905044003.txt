@@ -1,0 +1,8 @@
+ITEM ID: 905044003
+ICON ID: Icon_Avatar_PARACHUTE_Jeans
+NOMBRE: Parachute - Jean Mechalution
+TIPO: Parachute
+RAREZA: PURPLE (Epic)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/905044003.png

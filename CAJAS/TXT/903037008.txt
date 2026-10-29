@@ -1,0 +1,8 @@
+ITEM ID: 903037008
+ICON ID: Icon_Deadloot_Emoji
+NOMBRE: Loot Box - Ticking Bomb
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB37
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903037008.png

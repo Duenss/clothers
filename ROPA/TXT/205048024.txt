@@ -1,0 +1,8 @@
+ITEM ID: 205048024
+ICON ID: Icon_avatar_male_cos_shoe_fastbreaking_dune
+NOMBRE: Caped Shimmer (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205048024.png

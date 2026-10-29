@@ -1,0 +1,8 @@
+ITEM ID: 710037081
+ICON ID: Icon_box_3
+NOMBRE: Emote Pass
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB37
+DESCRIPCION: Get 4 popular emotes that can be used for 7 days
+IMAGEN: ROPA/imagenes/710037081.png

@@ -1,0 +1,8 @@
+ITEM ID: 400026085
+ICON ID: Icon_box_3
+NOMBRE: FAMAS Black Widow Weapon Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: Contains FAMAS Black Widow Weapon series
+IMAGEN: ROPA/imagenes/400026085.png

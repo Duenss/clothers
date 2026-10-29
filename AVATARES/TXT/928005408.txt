@@ -1,0 +1,8 @@
+ITEM ID: 928005408
+ICON ID: Icon_GroupPhoto_FB2_03_icon
+NOMBRE: Nagi Theme
+TIPO: Photo Pose
+RAREZA: PURPLE (Epic)
+TAG: OB05
+DESCRIPCION: Nagi Theme
+IMAGEN: AVATARES/imagenes/928005408.png

@@ -1,0 +1,8 @@
+ITEM ID: 904490053
+ICON ID: FF_Icon_Title_CommonIcon
+NOMBRE: Creative Mind
+TIPO: Titles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Received by attaining the first stage of the "Craftsmanship" achievement
+IMAGEN: AVATARES/imagenes/904490053.png

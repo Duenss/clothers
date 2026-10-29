@@ -1,0 +1,8 @@
+ITEM ID: 211038041
+ICON ID: Icon_avatar_cos_hair_goal
+NOMBRE: Achiever Clip
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB38
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211038041.png

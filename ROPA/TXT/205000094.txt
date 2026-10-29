@@ -1,0 +1,8 @@
+ITEM ID: 205000094
+ICON ID: Icon_avatar_male_shoe_cos_baseball_yellow
+NOMBRE: Cool Captain (Shoes)
+TIPO: Shoe
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000094.png

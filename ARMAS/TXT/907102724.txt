@@ -1,0 +1,8 @@
+ITEM ID: 907102724
+ICON ID: Icon_BM94_Falconer
+NOMBRE: M82B - The Falconer
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102724.png

@@ -1,0 +1,8 @@
+ITEM ID: 102000009
+ICON ID: Icon_face_male_head_sc_BrazilSoldier
+NOMBRE: Miguel
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Miguel is the commander of a section in the special forces.
+IMAGEN: PERSONAJES/imagenes/102000009.png

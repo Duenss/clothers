@@ -1,0 +1,8 @@
+ITEM ID: 801040113
+ICON ID: Icon_exchange_Metropolis_Cash_41
+NOMBRE: Cash
+TIPO: Exchange Tokens
+RAREZA: PURPLE (Epic)
+TAG: OB40
+DESCRIPCION: Obtainable from Outlaw mode, Cash can be used in the Cash Store or to buy in-match items.
+IMAGEN: CAJAS/imagenes/801040113.png

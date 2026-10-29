@@ -1,0 +1,8 @@
+ITEM ID: 907000040
+ICON ID: Icon_AK47_Mercenary_T1
+NOMBRE: The Flaming Dragon
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907000040.png

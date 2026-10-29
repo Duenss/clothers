@@ -1,0 +1,8 @@
+ITEM ID: 907002503
+ICON ID: Icon_Baseballbat_Soulbusters
+NOMBRE: Bat - Ghost Basher
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907002503.png

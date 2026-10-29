@@ -1,0 +1,8 @@
+ITEM ID: 801001166
+ICON ID: Icon_exchange_ob30_bluetribe
+NOMBRE: Kingfisher - Sunscale Serpent Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Can be used to exchange for the Kingfisher Sunscale Serpent gun skin
+IMAGEN: CAJAS/imagenes/801001166.png

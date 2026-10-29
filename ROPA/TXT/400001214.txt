@@ -1,0 +1,8 @@
+ITEM ID: 400001214
+ICON ID: Icon_box_3
+NOMBRE: Gloo Wall Box
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: Go get your Gloo Wall
+IMAGEN: ROPA/imagenes/400001214.png

@@ -1,0 +1,8 @@
+ITEM ID: 904055007
+ICON ID: Icon_Bag_Blackdress26
+NOMBRE: Backpack - Cosmic Cloak
+TIPO: Bag Skins
+RAREZA: RED (Artifact)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904055007.png

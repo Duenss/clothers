@@ -1,0 +1,8 @@
+ITEM ID: 710000309
+ICON ID: FF_Icon_Agent_deluxe
+NOMBRE: Laura's Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive Laura and her special outfit.
+IMAGEN: ROPA/imagenes/710000309.png

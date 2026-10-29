@@ -1,0 +1,8 @@
+ITEM ID: 700000275
+ICON ID: Icon_IAPBundle_common
+NOMBRE: Level 40 Special Airdrop
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Open to receive exclusive supplies
+IMAGEN: ROPA/imagenes/700000275.png

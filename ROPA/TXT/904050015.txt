@@ -1,0 +1,8 @@
+ITEM ID: 904050015
+ICON ID: Icon_Bag_Bull25
+NOMBRE: Backpack - Red Bull Energy
+TIPO: Bag Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904050015.png

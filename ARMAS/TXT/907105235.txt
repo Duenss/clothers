@@ -1,0 +1,8 @@
+ITEM ID: 907105235
+ICON ID: Icon_Sickle_CSRank36
+NOMBRE: Scythe - S36 Exclusive: Emoji
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: CS-Ranked Reward
+IMAGEN: ARMAS/imagenes/907105235.png

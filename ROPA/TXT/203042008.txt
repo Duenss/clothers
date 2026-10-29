@@ -1,0 +1,8 @@
+ITEM ID: 203042008
+ICON ID: Icon_avatar_male_cos_top_theboy_blue
+NOMBRE: Frostfire Polar (Top)
+TIPO: Top
+RAREZA: RED (Artifact)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203042008.png

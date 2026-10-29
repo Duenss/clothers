@@ -1,0 +1,8 @@
+ITEM ID: 400000095
+ICON ID: Icon_box_3
+NOMBRE: Bloody Mary Skin Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Open to receive a 3D, 7D, or permanent Bloody Mary Skin.
+IMAGEN: ROPA/imagenes/400000095.png

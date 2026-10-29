@@ -1,0 +1,8 @@
+ITEM ID: 901000092
+ICON ID: Icon_callsign_storebg_christmas_santa
+NOMBRE: The Deer and the Bell
+TIPO: Banners
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/901000092.png

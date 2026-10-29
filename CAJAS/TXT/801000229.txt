@@ -1,0 +1,8 @@
+ITEM ID: 801000229
+ICON ID: Icon_exchange_Silver_Costume
+NOMBRE: Silver Costume Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000229.png

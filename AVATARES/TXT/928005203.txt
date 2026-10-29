@@ -1,0 +1,8 @@
+ITEM ID: 928005203
+ICON ID: Icon_GroupPhotoIIVBlack_icon
+NOMBRE: Fushiguro Theme
+TIPO: Photo Pose
+RAREZA: ORANGE (Mythic)
+TAG: OB05
+DESCRIPCION: Fushiguro Theme
+IMAGEN: AVATARES/imagenes/928005203.png

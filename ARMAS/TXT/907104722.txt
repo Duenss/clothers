@@ -1,0 +1,8 @@
+ITEM ID: 907104722
+ICON ID: Icon_Sickle_Equation
+NOMBRE: Scythe - Linear Theory
+TIPO: Weapon Skins
+RAREZA: PURPLE (Epic)
+TAG: OB47
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104722.png

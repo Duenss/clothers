@@ -1,0 +1,8 @@
+ITEM ID: 801000249
+ICON ID: Icon_exchange_gold_necklace
+NOMBRE: Gold Necklace
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000249.png

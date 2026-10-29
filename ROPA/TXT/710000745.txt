@@ -1,0 +1,8 @@
+ITEM ID: 710000745
+ICON ID: Icon_box_3
+NOMBRE: Anubis Legend II Badge Bundle (10)
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Contains Anubis Legend II Badge x10
+IMAGEN: ROPA/imagenes/710000745.png

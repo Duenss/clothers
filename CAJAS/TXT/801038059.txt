@@ -1,0 +1,8 @@
+ITEM ID: 801038059
+ICON ID: Icon_exchange_Rabbit_tw_38
+NOMBRE: Rabbit Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB38
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801038059.png

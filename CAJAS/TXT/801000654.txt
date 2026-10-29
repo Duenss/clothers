@@ -1,0 +1,8 @@
+ITEM ID: 801000654
+ICON ID: Icon_exchange_ob24_Man_of_Justice
+NOMBRE: Man of Justice
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB24
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801000654.png

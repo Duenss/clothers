@@ -1,0 +1,8 @@
+ITEM ID: 907104076
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Grenade - Toe-Crusher
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104076.png

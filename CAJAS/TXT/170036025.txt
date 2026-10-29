@@ -1,0 +1,8 @@
+ITEM ID: 170036025
+ICON ID: Icon_OptionalBundle_parachute
+NOMBRE: Parachute Choice Box
+TIPO: Choice Crates
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/170036025.png

@@ -1,0 +1,8 @@
+ITEM ID: 913036011
+ICON ID: FF_UI_Vault_Music_HALLOWEEN22
+NOMBRE: Hello Darkness
+TIPO: Music
+RAREZA: PURPLE (Epic)
+TAG: OB36
+DESCRIPCION: Halloween lobby music
+IMAGEN: MUSICA/imagenes/913036011.png

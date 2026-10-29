@@ -1,0 +1,8 @@
+ITEM ID: 203000238
+ICON ID: Icon_avatar_tshirt_cos_royal_002_N
+NOMBRE: Roman
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000238.png

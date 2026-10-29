@@ -1,0 +1,8 @@
+ITEM ID: 400041528
+ICON ID: Icon_box_Villain_Token_39
+NOMBRE: Scorpio Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB41
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400041528.png

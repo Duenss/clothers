@@ -1,0 +1,8 @@
+ITEM ID: 205043021
+ICON ID: Icon_avatar_male_cos_shoe_machinery
+NOMBRE: Turquoise Tech (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205043021.png

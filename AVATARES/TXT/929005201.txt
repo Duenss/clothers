@@ -1,0 +1,8 @@
+ITEM ID: 929005201
+ICON ID: Icon_Photostickeritem_IIV_01
+NOMBRE: Yuji Itadori Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Yuji Itadori Sticker
+IMAGEN: AVATARES/imagenes/929005201.png

@@ -1,0 +1,8 @@
+ITEM ID: 921055021
+ICON ID: FF_UI_Voiceitem_NB1RE_CT_White
+NOMBRE: Because... I really like Naruto!
+TIPO: Voice Packs
+RAREZA: ORANGE (Mythic)
+TAG: OB55
+DESCRIPCION: Hinata Voice Pack
+IMAGEN: MUSICA/imagenes/921055021.png

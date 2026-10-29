@@ -1,0 +1,8 @@
+ITEM ID: 802000128
+ICON ID: FF_Lottery_Blue_53_Voucher
+NOMBRE: Blue Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Use to spin for exciting prizes!
+IMAGEN: OTROS/imagenes/802000128.png

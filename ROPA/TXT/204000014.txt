@@ -1,0 +1,8 @@
+ITEM ID: 204000014
+ICON ID: Icon_avatar_casual_camo_002
+NOMBRE: Long Pants (Jungle)
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000014.png

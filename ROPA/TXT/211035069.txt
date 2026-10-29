@@ -1,0 +1,8 @@
+ITEM ID: 211035069
+ICON ID: Icon_avatar_cos_hair_newyear_me
+NOMBRE: Curls with Hat
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB35
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211035069.png

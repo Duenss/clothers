@@ -1,0 +1,8 @@
+ITEM ID: 929005116
+ICON ID: Icon_Photostickeritem_DIGIMON_02
+NOMBRE: Digivice Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: Digivice Sticker
+IMAGEN: AVATARES/imagenes/929005116.png

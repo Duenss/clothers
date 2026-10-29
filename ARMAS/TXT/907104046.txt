@@ -1,0 +1,8 @@
+ITEM ID: 907104046
+ICON ID: Icon_GlooShield_Traphiphop22_Orange
+NOMBRE: Gloo Wall - T.R.A.P. Chromawave
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104046.png

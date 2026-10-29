@@ -1,0 +1,8 @@
+ITEM ID: 907103439
+ICON ID: Icon_Rampage4_Grenade
+NOMBRE: Grenade - Nebula Rogue
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103439.png

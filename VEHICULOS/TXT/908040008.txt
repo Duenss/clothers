@@ -1,0 +1,8 @@
+ITEM ID: 908040008
+ICON ID: UI_Icon_BlackWhite_01
+NOMBRE: Motorbike - Skipper's Chopper
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908040008.png

@@ -1,0 +1,8 @@
+ITEM ID: 710037026
+ICON ID: Icon_bundle_male_Winterfest22_37
+NOMBRE: Jovial Symphony King Bundle
+TIPO: Bundles
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB37
+DESCRIPCION: Open to receive all the items in the bundle!
+IMAGEN: ROPA/imagenes/710037026.png

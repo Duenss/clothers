@@ -1,0 +1,8 @@
+ITEM ID: 900000004
+ICON ID: Icon_Avatar_Surfboard_default
+NOMBRE: Default Skyboard
+TIPO: Unknown
+RAREZA: WHITE (Common)
+TAG: (sin tag)
+DESCRIPCION: Use while parachuting and during matches
+IMAGEN: OTROS/imagenes/900000004.png

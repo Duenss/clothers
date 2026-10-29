@@ -1,0 +1,8 @@
+ITEM ID: 211000485
+ICON ID: Icon_avatar_female_hair_cos_killercupid
+NOMBRE: Sweetheart Cupid (Head)
+TIPO: Head
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211000485.png

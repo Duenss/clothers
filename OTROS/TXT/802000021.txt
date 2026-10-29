@@ -1,0 +1,8 @@
+ITEM ID: 802000021
+ICON ID: FF_UI_Lottery_CommonUse
+NOMBRE: Street Fighter Royale Voucher
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Can be used in the Street Fighter themed Royale
+IMAGEN: OTROS/imagenes/802000021.png

@@ -1,0 +1,8 @@
+ITEM ID: 801047516
+ICON ID: Icon_exchange_LFT_vn_47
+NOMBRE: LNY Fashion Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB47
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801047516.png

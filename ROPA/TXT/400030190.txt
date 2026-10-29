@@ -1,0 +1,8 @@
+ITEM ID: 400030190
+ICON ID: Icon_box_3
+NOMBRE: Airspeed Awe Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: OB30
+DESCRIPCION: Contains Airspeed Awe and all it's pieces
+IMAGEN: ROPA/imagenes/400030190.png

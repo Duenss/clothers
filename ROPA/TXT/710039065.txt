@@ -1,0 +1,8 @@
+ITEM ID: 710039065
+ICON ID: Icon_box_3
+NOMBRE: CS-Ranked Platinum Bundle
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB39
+DESCRIPCION: Open to receive a CS-Ranked Platinum Protection Card and Rank Tokens
+IMAGEN: ROPA/imagenes/710039065.png

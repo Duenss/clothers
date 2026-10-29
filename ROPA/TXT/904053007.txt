@@ -1,0 +1,8 @@
+ITEM ID: 904053007
+ICON ID: Icon_Bag_Gemini25
+NOMBRE: Backpack - Waves of Twinstars
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB53
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904053007.png

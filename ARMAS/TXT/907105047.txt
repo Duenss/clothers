@@ -1,0 +1,8 @@
+ITEM ID: 907105047
+ICON ID: Icon_Sickle_SL
+NOMBRE: Scythe - Haotian Hammer
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105047.png

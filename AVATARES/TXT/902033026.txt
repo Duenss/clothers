@@ -1,0 +1,8 @@
+ITEM ID: 902033026
+ICON ID: Icon_face_BombSquad_05
+NOMBRE: Bomb Squad Ranked Heroic Avatar
+TIPO: Avatars
+RAREZA: BLUE (Rare)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902033026.png

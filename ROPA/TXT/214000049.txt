@@ -1,0 +1,8 @@
+ITEM ID: 214000049
+ICON ID: Icon_avatar_headadditive_cos_fp_pumpkin
+NOMBRE: Pumpkin Man (Facepaint)
+TIPO: Facepaint
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/214000049.png

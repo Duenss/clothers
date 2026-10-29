@@ -1,0 +1,8 @@
+ITEM ID: 907136079
+ICON ID: Icon_Uzi_Mambas
+NOMBRE: Mini Uzi - Mamba Gnaw
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907136079.png

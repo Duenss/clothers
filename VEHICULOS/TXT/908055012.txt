@@ -1,0 +1,8 @@
+ITEM ID: 908055012
+ICON ID: Icon_slot_Jeep_GOKU55
+NOMBRE: Jeep - King of Mirzapur
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908055012.png

@@ -1,0 +1,8 @@
+ITEM ID: 904042005
+ICON ID: Icon_Bag_Jumpsuit_Ghosts
+NOMBRE: Backpack - Top Criminal (Ghost)
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904042005.png

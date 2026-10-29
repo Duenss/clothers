@@ -1,0 +1,8 @@
+ITEM ID: 906028008
+ICON ID: Icon_Avatar_Surfboard_Supercar_B
+NOMBRE: Skyboard - McLaren Racing
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906028008.png

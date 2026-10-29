@@ -1,0 +1,8 @@
+ITEM ID: 902034012
+ICON ID: Icon_face_Moco34
+NOMBRE: Innocent Moco
+TIPO: Avatars
+RAREZA: PURPLE (Epic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: AVATARES/imagenes/902034012.png

@@ -1,0 +1,8 @@
+ITEM ID: 211036004
+ICON ID: Icon_avatar_male_cos_accessory_frankenstein
+NOMBRE: Gnarl Electrocution (Mask)
+TIPO: Mask
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB36
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211036004.png

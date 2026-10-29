@@ -1,0 +1,8 @@
+ITEM ID: 801048504
+ICON ID: Icon_exchange_PAT_id_48
+NOMBRE: Plate Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB48
+DESCRIPCION: Tokens can be used for redeeming rewards
+IMAGEN: CAJAS/imagenes/801048504.png

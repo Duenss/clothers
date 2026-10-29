@@ -1,0 +1,8 @@
+ITEM ID: 246955016
+ICON ID: Pet_Spark3_Head_ElephantHat_Blue
+NOMBRE: Blue Elephant Hat
+TIPO: Pyro Pet
+RAREZA: PURPLE (Epic)
+TAG: OB55
+DESCRIPCION: Blue Elephant Hat
+IMAGEN: MASCOTAS/imagenes/246955016.png

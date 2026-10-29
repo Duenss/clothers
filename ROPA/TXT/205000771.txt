@@ -1,0 +1,8 @@
+ITEM ID: 205000771
+ICON ID: Icon_avatar_female_cos_shoe_chinatown
+NOMBRE: Dragon Spy (Shoes)
+TIPO: Shoe
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/205000771.png

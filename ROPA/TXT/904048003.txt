@@ -1,0 +1,8 @@
+ITEM ID: 904048003
+ICON ID: Icon_Bag_Cupnoodle
+NOMBRE: Backpack - Chef Umami
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904048003.png

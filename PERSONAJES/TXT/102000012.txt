@@ -1,0 +1,8 @@
+ITEM ID: 102000012
+ICON ID: Icon_face_male_head_sc_Samurai
+NOMBRE: Hayato
+TIPO: Characters
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Hayato is a legendary Samurai
+IMAGEN: PERSONAJES/imagenes/102000012.png

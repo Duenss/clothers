@@ -1,0 +1,8 @@
+ITEM ID: 440000000
+ICON ID: icon_box_redsock_gift
+NOMBRE: Gift Socks
+TIPO: Unknown
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: Socks that are filled with gifts. Open to receive gold or diamonds.
+IMAGEN: OTROS/imagenes/440000000.png

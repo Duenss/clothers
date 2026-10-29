@@ -1,0 +1,8 @@
+ITEM ID: 929005202
+ICON ID: Icon_Photostickeritem_IIV_04
+NOMBRE: Satoru Gojo Sticker
+TIPO: Sticker
+RAREZA: PURPLE (Epic)
+TAG: OB52
+DESCRIPCION: Satoru Gojo Sticker
+IMAGEN: AVATARES/imagenes/929005202.png

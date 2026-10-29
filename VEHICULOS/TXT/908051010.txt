@@ -1,0 +1,8 @@
+ITEM ID: 908051010
+ICON ID: Icon_slot_Roadster_TH_KOL25
+NOMBRE: Sports Car - HEARTROCKER
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908051010.png

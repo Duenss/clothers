@@ -1,0 +1,8 @@
+ITEM ID: 203001268
+ICON ID: Icon_avatar_male_top_cos_goldenleo_a
+NOMBRE: Lion Rage (Top)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203001268.png

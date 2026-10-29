@@ -1,0 +1,8 @@
+ITEM ID: 211051037
+ICON ID: Icon_avatar_cos_hair_angelik_diamond
+NOMBRE: Prism Wings (Head)
+TIPO: Head
+RAREZA: PURPLE (Epic)
+TAG: OB51
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211051037.png

@@ -1,0 +1,8 @@
+ITEM ID: 204000065
+ICON ID: Icon_Avatar_bottom_cos_outdoor_grey
+NOMBRE: Survivor Pants
+TIPO: Bottom
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204000065.png

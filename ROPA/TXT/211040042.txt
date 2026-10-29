@@ -1,0 +1,8 @@
+ITEM ID: 211040042
+ICON ID: Icon_avatar_male_cos_hair_traphiphop22_black
+NOMBRE: T.R.A.P. Chromablack (Head)
+TIPO: Head
+RAREZA: ORANGE_PLUS (Mythic++)
+TAG: OB40
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211040042.png

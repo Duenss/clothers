@@ -1,0 +1,8 @@
+ITEM ID: 908027002
+ICON ID: Icon_slot_Motobike_Horrorcircus
+NOMBRE: Motorbike - Theatre of Torment
+TIPO: Vehicle Skins
+RAREZA: BLUE (Rare)
+TAG: OB27
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908027002.png

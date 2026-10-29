@@ -1,0 +1,8 @@
+ITEM ID: 904033010
+ICON ID: Icon_Bag_FFWS03
+NOMBRE: Backpack - Haven Guardian
+TIPO: Bag Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB33
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/904033010.png

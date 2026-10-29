@@ -1,0 +1,8 @@
+ITEM ID: 1310000221
+ICON ID: Icon_Pet_Owl
+NOMBRE: Pet Skin: Default
+TIPO: Pet Skin
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: Pet's default skin
+IMAGEN: MASCOTAS/imagenes/1310000221.png

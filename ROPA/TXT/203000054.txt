@@ -1,0 +1,8 @@
+ITEM ID: 203000054
+ICON ID: Icon_avatar_undershirt_pet_4
+NOMBRE: Agile Puss
+TIPO: Top
+RAREZA: GREEN (Uncommon)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000054.png

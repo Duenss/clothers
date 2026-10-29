@@ -1,0 +1,8 @@
+ITEM ID: 400033109
+ICON ID: Icon_box_3
+NOMBRE: Superchargers Loot Crate
+TIPO: Bundle Create
+RAREZA: PURPLE (Epic)
+TAG: OB33
+DESCRIPCION: Contains Superchargers and all it's pieces
+IMAGEN: ROPA/imagenes/400033109.png

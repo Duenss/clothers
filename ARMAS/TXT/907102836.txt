@@ -1,0 +1,8 @@
+ITEM ID: 907102836
+ICON ID: Icon_Scarecrow_Grenade
+NOMBRE: Grenade - Scarecrow
+TIPO: Grenade Skin
+RAREZA: ORANGE (Mythic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907102836.png

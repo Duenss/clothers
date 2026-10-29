@@ -1,0 +1,8 @@
+ITEM ID: 710000347
+ICON ID: FF_Icon_Hitman_deluxe
+NOMBRE: Rafael Deluxe Bundle
+TIPO: Bundles
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: Contains Rafael and his special outfit. When this outfit is equipped, Rafael can display his special moves on the starting island
+IMAGEN: ROPA/imagenes/710000347.png

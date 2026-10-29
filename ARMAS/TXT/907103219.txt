@@ -1,0 +1,8 @@
+ITEM ID: 907103219
+ICON ID: Icon_SKS_Clashgold_S11
+NOMBRE: The Golden SKS
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB32
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103219.png

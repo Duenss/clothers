@@ -1,0 +1,8 @@
+ITEM ID: 908030002
+ICON ID: Icon_slot_MonsterTruck_Booyahday21
+NOMBRE: Monster Truck - BOOYAH DAY 2021
+TIPO: Vehicle Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB30
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908030002.png

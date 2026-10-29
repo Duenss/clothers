@@ -1,0 +1,8 @@
+ITEM ID: 907104856
+ICON ID: Icon_GlooShield_Carnival25
+NOMBRE: Gloo Wall - Carnival Beat
+TIPO: Gloo Walls
+RAREZA: ORANGE (Mythic)
+TAG: OB48
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907104856.png

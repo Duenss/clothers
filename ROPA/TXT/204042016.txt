@@ -1,0 +1,8 @@
+ITEM ID: 204042016
+ICON ID: Icon_avatar_cos_bottom_dinosaursuit
+NOMBRE: Almost Dino (Bottom)
+TIPO: Bottom
+RAREZA: ORANGE (Mythic)
+TAG: OB42
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/204042016.png

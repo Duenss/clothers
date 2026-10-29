@@ -1,0 +1,8 @@
+ITEM ID: 801001520
+ICON ID: Icon_exchange_ob27_basics_token
+NOMBRE: School Holiday Token
+TIPO: Exchange Tokens
+RAREZA: BLUE (Rare)
+TAG: OB01
+DESCRIPCION: School Holiday Token
+IMAGEN: CAJAS/imagenes/801001520.png

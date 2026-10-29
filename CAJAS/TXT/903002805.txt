@@ -1,0 +1,8 @@
+ITEM ID: 903002805
+ICON ID: Icon_Deadloot_Foursymbols
+NOMBRE: Loot Box - Sabertooth
+TIPO: Loot Box
+RAREZA: ORANGE (Mythic)
+TAG: OB02
+DESCRIPCION: (sin descripcion)
+IMAGEN: CAJAS/imagenes/903002805.png

@@ -1,0 +1,8 @@
+ITEM ID: 407105002
+ICON ID: Icon_box_weaponskin_Random
+NOMBRE: Akatsuki Theme (M60) Weapon Loot Crate
+TIPO: Weapon Crates
+RAREZA: PURPLE (Epic)
+TAG: OB50
+DESCRIPCION: Open to receive Akatsuki Theme gun skin for M60
+IMAGEN: ARMAS/imagenes/407105002.png

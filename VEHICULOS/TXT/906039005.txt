@@ -1,0 +1,8 @@
+ITEM ID: 906039005
+ICON ID: Icon_Avatar_Surfboard_Muerte
+NOMBRE: Skyboard - Golden Doom
+TIPO: Skyboard
+RAREZA: ORANGE (Mythic)
+TAG: OB39
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906039005.png

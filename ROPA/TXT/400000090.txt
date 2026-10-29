@@ -1,0 +1,8 @@
+ITEM ID: 400000090
+ICON ID: Icon_box_3
+NOMBRE: Red Sponsor Loot Crate
+TIPO: Bundle Create
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: A box especially for you.
+IMAGEN: ROPA/imagenes/400000090.png

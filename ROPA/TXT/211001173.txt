@@ -1,0 +1,8 @@
+ITEM ID: 211001173
+ICON ID: Icon_avatar_male_cos_accessory_booyahday21_yellow
+NOMBRE: Alpha Flameborn (Mask)
+TIPO: Mask
+RAREZA: RED (Artifact)
+TAG: OB01
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211001173.png

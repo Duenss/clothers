@@ -1,0 +1,8 @@
+ITEM ID: 203043030
+ICON ID: Icon_avatar_male_cos_top_fastbreaking24_01
+NOMBRE: Glistening Sunshine (Top)
+TIPO: Top
+RAREZA: PURPLE (Epic)
+TAG: OB43
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203043030.png

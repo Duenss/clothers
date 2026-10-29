@@ -1,0 +1,8 @@
+ITEM ID: 801000572
+ICON ID: Icon_exchange_ob23_mother's_day_token
+NOMBRE: Mother's Day Token
+TIPO: Exchange Tokens
+RAREZA: WHITE (Common)
+TAG: OB23
+DESCRIPCION: I love you mom!
+IMAGEN: CAJAS/imagenes/801000572.png

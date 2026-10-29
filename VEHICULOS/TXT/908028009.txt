@@ -1,0 +1,8 @@
+ITEM ID: 908028009
+ICON ID: Icon_slot_Roadster_Sutorito
+NOMBRE: Sports Car - Street Fighter
+TIPO: Vehicle Skins
+RAREZA: PURPLE (Epic)
+TAG: OB28
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/908028009.png

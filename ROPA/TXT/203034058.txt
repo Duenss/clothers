@@ -1,0 +1,8 @@
+ITEM ID: 203034058
+ICON ID: Icon_avatar_male_cos_top_roseperfume_red
+NOMBRE: Sir Aromatonian (Top)
+TIPO: Top
+RAREZA: ORANGE (Mythic)
+TAG: OB34
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203034058.png

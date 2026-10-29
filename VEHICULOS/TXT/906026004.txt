@@ -1,0 +1,8 @@
+ITEM ID: 906026004
+ICON ID: Icon_Avatar_Surfboard_Cobra_ONE
+NOMBRE: Skyboard - Slither
+TIPO: Skyboard
+RAREZA: PURPLE (Epic)
+TAG: OB26
+DESCRIPCION: (sin descripcion)
+IMAGEN: VEHICULOS/imagenes/906026004.png

@@ -1,0 +1,8 @@
+ITEM ID: 400050004
+ICON ID: Icon_box_ntbb_50
+NOMBRE: Ninja Fight Token Crate
+TIPO: Loot Crates
+RAREZA: ORANGE (Mythic)
+TAG: OB50
+DESCRIPCION: Open to receive exciting rewards
+IMAGEN: CAJAS/imagenes/400050004.png

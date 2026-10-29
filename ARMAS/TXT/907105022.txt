@@ -1,0 +1,8 @@
+ITEM ID: 907105022
+ICON ID: Icon_M4A1_VA
+NOMBRE: M4A1 - Trouble Academy
+TIPO: Weapon Skins
+RAREZA: BLUE (Rare)
+TAG: OB50
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907105022.png

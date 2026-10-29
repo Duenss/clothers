@@ -1,0 +1,8 @@
+ITEM ID: 827001006
+ICON ID: Icon_ff_WMS_Card
+NOMBRE: Discount store privilege
+TIPO: Unknown
+RAREZA: PURPLE (Epic)
+TAG: (sin tag)
+DESCRIPCION: An exclusive right to enjoy offers at the Discount Store
+IMAGEN: OTROS/imagenes/827001006.png

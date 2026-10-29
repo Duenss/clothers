@@ -1,0 +1,8 @@
+ITEM ID: 907103109
+ICON ID: Icon_M1887_Element_Thunder
+NOMBRE: M1887 - Solaris Burst
+TIPO: Weapon Skins
+RAREZA: ORANGE (Mythic)
+TAG: OB31
+DESCRIPCION: (sin descripcion)
+IMAGEN: ARMAS/imagenes/907103109.png

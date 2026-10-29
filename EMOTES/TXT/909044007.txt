@@ -1,0 +1,8 @@
+ITEM ID: 909044007
+ICON ID: Icon_Emote_Memes1
+NOMBRE: Raise Your Thumb!
+TIPO: Emote
+RAREZA: BLUE (Rare)
+TAG: OB44
+DESCRIPCION: (sin descripcion)
+IMAGEN: EMOTES/imagenes/909044007.png

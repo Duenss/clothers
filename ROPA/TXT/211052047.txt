@@ -1,0 +1,8 @@
+ITEM ID: 211052047
+ICON ID: Icon_avatar_cos_accessory_emoji26_fp
+NOMBRE: Emoji Mask
+TIPO: Mask
+RAREZA: BLUE (Rare)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052047.png

@@ -1,0 +1,8 @@
+ITEM ID: 203000969
+ICON ID: Icon_avatar_top_cos_megapunch_t
+NOMBRE: Saitama T-shirt
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000969.png

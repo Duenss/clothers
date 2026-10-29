@@ -1,0 +1,8 @@
+ITEM ID: 102000020
+ICON ID: Icon_face_male_head_sc_Hayato_Awakening
+NOMBRE: Hayato "Firebrand"
+TIPO: Characters
+RAREZA: ORANGE (Mythic)
+TAG: (sin tag)
+DESCRIPCION: Something has awakened inside Hayato.
+IMAGEN: PERSONAJES/imagenes/102000020.png

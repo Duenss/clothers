@@ -1,0 +1,8 @@
+ITEM ID: 203000013
+ICON ID: Icon_avatar_tshirt_5
+NOMBRE: T-shirt (Smile)
+TIPO: Top
+RAREZA: BLUE (Rare)
+TAG: (sin tag)
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/203000013.png

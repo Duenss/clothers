@@ -1,0 +1,8 @@
+ITEM ID: 211052019
+ICON ID: Icon_avatar_female_cos_hair_valentine26
+NOMBRE: Scarlet Romance (Head)
+TIPO: Head
+RAREZA: PURPLE_PLUS (Epic++)
+TAG: OB52
+DESCRIPCION: (sin descripcion)
+IMAGEN: ROPA/imagenes/211052019.png
