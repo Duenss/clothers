@@ -1,5 +1,4 @@
-Estos iconos existen en el CDN pero no aparecen en data.msgpack.gz,
-por lo que no tienen nombre, tipo ni descripcion asociados.
+Estos iconos existen en el CDN pero no tienen nombre, tipo ni descripcion asociados.
 
 1002000101
 1002000102
